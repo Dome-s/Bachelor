@@ -1,0 +1,1090 @@
+source,target,des1,des2,label
+Fiscal year,fsclr,The fiscal year during which the project was active.,The financial year in which the project was conducted.,1
+Fiscal year,sctrd,The fiscal year during which the project was active.,The unique code for the sector linked to the project.,0
+Fiscal year,clmtchngdpttn(mrkr),The fiscal year during which the project was active.,A marker indicating the project's involvement in climate change adaptation.,0
+Fiscal year,rgnstnclss,The fiscal year during which the project was active.,The class to which the organization belongs.,0
+Fiscal year,prjctbrwsrcntrd,The fiscal year during which the project was active.,The unique identifier for the country associated with the project.,0
+Fiscal year,cdbsnssdlvrmdl(ld),The fiscal year during which the project was active.,The previous model utilized by CIDA for project delivery.,0
+Fiscal year,dvsnnm,The fiscal year during which the project was active.,The official name of the division handling the project.,0
+Fiscal year,knwldgfrdvlpmnt(mrkr),The fiscal year during which the project was active.,A marker representing the project's contribution to knowledge for development.,0
+Fiscal year,ntdmnt(prjct-lvlbdgt),The fiscal year during which the project was active.,The non-restricted budget allocated to the project.,0
+Fiscal year,stts,The fiscal year during which the project was active.,The current state or phase of the project.,0
+Fiscal year,gndrqlt(mrkr),The fiscal year during which the project was active.,A marker indicating the project's commitment to promoting gender equality.,0
+Fiscal year,thsss(mrkr),The fiscal year during which the project was active.,A marker signifying the project's attention to youth-related matters.,0
+Fiscal year,prjctnmbr,The fiscal year during which the project was active.,A distinct identifier assigned to each project for reference.,0
+Fiscal year,prgrmmngprcss(nw),The fiscal year during which the project was active.,The current process employed for project programming.,0
+Fiscal year,fndcntrd,The fiscal year during which the project was active.,The identification code for the fund center linked to the project.,0
+Fiscal year,bdvrst(mrkr),The fiscal year during which the project was active.,A marker indicating the project's contribution to biodiversity.,0
+Fiscal year,rbnsss(mrkr),The fiscal year during which the project was active.,A marker representing the project's focus on urban issues.,0
+Fiscal year,chldrnsss(mrkr),The fiscal year during which the project was active.,A marker indicating the project's concern for children's issues.,0
+Fiscal year,ndgnssss(mrkr),The fiscal year during which the project was active.,A marker denoting the project's involvement in indigenous issues.,0
+Fiscal year,dsbltsss(mrkr),The fiscal year during which the project was active.,A marker indicating the project's focus on disability-related concerns.,0
+Fiscal year,ctstlfrdvlpmnt(mrkr),The fiscal year during which the project was active.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Fiscal year,rgnstnd,The fiscal year during which the project was active.,The unique identifier for the organization associated with the project.,0
+Fiscal year,rgnstnnm,The fiscal year during which the project was active.,The official name of the organization linked to the project.,0
+Fiscal year,rgnstntp,The fiscal year during which the project was active.,The type of organization involved in the project.,0
+Fiscal year,rgnstnsb-clss,The fiscal year during which the project was active.,A more specific classification within the organization class.,0
+Fiscal year,cntnntd,The fiscal year during which the project was active.,The unique code for the continent associated with the project.,0
+Fiscal year,cntnntnm,The fiscal year during which the project was active.,The name of the continent linked to the project.,0
+Fiscal year,cntrrgnd,The fiscal year during which the project was active.,The identification code for the country or region related to the project.,0
+Fiscal year,cntrrgnnm,The fiscal year during which the project was active.,The name of the country or region connected to the project.,0
+Fiscal year,cntrrgnprcnt,The fiscal year during which the project was active.,The percentage of the project associated with the country or region.,0
+Fiscal year,sctrnm,The fiscal year during which the project was active.,The name of the sector associated with the project,0
+Fiscal year,sctrprcnt,The fiscal year during which the project was active.,The percentage of the project linked to the sector.,0
+Fiscal year,mntspnt,The fiscal year during which the project was active.,The total expenditure incurred on the project.,0
+Sector ID,fsclr,Identification code for the sector associated with the project.,The financial year in which the project was conducted.,0
+Sector ID,sctrd,Identification code for the sector associated with the project.,The unique code for the sector linked to the project.,1
+Sector ID,clmtchngdpttn(mrkr),Identification code for the sector associated with the project.,A marker indicating the project's involvement in climate change adaptation.,0
+Sector ID,rgnstnclss,Identification code for the sector associated with the project.,The class to which the organization belongs.,0
+Sector ID,prjctbrwsrcntrd,Identification code for the sector associated with the project.,The unique identifier for the country associated with the project.,0
+Sector ID,cdbsnssdlvrmdl(ld),Identification code for the sector associated with the project.,The previous model utilized by CIDA for project delivery.,0
+Sector ID,dvsnnm,Identification code for the sector associated with the project.,The official name of the division handling the project.,0
+Sector ID,knwldgfrdvlpmnt(mrkr),Identification code for the sector associated with the project.,A marker representing the project's contribution to knowledge for development.,0
+Sector ID,ntdmnt(prjct-lvlbdgt),Identification code for the sector associated with the project.,The non-restricted budget allocated to the project.,0
+Sector ID,stts,Identification code for the sector associated with the project.,The current state or phase of the project.,0
+Sector ID,gndrqlt(mrkr),Identification code for the sector associated with the project.,A marker indicating the project's commitment to promoting gender equality.,0
+Sector ID,thsss(mrkr),Identification code for the sector associated with the project.,A marker signifying the project's attention to youth-related matters.,0
+Sector ID,prjctnmbr,Identification code for the sector associated with the project.,A distinct identifier assigned to each project for reference.,0
+Sector ID,prgrmmngprcss(nw),Identification code for the sector associated with the project.,The current process employed for project programming.,0
+Sector ID,fndcntrd,Identification code for the sector associated with the project.,The identification code for the fund center linked to the project.,0
+Sector ID,bdvrst(mrkr),Identification code for the sector associated with the project.,A marker indicating the project's contribution to biodiversity.,0
+Sector ID,rbnsss(mrkr),Identification code for the sector associated with the project.,A marker representing the project's focus on urban issues.,0
+Sector ID,chldrnsss(mrkr),Identification code for the sector associated with the project.,A marker indicating the project's concern for children's issues.,0
+Sector ID,ndgnssss(mrkr),Identification code for the sector associated with the project.,A marker denoting the project's involvement in indigenous issues.,0
+Sector ID,dsbltsss(mrkr),Identification code for the sector associated with the project.,A marker indicating the project's focus on disability-related concerns.,0
+Sector ID,ctstlfrdvlpmnt(mrkr),Identification code for the sector associated with the project.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Sector ID,rgnstnd,Identification code for the sector associated with the project.,The unique identifier for the organization associated with the project.,0
+Sector ID,rgnstnnm,Identification code for the sector associated with the project.,The official name of the organization linked to the project.,0
+Sector ID,rgnstntp,Identification code for the sector associated with the project.,The type of organization involved in the project.,0
+Sector ID,rgnstnsb-clss,Identification code for the sector associated with the project.,A more specific classification within the organization class.,0
+Sector ID,cntnntd,Identification code for the sector associated with the project.,The unique code for the continent associated with the project.,0
+Sector ID,cntnntnm,Identification code for the sector associated with the project.,The name of the continent linked to the project.,0
+Sector ID,cntrrgnd,Identification code for the sector associated with the project.,The identification code for the country or region related to the project.,0
+Sector ID,cntrrgnnm,Identification code for the sector associated with the project.,The name of the country or region connected to the project.,0
+Sector ID,cntrrgnprcnt,Identification code for the sector associated with the project.,The percentage of the project associated with the country or region.,0
+Sector ID,sctrnm,Identification code for the sector associated with the project.,The name of the sector associated with the project,0
+Sector ID,sctrprcnt,Identification code for the sector associated with the project.,The percentage of the project linked to the sector.,0
+Sector ID,mntspnt,Identification code for the sector associated with the project.,The total expenditure incurred on the project.,0
+Climate change adaptation (marker),fsclr,Indicates if the project addresses climate change adaptation.,The financial year in which the project was conducted.,0
+Climate change adaptation (marker),sctrd,Indicates if the project addresses climate change adaptation.,The unique code for the sector linked to the project.,0
+Climate change adaptation (marker),clmtchngdpttn(mrkr),Indicates if the project addresses climate change adaptation.,A marker indicating the project's involvement in climate change adaptation.,1
+Climate change adaptation (marker),rgnstnclss,Indicates if the project addresses climate change adaptation.,The class to which the organization belongs.,0
+Climate change adaptation (marker),prjctbrwsrcntrd,Indicates if the project addresses climate change adaptation.,The unique identifier for the country associated with the project.,0
+Climate change adaptation (marker),cdbsnssdlvrmdl(ld),Indicates if the project addresses climate change adaptation.,The previous model utilized by CIDA for project delivery.,0
+Climate change adaptation (marker),dvsnnm,Indicates if the project addresses climate change adaptation.,The official name of the division handling the project.,0
+Climate change adaptation (marker),knwldgfrdvlpmnt(mrkr),Indicates if the project addresses climate change adaptation.,A marker representing the project's contribution to knowledge for development.,0
+Climate change adaptation (marker),ntdmnt(prjct-lvlbdgt),Indicates if the project addresses climate change adaptation.,The non-restricted budget allocated to the project.,0
+Climate change adaptation (marker),stts,Indicates if the project addresses climate change adaptation.,The current state or phase of the project.,0
+Climate change adaptation (marker),gndrqlt(mrkr),Indicates if the project addresses climate change adaptation.,A marker indicating the project's commitment to promoting gender equality.,0
+Climate change adaptation (marker),thsss(mrkr),Indicates if the project addresses climate change adaptation.,A marker signifying the project's attention to youth-related matters.,0
+Climate change adaptation (marker),prjctnmbr,Indicates if the project addresses climate change adaptation.,A distinct identifier assigned to each project for reference.,0
+Climate change adaptation (marker),prgrmmngprcss(nw),Indicates if the project addresses climate change adaptation.,The current process employed for project programming.,0
+Climate change adaptation (marker),fndcntrd,Indicates if the project addresses climate change adaptation.,The identification code for the fund center linked to the project.,0
+Climate change adaptation (marker),bdvrst(mrkr),Indicates if the project addresses climate change adaptation.,A marker indicating the project's contribution to biodiversity.,0
+Climate change adaptation (marker),rbnsss(mrkr),Indicates if the project addresses climate change adaptation.,A marker representing the project's focus on urban issues.,0
+Climate change adaptation (marker),chldrnsss(mrkr),Indicates if the project addresses climate change adaptation.,A marker indicating the project's concern for children's issues.,0
+Climate change adaptation (marker),ndgnssss(mrkr),Indicates if the project addresses climate change adaptation.,A marker denoting the project's involvement in indigenous issues.,0
+Climate change adaptation (marker),dsbltsss(mrkr),Indicates if the project addresses climate change adaptation.,A marker indicating the project's focus on disability-related concerns.,0
+Climate change adaptation (marker),ctstlfrdvlpmnt(mrkr),Indicates if the project addresses climate change adaptation.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Climate change adaptation (marker),rgnstnd,Indicates if the project addresses climate change adaptation.,The unique identifier for the organization associated with the project.,0
+Climate change adaptation (marker),rgnstnnm,Indicates if the project addresses climate change adaptation.,The official name of the organization linked to the project.,0
+Climate change adaptation (marker),rgnstntp,Indicates if the project addresses climate change adaptation.,The type of organization involved in the project.,0
+Climate change adaptation (marker),rgnstnsb-clss,Indicates if the project addresses climate change adaptation.,A more specific classification within the organization class.,0
+Climate change adaptation (marker),cntnntd,Indicates if the project addresses climate change adaptation.,The unique code for the continent associated with the project.,0
+Climate change adaptation (marker),cntnntnm,Indicates if the project addresses climate change adaptation.,The name of the continent linked to the project.,0
+Climate change adaptation (marker),cntrrgnd,Indicates if the project addresses climate change adaptation.,The identification code for the country or region related to the project.,0
+Climate change adaptation (marker),cntrrgnnm,Indicates if the project addresses climate change adaptation.,The name of the country or region connected to the project.,0
+Climate change adaptation (marker),cntrrgnprcnt,Indicates if the project addresses climate change adaptation.,The percentage of the project associated with the country or region.,0
+Climate change adaptation (marker),sctrnm,Indicates if the project addresses climate change adaptation.,The name of the sector associated with the project,0
+Climate change adaptation (marker),sctrprcnt,Indicates if the project addresses climate change adaptation.,The percentage of the project linked to the sector.,0
+Climate change adaptation (marker),mntspnt,Indicates if the project addresses climate change adaptation.,The total expenditure incurred on the project.,0
+Organisation class,fsclr,Class of the organization.,The financial year in which the project was conducted.,0
+Organisation class,sctrd,Class of the organization.,The unique code for the sector linked to the project.,0
+Organisation class,clmtchngdpttn(mrkr),Class of the organization.,A marker indicating the project's involvement in climate change adaptation.,0
+Organisation class,rgnstnclss,Class of the organization.,The class to which the organization belongs.,1
+Organisation class,prjctbrwsrcntrd,Class of the organization.,The unique identifier for the country associated with the project.,0
+Organisation class,cdbsnssdlvrmdl(ld),Class of the organization.,The previous model utilized by CIDA for project delivery.,0
+Organisation class,dvsnnm,Class of the organization.,The official name of the division handling the project.,0
+Organisation class,knwldgfrdvlpmnt(mrkr),Class of the organization.,A marker representing the project's contribution to knowledge for development.,0
+Organisation class,ntdmnt(prjct-lvlbdgt),Class of the organization.,The non-restricted budget allocated to the project.,0
+Organisation class,stts,Class of the organization.,The current state or phase of the project.,0
+Organisation class,gndrqlt(mrkr),Class of the organization.,A marker indicating the project's commitment to promoting gender equality.,0
+Organisation class,thsss(mrkr),Class of the organization.,A marker signifying the project's attention to youth-related matters.,0
+Organisation class,prjctnmbr,Class of the organization.,A distinct identifier assigned to each project for reference.,0
+Organisation class,prgrmmngprcss(nw),Class of the organization.,The current process employed for project programming.,0
+Organisation class,fndcntrd,Class of the organization.,The identification code for the fund center linked to the project.,0
+Organisation class,bdvrst(mrkr),Class of the organization.,A marker indicating the project's contribution to biodiversity.,0
+Organisation class,rbnsss(mrkr),Class of the organization.,A marker representing the project's focus on urban issues.,0
+Organisation class,chldrnsss(mrkr),Class of the organization.,A marker indicating the project's concern for children's issues.,0
+Organisation class,ndgnssss(mrkr),Class of the organization.,A marker denoting the project's involvement in indigenous issues.,0
+Organisation class,dsbltsss(mrkr),Class of the organization.,A marker indicating the project's focus on disability-related concerns.,0
+Organisation class,ctstlfrdvlpmnt(mrkr),Class of the organization.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Organisation class,rgnstnd,Class of the organization.,The unique identifier for the organization associated with the project.,0
+Organisation class,rgnstnnm,Class of the organization.,The official name of the organization linked to the project.,0
+Organisation class,rgnstntp,Class of the organization.,The type of organization involved in the project.,0
+Organisation class,rgnstnsb-clss,Class of the organization.,A more specific classification within the organization class.,0
+Organisation class,cntnntd,Class of the organization.,The unique code for the continent associated with the project.,0
+Organisation class,cntnntnm,Class of the organization.,The name of the continent linked to the project.,0
+Organisation class,cntrrgnd,Class of the organization.,The identification code for the country or region related to the project.,0
+Organisation class,cntrrgnnm,Class of the organization.,The name of the country or region connected to the project.,0
+Organisation class,cntrrgnprcnt,Class of the organization.,The percentage of the project associated with the country or region.,0
+Organisation class,sctrnm,Class of the organization.,The name of the sector associated with the project,0
+Organisation class,sctrprcnt,Class of the organization.,The percentage of the project linked to the sector.,0
+Organisation class,mntspnt,Class of the organization.,The total expenditure incurred on the project.,0
+Project Browser country ID,fsclr,Identification code for the country associated with the project.,The financial year in which the project was conducted.,0
+Project Browser country ID,sctrd,Identification code for the country associated with the project.,The unique code for the sector linked to the project.,0
+Project Browser country ID,clmtchngdpttn(mrkr),Identification code for the country associated with the project.,A marker indicating the project's involvement in climate change adaptation.,0
+Project Browser country ID,rgnstnclss,Identification code for the country associated with the project.,The class to which the organization belongs.,0
+Project Browser country ID,prjctbrwsrcntrd,Identification code for the country associated with the project.,The unique identifier for the country associated with the project.,1
+Project Browser country ID,cdbsnssdlvrmdl(ld),Identification code for the country associated with the project.,The previous model utilized by CIDA for project delivery.,0
+Project Browser country ID,dvsnnm,Identification code for the country associated with the project.,The official name of the division handling the project.,0
+Project Browser country ID,knwldgfrdvlpmnt(mrkr),Identification code for the country associated with the project.,A marker representing the project's contribution to knowledge for development.,0
+Project Browser country ID,ntdmnt(prjct-lvlbdgt),Identification code for the country associated with the project.,The non-restricted budget allocated to the project.,0
+Project Browser country ID,stts,Identification code for the country associated with the project.,The current state or phase of the project.,0
+Project Browser country ID,gndrqlt(mrkr),Identification code for the country associated with the project.,A marker indicating the project's commitment to promoting gender equality.,0
+Project Browser country ID,thsss(mrkr),Identification code for the country associated with the project.,A marker signifying the project's attention to youth-related matters.,0
+Project Browser country ID,prjctnmbr,Identification code for the country associated with the project.,A distinct identifier assigned to each project for reference.,0
+Project Browser country ID,prgrmmngprcss(nw),Identification code for the country associated with the project.,The current process employed for project programming.,0
+Project Browser country ID,fndcntrd,Identification code for the country associated with the project.,The identification code for the fund center linked to the project.,0
+Project Browser country ID,bdvrst(mrkr),Identification code for the country associated with the project.,A marker indicating the project's contribution to biodiversity.,0
+Project Browser country ID,rbnsss(mrkr),Identification code for the country associated with the project.,A marker representing the project's focus on urban issues.,0
+Project Browser country ID,chldrnsss(mrkr),Identification code for the country associated with the project.,A marker indicating the project's concern for children's issues.,0
+Project Browser country ID,ndgnssss(mrkr),Identification code for the country associated with the project.,A marker denoting the project's involvement in indigenous issues.,0
+Project Browser country ID,dsbltsss(mrkr),Identification code for the country associated with the project.,A marker indicating the project's focus on disability-related concerns.,0
+Project Browser country ID,ctstlfrdvlpmnt(mrkr),Identification code for the country associated with the project.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Project Browser country ID,rgnstnd,Identification code for the country associated with the project.,The unique identifier for the organization associated with the project.,0
+Project Browser country ID,rgnstnnm,Identification code for the country associated with the project.,The official name of the organization linked to the project.,0
+Project Browser country ID,rgnstntp,Identification code for the country associated with the project.,The type of organization involved in the project.,0
+Project Browser country ID,rgnstnsb-clss,Identification code for the country associated with the project.,A more specific classification within the organization class.,0
+Project Browser country ID,cntnntd,Identification code for the country associated with the project.,The unique code for the continent associated with the project.,0
+Project Browser country ID,cntnntnm,Identification code for the country associated with the project.,The name of the continent linked to the project.,0
+Project Browser country ID,cntrrgnd,Identification code for the country associated with the project.,The identification code for the country or region related to the project.,0
+Project Browser country ID,cntrrgnnm,Identification code for the country associated with the project.,The name of the country or region connected to the project.,0
+Project Browser country ID,cntrrgnprcnt,Identification code for the country associated with the project.,The percentage of the project associated with the country or region.,0
+Project Browser country ID,sctrnm,Identification code for the country associated with the project.,The name of the sector associated with the project,0
+Project Browser country ID,sctrprcnt,Identification code for the country associated with the project.,The percentage of the project linked to the sector.,0
+Project Browser country ID,mntspnt,Identification code for the country associated with the project.,The total expenditure incurred on the project.,0
+CIDA business delivery model (old),fsclr,The previous business delivery model used by CIDA.,The financial year in which the project was conducted.,0
+CIDA business delivery model (old),sctrd,The previous business delivery model used by CIDA.,The unique code for the sector linked to the project.,0
+CIDA business delivery model (old),clmtchngdpttn(mrkr),The previous business delivery model used by CIDA.,A marker indicating the project's involvement in climate change adaptation.,0
+CIDA business delivery model (old),rgnstnclss,The previous business delivery model used by CIDA.,The class to which the organization belongs.,0
+CIDA business delivery model (old),prjctbrwsrcntrd,The previous business delivery model used by CIDA.,The unique identifier for the country associated with the project.,0
+CIDA business delivery model (old),cdbsnssdlvrmdl(ld),The previous business delivery model used by CIDA.,The previous model utilized by CIDA for project delivery.,1
+CIDA business delivery model (old),dvsnnm,The previous business delivery model used by CIDA.,The official name of the division handling the project.,0
+CIDA business delivery model (old),knwldgfrdvlpmnt(mrkr),The previous business delivery model used by CIDA.,A marker representing the project's contribution to knowledge for development.,0
+CIDA business delivery model (old),ntdmnt(prjct-lvlbdgt),The previous business delivery model used by CIDA.,The non-restricted budget allocated to the project.,0
+CIDA business delivery model (old),stts,The previous business delivery model used by CIDA.,The current state or phase of the project.,0
+CIDA business delivery model (old),gndrqlt(mrkr),The previous business delivery model used by CIDA.,A marker indicating the project's commitment to promoting gender equality.,0
+CIDA business delivery model (old),thsss(mrkr),The previous business delivery model used by CIDA.,A marker signifying the project's attention to youth-related matters.,0
+CIDA business delivery model (old),prjctnmbr,The previous business delivery model used by CIDA.,A distinct identifier assigned to each project for reference.,0
+CIDA business delivery model (old),prgrmmngprcss(nw),The previous business delivery model used by CIDA.,The current process employed for project programming.,0
+CIDA business delivery model (old),fndcntrd,The previous business delivery model used by CIDA.,The identification code for the fund center linked to the project.,0
+CIDA business delivery model (old),bdvrst(mrkr),The previous business delivery model used by CIDA.,A marker indicating the project's contribution to biodiversity.,0
+CIDA business delivery model (old),rbnsss(mrkr),The previous business delivery model used by CIDA.,A marker representing the project's focus on urban issues.,0
+CIDA business delivery model (old),chldrnsss(mrkr),The previous business delivery model used by CIDA.,A marker indicating the project's concern for children's issues.,0
+CIDA business delivery model (old),ndgnssss(mrkr),The previous business delivery model used by CIDA.,A marker denoting the project's involvement in indigenous issues.,0
+CIDA business delivery model (old),dsbltsss(mrkr),The previous business delivery model used by CIDA.,A marker indicating the project's focus on disability-related concerns.,0
+CIDA business delivery model (old),ctstlfrdvlpmnt(mrkr),The previous business delivery model used by CIDA.,A marker signifying the project's use of Information and Communication Technology for development.,0
+CIDA business delivery model (old),rgnstnd,The previous business delivery model used by CIDA.,The unique identifier for the organization associated with the project.,0
+CIDA business delivery model (old),rgnstnnm,The previous business delivery model used by CIDA.,The official name of the organization linked to the project.,0
+CIDA business delivery model (old),rgnstntp,The previous business delivery model used by CIDA.,The type of organization involved in the project.,0
+CIDA business delivery model (old),rgnstnsb-clss,The previous business delivery model used by CIDA.,A more specific classification within the organization class.,0
+CIDA business delivery model (old),cntnntd,The previous business delivery model used by CIDA.,The unique code for the continent associated with the project.,0
+CIDA business delivery model (old),cntnntnm,The previous business delivery model used by CIDA.,The name of the continent linked to the project.,0
+CIDA business delivery model (old),cntrrgnd,The previous business delivery model used by CIDA.,The identification code for the country or region related to the project.,0
+CIDA business delivery model (old),cntrrgnnm,The previous business delivery model used by CIDA.,The name of the country or region connected to the project.,0
+CIDA business delivery model (old),cntrrgnprcnt,The previous business delivery model used by CIDA.,The percentage of the project associated with the country or region.,0
+CIDA business delivery model (old),sctrnm,The previous business delivery model used by CIDA.,The name of the sector associated with the project,0
+CIDA business delivery model (old),sctrprcnt,The previous business delivery model used by CIDA.,The percentage of the project linked to the sector.,0
+CIDA business delivery model (old),mntspnt,The previous business delivery model used by CIDA.,The total expenditure incurred on the project.,0
+Division name,fsclr,The name of the division responsible for the project.,The financial year in which the project was conducted.,0
+Division name,sctrd,The name of the division responsible for the project.,The unique code for the sector linked to the project.,0
+Division name,clmtchngdpttn(mrkr),The name of the division responsible for the project.,A marker indicating the project's involvement in climate change adaptation.,0
+Division name,rgnstnclss,The name of the division responsible for the project.,The class to which the organization belongs.,0
+Division name,prjctbrwsrcntrd,The name of the division responsible for the project.,The unique identifier for the country associated with the project.,0
+Division name,cdbsnssdlvrmdl(ld),The name of the division responsible for the project.,The previous model utilized by CIDA for project delivery.,0
+Division name,dvsnnm,The name of the division responsible for the project.,The official name of the division handling the project.,1
+Division name,knwldgfrdvlpmnt(mrkr),The name of the division responsible for the project.,A marker representing the project's contribution to knowledge for development.,0
+Division name,ntdmnt(prjct-lvlbdgt),The name of the division responsible for the project.,The non-restricted budget allocated to the project.,0
+Division name,stts,The name of the division responsible for the project.,The current state or phase of the project.,0
+Division name,gndrqlt(mrkr),The name of the division responsible for the project.,A marker indicating the project's commitment to promoting gender equality.,0
+Division name,thsss(mrkr),The name of the division responsible for the project.,A marker signifying the project's attention to youth-related matters.,0
+Division name,prjctnmbr,The name of the division responsible for the project.,A distinct identifier assigned to each project for reference.,0
+Division name,prgrmmngprcss(nw),The name of the division responsible for the project.,The current process employed for project programming.,0
+Division name,fndcntrd,The name of the division responsible for the project.,The identification code for the fund center linked to the project.,0
+Division name,bdvrst(mrkr),The name of the division responsible for the project.,A marker indicating the project's contribution to biodiversity.,0
+Division name,rbnsss(mrkr),The name of the division responsible for the project.,A marker representing the project's focus on urban issues.,0
+Division name,chldrnsss(mrkr),The name of the division responsible for the project.,A marker indicating the project's concern for children's issues.,0
+Division name,ndgnssss(mrkr),The name of the division responsible for the project.,A marker denoting the project's involvement in indigenous issues.,0
+Division name,dsbltsss(mrkr),The name of the division responsible for the project.,A marker indicating the project's focus on disability-related concerns.,0
+Division name,ctstlfrdvlpmnt(mrkr),The name of the division responsible for the project.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Division name,rgnstnd,The name of the division responsible for the project.,The unique identifier for the organization associated with the project.,0
+Division name,rgnstnnm,The name of the division responsible for the project.,The official name of the organization linked to the project.,0
+Division name,rgnstntp,The name of the division responsible for the project.,The type of organization involved in the project.,0
+Division name,rgnstnsb-clss,The name of the division responsible for the project.,A more specific classification within the organization class.,0
+Division name,cntnntd,The name of the division responsible for the project.,The unique code for the continent associated with the project.,0
+Division name,cntnntnm,The name of the division responsible for the project.,The name of the continent linked to the project.,0
+Division name,cntrrgnd,The name of the division responsible for the project.,The identification code for the country or region related to the project.,0
+Division name,cntrrgnnm,The name of the division responsible for the project.,The name of the country or region connected to the project.,0
+Division name,cntrrgnprcnt,The name of the division responsible for the project.,The percentage of the project associated with the country or region.,0
+Division name,sctrnm,The name of the division responsible for the project.,The name of the sector associated with the project,0
+Division name,sctrprcnt,The name of the division responsible for the project.,The percentage of the project linked to the sector.,0
+Division name,mntspnt,The name of the division responsible for the project.,The total expenditure incurred on the project.,0
+Knowledge for development (marker),fsclr,Indicates if the project contributes to knowledge for development.,The financial year in which the project was conducted.,0
+Knowledge for development (marker),sctrd,Indicates if the project contributes to knowledge for development.,The unique code for the sector linked to the project.,0
+Knowledge for development (marker),clmtchngdpttn(mrkr),Indicates if the project contributes to knowledge for development.,A marker indicating the project's involvement in climate change adaptation.,0
+Knowledge for development (marker),rgnstnclss,Indicates if the project contributes to knowledge for development.,The class to which the organization belongs.,0
+Knowledge for development (marker),prjctbrwsrcntrd,Indicates if the project contributes to knowledge for development.,The unique identifier for the country associated with the project.,0
+Knowledge for development (marker),cdbsnssdlvrmdl(ld),Indicates if the project contributes to knowledge for development.,The previous model utilized by CIDA for project delivery.,0
+Knowledge for development (marker),dvsnnm,Indicates if the project contributes to knowledge for development.,The official name of the division handling the project.,0
+Knowledge for development (marker),knwldgfrdvlpmnt(mrkr),Indicates if the project contributes to knowledge for development.,A marker representing the project's contribution to knowledge for development.,1
+Knowledge for development (marker),ntdmnt(prjct-lvlbdgt),Indicates if the project contributes to knowledge for development.,The non-restricted budget allocated to the project.,0
+Knowledge for development (marker),stts,Indicates if the project contributes to knowledge for development.,The current state or phase of the project.,0
+Knowledge for development (marker),gndrqlt(mrkr),Indicates if the project contributes to knowledge for development.,A marker indicating the project's commitment to promoting gender equality.,0
+Knowledge for development (marker),thsss(mrkr),Indicates if the project contributes to knowledge for development.,A marker signifying the project's attention to youth-related matters.,0
+Knowledge for development (marker),prjctnmbr,Indicates if the project contributes to knowledge for development.,A distinct identifier assigned to each project for reference.,0
+Knowledge for development (marker),prgrmmngprcss(nw),Indicates if the project contributes to knowledge for development.,The current process employed for project programming.,0
+Knowledge for development (marker),fndcntrd,Indicates if the project contributes to knowledge for development.,The identification code for the fund center linked to the project.,0
+Knowledge for development (marker),bdvrst(mrkr),Indicates if the project contributes to knowledge for development.,A marker indicating the project's contribution to biodiversity.,0
+Knowledge for development (marker),rbnsss(mrkr),Indicates if the project contributes to knowledge for development.,A marker representing the project's focus on urban issues.,0
+Knowledge for development (marker),chldrnsss(mrkr),Indicates if the project contributes to knowledge for development.,A marker indicating the project's concern for children's issues.,0
+Knowledge for development (marker),ndgnssss(mrkr),Indicates if the project contributes to knowledge for development.,A marker denoting the project's involvement in indigenous issues.,0
+Knowledge for development (marker),dsbltsss(mrkr),Indicates if the project contributes to knowledge for development.,A marker indicating the project's focus on disability-related concerns.,0
+Knowledge for development (marker),ctstlfrdvlpmnt(mrkr),Indicates if the project contributes to knowledge for development.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Knowledge for development (marker),rgnstnd,Indicates if the project contributes to knowledge for development.,The unique identifier for the organization associated with the project.,0
+Knowledge for development (marker),rgnstnnm,Indicates if the project contributes to knowledge for development.,The official name of the organization linked to the project.,0
+Knowledge for development (marker),rgnstntp,Indicates if the project contributes to knowledge for development.,The type of organization involved in the project.,0
+Knowledge for development (marker),rgnstnsb-clss,Indicates if the project contributes to knowledge for development.,A more specific classification within the organization class.,0
+Knowledge for development (marker),cntnntd,Indicates if the project contributes to knowledge for development.,The unique code for the continent associated with the project.,0
+Knowledge for development (marker),cntnntnm,Indicates if the project contributes to knowledge for development.,The name of the continent linked to the project.,0
+Knowledge for development (marker),cntrrgnd,Indicates if the project contributes to knowledge for development.,The identification code for the country or region related to the project.,0
+Knowledge for development (marker),cntrrgnnm,Indicates if the project contributes to knowledge for development.,The name of the country or region connected to the project.,0
+Knowledge for development (marker),cntrrgnprcnt,Indicates if the project contributes to knowledge for development.,The percentage of the project associated with the country or region.,0
+Knowledge for development (marker),sctrnm,Indicates if the project contributes to knowledge for development.,The name of the sector associated with the project,0
+Knowledge for development (marker),sctrprcnt,Indicates if the project contributes to knowledge for development.,The percentage of the project linked to the sector.,0
+Knowledge for development (marker),mntspnt,Indicates if the project contributes to knowledge for development.,The total expenditure incurred on the project.,0
+Untied amount(Project-level budget),fsclr,The untied amount for the project-level budget.,The financial year in which the project was conducted.,0
+Untied amount(Project-level budget),sctrd,The untied amount for the project-level budget.,The unique code for the sector linked to the project.,0
+Untied amount(Project-level budget),clmtchngdpttn(mrkr),The untied amount for the project-level budget.,A marker indicating the project's involvement in climate change adaptation.,0
+Untied amount(Project-level budget),rgnstnclss,The untied amount for the project-level budget.,The class to which the organization belongs.,0
+Untied amount(Project-level budget),prjctbrwsrcntrd,The untied amount for the project-level budget.,The unique identifier for the country associated with the project.,0
+Untied amount(Project-level budget),cdbsnssdlvrmdl(ld),The untied amount for the project-level budget.,The previous model utilized by CIDA for project delivery.,0
+Untied amount(Project-level budget),dvsnnm,The untied amount for the project-level budget.,The official name of the division handling the project.,0
+Untied amount(Project-level budget),knwldgfrdvlpmnt(mrkr),The untied amount for the project-level budget.,A marker representing the project's contribution to knowledge for development.,0
+Untied amount(Project-level budget),ntdmnt(prjct-lvlbdgt),The untied amount for the project-level budget.,The non-restricted budget allocated to the project.,1
+Untied amount(Project-level budget),stts,The untied amount for the project-level budget.,The current state or phase of the project.,0
+Untied amount(Project-level budget),gndrqlt(mrkr),The untied amount for the project-level budget.,A marker indicating the project's commitment to promoting gender equality.,0
+Untied amount(Project-level budget),thsss(mrkr),The untied amount for the project-level budget.,A marker signifying the project's attention to youth-related matters.,0
+Untied amount(Project-level budget),prjctnmbr,The untied amount for the project-level budget.,A distinct identifier assigned to each project for reference.,0
+Untied amount(Project-level budget),prgrmmngprcss(nw),The untied amount for the project-level budget.,The current process employed for project programming.,0
+Untied amount(Project-level budget),fndcntrd,The untied amount for the project-level budget.,The identification code for the fund center linked to the project.,0
+Untied amount(Project-level budget),bdvrst(mrkr),The untied amount for the project-level budget.,A marker indicating the project's contribution to biodiversity.,0
+Untied amount(Project-level budget),rbnsss(mrkr),The untied amount for the project-level budget.,A marker representing the project's focus on urban issues.,0
+Untied amount(Project-level budget),chldrnsss(mrkr),The untied amount for the project-level budget.,A marker indicating the project's concern for children's issues.,0
+Untied amount(Project-level budget),ndgnssss(mrkr),The untied amount for the project-level budget.,A marker denoting the project's involvement in indigenous issues.,0
+Untied amount(Project-level budget),dsbltsss(mrkr),The untied amount for the project-level budget.,A marker indicating the project's focus on disability-related concerns.,0
+Untied amount(Project-level budget),ctstlfrdvlpmnt(mrkr),The untied amount for the project-level budget.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Untied amount(Project-level budget),rgnstnd,The untied amount for the project-level budget.,The unique identifier for the organization associated with the project.,0
+Untied amount(Project-level budget),rgnstnnm,The untied amount for the project-level budget.,The official name of the organization linked to the project.,0
+Untied amount(Project-level budget),rgnstntp,The untied amount for the project-level budget.,The type of organization involved in the project.,0
+Untied amount(Project-level budget),rgnstnsb-clss,The untied amount for the project-level budget.,A more specific classification within the organization class.,0
+Untied amount(Project-level budget),cntnntd,The untied amount for the project-level budget.,The unique code for the continent associated with the project.,0
+Untied amount(Project-level budget),cntnntnm,The untied amount for the project-level budget.,The name of the continent linked to the project.,0
+Untied amount(Project-level budget),cntrrgnd,The untied amount for the project-level budget.,The identification code for the country or region related to the project.,0
+Untied amount(Project-level budget),cntrrgnnm,The untied amount for the project-level budget.,The name of the country or region connected to the project.,0
+Untied amount(Project-level budget),cntrrgnprcnt,The untied amount for the project-level budget.,The percentage of the project associated with the country or region.,0
+Untied amount(Project-level budget),sctrnm,The untied amount for the project-level budget.,The name of the sector associated with the project,0
+Untied amount(Project-level budget),sctrprcnt,The untied amount for the project-level budget.,The percentage of the project linked to the sector.,0
+Untied amount(Project-level budget),mntspnt,The untied amount for the project-level budget.,The total expenditure incurred on the project.,0
+Status,fsclr,Indicates the current status of the project,The financial year in which the project was conducted.,0
+Status,sctrd,Indicates the current status of the project,The unique code for the sector linked to the project.,0
+Status,clmtchngdpttn(mrkr),Indicates the current status of the project,A marker indicating the project's involvement in climate change adaptation.,0
+Status,rgnstnclss,Indicates the current status of the project,The class to which the organization belongs.,0
+Status,prjctbrwsrcntrd,Indicates the current status of the project,The unique identifier for the country associated with the project.,0
+Status,cdbsnssdlvrmdl(ld),Indicates the current status of the project,The previous model utilized by CIDA for project delivery.,0
+Status,dvsnnm,Indicates the current status of the project,The official name of the division handling the project.,0
+Status,knwldgfrdvlpmnt(mrkr),Indicates the current status of the project,A marker representing the project's contribution to knowledge for development.,0
+Status,ntdmnt(prjct-lvlbdgt),Indicates the current status of the project,The non-restricted budget allocated to the project.,0
+Status,stts,Indicates the current status of the project,The current state or phase of the project.,1
+Status,gndrqlt(mrkr),Indicates the current status of the project,A marker indicating the project's commitment to promoting gender equality.,0
+Status,thsss(mrkr),Indicates the current status of the project,A marker signifying the project's attention to youth-related matters.,0
+Status,prjctnmbr,Indicates the current status of the project,A distinct identifier assigned to each project for reference.,0
+Status,prgrmmngprcss(nw),Indicates the current status of the project,The current process employed for project programming.,0
+Status,fndcntrd,Indicates the current status of the project,The identification code for the fund center linked to the project.,0
+Status,bdvrst(mrkr),Indicates the current status of the project,A marker indicating the project's contribution to biodiversity.,0
+Status,rbnsss(mrkr),Indicates the current status of the project,A marker representing the project's focus on urban issues.,0
+Status,chldrnsss(mrkr),Indicates the current status of the project,A marker indicating the project's concern for children's issues.,0
+Status,ndgnssss(mrkr),Indicates the current status of the project,A marker denoting the project's involvement in indigenous issues.,0
+Status,dsbltsss(mrkr),Indicates the current status of the project,A marker indicating the project's focus on disability-related concerns.,0
+Status,ctstlfrdvlpmnt(mrkr),Indicates the current status of the project,A marker signifying the project's use of Information and Communication Technology for development.,0
+Status,rgnstnd,Indicates the current status of the project,The unique identifier for the organization associated with the project.,0
+Status,rgnstnnm,Indicates the current status of the project,The official name of the organization linked to the project.,0
+Status,rgnstntp,Indicates the current status of the project,The type of organization involved in the project.,0
+Status,rgnstnsb-clss,Indicates the current status of the project,A more specific classification within the organization class.,0
+Status,cntnntd,Indicates the current status of the project,The unique code for the continent associated with the project.,0
+Status,cntnntnm,Indicates the current status of the project,The name of the continent linked to the project.,0
+Status,cntrrgnd,Indicates the current status of the project,The identification code for the country or region related to the project.,0
+Status,cntrrgnnm,Indicates the current status of the project,The name of the country or region connected to the project.,0
+Status,cntrrgnprcnt,Indicates the current status of the project,The percentage of the project associated with the country or region.,0
+Status,sctrnm,Indicates the current status of the project,The name of the sector associated with the project,0
+Status,sctrprcnt,Indicates the current status of the project,The percentage of the project linked to the sector.,0
+Status,mntspnt,Indicates the current status of the project,The total expenditure incurred on the project.,0
+Gender equality (marker),fsclr,Indicates if the project addresses gender equality.,The financial year in which the project was conducted.,0
+Gender equality (marker),sctrd,Indicates if the project addresses gender equality.,The unique code for the sector linked to the project.,0
+Gender equality (marker),clmtchngdpttn(mrkr),Indicates if the project addresses gender equality.,A marker indicating the project's involvement in climate change adaptation.,0
+Gender equality (marker),rgnstnclss,Indicates if the project addresses gender equality.,The class to which the organization belongs.,0
+Gender equality (marker),prjctbrwsrcntrd,Indicates if the project addresses gender equality.,The unique identifier for the country associated with the project.,0
+Gender equality (marker),cdbsnssdlvrmdl(ld),Indicates if the project addresses gender equality.,The previous model utilized by CIDA for project delivery.,0
+Gender equality (marker),dvsnnm,Indicates if the project addresses gender equality.,The official name of the division handling the project.,0
+Gender equality (marker),knwldgfrdvlpmnt(mrkr),Indicates if the project addresses gender equality.,A marker representing the project's contribution to knowledge for development.,0
+Gender equality (marker),ntdmnt(prjct-lvlbdgt),Indicates if the project addresses gender equality.,The non-restricted budget allocated to the project.,0
+Gender equality (marker),stts,Indicates if the project addresses gender equality.,The current state or phase of the project.,0
+Gender equality (marker),gndrqlt(mrkr),Indicates if the project addresses gender equality.,A marker indicating the project's commitment to promoting gender equality.,1
+Gender equality (marker),thsss(mrkr),Indicates if the project addresses gender equality.,A marker signifying the project's attention to youth-related matters.,0
+Gender equality (marker),prjctnmbr,Indicates if the project addresses gender equality.,A distinct identifier assigned to each project for reference.,0
+Gender equality (marker),prgrmmngprcss(nw),Indicates if the project addresses gender equality.,The current process employed for project programming.,0
+Gender equality (marker),fndcntrd,Indicates if the project addresses gender equality.,The identification code for the fund center linked to the project.,0
+Gender equality (marker),bdvrst(mrkr),Indicates if the project addresses gender equality.,A marker indicating the project's contribution to biodiversity.,0
+Gender equality (marker),rbnsss(mrkr),Indicates if the project addresses gender equality.,A marker representing the project's focus on urban issues.,0
+Gender equality (marker),chldrnsss(mrkr),Indicates if the project addresses gender equality.,A marker indicating the project's concern for children's issues.,0
+Gender equality (marker),ndgnssss(mrkr),Indicates if the project addresses gender equality.,A marker denoting the project's involvement in indigenous issues.,0
+Gender equality (marker),dsbltsss(mrkr),Indicates if the project addresses gender equality.,A marker indicating the project's focus on disability-related concerns.,0
+Gender equality (marker),ctstlfrdvlpmnt(mrkr),Indicates if the project addresses gender equality.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Gender equality (marker),rgnstnd,Indicates if the project addresses gender equality.,The unique identifier for the organization associated with the project.,0
+Gender equality (marker),rgnstnnm,Indicates if the project addresses gender equality.,The official name of the organization linked to the project.,0
+Gender equality (marker),rgnstntp,Indicates if the project addresses gender equality.,The type of organization involved in the project.,0
+Gender equality (marker),rgnstnsb-clss,Indicates if the project addresses gender equality.,A more specific classification within the organization class.,0
+Gender equality (marker),cntnntd,Indicates if the project addresses gender equality.,The unique code for the continent associated with the project.,0
+Gender equality (marker),cntnntnm,Indicates if the project addresses gender equality.,The name of the continent linked to the project.,0
+Gender equality (marker),cntrrgnd,Indicates if the project addresses gender equality.,The identification code for the country or region related to the project.,0
+Gender equality (marker),cntrrgnnm,Indicates if the project addresses gender equality.,The name of the country or region connected to the project.,0
+Gender equality (marker),cntrrgnprcnt,Indicates if the project addresses gender equality.,The percentage of the project associated with the country or region.,0
+Gender equality (marker),sctrnm,Indicates if the project addresses gender equality.,The name of the sector associated with the project,0
+Gender equality (marker),sctrprcnt,Indicates if the project addresses gender equality.,The percentage of the project linked to the sector.,0
+Gender equality (marker),mntspnt,Indicates if the project addresses gender equality.,The total expenditure incurred on the project.,0
+Youth issues (marker),fsclr,Indicates if the project addresses youth issues.,The financial year in which the project was conducted.,0
+Youth issues (marker),sctrd,Indicates if the project addresses youth issues.,The unique code for the sector linked to the project.,0
+Youth issues (marker),clmtchngdpttn(mrkr),Indicates if the project addresses youth issues.,A marker indicating the project's involvement in climate change adaptation.,0
+Youth issues (marker),rgnstnclss,Indicates if the project addresses youth issues.,The class to which the organization belongs.,0
+Youth issues (marker),prjctbrwsrcntrd,Indicates if the project addresses youth issues.,The unique identifier for the country associated with the project.,0
+Youth issues (marker),cdbsnssdlvrmdl(ld),Indicates if the project addresses youth issues.,The previous model utilized by CIDA for project delivery.,0
+Youth issues (marker),dvsnnm,Indicates if the project addresses youth issues.,The official name of the division handling the project.,0
+Youth issues (marker),knwldgfrdvlpmnt(mrkr),Indicates if the project addresses youth issues.,A marker representing the project's contribution to knowledge for development.,0
+Youth issues (marker),ntdmnt(prjct-lvlbdgt),Indicates if the project addresses youth issues.,The non-restricted budget allocated to the project.,0
+Youth issues (marker),stts,Indicates if the project addresses youth issues.,The current state or phase of the project.,0
+Youth issues (marker),gndrqlt(mrkr),Indicates if the project addresses youth issues.,A marker indicating the project's commitment to promoting gender equality.,0
+Youth issues (marker),thsss(mrkr),Indicates if the project addresses youth issues.,A marker signifying the project's attention to youth-related matters.,1
+Youth issues (marker),prjctnmbr,Indicates if the project addresses youth issues.,A distinct identifier assigned to each project for reference.,0
+Youth issues (marker),prgrmmngprcss(nw),Indicates if the project addresses youth issues.,The current process employed for project programming.,0
+Youth issues (marker),fndcntrd,Indicates if the project addresses youth issues.,The identification code for the fund center linked to the project.,0
+Youth issues (marker),bdvrst(mrkr),Indicates if the project addresses youth issues.,A marker indicating the project's contribution to biodiversity.,0
+Youth issues (marker),rbnsss(mrkr),Indicates if the project addresses youth issues.,A marker representing the project's focus on urban issues.,0
+Youth issues (marker),chldrnsss(mrkr),Indicates if the project addresses youth issues.,A marker indicating the project's concern for children's issues.,0
+Youth issues (marker),ndgnssss(mrkr),Indicates if the project addresses youth issues.,A marker denoting the project's involvement in indigenous issues.,0
+Youth issues (marker),dsbltsss(mrkr),Indicates if the project addresses youth issues.,A marker indicating the project's focus on disability-related concerns.,0
+Youth issues (marker),ctstlfrdvlpmnt(mrkr),Indicates if the project addresses youth issues.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Youth issues (marker),rgnstnd,Indicates if the project addresses youth issues.,The unique identifier for the organization associated with the project.,0
+Youth issues (marker),rgnstnnm,Indicates if the project addresses youth issues.,The official name of the organization linked to the project.,0
+Youth issues (marker),rgnstntp,Indicates if the project addresses youth issues.,The type of organization involved in the project.,0
+Youth issues (marker),rgnstnsb-clss,Indicates if the project addresses youth issues.,A more specific classification within the organization class.,0
+Youth issues (marker),cntnntd,Indicates if the project addresses youth issues.,The unique code for the continent associated with the project.,0
+Youth issues (marker),cntnntnm,Indicates if the project addresses youth issues.,The name of the continent linked to the project.,0
+Youth issues (marker),cntrrgnd,Indicates if the project addresses youth issues.,The identification code for the country or region related to the project.,0
+Youth issues (marker),cntrrgnnm,Indicates if the project addresses youth issues.,The name of the country or region connected to the project.,0
+Youth issues (marker),cntrrgnprcnt,Indicates if the project addresses youth issues.,The percentage of the project associated with the country or region.,0
+Youth issues (marker),sctrnm,Indicates if the project addresses youth issues.,The name of the sector associated with the project,0
+Youth issues (marker),sctrprcnt,Indicates if the project addresses youth issues.,The percentage of the project linked to the sector.,0
+Youth issues (marker),mntspnt,Indicates if the project addresses youth issues.,The total expenditure incurred on the project.,0
+Project number,fsclr,A unique identifier for each project.,The financial year in which the project was conducted.,0
+Project number,sctrd,A unique identifier for each project.,The unique code for the sector linked to the project.,0
+Project number,clmtchngdpttn(mrkr),A unique identifier for each project.,A marker indicating the project's involvement in climate change adaptation.,0
+Project number,rgnstnclss,A unique identifier for each project.,The class to which the organization belongs.,0
+Project number,prjctbrwsrcntrd,A unique identifier for each project.,The unique identifier for the country associated with the project.,0
+Project number,cdbsnssdlvrmdl(ld),A unique identifier for each project.,The previous model utilized by CIDA for project delivery.,0
+Project number,dvsnnm,A unique identifier for each project.,The official name of the division handling the project.,0
+Project number,knwldgfrdvlpmnt(mrkr),A unique identifier for each project.,A marker representing the project's contribution to knowledge for development.,0
+Project number,ntdmnt(prjct-lvlbdgt),A unique identifier for each project.,The non-restricted budget allocated to the project.,0
+Project number,stts,A unique identifier for each project.,The current state or phase of the project.,0
+Project number,gndrqlt(mrkr),A unique identifier for each project.,A marker indicating the project's commitment to promoting gender equality.,0
+Project number,thsss(mrkr),A unique identifier for each project.,A marker signifying the project's attention to youth-related matters.,0
+Project number,prjctnmbr,A unique identifier for each project.,A distinct identifier assigned to each project for reference.,1
+Project number,prgrmmngprcss(nw),A unique identifier for each project.,The current process employed for project programming.,0
+Project number,fndcntrd,A unique identifier for each project.,The identification code for the fund center linked to the project.,0
+Project number,bdvrst(mrkr),A unique identifier for each project.,A marker indicating the project's contribution to biodiversity.,0
+Project number,rbnsss(mrkr),A unique identifier for each project.,A marker representing the project's focus on urban issues.,0
+Project number,chldrnsss(mrkr),A unique identifier for each project.,A marker indicating the project's concern for children's issues.,0
+Project number,ndgnssss(mrkr),A unique identifier for each project.,A marker denoting the project's involvement in indigenous issues.,0
+Project number,dsbltsss(mrkr),A unique identifier for each project.,A marker indicating the project's focus on disability-related concerns.,0
+Project number,ctstlfrdvlpmnt(mrkr),A unique identifier for each project.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Project number,rgnstnd,A unique identifier for each project.,The unique identifier for the organization associated with the project.,0
+Project number,rgnstnnm,A unique identifier for each project.,The official name of the organization linked to the project.,0
+Project number,rgnstntp,A unique identifier for each project.,The type of organization involved in the project.,0
+Project number,rgnstnsb-clss,A unique identifier for each project.,A more specific classification within the organization class.,0
+Project number,cntnntd,A unique identifier for each project.,The unique code for the continent associated with the project.,0
+Project number,cntnntnm,A unique identifier for each project.,The name of the continent linked to the project.,0
+Project number,cntrrgnd,A unique identifier for each project.,The identification code for the country or region related to the project.,0
+Project number,cntrrgnnm,A unique identifier for each project.,The name of the country or region connected to the project.,0
+Project number,cntrrgnprcnt,A unique identifier for each project.,The percentage of the project associated with the country or region.,0
+Project number,sctrnm,A unique identifier for each project.,The name of the sector associated with the project,0
+Project number,sctrprcnt,A unique identifier for each project.,The percentage of the project linked to the sector.,0
+Project number,mntspnt,A unique identifier for each project.,The total expenditure incurred on the project.,0
+Programming process (new),fsclr,The current programming process used.,The financial year in which the project was conducted.,0
+Programming process (new),sctrd,The current programming process used.,The unique code for the sector linked to the project.,0
+Programming process (new),clmtchngdpttn(mrkr),The current programming process used.,A marker indicating the project's involvement in climate change adaptation.,0
+Programming process (new),rgnstnclss,The current programming process used.,The class to which the organization belongs.,0
+Programming process (new),prjctbrwsrcntrd,The current programming process used.,The unique identifier for the country associated with the project.,0
+Programming process (new),cdbsnssdlvrmdl(ld),The current programming process used.,The previous model utilized by CIDA for project delivery.,0
+Programming process (new),dvsnnm,The current programming process used.,The official name of the division handling the project.,0
+Programming process (new),knwldgfrdvlpmnt(mrkr),The current programming process used.,A marker representing the project's contribution to knowledge for development.,0
+Programming process (new),ntdmnt(prjct-lvlbdgt),The current programming process used.,The non-restricted budget allocated to the project.,0
+Programming process (new),stts,The current programming process used.,The current state or phase of the project.,0
+Programming process (new),gndrqlt(mrkr),The current programming process used.,A marker indicating the project's commitment to promoting gender equality.,0
+Programming process (new),thsss(mrkr),The current programming process used.,A marker signifying the project's attention to youth-related matters.,0
+Programming process (new),prjctnmbr,The current programming process used.,A distinct identifier assigned to each project for reference.,0
+Programming process (new),prgrmmngprcss(nw),The current programming process used.,The current process employed for project programming.,1
+Programming process (new),fndcntrd,The current programming process used.,The identification code for the fund center linked to the project.,0
+Programming process (new),bdvrst(mrkr),The current programming process used.,A marker indicating the project's contribution to biodiversity.,0
+Programming process (new),rbnsss(mrkr),The current programming process used.,A marker representing the project's focus on urban issues.,0
+Programming process (new),chldrnsss(mrkr),The current programming process used.,A marker indicating the project's concern for children's issues.,0
+Programming process (new),ndgnssss(mrkr),The current programming process used.,A marker denoting the project's involvement in indigenous issues.,0
+Programming process (new),dsbltsss(mrkr),The current programming process used.,A marker indicating the project's focus on disability-related concerns.,0
+Programming process (new),ctstlfrdvlpmnt(mrkr),The current programming process used.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Programming process (new),rgnstnd,The current programming process used.,The unique identifier for the organization associated with the project.,0
+Programming process (new),rgnstnnm,The current programming process used.,The official name of the organization linked to the project.,0
+Programming process (new),rgnstntp,The current programming process used.,The type of organization involved in the project.,0
+Programming process (new),rgnstnsb-clss,The current programming process used.,A more specific classification within the organization class.,0
+Programming process (new),cntnntd,The current programming process used.,The unique code for the continent associated with the project.,0
+Programming process (new),cntnntnm,The current programming process used.,The name of the continent linked to the project.,0
+Programming process (new),cntrrgnd,The current programming process used.,The identification code for the country or region related to the project.,0
+Programming process (new),cntrrgnnm,The current programming process used.,The name of the country or region connected to the project.,0
+Programming process (new),cntrrgnprcnt,The current programming process used.,The percentage of the project associated with the country or region.,0
+Programming process (new),sctrnm,The current programming process used.,The name of the sector associated with the project,0
+Programming process (new),sctrprcnt,The current programming process used.,The percentage of the project linked to the sector.,0
+Programming process (new),mntspnt,The current programming process used.,The total expenditure incurred on the project.,0
+Fund centre ID,fsclr,Identification code for the fund center associated with the project.,The financial year in which the project was conducted.,0
+Fund centre ID,sctrd,Identification code for the fund center associated with the project.,The unique code for the sector linked to the project.,0
+Fund centre ID,clmtchngdpttn(mrkr),Identification code for the fund center associated with the project.,A marker indicating the project's involvement in climate change adaptation.,0
+Fund centre ID,rgnstnclss,Identification code for the fund center associated with the project.,The class to which the organization belongs.,0
+Fund centre ID,prjctbrwsrcntrd,Identification code for the fund center associated with the project.,The unique identifier for the country associated with the project.,0
+Fund centre ID,cdbsnssdlvrmdl(ld),Identification code for the fund center associated with the project.,The previous model utilized by CIDA for project delivery.,0
+Fund centre ID,dvsnnm,Identification code for the fund center associated with the project.,The official name of the division handling the project.,0
+Fund centre ID,knwldgfrdvlpmnt(mrkr),Identification code for the fund center associated with the project.,A marker representing the project's contribution to knowledge for development.,0
+Fund centre ID,ntdmnt(prjct-lvlbdgt),Identification code for the fund center associated with the project.,The non-restricted budget allocated to the project.,0
+Fund centre ID,stts,Identification code for the fund center associated with the project.,The current state or phase of the project.,0
+Fund centre ID,gndrqlt(mrkr),Identification code for the fund center associated with the project.,A marker indicating the project's commitment to promoting gender equality.,0
+Fund centre ID,thsss(mrkr),Identification code for the fund center associated with the project.,A marker signifying the project's attention to youth-related matters.,0
+Fund centre ID,prjctnmbr,Identification code for the fund center associated with the project.,A distinct identifier assigned to each project for reference.,0
+Fund centre ID,prgrmmngprcss(nw),Identification code for the fund center associated with the project.,The current process employed for project programming.,0
+Fund centre ID,fndcntrd,Identification code for the fund center associated with the project.,The identification code for the fund center linked to the project.,1
+Fund centre ID,bdvrst(mrkr),Identification code for the fund center associated with the project.,A marker indicating the project's contribution to biodiversity.,0
+Fund centre ID,rbnsss(mrkr),Identification code for the fund center associated with the project.,A marker representing the project's focus on urban issues.,0
+Fund centre ID,chldrnsss(mrkr),Identification code for the fund center associated with the project.,A marker indicating the project's concern for children's issues.,0
+Fund centre ID,ndgnssss(mrkr),Identification code for the fund center associated with the project.,A marker denoting the project's involvement in indigenous issues.,0
+Fund centre ID,dsbltsss(mrkr),Identification code for the fund center associated with the project.,A marker indicating the project's focus on disability-related concerns.,0
+Fund centre ID,ctstlfrdvlpmnt(mrkr),Identification code for the fund center associated with the project.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Fund centre ID,rgnstnd,Identification code for the fund center associated with the project.,The unique identifier for the organization associated with the project.,0
+Fund centre ID,rgnstnnm,Identification code for the fund center associated with the project.,The official name of the organization linked to the project.,0
+Fund centre ID,rgnstntp,Identification code for the fund center associated with the project.,The type of organization involved in the project.,0
+Fund centre ID,rgnstnsb-clss,Identification code for the fund center associated with the project.,A more specific classification within the organization class.,0
+Fund centre ID,cntnntd,Identification code for the fund center associated with the project.,The unique code for the continent associated with the project.,0
+Fund centre ID,cntnntnm,Identification code for the fund center associated with the project.,The name of the continent linked to the project.,0
+Fund centre ID,cntrrgnd,Identification code for the fund center associated with the project.,The identification code for the country or region related to the project.,0
+Fund centre ID,cntrrgnnm,Identification code for the fund center associated with the project.,The name of the country or region connected to the project.,0
+Fund centre ID,cntrrgnprcnt,Identification code for the fund center associated with the project.,The percentage of the project associated with the country or region.,0
+Fund centre ID,sctrnm,Identification code for the fund center associated with the project.,The name of the sector associated with the project,0
+Fund centre ID,sctrprcnt,Identification code for the fund center associated with the project.,The percentage of the project linked to the sector.,0
+Fund centre ID,mntspnt,Identification code for the fund center associated with the project.,The total expenditure incurred on the project.,0
+Maximum CIDA contribution (project-level),fsclr,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,The financial year in which the project was conducted.,0
+Maximum CIDA contribution (project-level),sctrd,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,The unique code for the sector linked to the project.,0
+Maximum CIDA contribution (project-level),clmtchngdpttn(mrkr),The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,A marker indicating the project's involvement in climate change adaptation.,0
+Maximum CIDA contribution (project-level),rgnstnclss,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,The class to which the organization belongs.,0
+Maximum CIDA contribution (project-level),prjctbrwsrcntrd,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,The unique identifier for the country associated with the project.,0
+Maximum CIDA contribution (project-level),cdbsnssdlvrmdl(ld),The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,The previous model utilized by CIDA for project delivery.,0
+Maximum CIDA contribution (project-level),dvsnnm,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,The official name of the division handling the project.,0
+Maximum CIDA contribution (project-level),knwldgfrdvlpmnt(mrkr),The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,A marker representing the project's contribution to knowledge for development.,0
+Maximum CIDA contribution (project-level),ntdmnt(prjct-lvlbdgt),The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,The non-restricted budget allocated to the project.,0
+Maximum CIDA contribution (project-level),stts,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,The current state or phase of the project.,0
+Maximum CIDA contribution (project-level),gndrqlt(mrkr),The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,A marker indicating the project's commitment to promoting gender equality.,0
+Maximum CIDA contribution (project-level),thsss(mrkr),The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,A marker signifying the project's attention to youth-related matters.,0
+Maximum CIDA contribution (project-level),prjctnmbr,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,A distinct identifier assigned to each project for reference.,0
+Maximum CIDA contribution (project-level),prgrmmngprcss(nw),The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,The current process employed for project programming.,0
+Maximum CIDA contribution (project-level),fndcntrd,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,The identification code for the fund center linked to the project.,0
+Maximum CIDA contribution (project-level),bdvrst(mrkr),The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,A marker indicating the project's contribution to biodiversity.,0
+Maximum CIDA contribution (project-level),rbnsss(mrkr),The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,A marker representing the project's focus on urban issues.,0
+Maximum CIDA contribution (project-level),chldrnsss(mrkr),The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,A marker indicating the project's concern for children's issues.,0
+Maximum CIDA contribution (project-level),ndgnssss(mrkr),The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,A marker denoting the project's involvement in indigenous issues.,0
+Maximum CIDA contribution (project-level),dsbltsss(mrkr),The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,A marker indicating the project's focus on disability-related concerns.,0
+Maximum CIDA contribution (project-level),ctstlfrdvlpmnt(mrkr),The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Maximum CIDA contribution (project-level),rgnstnd,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,The unique identifier for the organization associated with the project.,0
+Maximum CIDA contribution (project-level),rgnstnnm,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,The official name of the organization linked to the project.,0
+Maximum CIDA contribution (project-level),rgnstntp,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,The type of organization involved in the project.,0
+Maximum CIDA contribution (project-level),rgnstnsb-clss,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,A more specific classification within the organization class.,0
+Maximum CIDA contribution (project-level),cntnntd,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,The unique code for the continent associated with the project.,0
+Maximum CIDA contribution (project-level),cntnntnm,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,The name of the continent linked to the project.,0
+Maximum CIDA contribution (project-level),cntrrgnd,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,The identification code for the country or region related to the project.,0
+Maximum CIDA contribution (project-level),cntrrgnnm,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,The name of the country or region connected to the project.,0
+Maximum CIDA contribution (project-level),cntrrgnprcnt,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,The percentage of the project associated with the country or region.,0
+Maximum CIDA contribution (project-level),sctrnm,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,The name of the sector associated with the project,0
+Maximum CIDA contribution (project-level),sctrprcnt,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,The percentage of the project linked to the sector.,0
+Maximum CIDA contribution (project-level),mntspnt,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,The total expenditure incurred on the project.,0
+Branch ID,fsclr,Identification code for the branch responsible for the project.,The financial year in which the project was conducted.,0
+Branch ID,sctrd,Identification code for the branch responsible for the project.,The unique code for the sector linked to the project.,0
+Branch ID,clmtchngdpttn(mrkr),Identification code for the branch responsible for the project.,A marker indicating the project's involvement in climate change adaptation.,0
+Branch ID,rgnstnclss,Identification code for the branch responsible for the project.,The class to which the organization belongs.,0
+Branch ID,prjctbrwsrcntrd,Identification code for the branch responsible for the project.,The unique identifier for the country associated with the project.,0
+Branch ID,cdbsnssdlvrmdl(ld),Identification code for the branch responsible for the project.,The previous model utilized by CIDA for project delivery.,0
+Branch ID,dvsnnm,Identification code for the branch responsible for the project.,The official name of the division handling the project.,0
+Branch ID,knwldgfrdvlpmnt(mrkr),Identification code for the branch responsible for the project.,A marker representing the project's contribution to knowledge for development.,0
+Branch ID,ntdmnt(prjct-lvlbdgt),Identification code for the branch responsible for the project.,The non-restricted budget allocated to the project.,0
+Branch ID,stts,Identification code for the branch responsible for the project.,The current state or phase of the project.,0
+Branch ID,gndrqlt(mrkr),Identification code for the branch responsible for the project.,A marker indicating the project's commitment to promoting gender equality.,0
+Branch ID,thsss(mrkr),Identification code for the branch responsible for the project.,A marker signifying the project's attention to youth-related matters.,0
+Branch ID,prjctnmbr,Identification code for the branch responsible for the project.,A distinct identifier assigned to each project for reference.,0
+Branch ID,prgrmmngprcss(nw),Identification code for the branch responsible for the project.,The current process employed for project programming.,0
+Branch ID,fndcntrd,Identification code for the branch responsible for the project.,The identification code for the fund center linked to the project.,0
+Branch ID,bdvrst(mrkr),Identification code for the branch responsible for the project.,A marker indicating the project's contribution to biodiversity.,0
+Branch ID,rbnsss(mrkr),Identification code for the branch responsible for the project.,A marker representing the project's focus on urban issues.,0
+Branch ID,chldrnsss(mrkr),Identification code for the branch responsible for the project.,A marker indicating the project's concern for children's issues.,0
+Branch ID,ndgnssss(mrkr),Identification code for the branch responsible for the project.,A marker denoting the project's involvement in indigenous issues.,0
+Branch ID,dsbltsss(mrkr),Identification code for the branch responsible for the project.,A marker indicating the project's focus on disability-related concerns.,0
+Branch ID,ctstlfrdvlpmnt(mrkr),Identification code for the branch responsible for the project.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Branch ID,rgnstnd,Identification code for the branch responsible for the project.,The unique identifier for the organization associated with the project.,0
+Branch ID,rgnstnnm,Identification code for the branch responsible for the project.,The official name of the organization linked to the project.,0
+Branch ID,rgnstntp,Identification code for the branch responsible for the project.,The type of organization involved in the project.,0
+Branch ID,rgnstnsb-clss,Identification code for the branch responsible for the project.,A more specific classification within the organization class.,0
+Branch ID,cntnntd,Identification code for the branch responsible for the project.,The unique code for the continent associated with the project.,0
+Branch ID,cntnntnm,Identification code for the branch responsible for the project.,The name of the continent linked to the project.,0
+Branch ID,cntrrgnd,Identification code for the branch responsible for the project.,The identification code for the country or region related to the project.,0
+Branch ID,cntrrgnnm,Identification code for the branch responsible for the project.,The name of the country or region connected to the project.,0
+Branch ID,cntrrgnprcnt,Identification code for the branch responsible for the project.,The percentage of the project associated with the country or region.,0
+Branch ID,sctrnm,Identification code for the branch responsible for the project.,The name of the sector associated with the project,0
+Branch ID,sctrprcnt,Identification code for the branch responsible for the project.,The percentage of the project linked to the sector.,0
+Branch ID,mntspnt,Identification code for the branch responsible for the project.,The total expenditure incurred on the project.,0
+Branch name,fsclr,The name of the branch responsible for the project.,The financial year in which the project was conducted.,0
+Branch name,sctrd,The name of the branch responsible for the project.,The unique code for the sector linked to the project.,0
+Branch name,clmtchngdpttn(mrkr),The name of the branch responsible for the project.,A marker indicating the project's involvement in climate change adaptation.,0
+Branch name,rgnstnclss,The name of the branch responsible for the project.,The class to which the organization belongs.,0
+Branch name,prjctbrwsrcntrd,The name of the branch responsible for the project.,The unique identifier for the country associated with the project.,0
+Branch name,cdbsnssdlvrmdl(ld),The name of the branch responsible for the project.,The previous model utilized by CIDA for project delivery.,0
+Branch name,dvsnnm,The name of the branch responsible for the project.,The official name of the division handling the project.,0
+Branch name,knwldgfrdvlpmnt(mrkr),The name of the branch responsible for the project.,A marker representing the project's contribution to knowledge for development.,0
+Branch name,ntdmnt(prjct-lvlbdgt),The name of the branch responsible for the project.,The non-restricted budget allocated to the project.,0
+Branch name,stts,The name of the branch responsible for the project.,The current state or phase of the project.,0
+Branch name,gndrqlt(mrkr),The name of the branch responsible for the project.,A marker indicating the project's commitment to promoting gender equality.,0
+Branch name,thsss(mrkr),The name of the branch responsible for the project.,A marker signifying the project's attention to youth-related matters.,0
+Branch name,prjctnmbr,The name of the branch responsible for the project.,A distinct identifier assigned to each project for reference.,0
+Branch name,prgrmmngprcss(nw),The name of the branch responsible for the project.,The current process employed for project programming.,0
+Branch name,fndcntrd,The name of the branch responsible for the project.,The identification code for the fund center linked to the project.,0
+Branch name,bdvrst(mrkr),The name of the branch responsible for the project.,A marker indicating the project's contribution to biodiversity.,0
+Branch name,rbnsss(mrkr),The name of the branch responsible for the project.,A marker representing the project's focus on urban issues.,0
+Branch name,chldrnsss(mrkr),The name of the branch responsible for the project.,A marker indicating the project's concern for children's issues.,0
+Branch name,ndgnssss(mrkr),The name of the branch responsible for the project.,A marker denoting the project's involvement in indigenous issues.,0
+Branch name,dsbltsss(mrkr),The name of the branch responsible for the project.,A marker indicating the project's focus on disability-related concerns.,0
+Branch name,ctstlfrdvlpmnt(mrkr),The name of the branch responsible for the project.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Branch name,rgnstnd,The name of the branch responsible for the project.,The unique identifier for the organization associated with the project.,0
+Branch name,rgnstnnm,The name of the branch responsible for the project.,The official name of the organization linked to the project.,0
+Branch name,rgnstntp,The name of the branch responsible for the project.,The type of organization involved in the project.,0
+Branch name,rgnstnsb-clss,The name of the branch responsible for the project.,A more specific classification within the organization class.,0
+Branch name,cntnntd,The name of the branch responsible for the project.,The unique code for the continent associated with the project.,0
+Branch name,cntnntnm,The name of the branch responsible for the project.,The name of the continent linked to the project.,0
+Branch name,cntrrgnd,The name of the branch responsible for the project.,The identification code for the country or region related to the project.,0
+Branch name,cntrrgnnm,The name of the branch responsible for the project.,The name of the country or region connected to the project.,0
+Branch name,cntrrgnprcnt,The name of the branch responsible for the project.,The percentage of the project associated with the country or region.,0
+Branch name,sctrnm,The name of the branch responsible for the project.,The name of the sector associated with the project,0
+Branch name,sctrprcnt,The name of the branch responsible for the project.,The percentage of the project linked to the sector.,0
+Branch name,mntspnt,The name of the branch responsible for the project.,The total expenditure incurred on the project.,0
+Division ID,fsclr,Identification code for the division responsible for the project.,The financial year in which the project was conducted.,0
+Division ID,sctrd,Identification code for the division responsible for the project.,The unique code for the sector linked to the project.,0
+Division ID,clmtchngdpttn(mrkr),Identification code for the division responsible for the project.,A marker indicating the project's involvement in climate change adaptation.,0
+Division ID,rgnstnclss,Identification code for the division responsible for the project.,The class to which the organization belongs.,0
+Division ID,prjctbrwsrcntrd,Identification code for the division responsible for the project.,The unique identifier for the country associated with the project.,0
+Division ID,cdbsnssdlvrmdl(ld),Identification code for the division responsible for the project.,The previous model utilized by CIDA for project delivery.,0
+Division ID,dvsnnm,Identification code for the division responsible for the project.,The official name of the division handling the project.,0
+Division ID,knwldgfrdvlpmnt(mrkr),Identification code for the division responsible for the project.,A marker representing the project's contribution to knowledge for development.,0
+Division ID,ntdmnt(prjct-lvlbdgt),Identification code for the division responsible for the project.,The non-restricted budget allocated to the project.,0
+Division ID,stts,Identification code for the division responsible for the project.,The current state or phase of the project.,0
+Division ID,gndrqlt(mrkr),Identification code for the division responsible for the project.,A marker indicating the project's commitment to promoting gender equality.,0
+Division ID,thsss(mrkr),Identification code for the division responsible for the project.,A marker signifying the project's attention to youth-related matters.,0
+Division ID,prjctnmbr,Identification code for the division responsible for the project.,A distinct identifier assigned to each project for reference.,0
+Division ID,prgrmmngprcss(nw),Identification code for the division responsible for the project.,The current process employed for project programming.,0
+Division ID,fndcntrd,Identification code for the division responsible for the project.,The identification code for the fund center linked to the project.,0
+Division ID,bdvrst(mrkr),Identification code for the division responsible for the project.,A marker indicating the project's contribution to biodiversity.,0
+Division ID,rbnsss(mrkr),Identification code for the division responsible for the project.,A marker representing the project's focus on urban issues.,0
+Division ID,chldrnsss(mrkr),Identification code for the division responsible for the project.,A marker indicating the project's concern for children's issues.,0
+Division ID,ndgnssss(mrkr),Identification code for the division responsible for the project.,A marker denoting the project's involvement in indigenous issues.,0
+Division ID,dsbltsss(mrkr),Identification code for the division responsible for the project.,A marker indicating the project's focus on disability-related concerns.,0
+Division ID,ctstlfrdvlpmnt(mrkr),Identification code for the division responsible for the project.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Division ID,rgnstnd,Identification code for the division responsible for the project.,The unique identifier for the organization associated with the project.,0
+Division ID,rgnstnnm,Identification code for the division responsible for the project.,The official name of the organization linked to the project.,0
+Division ID,rgnstntp,Identification code for the division responsible for the project.,The type of organization involved in the project.,0
+Division ID,rgnstnsb-clss,Identification code for the division responsible for the project.,A more specific classification within the organization class.,0
+Division ID,cntnntd,Identification code for the division responsible for the project.,The unique code for the continent associated with the project.,0
+Division ID,cntnntnm,Identification code for the division responsible for the project.,The name of the continent linked to the project.,0
+Division ID,cntrrgnd,Identification code for the division responsible for the project.,The identification code for the country or region related to the project.,0
+Division ID,cntrrgnnm,Identification code for the division responsible for the project.,The name of the country or region connected to the project.,0
+Division ID,cntrrgnprcnt,Identification code for the division responsible for the project.,The percentage of the project associated with the country or region.,0
+Division ID,sctrnm,Identification code for the division responsible for the project.,The name of the sector associated with the project,0
+Division ID,sctrprcnt,Identification code for the division responsible for the project.,The percentage of the project linked to the sector.,0
+Division ID,mntspnt,Identification code for the division responsible for the project.,The total expenditure incurred on the project.,0
+Section ID,fsclr,Identification code for the section responsible for the project.,The financial year in which the project was conducted.,0
+Section ID,sctrd,Identification code for the section responsible for the project.,The unique code for the sector linked to the project.,0
+Section ID,clmtchngdpttn(mrkr),Identification code for the section responsible for the project.,A marker indicating the project's involvement in climate change adaptation.,0
+Section ID,rgnstnclss,Identification code for the section responsible for the project.,The class to which the organization belongs.,0
+Section ID,prjctbrwsrcntrd,Identification code for the section responsible for the project.,The unique identifier for the country associated with the project.,0
+Section ID,cdbsnssdlvrmdl(ld),Identification code for the section responsible for the project.,The previous model utilized by CIDA for project delivery.,0
+Section ID,dvsnnm,Identification code for the section responsible for the project.,The official name of the division handling the project.,0
+Section ID,knwldgfrdvlpmnt(mrkr),Identification code for the section responsible for the project.,A marker representing the project's contribution to knowledge for development.,0
+Section ID,ntdmnt(prjct-lvlbdgt),Identification code for the section responsible for the project.,The non-restricted budget allocated to the project.,0
+Section ID,stts,Identification code for the section responsible for the project.,The current state or phase of the project.,0
+Section ID,gndrqlt(mrkr),Identification code for the section responsible for the project.,A marker indicating the project's commitment to promoting gender equality.,0
+Section ID,thsss(mrkr),Identification code for the section responsible for the project.,A marker signifying the project's attention to youth-related matters.,0
+Section ID,prjctnmbr,Identification code for the section responsible for the project.,A distinct identifier assigned to each project for reference.,0
+Section ID,prgrmmngprcss(nw),Identification code for the section responsible for the project.,The current process employed for project programming.,0
+Section ID,fndcntrd,Identification code for the section responsible for the project.,The identification code for the fund center linked to the project.,0
+Section ID,bdvrst(mrkr),Identification code for the section responsible for the project.,A marker indicating the project's contribution to biodiversity.,0
+Section ID,rbnsss(mrkr),Identification code for the section responsible for the project.,A marker representing the project's focus on urban issues.,0
+Section ID,chldrnsss(mrkr),Identification code for the section responsible for the project.,A marker indicating the project's concern for children's issues.,0
+Section ID,ndgnssss(mrkr),Identification code for the section responsible for the project.,A marker denoting the project's involvement in indigenous issues.,0
+Section ID,dsbltsss(mrkr),Identification code for the section responsible for the project.,A marker indicating the project's focus on disability-related concerns.,0
+Section ID,ctstlfrdvlpmnt(mrkr),Identification code for the section responsible for the project.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Section ID,rgnstnd,Identification code for the section responsible for the project.,The unique identifier for the organization associated with the project.,0
+Section ID,rgnstnnm,Identification code for the section responsible for the project.,The official name of the organization linked to the project.,0
+Section ID,rgnstntp,Identification code for the section responsible for the project.,The type of organization involved in the project.,0
+Section ID,rgnstnsb-clss,Identification code for the section responsible for the project.,A more specific classification within the organization class.,0
+Section ID,cntnntd,Identification code for the section responsible for the project.,The unique code for the continent associated with the project.,0
+Section ID,cntnntnm,Identification code for the section responsible for the project.,The name of the continent linked to the project.,0
+Section ID,cntrrgnd,Identification code for the section responsible for the project.,The identification code for the country or region related to the project.,0
+Section ID,cntrrgnnm,Identification code for the section responsible for the project.,The name of the country or region connected to the project.,0
+Section ID,cntrrgnprcnt,Identification code for the section responsible for the project.,The percentage of the project associated with the country or region.,0
+Section ID,sctrnm,Identification code for the section responsible for the project.,The name of the sector associated with the project,0
+Section ID,sctrprcnt,Identification code for the section responsible for the project.,The percentage of the project linked to the sector.,0
+Section ID,mntspnt,Identification code for the section responsible for the project.,The total expenditure incurred on the project.,0
+Section name,fsclr,The name of the section responsible for the project.,The financial year in which the project was conducted.,0
+Section name,sctrd,The name of the section responsible for the project.,The unique code for the sector linked to the project.,0
+Section name,clmtchngdpttn(mrkr),The name of the section responsible for the project.,A marker indicating the project's involvement in climate change adaptation.,0
+Section name,rgnstnclss,The name of the section responsible for the project.,The class to which the organization belongs.,0
+Section name,prjctbrwsrcntrd,The name of the section responsible for the project.,The unique identifier for the country associated with the project.,0
+Section name,cdbsnssdlvrmdl(ld),The name of the section responsible for the project.,The previous model utilized by CIDA for project delivery.,0
+Section name,dvsnnm,The name of the section responsible for the project.,The official name of the division handling the project.,0
+Section name,knwldgfrdvlpmnt(mrkr),The name of the section responsible for the project.,A marker representing the project's contribution to knowledge for development.,0
+Section name,ntdmnt(prjct-lvlbdgt),The name of the section responsible for the project.,The non-restricted budget allocated to the project.,0
+Section name,stts,The name of the section responsible for the project.,The current state or phase of the project.,0
+Section name,gndrqlt(mrkr),The name of the section responsible for the project.,A marker indicating the project's commitment to promoting gender equality.,0
+Section name,thsss(mrkr),The name of the section responsible for the project.,A marker signifying the project's attention to youth-related matters.,0
+Section name,prjctnmbr,The name of the section responsible for the project.,A distinct identifier assigned to each project for reference.,0
+Section name,prgrmmngprcss(nw),The name of the section responsible for the project.,The current process employed for project programming.,0
+Section name,fndcntrd,The name of the section responsible for the project.,The identification code for the fund center linked to the project.,0
+Section name,bdvrst(mrkr),The name of the section responsible for the project.,A marker indicating the project's contribution to biodiversity.,0
+Section name,rbnsss(mrkr),The name of the section responsible for the project.,A marker representing the project's focus on urban issues.,0
+Section name,chldrnsss(mrkr),The name of the section responsible for the project.,A marker indicating the project's concern for children's issues.,0
+Section name,ndgnssss(mrkr),The name of the section responsible for the project.,A marker denoting the project's involvement in indigenous issues.,0
+Section name,dsbltsss(mrkr),The name of the section responsible for the project.,A marker indicating the project's focus on disability-related concerns.,0
+Section name,ctstlfrdvlpmnt(mrkr),The name of the section responsible for the project.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Section name,rgnstnd,The name of the section responsible for the project.,The unique identifier for the organization associated with the project.,0
+Section name,rgnstnnm,The name of the section responsible for the project.,The official name of the organization linked to the project.,0
+Section name,rgnstntp,The name of the section responsible for the project.,The type of organization involved in the project.,0
+Section name,rgnstnsb-clss,The name of the section responsible for the project.,A more specific classification within the organization class.,0
+Section name,cntnntd,The name of the section responsible for the project.,The unique code for the continent associated with the project.,0
+Section name,cntnntnm,The name of the section responsible for the project.,The name of the continent linked to the project.,0
+Section name,cntrrgnd,The name of the section responsible for the project.,The identification code for the country or region related to the project.,0
+Section name,cntrrgnnm,The name of the section responsible for the project.,The name of the country or region connected to the project.,0
+Section name,cntrrgnprcnt,The name of the section responsible for the project.,The percentage of the project associated with the country or region.,0
+Section name,sctrnm,The name of the section responsible for the project.,The name of the sector associated with the project,0
+Section name,sctrprcnt,The name of the section responsible for the project.,The percentage of the project linked to the sector.,0
+Section name,mntspnt,The name of the section responsible for the project.,The total expenditure incurred on the project.,0
+Regional program (marker),fsclr,Indicates if the project is part of a regional program.,The financial year in which the project was conducted.,0
+Regional program (marker),sctrd,Indicates if the project is part of a regional program.,The unique code for the sector linked to the project.,0
+Regional program (marker),clmtchngdpttn(mrkr),Indicates if the project is part of a regional program.,A marker indicating the project's involvement in climate change adaptation.,0
+Regional program (marker),rgnstnclss,Indicates if the project is part of a regional program.,The class to which the organization belongs.,0
+Regional program (marker),prjctbrwsrcntrd,Indicates if the project is part of a regional program.,The unique identifier for the country associated with the project.,0
+Regional program (marker),cdbsnssdlvrmdl(ld),Indicates if the project is part of a regional program.,The previous model utilized by CIDA for project delivery.,0
+Regional program (marker),dvsnnm,Indicates if the project is part of a regional program.,The official name of the division handling the project.,0
+Regional program (marker),knwldgfrdvlpmnt(mrkr),Indicates if the project is part of a regional program.,A marker representing the project's contribution to knowledge for development.,0
+Regional program (marker),ntdmnt(prjct-lvlbdgt),Indicates if the project is part of a regional program.,The non-restricted budget allocated to the project.,0
+Regional program (marker),stts,Indicates if the project is part of a regional program.,The current state or phase of the project.,0
+Regional program (marker),gndrqlt(mrkr),Indicates if the project is part of a regional program.,A marker indicating the project's commitment to promoting gender equality.,0
+Regional program (marker),thsss(mrkr),Indicates if the project is part of a regional program.,A marker signifying the project's attention to youth-related matters.,0
+Regional program (marker),prjctnmbr,Indicates if the project is part of a regional program.,A distinct identifier assigned to each project for reference.,0
+Regional program (marker),prgrmmngprcss(nw),Indicates if the project is part of a regional program.,The current process employed for project programming.,0
+Regional program (marker),fndcntrd,Indicates if the project is part of a regional program.,The identification code for the fund center linked to the project.,0
+Regional program (marker),bdvrst(mrkr),Indicates if the project is part of a regional program.,A marker indicating the project's contribution to biodiversity.,0
+Regional program (marker),rbnsss(mrkr),Indicates if the project is part of a regional program.,A marker representing the project's focus on urban issues.,0
+Regional program (marker),chldrnsss(mrkr),Indicates if the project is part of a regional program.,A marker indicating the project's concern for children's issues.,0
+Regional program (marker),ndgnssss(mrkr),Indicates if the project is part of a regional program.,A marker denoting the project's involvement in indigenous issues.,0
+Regional program (marker),dsbltsss(mrkr),Indicates if the project is part of a regional program.,A marker indicating the project's focus on disability-related concerns.,0
+Regional program (marker),ctstlfrdvlpmnt(mrkr),Indicates if the project is part of a regional program.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Regional program (marker),rgnstnd,Indicates if the project is part of a regional program.,The unique identifier for the organization associated with the project.,0
+Regional program (marker),rgnstnnm,Indicates if the project is part of a regional program.,The official name of the organization linked to the project.,0
+Regional program (marker),rgnstntp,Indicates if the project is part of a regional program.,The type of organization involved in the project.,0
+Regional program (marker),rgnstnsb-clss,Indicates if the project is part of a regional program.,A more specific classification within the organization class.,0
+Regional program (marker),cntnntd,Indicates if the project is part of a regional program.,The unique code for the continent associated with the project.,0
+Regional program (marker),cntnntnm,Indicates if the project is part of a regional program.,The name of the continent linked to the project.,0
+Regional program (marker),cntrrgnd,Indicates if the project is part of a regional program.,The identification code for the country or region related to the project.,0
+Regional program (marker),cntrrgnnm,Indicates if the project is part of a regional program.,The name of the country or region connected to the project.,0
+Regional program (marker),cntrrgnprcnt,Indicates if the project is part of a regional program.,The percentage of the project associated with the country or region.,0
+Regional program (marker),sctrnm,Indicates if the project is part of a regional program.,The name of the sector associated with the project,0
+Regional program (marker),sctrprcnt,Indicates if the project is part of a regional program.,The percentage of the project linked to the sector.,0
+Regional program (marker),mntspnt,Indicates if the project is part of a regional program.,The total expenditure incurred on the project.,0
+Fund centre name,fsclr,The name of the fund center associated with the project.,The financial year in which the project was conducted.,0
+Fund centre name,sctrd,The name of the fund center associated with the project.,The unique code for the sector linked to the project.,0
+Fund centre name,clmtchngdpttn(mrkr),The name of the fund center associated with the project.,A marker indicating the project's involvement in climate change adaptation.,0
+Fund centre name,rgnstnclss,The name of the fund center associated with the project.,The class to which the organization belongs.,0
+Fund centre name,prjctbrwsrcntrd,The name of the fund center associated with the project.,The unique identifier for the country associated with the project.,0
+Fund centre name,cdbsnssdlvrmdl(ld),The name of the fund center associated with the project.,The previous model utilized by CIDA for project delivery.,0
+Fund centre name,dvsnnm,The name of the fund center associated with the project.,The official name of the division handling the project.,0
+Fund centre name,knwldgfrdvlpmnt(mrkr),The name of the fund center associated with the project.,A marker representing the project's contribution to knowledge for development.,0
+Fund centre name,ntdmnt(prjct-lvlbdgt),The name of the fund center associated with the project.,The non-restricted budget allocated to the project.,0
+Fund centre name,stts,The name of the fund center associated with the project.,The current state or phase of the project.,0
+Fund centre name,gndrqlt(mrkr),The name of the fund center associated with the project.,A marker indicating the project's commitment to promoting gender equality.,0
+Fund centre name,thsss(mrkr),The name of the fund center associated with the project.,A marker signifying the project's attention to youth-related matters.,0
+Fund centre name,prjctnmbr,The name of the fund center associated with the project.,A distinct identifier assigned to each project for reference.,0
+Fund centre name,prgrmmngprcss(nw),The name of the fund center associated with the project.,The current process employed for project programming.,0
+Fund centre name,fndcntrd,The name of the fund center associated with the project.,The identification code for the fund center linked to the project.,0
+Fund centre name,bdvrst(mrkr),The name of the fund center associated with the project.,A marker indicating the project's contribution to biodiversity.,0
+Fund centre name,rbnsss(mrkr),The name of the fund center associated with the project.,A marker representing the project's focus on urban issues.,0
+Fund centre name,chldrnsss(mrkr),The name of the fund center associated with the project.,A marker indicating the project's concern for children's issues.,0
+Fund centre name,ndgnssss(mrkr),The name of the fund center associated with the project.,A marker denoting the project's involvement in indigenous issues.,0
+Fund centre name,dsbltsss(mrkr),The name of the fund center associated with the project.,A marker indicating the project's focus on disability-related concerns.,0
+Fund centre name,ctstlfrdvlpmnt(mrkr),The name of the fund center associated with the project.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Fund centre name,rgnstnd,The name of the fund center associated with the project.,The unique identifier for the organization associated with the project.,0
+Fund centre name,rgnstnnm,The name of the fund center associated with the project.,The official name of the organization linked to the project.,0
+Fund centre name,rgnstntp,The name of the fund center associated with the project.,The type of organization involved in the project.,0
+Fund centre name,rgnstnsb-clss,The name of the fund center associated with the project.,A more specific classification within the organization class.,0
+Fund centre name,cntnntd,The name of the fund center associated with the project.,The unique code for the continent associated with the project.,0
+Fund centre name,cntnntnm,The name of the fund center associated with the project.,The name of the continent linked to the project.,0
+Fund centre name,cntrrgnd,The name of the fund center associated with the project.,The identification code for the country or region related to the project.,0
+Fund centre name,cntrrgnnm,The name of the fund center associated with the project.,The name of the country or region connected to the project.,0
+Fund centre name,cntrrgnprcnt,The name of the fund center associated with the project.,The percentage of the project associated with the country or region.,0
+Fund centre name,sctrnm,The name of the fund center associated with the project.,The name of the sector associated with the project,0
+Fund centre name,sctrprcnt,The name of the fund center associated with the project.,The percentage of the project linked to the sector.,0
+Fund centre name,mntspnt,The name of the fund center associated with the project.,The total expenditure incurred on the project.,0
+FSTC percent,fsclr,The percentage of the FSTC (Field Support Technology and Communication) for the project.,The financial year in which the project was conducted.,0
+FSTC percent,sctrd,The percentage of the FSTC (Field Support Technology and Communication) for the project.,The unique code for the sector linked to the project.,0
+FSTC percent,clmtchngdpttn(mrkr),The percentage of the FSTC (Field Support Technology and Communication) for the project.,A marker indicating the project's involvement in climate change adaptation.,0
+FSTC percent,rgnstnclss,The percentage of the FSTC (Field Support Technology and Communication) for the project.,The class to which the organization belongs.,0
+FSTC percent,prjctbrwsrcntrd,The percentage of the FSTC (Field Support Technology and Communication) for the project.,The unique identifier for the country associated with the project.,0
+FSTC percent,cdbsnssdlvrmdl(ld),The percentage of the FSTC (Field Support Technology and Communication) for the project.,The previous model utilized by CIDA for project delivery.,0
+FSTC percent,dvsnnm,The percentage of the FSTC (Field Support Technology and Communication) for the project.,The official name of the division handling the project.,0
+FSTC percent,knwldgfrdvlpmnt(mrkr),The percentage of the FSTC (Field Support Technology and Communication) for the project.,A marker representing the project's contribution to knowledge for development.,0
+FSTC percent,ntdmnt(prjct-lvlbdgt),The percentage of the FSTC (Field Support Technology and Communication) for the project.,The non-restricted budget allocated to the project.,0
+FSTC percent,stts,The percentage of the FSTC (Field Support Technology and Communication) for the project.,The current state or phase of the project.,0
+FSTC percent,gndrqlt(mrkr),The percentage of the FSTC (Field Support Technology and Communication) for the project.,A marker indicating the project's commitment to promoting gender equality.,0
+FSTC percent,thsss(mrkr),The percentage of the FSTC (Field Support Technology and Communication) for the project.,A marker signifying the project's attention to youth-related matters.,0
+FSTC percent,prjctnmbr,The percentage of the FSTC (Field Support Technology and Communication) for the project.,A distinct identifier assigned to each project for reference.,0
+FSTC percent,prgrmmngprcss(nw),The percentage of the FSTC (Field Support Technology and Communication) for the project.,The current process employed for project programming.,0
+FSTC percent,fndcntrd,The percentage of the FSTC (Field Support Technology and Communication) for the project.,The identification code for the fund center linked to the project.,0
+FSTC percent,bdvrst(mrkr),The percentage of the FSTC (Field Support Technology and Communication) for the project.,A marker indicating the project's contribution to biodiversity.,0
+FSTC percent,rbnsss(mrkr),The percentage of the FSTC (Field Support Technology and Communication) for the project.,A marker representing the project's focus on urban issues.,0
+FSTC percent,chldrnsss(mrkr),The percentage of the FSTC (Field Support Technology and Communication) for the project.,A marker indicating the project's concern for children's issues.,0
+FSTC percent,ndgnssss(mrkr),The percentage of the FSTC (Field Support Technology and Communication) for the project.,A marker denoting the project's involvement in indigenous issues.,0
+FSTC percent,dsbltsss(mrkr),The percentage of the FSTC (Field Support Technology and Communication) for the project.,A marker indicating the project's focus on disability-related concerns.,0
+FSTC percent,ctstlfrdvlpmnt(mrkr),The percentage of the FSTC (Field Support Technology and Communication) for the project.,A marker signifying the project's use of Information and Communication Technology for development.,0
+FSTC percent,rgnstnd,The percentage of the FSTC (Field Support Technology and Communication) for the project.,The unique identifier for the organization associated with the project.,0
+FSTC percent,rgnstnnm,The percentage of the FSTC (Field Support Technology and Communication) for the project.,The official name of the organization linked to the project.,0
+FSTC percent,rgnstntp,The percentage of the FSTC (Field Support Technology and Communication) for the project.,The type of organization involved in the project.,0
+FSTC percent,rgnstnsb-clss,The percentage of the FSTC (Field Support Technology and Communication) for the project.,A more specific classification within the organization class.,0
+FSTC percent,cntnntd,The percentage of the FSTC (Field Support Technology and Communication) for the project.,The unique code for the continent associated with the project.,0
+FSTC percent,cntnntnm,The percentage of the FSTC (Field Support Technology and Communication) for the project.,The name of the continent linked to the project.,0
+FSTC percent,cntrrgnd,The percentage of the FSTC (Field Support Technology and Communication) for the project.,The identification code for the country or region related to the project.,0
+FSTC percent,cntrrgnnm,The percentage of the FSTC (Field Support Technology and Communication) for the project.,The name of the country or region connected to the project.,0
+FSTC percent,cntrrgnprcnt,The percentage of the FSTC (Field Support Technology and Communication) for the project.,The percentage of the project associated with the country or region.,0
+FSTC percent,sctrnm,The percentage of the FSTC (Field Support Technology and Communication) for the project.,The name of the sector associated with the project,0
+FSTC percent,sctrprcnt,The percentage of the FSTC (Field Support Technology and Communication) for the project.,The percentage of the project linked to the sector.,0
+FSTC percent,mntspnt,The percentage of the FSTC (Field Support Technology and Communication) for the project.,The total expenditure incurred on the project.,0
+IRTC percent,fsclr,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,The financial year in which the project was conducted.,0
+IRTC percent,sctrd,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,The unique code for the sector linked to the project.,0
+IRTC percent,clmtchngdpttn(mrkr),The percentage of the IRTC (Information Resource and Technology Centre) for the project.,A marker indicating the project's involvement in climate change adaptation.,0
+IRTC percent,rgnstnclss,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,The class to which the organization belongs.,0
+IRTC percent,prjctbrwsrcntrd,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,The unique identifier for the country associated with the project.,0
+IRTC percent,cdbsnssdlvrmdl(ld),The percentage of the IRTC (Information Resource and Technology Centre) for the project.,The previous model utilized by CIDA for project delivery.,0
+IRTC percent,dvsnnm,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,The official name of the division handling the project.,0
+IRTC percent,knwldgfrdvlpmnt(mrkr),The percentage of the IRTC (Information Resource and Technology Centre) for the project.,A marker representing the project's contribution to knowledge for development.,0
+IRTC percent,ntdmnt(prjct-lvlbdgt),The percentage of the IRTC (Information Resource and Technology Centre) for the project.,The non-restricted budget allocated to the project.,0
+IRTC percent,stts,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,The current state or phase of the project.,0
+IRTC percent,gndrqlt(mrkr),The percentage of the IRTC (Information Resource and Technology Centre) for the project.,A marker indicating the project's commitment to promoting gender equality.,0
+IRTC percent,thsss(mrkr),The percentage of the IRTC (Information Resource and Technology Centre) for the project.,A marker signifying the project's attention to youth-related matters.,0
+IRTC percent,prjctnmbr,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,A distinct identifier assigned to each project for reference.,0
+IRTC percent,prgrmmngprcss(nw),The percentage of the IRTC (Information Resource and Technology Centre) for the project.,The current process employed for project programming.,0
+IRTC percent,fndcntrd,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,The identification code for the fund center linked to the project.,0
+IRTC percent,bdvrst(mrkr),The percentage of the IRTC (Information Resource and Technology Centre) for the project.,A marker indicating the project's contribution to biodiversity.,0
+IRTC percent,rbnsss(mrkr),The percentage of the IRTC (Information Resource and Technology Centre) for the project.,A marker representing the project's focus on urban issues.,0
+IRTC percent,chldrnsss(mrkr),The percentage of the IRTC (Information Resource and Technology Centre) for the project.,A marker indicating the project's concern for children's issues.,0
+IRTC percent,ndgnssss(mrkr),The percentage of the IRTC (Information Resource and Technology Centre) for the project.,A marker denoting the project's involvement in indigenous issues.,0
+IRTC percent,dsbltsss(mrkr),The percentage of the IRTC (Information Resource and Technology Centre) for the project.,A marker indicating the project's focus on disability-related concerns.,0
+IRTC percent,ctstlfrdvlpmnt(mrkr),The percentage of the IRTC (Information Resource and Technology Centre) for the project.,A marker signifying the project's use of Information and Communication Technology for development.,0
+IRTC percent,rgnstnd,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,The unique identifier for the organization associated with the project.,0
+IRTC percent,rgnstnnm,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,The official name of the organization linked to the project.,0
+IRTC percent,rgnstntp,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,The type of organization involved in the project.,0
+IRTC percent,rgnstnsb-clss,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,A more specific classification within the organization class.,0
+IRTC percent,cntnntd,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,The unique code for the continent associated with the project.,0
+IRTC percent,cntnntnm,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,The name of the continent linked to the project.,0
+IRTC percent,cntrrgnd,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,The identification code for the country or region related to the project.,0
+IRTC percent,cntrrgnnm,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,The name of the country or region connected to the project.,0
+IRTC percent,cntrrgnprcnt,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,The percentage of the project associated with the country or region.,0
+IRTC percent,sctrnm,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,The name of the sector associated with the project,0
+IRTC percent,sctrprcnt,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,The percentage of the project linked to the sector.,0
+IRTC percent,mntspnt,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,The total expenditure incurred on the project.,0
+CFLI (marker),fsclr,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,The financial year in which the project was conducted.,0
+CFLI (marker),sctrd,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,The unique code for the sector linked to the project.,0
+CFLI (marker),clmtchngdpttn(mrkr),Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,A marker indicating the project's involvement in climate change adaptation.,0
+CFLI (marker),rgnstnclss,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,The class to which the organization belongs.,0
+CFLI (marker),prjctbrwsrcntrd,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,The unique identifier for the country associated with the project.,0
+CFLI (marker),cdbsnssdlvrmdl(ld),Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,The previous model utilized by CIDA for project delivery.,0
+CFLI (marker),dvsnnm,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,The official name of the division handling the project.,0
+CFLI (marker),knwldgfrdvlpmnt(mrkr),Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,A marker representing the project's contribution to knowledge for development.,0
+CFLI (marker),ntdmnt(prjct-lvlbdgt),Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,The non-restricted budget allocated to the project.,0
+CFLI (marker),stts,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,The current state or phase of the project.,0
+CFLI (marker),gndrqlt(mrkr),Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,A marker indicating the project's commitment to promoting gender equality.,0
+CFLI (marker),thsss(mrkr),Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,A marker signifying the project's attention to youth-related matters.,0
+CFLI (marker),prjctnmbr,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,A distinct identifier assigned to each project for reference.,0
+CFLI (marker),prgrmmngprcss(nw),Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,The current process employed for project programming.,0
+CFLI (marker),fndcntrd,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,The identification code for the fund center linked to the project.,0
+CFLI (marker),bdvrst(mrkr),Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,A marker indicating the project's contribution to biodiversity.,0
+CFLI (marker),rbnsss(mrkr),Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,A marker representing the project's focus on urban issues.,0
+CFLI (marker),chldrnsss(mrkr),Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,A marker indicating the project's concern for children's issues.,0
+CFLI (marker),ndgnssss(mrkr),Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,A marker denoting the project's involvement in indigenous issues.,0
+CFLI (marker),dsbltsss(mrkr),Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,A marker indicating the project's focus on disability-related concerns.,0
+CFLI (marker),ctstlfrdvlpmnt(mrkr),Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,A marker signifying the project's use of Information and Communication Technology for development.,0
+CFLI (marker),rgnstnd,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,The unique identifier for the organization associated with the project.,0
+CFLI (marker),rgnstnnm,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,The official name of the organization linked to the project.,0
+CFLI (marker),rgnstntp,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,The type of organization involved in the project.,0
+CFLI (marker),rgnstnsb-clss,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,A more specific classification within the organization class.,0
+CFLI (marker),cntnntd,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,The unique code for the continent associated with the project.,0
+CFLI (marker),cntnntnm,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,The name of the continent linked to the project.,0
+CFLI (marker),cntrrgnd,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,The identification code for the country or region related to the project.,0
+CFLI (marker),cntrrgnnm,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,The name of the country or region connected to the project.,0
+CFLI (marker),cntrrgnprcnt,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,The percentage of the project associated with the country or region.,0
+CFLI (marker),sctrnm,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,The name of the sector associated with the project,0
+CFLI (marker),sctrprcnt,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,The percentage of the project linked to the sector.,0
+CFLI (marker),mntspnt,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,The total expenditure incurred on the project.,0
+Bilateral aid (international marker),fsclr,Indicates if the project involves bilateral aid.,The financial year in which the project was conducted.,0
+Bilateral aid (international marker),sctrd,Indicates if the project involves bilateral aid.,The unique code for the sector linked to the project.,0
+Bilateral aid (international marker),clmtchngdpttn(mrkr),Indicates if the project involves bilateral aid.,A marker indicating the project's involvement in climate change adaptation.,0
+Bilateral aid (international marker),rgnstnclss,Indicates if the project involves bilateral aid.,The class to which the organization belongs.,0
+Bilateral aid (international marker),prjctbrwsrcntrd,Indicates if the project involves bilateral aid.,The unique identifier for the country associated with the project.,0
+Bilateral aid (international marker),cdbsnssdlvrmdl(ld),Indicates if the project involves bilateral aid.,The previous model utilized by CIDA for project delivery.,0
+Bilateral aid (international marker),dvsnnm,Indicates if the project involves bilateral aid.,The official name of the division handling the project.,0
+Bilateral aid (international marker),knwldgfrdvlpmnt(mrkr),Indicates if the project involves bilateral aid.,A marker representing the project's contribution to knowledge for development.,0
+Bilateral aid (international marker),ntdmnt(prjct-lvlbdgt),Indicates if the project involves bilateral aid.,The non-restricted budget allocated to the project.,0
+Bilateral aid (international marker),stts,Indicates if the project involves bilateral aid.,The current state or phase of the project.,0
+Bilateral aid (international marker),gndrqlt(mrkr),Indicates if the project involves bilateral aid.,A marker indicating the project's commitment to promoting gender equality.,0
+Bilateral aid (international marker),thsss(mrkr),Indicates if the project involves bilateral aid.,A marker signifying the project's attention to youth-related matters.,0
+Bilateral aid (international marker),prjctnmbr,Indicates if the project involves bilateral aid.,A distinct identifier assigned to each project for reference.,0
+Bilateral aid (international marker),prgrmmngprcss(nw),Indicates if the project involves bilateral aid.,The current process employed for project programming.,0
+Bilateral aid (international marker),fndcntrd,Indicates if the project involves bilateral aid.,The identification code for the fund center linked to the project.,0
+Bilateral aid (international marker),bdvrst(mrkr),Indicates if the project involves bilateral aid.,A marker indicating the project's contribution to biodiversity.,0
+Bilateral aid (international marker),rbnsss(mrkr),Indicates if the project involves bilateral aid.,A marker representing the project's focus on urban issues.,0
+Bilateral aid (international marker),chldrnsss(mrkr),Indicates if the project involves bilateral aid.,A marker indicating the project's concern for children's issues.,0
+Bilateral aid (international marker),ndgnssss(mrkr),Indicates if the project involves bilateral aid.,A marker denoting the project's involvement in indigenous issues.,0
+Bilateral aid (international marker),dsbltsss(mrkr),Indicates if the project involves bilateral aid.,A marker indicating the project's focus on disability-related concerns.,0
+Bilateral aid (international marker),ctstlfrdvlpmnt(mrkr),Indicates if the project involves bilateral aid.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Bilateral aid (international marker),rgnstnd,Indicates if the project involves bilateral aid.,The unique identifier for the organization associated with the project.,0
+Bilateral aid (international marker),rgnstnnm,Indicates if the project involves bilateral aid.,The official name of the organization linked to the project.,0
+Bilateral aid (international marker),rgnstntp,Indicates if the project involves bilateral aid.,The type of organization involved in the project.,0
+Bilateral aid (international marker),rgnstnsb-clss,Indicates if the project involves bilateral aid.,A more specific classification within the organization class.,0
+Bilateral aid (international marker),cntnntd,Indicates if the project involves bilateral aid.,The unique code for the continent associated with the project.,0
+Bilateral aid (international marker),cntnntnm,Indicates if the project involves bilateral aid.,The name of the continent linked to the project.,0
+Bilateral aid (international marker),cntrrgnd,Indicates if the project involves bilateral aid.,The identification code for the country or region related to the project.,0
+Bilateral aid (international marker),cntrrgnnm,Indicates if the project involves bilateral aid.,The name of the country or region connected to the project.,0
+Bilateral aid (international marker),cntrrgnprcnt,Indicates if the project involves bilateral aid.,The percentage of the project associated with the country or region.,0
+Bilateral aid (international marker),sctrnm,Indicates if the project involves bilateral aid.,The name of the sector associated with the project,0
+Bilateral aid (international marker),sctrprcnt,Indicates if the project involves bilateral aid.,The percentage of the project linked to the sector.,0
+Bilateral aid (international marker),mntspnt,Indicates if the project involves bilateral aid.,The total expenditure incurred on the project.,0
+PBA type,fsclr,Type of Project-Based Agreement.,The financial year in which the project was conducted.,0
+PBA type,sctrd,Type of Project-Based Agreement.,The unique code for the sector linked to the project.,0
+PBA type,clmtchngdpttn(mrkr),Type of Project-Based Agreement.,A marker indicating the project's involvement in climate change adaptation.,0
+PBA type,rgnstnclss,Type of Project-Based Agreement.,The class to which the organization belongs.,0
+PBA type,prjctbrwsrcntrd,Type of Project-Based Agreement.,The unique identifier for the country associated with the project.,0
+PBA type,cdbsnssdlvrmdl(ld),Type of Project-Based Agreement.,The previous model utilized by CIDA for project delivery.,0
+PBA type,dvsnnm,Type of Project-Based Agreement.,The official name of the division handling the project.,0
+PBA type,knwldgfrdvlpmnt(mrkr),Type of Project-Based Agreement.,A marker representing the project's contribution to knowledge for development.,0
+PBA type,ntdmnt(prjct-lvlbdgt),Type of Project-Based Agreement.,The non-restricted budget allocated to the project.,0
+PBA type,stts,Type of Project-Based Agreement.,The current state or phase of the project.,0
+PBA type,gndrqlt(mrkr),Type of Project-Based Agreement.,A marker indicating the project's commitment to promoting gender equality.,0
+PBA type,thsss(mrkr),Type of Project-Based Agreement.,A marker signifying the project's attention to youth-related matters.,0
+PBA type,prjctnmbr,Type of Project-Based Agreement.,A distinct identifier assigned to each project for reference.,0
+PBA type,prgrmmngprcss(nw),Type of Project-Based Agreement.,The current process employed for project programming.,0
+PBA type,fndcntrd,Type of Project-Based Agreement.,The identification code for the fund center linked to the project.,0
+PBA type,bdvrst(mrkr),Type of Project-Based Agreement.,A marker indicating the project's contribution to biodiversity.,0
+PBA type,rbnsss(mrkr),Type of Project-Based Agreement.,A marker representing the project's focus on urban issues.,0
+PBA type,chldrnsss(mrkr),Type of Project-Based Agreement.,A marker indicating the project's concern for children's issues.,0
+PBA type,ndgnssss(mrkr),Type of Project-Based Agreement.,A marker denoting the project's involvement in indigenous issues.,0
+PBA type,dsbltsss(mrkr),Type of Project-Based Agreement.,A marker indicating the project's focus on disability-related concerns.,0
+PBA type,ctstlfrdvlpmnt(mrkr),Type of Project-Based Agreement.,A marker signifying the project's use of Information and Communication Technology for development.,0
+PBA type,rgnstnd,Type of Project-Based Agreement.,The unique identifier for the organization associated with the project.,0
+PBA type,rgnstnnm,Type of Project-Based Agreement.,The official name of the organization linked to the project.,0
+PBA type,rgnstntp,Type of Project-Based Agreement.,The type of organization involved in the project.,0
+PBA type,rgnstnsb-clss,Type of Project-Based Agreement.,A more specific classification within the organization class.,0
+PBA type,cntnntd,Type of Project-Based Agreement.,The unique code for the continent associated with the project.,0
+PBA type,cntnntnm,Type of Project-Based Agreement.,The name of the continent linked to the project.,0
+PBA type,cntrrgnd,Type of Project-Based Agreement.,The identification code for the country or region related to the project.,0
+PBA type,cntrrgnnm,Type of Project-Based Agreement.,The name of the country or region connected to the project.,0
+PBA type,cntrrgnprcnt,Type of Project-Based Agreement.,The percentage of the project associated with the country or region.,0
+PBA type,sctrnm,Type of Project-Based Agreement.,The name of the sector associated with the project,0
+PBA type,sctrprcnt,Type of Project-Based Agreement.,The percentage of the project linked to the sector.,0
+PBA type,mntspnt,Type of Project-Based Agreement.,The total expenditure incurred on the project.,0
+Enviromental sustainability (marker),fsclr,Indicates if the project addresses environmental sustainability.,The financial year in which the project was conducted.,0
+Enviromental sustainability (marker),sctrd,Indicates if the project addresses environmental sustainability.,The unique code for the sector linked to the project.,0
+Enviromental sustainability (marker),clmtchngdpttn(mrkr),Indicates if the project addresses environmental sustainability.,A marker indicating the project's involvement in climate change adaptation.,0
+Enviromental sustainability (marker),rgnstnclss,Indicates if the project addresses environmental sustainability.,The class to which the organization belongs.,0
+Enviromental sustainability (marker),prjctbrwsrcntrd,Indicates if the project addresses environmental sustainability.,The unique identifier for the country associated with the project.,0
+Enviromental sustainability (marker),cdbsnssdlvrmdl(ld),Indicates if the project addresses environmental sustainability.,The previous model utilized by CIDA for project delivery.,0
+Enviromental sustainability (marker),dvsnnm,Indicates if the project addresses environmental sustainability.,The official name of the division handling the project.,0
+Enviromental sustainability (marker),knwldgfrdvlpmnt(mrkr),Indicates if the project addresses environmental sustainability.,A marker representing the project's contribution to knowledge for development.,0
+Enviromental sustainability (marker),ntdmnt(prjct-lvlbdgt),Indicates if the project addresses environmental sustainability.,The non-restricted budget allocated to the project.,0
+Enviromental sustainability (marker),stts,Indicates if the project addresses environmental sustainability.,The current state or phase of the project.,0
+Enviromental sustainability (marker),gndrqlt(mrkr),Indicates if the project addresses environmental sustainability.,A marker indicating the project's commitment to promoting gender equality.,0
+Enviromental sustainability (marker),thsss(mrkr),Indicates if the project addresses environmental sustainability.,A marker signifying the project's attention to youth-related matters.,0
+Enviromental sustainability (marker),prjctnmbr,Indicates if the project addresses environmental sustainability.,A distinct identifier assigned to each project for reference.,0
+Enviromental sustainability (marker),prgrmmngprcss(nw),Indicates if the project addresses environmental sustainability.,The current process employed for project programming.,0
+Enviromental sustainability (marker),fndcntrd,Indicates if the project addresses environmental sustainability.,The identification code for the fund center linked to the project.,0
+Enviromental sustainability (marker),bdvrst(mrkr),Indicates if the project addresses environmental sustainability.,A marker indicating the project's contribution to biodiversity.,0
+Enviromental sustainability (marker),rbnsss(mrkr),Indicates if the project addresses environmental sustainability.,A marker representing the project's focus on urban issues.,0
+Enviromental sustainability (marker),chldrnsss(mrkr),Indicates if the project addresses environmental sustainability.,A marker indicating the project's concern for children's issues.,0
+Enviromental sustainability (marker),ndgnssss(mrkr),Indicates if the project addresses environmental sustainability.,A marker denoting the project's involvement in indigenous issues.,0
+Enviromental sustainability (marker),dsbltsss(mrkr),Indicates if the project addresses environmental sustainability.,A marker indicating the project's focus on disability-related concerns.,0
+Enviromental sustainability (marker),ctstlfrdvlpmnt(mrkr),Indicates if the project addresses environmental sustainability.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Enviromental sustainability (marker),rgnstnd,Indicates if the project addresses environmental sustainability.,The unique identifier for the organization associated with the project.,0
+Enviromental sustainability (marker),rgnstnnm,Indicates if the project addresses environmental sustainability.,The official name of the organization linked to the project.,0
+Enviromental sustainability (marker),rgnstntp,Indicates if the project addresses environmental sustainability.,The type of organization involved in the project.,0
+Enviromental sustainability (marker),rgnstnsb-clss,Indicates if the project addresses environmental sustainability.,A more specific classification within the organization class.,0
+Enviromental sustainability (marker),cntnntd,Indicates if the project addresses environmental sustainability.,The unique code for the continent associated with the project.,0
+Enviromental sustainability (marker),cntnntnm,Indicates if the project addresses environmental sustainability.,The name of the continent linked to the project.,0
+Enviromental sustainability (marker),cntrrgnd,Indicates if the project addresses environmental sustainability.,The identification code for the country or region related to the project.,0
+Enviromental sustainability (marker),cntrrgnnm,Indicates if the project addresses environmental sustainability.,The name of the country or region connected to the project.,0
+Enviromental sustainability (marker),cntrrgnprcnt,Indicates if the project addresses environmental sustainability.,The percentage of the project associated with the country or region.,0
+Enviromental sustainability (marker),sctrnm,Indicates if the project addresses environmental sustainability.,The name of the sector associated with the project,0
+Enviromental sustainability (marker),sctrprcnt,Indicates if the project addresses environmental sustainability.,The percentage of the project linked to the sector.,0
+Enviromental sustainability (marker),mntspnt,Indicates if the project addresses environmental sustainability.,The total expenditure incurred on the project.,0
+Climate change mitigation (marker),fsclr,Indicates if the project addresses climate change mitigation.,The financial year in which the project was conducted.,0
+Climate change mitigation (marker),sctrd,Indicates if the project addresses climate change mitigation.,The unique code for the sector linked to the project.,0
+Climate change mitigation (marker),clmtchngdpttn(mrkr),Indicates if the project addresses climate change mitigation.,A marker indicating the project's involvement in climate change adaptation.,0
+Climate change mitigation (marker),rgnstnclss,Indicates if the project addresses climate change mitigation.,The class to which the organization belongs.,0
+Climate change mitigation (marker),prjctbrwsrcntrd,Indicates if the project addresses climate change mitigation.,The unique identifier for the country associated with the project.,0
+Climate change mitigation (marker),cdbsnssdlvrmdl(ld),Indicates if the project addresses climate change mitigation.,The previous model utilized by CIDA for project delivery.,0
+Climate change mitigation (marker),dvsnnm,Indicates if the project addresses climate change mitigation.,The official name of the division handling the project.,0
+Climate change mitigation (marker),knwldgfrdvlpmnt(mrkr),Indicates if the project addresses climate change mitigation.,A marker representing the project's contribution to knowledge for development.,0
+Climate change mitigation (marker),ntdmnt(prjct-lvlbdgt),Indicates if the project addresses climate change mitigation.,The non-restricted budget allocated to the project.,0
+Climate change mitigation (marker),stts,Indicates if the project addresses climate change mitigation.,The current state or phase of the project.,0
+Climate change mitigation (marker),gndrqlt(mrkr),Indicates if the project addresses climate change mitigation.,A marker indicating the project's commitment to promoting gender equality.,0
+Climate change mitigation (marker),thsss(mrkr),Indicates if the project addresses climate change mitigation.,A marker signifying the project's attention to youth-related matters.,0
+Climate change mitigation (marker),prjctnmbr,Indicates if the project addresses climate change mitigation.,A distinct identifier assigned to each project for reference.,0
+Climate change mitigation (marker),prgrmmngprcss(nw),Indicates if the project addresses climate change mitigation.,The current process employed for project programming.,0
+Climate change mitigation (marker),fndcntrd,Indicates if the project addresses climate change mitigation.,The identification code for the fund center linked to the project.,0
+Climate change mitigation (marker),bdvrst(mrkr),Indicates if the project addresses climate change mitigation.,A marker indicating the project's contribution to biodiversity.,0
+Climate change mitigation (marker),rbnsss(mrkr),Indicates if the project addresses climate change mitigation.,A marker representing the project's focus on urban issues.,0
+Climate change mitigation (marker),chldrnsss(mrkr),Indicates if the project addresses climate change mitigation.,A marker indicating the project's concern for children's issues.,0
+Climate change mitigation (marker),ndgnssss(mrkr),Indicates if the project addresses climate change mitigation.,A marker denoting the project's involvement in indigenous issues.,0
+Climate change mitigation (marker),dsbltsss(mrkr),Indicates if the project addresses climate change mitigation.,A marker indicating the project's focus on disability-related concerns.,0
+Climate change mitigation (marker),ctstlfrdvlpmnt(mrkr),Indicates if the project addresses climate change mitigation.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Climate change mitigation (marker),rgnstnd,Indicates if the project addresses climate change mitigation.,The unique identifier for the organization associated with the project.,0
+Climate change mitigation (marker),rgnstnnm,Indicates if the project addresses climate change mitigation.,The official name of the organization linked to the project.,0
+Climate change mitigation (marker),rgnstntp,Indicates if the project addresses climate change mitigation.,The type of organization involved in the project.,0
+Climate change mitigation (marker),rgnstnsb-clss,Indicates if the project addresses climate change mitigation.,A more specific classification within the organization class.,0
+Climate change mitigation (marker),cntnntd,Indicates if the project addresses climate change mitigation.,The unique code for the continent associated with the project.,0
+Climate change mitigation (marker),cntnntnm,Indicates if the project addresses climate change mitigation.,The name of the continent linked to the project.,0
+Climate change mitigation (marker),cntrrgnd,Indicates if the project addresses climate change mitigation.,The identification code for the country or region related to the project.,0
+Climate change mitigation (marker),cntrrgnnm,Indicates if the project addresses climate change mitigation.,The name of the country or region connected to the project.,0
+Climate change mitigation (marker),cntrrgnprcnt,Indicates if the project addresses climate change mitigation.,The percentage of the project associated with the country or region.,0
+Climate change mitigation (marker),sctrnm,Indicates if the project addresses climate change mitigation.,The name of the sector associated with the project,0
+Climate change mitigation (marker),sctrprcnt,Indicates if the project addresses climate change mitigation.,The percentage of the project linked to the sector.,0
+Climate change mitigation (marker),mntspnt,Indicates if the project addresses climate change mitigation.,The total expenditure incurred on the project.,0
+Desertification (marker),fsclr,Indicates if the project addresses desertification.,The financial year in which the project was conducted.,0
+Desertification (marker),sctrd,Indicates if the project addresses desertification.,The unique code for the sector linked to the project.,0
+Desertification (marker),clmtchngdpttn(mrkr),Indicates if the project addresses desertification.,A marker indicating the project's involvement in climate change adaptation.,0
+Desertification (marker),rgnstnclss,Indicates if the project addresses desertification.,The class to which the organization belongs.,0
+Desertification (marker),prjctbrwsrcntrd,Indicates if the project addresses desertification.,The unique identifier for the country associated with the project.,0
+Desertification (marker),cdbsnssdlvrmdl(ld),Indicates if the project addresses desertification.,The previous model utilized by CIDA for project delivery.,0
+Desertification (marker),dvsnnm,Indicates if the project addresses desertification.,The official name of the division handling the project.,0
+Desertification (marker),knwldgfrdvlpmnt(mrkr),Indicates if the project addresses desertification.,A marker representing the project's contribution to knowledge for development.,0
+Desertification (marker),ntdmnt(prjct-lvlbdgt),Indicates if the project addresses desertification.,The non-restricted budget allocated to the project.,0
+Desertification (marker),stts,Indicates if the project addresses desertification.,The current state or phase of the project.,0
+Desertification (marker),gndrqlt(mrkr),Indicates if the project addresses desertification.,A marker indicating the project's commitment to promoting gender equality.,0
+Desertification (marker),thsss(mrkr),Indicates if the project addresses desertification.,A marker signifying the project's attention to youth-related matters.,0
+Desertification (marker),prjctnmbr,Indicates if the project addresses desertification.,A distinct identifier assigned to each project for reference.,0
+Desertification (marker),prgrmmngprcss(nw),Indicates if the project addresses desertification.,The current process employed for project programming.,0
+Desertification (marker),fndcntrd,Indicates if the project addresses desertification.,The identification code for the fund center linked to the project.,0
+Desertification (marker),bdvrst(mrkr),Indicates if the project addresses desertification.,A marker indicating the project's contribution to biodiversity.,0
+Desertification (marker),rbnsss(mrkr),Indicates if the project addresses desertification.,A marker representing the project's focus on urban issues.,0
+Desertification (marker),chldrnsss(mrkr),Indicates if the project addresses desertification.,A marker indicating the project's concern for children's issues.,0
+Desertification (marker),ndgnssss(mrkr),Indicates if the project addresses desertification.,A marker denoting the project's involvement in indigenous issues.,0
+Desertification (marker),dsbltsss(mrkr),Indicates if the project addresses desertification.,A marker indicating the project's focus on disability-related concerns.,0
+Desertification (marker),ctstlfrdvlpmnt(mrkr),Indicates if the project addresses desertification.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Desertification (marker),rgnstnd,Indicates if the project addresses desertification.,The unique identifier for the organization associated with the project.,0
+Desertification (marker),rgnstnnm,Indicates if the project addresses desertification.,The official name of the organization linked to the project.,0
+Desertification (marker),rgnstntp,Indicates if the project addresses desertification.,The type of organization involved in the project.,0
+Desertification (marker),rgnstnsb-clss,Indicates if the project addresses desertification.,A more specific classification within the organization class.,0
+Desertification (marker),cntnntd,Indicates if the project addresses desertification.,The unique code for the continent associated with the project.,0
+Desertification (marker),cntnntnm,Indicates if the project addresses desertification.,The name of the continent linked to the project.,0
+Desertification (marker),cntrrgnd,Indicates if the project addresses desertification.,The identification code for the country or region related to the project.,0
+Desertification (marker),cntrrgnnm,Indicates if the project addresses desertification.,The name of the country or region connected to the project.,0
+Desertification (marker),cntrrgnprcnt,Indicates if the project addresses desertification.,The percentage of the project associated with the country or region.,0
+Desertification (marker),sctrnm,Indicates if the project addresses desertification.,The name of the sector associated with the project,0
+Desertification (marker),sctrprcnt,Indicates if the project addresses desertification.,The percentage of the project linked to the sector.,0
+Desertification (marker),mntspnt,Indicates if the project addresses desertification.,The total expenditure incurred on the project.,0
+Participatory development and good governance,fsclr,Indicates if the project focuses on participatory development and good governance.,The financial year in which the project was conducted.,0
+Participatory development and good governance,sctrd,Indicates if the project focuses on participatory development and good governance.,The unique code for the sector linked to the project.,0
+Participatory development and good governance,clmtchngdpttn(mrkr),Indicates if the project focuses on participatory development and good governance.,A marker indicating the project's involvement in climate change adaptation.,0
+Participatory development and good governance,rgnstnclss,Indicates if the project focuses on participatory development and good governance.,The class to which the organization belongs.,0
+Participatory development and good governance,prjctbrwsrcntrd,Indicates if the project focuses on participatory development and good governance.,The unique identifier for the country associated with the project.,0
+Participatory development and good governance,cdbsnssdlvrmdl(ld),Indicates if the project focuses on participatory development and good governance.,The previous model utilized by CIDA for project delivery.,0
+Participatory development and good governance,dvsnnm,Indicates if the project focuses on participatory development and good governance.,The official name of the division handling the project.,0
+Participatory development and good governance,knwldgfrdvlpmnt(mrkr),Indicates if the project focuses on participatory development and good governance.,A marker representing the project's contribution to knowledge for development.,0
+Participatory development and good governance,ntdmnt(prjct-lvlbdgt),Indicates if the project focuses on participatory development and good governance.,The non-restricted budget allocated to the project.,0
+Participatory development and good governance,stts,Indicates if the project focuses on participatory development and good governance.,The current state or phase of the project.,0
+Participatory development and good governance,gndrqlt(mrkr),Indicates if the project focuses on participatory development and good governance.,A marker indicating the project's commitment to promoting gender equality.,0
+Participatory development and good governance,thsss(mrkr),Indicates if the project focuses on participatory development and good governance.,A marker signifying the project's attention to youth-related matters.,0
+Participatory development and good governance,prjctnmbr,Indicates if the project focuses on participatory development and good governance.,A distinct identifier assigned to each project for reference.,0
+Participatory development and good governance,prgrmmngprcss(nw),Indicates if the project focuses on participatory development and good governance.,The current process employed for project programming.,0
+Participatory development and good governance,fndcntrd,Indicates if the project focuses on participatory development and good governance.,The identification code for the fund center linked to the project.,0
+Participatory development and good governance,bdvrst(mrkr),Indicates if the project focuses on participatory development and good governance.,A marker indicating the project's contribution to biodiversity.,0
+Participatory development and good governance,rbnsss(mrkr),Indicates if the project focuses on participatory development and good governance.,A marker representing the project's focus on urban issues.,0
+Participatory development and good governance,chldrnsss(mrkr),Indicates if the project focuses on participatory development and good governance.,A marker indicating the project's concern for children's issues.,0
+Participatory development and good governance,ndgnssss(mrkr),Indicates if the project focuses on participatory development and good governance.,A marker denoting the project's involvement in indigenous issues.,0
+Participatory development and good governance,dsbltsss(mrkr),Indicates if the project focuses on participatory development and good governance.,A marker indicating the project's focus on disability-related concerns.,0
+Participatory development and good governance,ctstlfrdvlpmnt(mrkr),Indicates if the project focuses on participatory development and good governance.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Participatory development and good governance,rgnstnd,Indicates if the project focuses on participatory development and good governance.,The unique identifier for the organization associated with the project.,0
+Participatory development and good governance,rgnstnnm,Indicates if the project focuses on participatory development and good governance.,The official name of the organization linked to the project.,0
+Participatory development and good governance,rgnstntp,Indicates if the project focuses on participatory development and good governance.,The type of organization involved in the project.,0
+Participatory development and good governance,rgnstnsb-clss,Indicates if the project focuses on participatory development and good governance.,A more specific classification within the organization class.,0
+Participatory development and good governance,cntnntd,Indicates if the project focuses on participatory development and good governance.,The unique code for the continent associated with the project.,0
+Participatory development and good governance,cntnntnm,Indicates if the project focuses on participatory development and good governance.,The name of the continent linked to the project.,0
+Participatory development and good governance,cntrrgnd,Indicates if the project focuses on participatory development and good governance.,The identification code for the country or region related to the project.,0
+Participatory development and good governance,cntrrgnnm,Indicates if the project focuses on participatory development and good governance.,The name of the country or region connected to the project.,0
+Participatory development and good governance,cntrrgnprcnt,Indicates if the project focuses on participatory development and good governance.,The percentage of the project associated with the country or region.,0
+Participatory development and good governance,sctrnm,Indicates if the project focuses on participatory development and good governance.,The name of the sector associated with the project,0
+Participatory development and good governance,sctrprcnt,Indicates if the project focuses on participatory development and good governance.,The percentage of the project linked to the sector.,0
+Participatory development and good governance,mntspnt,Indicates if the project focuses on participatory development and good governance.,The total expenditure incurred on the project.,0
+Trade development (marker),fsclr,Indicates if the project addresses trade development.,The financial year in which the project was conducted.,0
+Trade development (marker),sctrd,Indicates if the project addresses trade development.,The unique code for the sector linked to the project.,0
+Trade development (marker),clmtchngdpttn(mrkr),Indicates if the project addresses trade development.,A marker indicating the project's involvement in climate change adaptation.,0
+Trade development (marker),rgnstnclss,Indicates if the project addresses trade development.,The class to which the organization belongs.,0
+Trade development (marker),prjctbrwsrcntrd,Indicates if the project addresses trade development.,The unique identifier for the country associated with the project.,0
+Trade development (marker),cdbsnssdlvrmdl(ld),Indicates if the project addresses trade development.,The previous model utilized by CIDA for project delivery.,0
+Trade development (marker),dvsnnm,Indicates if the project addresses trade development.,The official name of the division handling the project.,0
+Trade development (marker),knwldgfrdvlpmnt(mrkr),Indicates if the project addresses trade development.,A marker representing the project's contribution to knowledge for development.,0
+Trade development (marker),ntdmnt(prjct-lvlbdgt),Indicates if the project addresses trade development.,The non-restricted budget allocated to the project.,0
+Trade development (marker),stts,Indicates if the project addresses trade development.,The current state or phase of the project.,0
+Trade development (marker),gndrqlt(mrkr),Indicates if the project addresses trade development.,A marker indicating the project's commitment to promoting gender equality.,0
+Trade development (marker),thsss(mrkr),Indicates if the project addresses trade development.,A marker signifying the project's attention to youth-related matters.,0
+Trade development (marker),prjctnmbr,Indicates if the project addresses trade development.,A distinct identifier assigned to each project for reference.,0
+Trade development (marker),prgrmmngprcss(nw),Indicates if the project addresses trade development.,The current process employed for project programming.,0
+Trade development (marker),fndcntrd,Indicates if the project addresses trade development.,The identification code for the fund center linked to the project.,0
+Trade development (marker),bdvrst(mrkr),Indicates if the project addresses trade development.,A marker indicating the project's contribution to biodiversity.,0
+Trade development (marker),rbnsss(mrkr),Indicates if the project addresses trade development.,A marker representing the project's focus on urban issues.,0
+Trade development (marker),chldrnsss(mrkr),Indicates if the project addresses trade development.,A marker indicating the project's concern for children's issues.,0
+Trade development (marker),ndgnssss(mrkr),Indicates if the project addresses trade development.,A marker denoting the project's involvement in indigenous issues.,0
+Trade development (marker),dsbltsss(mrkr),Indicates if the project addresses trade development.,A marker indicating the project's focus on disability-related concerns.,0
+Trade development (marker),ctstlfrdvlpmnt(mrkr),Indicates if the project addresses trade development.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Trade development (marker),rgnstnd,Indicates if the project addresses trade development.,The unique identifier for the organization associated with the project.,0
+Trade development (marker),rgnstnnm,Indicates if the project addresses trade development.,The official name of the organization linked to the project.,0
+Trade development (marker),rgnstntp,Indicates if the project addresses trade development.,The type of organization involved in the project.,0
+Trade development (marker),rgnstnsb-clss,Indicates if the project addresses trade development.,A more specific classification within the organization class.,0
+Trade development (marker),cntnntd,Indicates if the project addresses trade development.,The unique code for the continent associated with the project.,0
+Trade development (marker),cntnntnm,Indicates if the project addresses trade development.,The name of the continent linked to the project.,0
+Trade development (marker),cntrrgnd,Indicates if the project addresses trade development.,The identification code for the country or region related to the project.,0
+Trade development (marker),cntrrgnnm,Indicates if the project addresses trade development.,The name of the country or region connected to the project.,0
+Trade development (marker),cntrrgnprcnt,Indicates if the project addresses trade development.,The percentage of the project associated with the country or region.,0
+Trade development (marker),sctrnm,Indicates if the project addresses trade development.,The name of the sector associated with the project,0
+Trade development (marker),sctrprcnt,Indicates if the project addresses trade development.,The percentage of the project linked to the sector.,0
+Trade development (marker),mntspnt,Indicates if the project addresses trade development.,The total expenditure incurred on the project.,0

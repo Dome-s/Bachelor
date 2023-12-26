@@ -1,0 +1,677 @@
+source,target,conf,realConf
+Fiscal year,fsclr,0.03333333333333333,1
+Fiscal year,trddvlpmnt(mrkr),0.13333333333333333,0
+Fiscal year,bdvrst(mrkr),0.13333333333333333,0
+Fiscal year,rbnsss(mrkr),0.13333333333333333,0
+Fiscal year,chldrnsss(mrkr),0.13333333333333333,0
+Fiscal year,thsss(mrkr),0.13333333333333333,0
+Fiscal year,ndgnssss(mrkr),0.13333333333333333,0
+Fiscal year,dsbltsss(mrkr),0.13333333333333333,0
+Fiscal year,ctstlfrdvlpmnt(mrkr),0.1,0
+Fiscal year,knwldgfrdvlpmnt(mrkr),0.13333333333333333,0
+Fiscal year,gndrqlt(mrkr),0.13333333333333333,0
+Fiscal year,rgnstnd,0.08849557522123894,0
+Fiscal year,rgnstnnm,0.08849557522123894,0
+Fiscal year,rgnstntp,0.13333333333333333,0
+Fiscal year,rgnstnclss,0.2,0
+Fiscal year,rgnstnsb-clss,0.8,0
+Fiscal year,cntnntd,0.16666666666666666,0
+Fiscal year,cntnntnm,0.16666666666666666,0
+Fiscal year,prjctbrwsrcntrd,0.19607843137254902,0
+Fiscal year,cntrrgnd,0.2112676056338028,0
+Fiscal year,cntrrgnnm,0.20689655172413793,0
+Fiscal year,cntrrgnprcnt,0.07462686567164178,0
+Fiscal year,sctrd,0.24390243902439024,0
+Fiscal year,sctrnm,0.24390243902439024,0
+Fiscal year,sctrprcnt,0.16216216216216217,0
+Fiscal year,mntspnt,0.00597609561752988,0
+Project number,fsclr,0.0007331378299120235,0
+Project number,trddvlpmnt(mrkr),0.002932551319648094,0
+Project number,bdvrst(mrkr),0.002932551319648094,0
+Project number,rbnsss(mrkr),0.002932551319648094,0
+Project number,chldrnsss(mrkr),0.002932551319648094,0
+Project number,thsss(mrkr),0.002932551319648094,0
+Project number,ndgnssss(mrkr),0.002932551319648094,0
+Project number,dsbltsss(mrkr),0.002932551319648094,0
+Project number,ctstlfrdvlpmnt(mrkr),0.0021994134897360706,0
+Project number,knwldgfrdvlpmnt(mrkr),0.002932551319648094,0
+Project number,gndrqlt(mrkr),0.002932551319648094,0
+Project number,rgnstnd,0.24853372434017595,0
+Project number,rgnstnnm,0.24853372434017595,0
+Project number,rgnstntp,0.002932551319648094,0
+Project number,rgnstnclss,0.004398826979472141,0
+Project number,rgnstnsb-clss,0.017595307917888565,0
+Project number,cntnntd,0.0036656891495601175,0
+Project number,cntnntnm,0.0036656891495601175,0
+Project number,prjctbrwsrcntrd,0.11217008797653959,0
+Project number,cntrrgnd,0.10410557184750734,0
+Project number,cntrrgnnm,0.1063049853372434,0
+Project number,cntrrgnprcnt,0.29472140762463345,0
+Project number,sctrd,0.09017595307917889,0
+Project number,sctrnm,0.09017595307917889,0
+Project number,sctrprcnt,0.13563049853372433,0
+Project number,mntspnt,0.27171314741035857,0
+Status,fsclr,0.3333333333333333,0
+Status,trddvlpmnt(mrkr),0.75,0
+Status,bdvrst(mrkr),0.75,0
+Status,rbnsss(mrkr),0.75,0
+Status,chldrnsss(mrkr),0.75,0
+Status,thsss(mrkr),0.75,0
+Status,ndgnssss(mrkr),0.75,0
+Status,dsbltsss(mrkr),0.75,0
+Status,ctstlfrdvlpmnt(mrkr),1.0,0
+Status,knwldgfrdvlpmnt(mrkr),0.75,0
+Status,gndrqlt(mrkr),0.75,0
+Status,rgnstnd,0.008849557522123894,0
+Status,rgnstnnm,0.008849557522123894,0
+Status,rgnstntp,0.75,0
+Status,rgnstnclss,0.5,0
+Status,rgnstnsb-clss,0.125,0
+Status,cntnntd,0.6,0
+Status,cntnntnm,0.6,0
+Status,prjctbrwsrcntrd,0.0196078431372549,0
+Status,cntrrgnd,0.02112676056338028,0
+Status,cntrrgnnm,0.020689655172413793,0
+Status,cntrrgnprcnt,0.007462686567164179,0
+Status,sctrd,0.024390243902439025,0
+Status,sctrnm,0.024390243902439025,0
+Status,sctrprcnt,0.016216216216216217,0
+Status,mntspnt,0.000597609561752988,0
+Maximum CIDA contribution (project-level),fsclr,0.0009132420091324201,0
+Maximum CIDA contribution (project-level),trddvlpmnt(mrkr),0.0036529680365296802,0
+Maximum CIDA contribution (project-level),bdvrst(mrkr),0.0036529680365296802,0
+Maximum CIDA contribution (project-level),rbnsss(mrkr),0.0036529680365296802,0
+Maximum CIDA contribution (project-level),chldrnsss(mrkr),0.0036529680365296802,0
+Maximum CIDA contribution (project-level),thsss(mrkr),0.0036529680365296802,0
+Maximum CIDA contribution (project-level),ndgnssss(mrkr),0.0036529680365296802,0
+Maximum CIDA contribution (project-level),dsbltsss(mrkr),0.0036529680365296802,0
+Maximum CIDA contribution (project-level),ctstlfrdvlpmnt(mrkr),0.0027397260273972603,0
+Maximum CIDA contribution (project-level),knwldgfrdvlpmnt(mrkr),0.0036529680365296802,0
+Maximum CIDA contribution (project-level),gndrqlt(mrkr),0.0036529680365296802,0
+Maximum CIDA contribution (project-level),rgnstnd,0.3095890410958904,0
+Maximum CIDA contribution (project-level),rgnstnnm,0.3095890410958904,0
+Maximum CIDA contribution (project-level),rgnstntp,0.0036529680365296802,0
+Maximum CIDA contribution (project-level),rgnstnclss,0.005479452054794521,0
+Maximum CIDA contribution (project-level),rgnstnsb-clss,0.021917808219178082,0
+Maximum CIDA contribution (project-level),cntnntd,0.0045662100456621,0
+Maximum CIDA contribution (project-level),cntnntnm,0.0045662100456621,0
+Maximum CIDA contribution (project-level),prjctbrwsrcntrd,0.13972602739726028,0
+Maximum CIDA contribution (project-level),cntrrgnd,0.12968036529680366,0
+Maximum CIDA contribution (project-level),cntrrgnnm,0.1324200913242009,0
+Maximum CIDA contribution (project-level),cntrrgnprcnt,0.36712328767123287,0
+Maximum CIDA contribution (project-level),sctrd,0.11232876712328767,0
+Maximum CIDA contribution (project-level),sctrnm,0.11232876712328767,0
+Maximum CIDA contribution (project-level),sctrprcnt,0.1689497716894977,0
+Maximum CIDA contribution (project-level),mntspnt,0.21812749003984064,0
+Branch ID,fsclr,0.14285714285714285,0
+Branch ID,trddvlpmnt(mrkr),0.5714285714285714,0
+Branch ID,bdvrst(mrkr),0.5714285714285714,0
+Branch ID,rbnsss(mrkr),0.5714285714285714,0
+Branch ID,chldrnsss(mrkr),0.5714285714285714,0
+Branch ID,thsss(mrkr),0.5714285714285714,0
+Branch ID,ndgnssss(mrkr),0.5714285714285714,0
+Branch ID,dsbltsss(mrkr),0.5714285714285714,0
+Branch ID,ctstlfrdvlpmnt(mrkr),0.42857142857142855,0
+Branch ID,knwldgfrdvlpmnt(mrkr),0.5714285714285714,0
+Branch ID,gndrqlt(mrkr),0.5714285714285714,0
+Branch ID,rgnstnd,0.02064896755162242,0
+Branch ID,rgnstnnm,0.02064896755162242,0
+Branch ID,rgnstntp,0.5714285714285714,0
+Branch ID,rgnstnclss,0.8571428571428571,0
+Branch ID,rgnstnsb-clss,0.2916666666666667,0
+Branch ID,cntnntd,0.7142857142857143,0
+Branch ID,cntnntnm,0.7142857142857143,0
+Branch ID,prjctbrwsrcntrd,0.0457516339869281,0
+Branch ID,cntrrgnd,0.04929577464788732,0
+Branch ID,cntrrgnnm,0.04827586206896552,0
+Branch ID,cntrrgnprcnt,0.017412935323383085,0
+Branch ID,sctrd,0.056910569105691054,0
+Branch ID,sctrnm,0.056910569105691054,0
+Branch ID,sctrprcnt,0.03783783783783784,0
+Branch ID,mntspnt,0.0013944223107569722,0
+Branch name,fsclr,0.14285714285714285,0
+Branch name,trddvlpmnt(mrkr),0.5714285714285714,0
+Branch name,bdvrst(mrkr),0.5714285714285714,0
+Branch name,rbnsss(mrkr),0.5714285714285714,0
+Branch name,chldrnsss(mrkr),0.5714285714285714,0
+Branch name,thsss(mrkr),0.5714285714285714,0
+Branch name,ndgnssss(mrkr),0.5714285714285714,0
+Branch name,dsbltsss(mrkr),0.5714285714285714,0
+Branch name,ctstlfrdvlpmnt(mrkr),0.42857142857142855,0
+Branch name,knwldgfrdvlpmnt(mrkr),0.5714285714285714,0
+Branch name,gndrqlt(mrkr),0.5714285714285714,0
+Branch name,rgnstnd,0.02064896755162242,0
+Branch name,rgnstnnm,0.02064896755162242,0
+Branch name,rgnstntp,0.5714285714285714,0
+Branch name,rgnstnclss,0.8571428571428571,0
+Branch name,rgnstnsb-clss,0.2916666666666667,0
+Branch name,cntnntd,0.7142857142857143,0
+Branch name,cntnntnm,0.7142857142857143,0
+Branch name,prjctbrwsrcntrd,0.0457516339869281,0
+Branch name,cntrrgnd,0.04929577464788732,0
+Branch name,cntrrgnnm,0.04827586206896552,0
+Branch name,cntrrgnprcnt,0.017412935323383085,0
+Branch name,sctrd,0.056910569105691054,0
+Branch name,sctrnm,0.056910569105691054,0
+Branch name,sctrprcnt,0.03783783783783784,0
+Branch name,mntspnt,0.0013944223107569722,0
+Division ID,fsclr,0.058823529411764705,0
+Division ID,trddvlpmnt(mrkr),0.23529411764705882,0
+Division ID,bdvrst(mrkr),0.23529411764705882,0
+Division ID,rbnsss(mrkr),0.23529411764705882,0
+Division ID,chldrnsss(mrkr),0.23529411764705882,0
+Division ID,thsss(mrkr),0.23529411764705882,0
+Division ID,ndgnssss(mrkr),0.23529411764705882,0
+Division ID,dsbltsss(mrkr),0.23529411764705882,0
+Division ID,ctstlfrdvlpmnt(mrkr),0.17647058823529413,0
+Division ID,knwldgfrdvlpmnt(mrkr),0.23529411764705882,0
+Division ID,gndrqlt(mrkr),0.23529411764705882,0
+Division ID,rgnstnd,0.05014749262536873,0
+Division ID,rgnstnnm,0.05014749262536873,0
+Division ID,rgnstntp,0.23529411764705882,0
+Division ID,rgnstnclss,0.35294117647058826,0
+Division ID,rgnstnsb-clss,0.7083333333333334,0
+Division ID,cntnntd,0.29411764705882354,0
+Division ID,cntnntnm,0.29411764705882354,0
+Division ID,prjctbrwsrcntrd,0.1111111111111111,0
+Division ID,cntrrgnd,0.11971830985915492,0
+Division ID,cntrrgnnm,0.11724137931034483,0
+Division ID,cntrrgnprcnt,0.04228855721393035,0
+Division ID,sctrd,0.13821138211382114,0
+Division ID,sctrnm,0.13821138211382114,0
+Division ID,sctrprcnt,0.0918918918918919,0
+Division ID,mntspnt,0.003386454183266932,0
+Division name,fsclr,0.058823529411764705,0
+Division name,trddvlpmnt(mrkr),0.23529411764705882,0
+Division name,bdvrst(mrkr),0.23529411764705882,0
+Division name,rbnsss(mrkr),0.23529411764705882,0
+Division name,chldrnsss(mrkr),0.23529411764705882,0
+Division name,thsss(mrkr),0.23529411764705882,0
+Division name,ndgnssss(mrkr),0.23529411764705882,0
+Division name,dsbltsss(mrkr),0.23529411764705882,0
+Division name,ctstlfrdvlpmnt(mrkr),0.17647058823529413,0
+Division name,knwldgfrdvlpmnt(mrkr),0.23529411764705882,0
+Division name,gndrqlt(mrkr),0.23529411764705882,0
+Division name,rgnstnd,0.05014749262536873,0
+Division name,rgnstnnm,0.05014749262536873,0
+Division name,rgnstntp,0.23529411764705882,0
+Division name,rgnstnclss,0.35294117647058826,0
+Division name,rgnstnsb-clss,0.7083333333333334,0
+Division name,cntnntd,0.29411764705882354,0
+Division name,cntnntnm,0.29411764705882354,0
+Division name,prjctbrwsrcntrd,0.1111111111111111,0
+Division name,cntrrgnd,0.11971830985915492,0
+Division name,cntrrgnnm,0.11724137931034483,0
+Division name,cntrrgnprcnt,0.04228855721393035,0
+Division name,sctrd,0.13821138211382114,0
+Division name,sctrnm,0.13821138211382114,0
+Division name,sctrprcnt,0.0918918918918919,0
+Division name,mntspnt,0.003386454183266932,0
+Section ID,fsclr,0.0196078431372549,0
+Section ID,trddvlpmnt(mrkr),0.0784313725490196,0
+Section ID,bdvrst(mrkr),0.0784313725490196,0
+Section ID,rbnsss(mrkr),0.0784313725490196,0
+Section ID,chldrnsss(mrkr),0.0784313725490196,0
+Section ID,thsss(mrkr),0.0784313725490196,0
+Section ID,ndgnssss(mrkr),0.0784313725490196,0
+Section ID,dsbltsss(mrkr),0.0784313725490196,0
+Section ID,ctstlfrdvlpmnt(mrkr),0.058823529411764705,0
+Section ID,knwldgfrdvlpmnt(mrkr),0.0784313725490196,0
+Section ID,gndrqlt(mrkr),0.0784313725490196,0
+Section ID,rgnstnd,0.1504424778761062,0
+Section ID,rgnstnnm,0.1504424778761062,0
+Section ID,rgnstntp,0.0784313725490196,0
+Section ID,rgnstnclss,0.11764705882352941,0
+Section ID,rgnstnsb-clss,0.47058823529411764,0
+Section ID,cntnntd,0.09803921568627451,0
+Section ID,cntnntnm,0.09803921568627451,0
+Section ID,prjctbrwsrcntrd,0.3333333333333333,0
+Section ID,cntrrgnd,0.3591549295774648,0
+Section ID,cntrrgnnm,0.35172413793103446,0
+Section ID,cntrrgnprcnt,0.12686567164179105,0
+Section ID,sctrd,0.4146341463414634,0
+Section ID,sctrnm,0.4146341463414634,0
+Section ID,sctrprcnt,0.2756756756756757,0
+Section ID,mntspnt,0.010159362549800797,0
+Section name,fsclr,0.0196078431372549,0
+Section name,trddvlpmnt(mrkr),0.0784313725490196,0
+Section name,bdvrst(mrkr),0.0784313725490196,0
+Section name,rbnsss(mrkr),0.0784313725490196,0
+Section name,chldrnsss(mrkr),0.0784313725490196,0
+Section name,thsss(mrkr),0.0784313725490196,0
+Section name,ndgnssss(mrkr),0.0784313725490196,0
+Section name,dsbltsss(mrkr),0.0784313725490196,0
+Section name,ctstlfrdvlpmnt(mrkr),0.058823529411764705,0
+Section name,knwldgfrdvlpmnt(mrkr),0.0784313725490196,0
+Section name,gndrqlt(mrkr),0.0784313725490196,0
+Section name,rgnstnd,0.1504424778761062,0
+Section name,rgnstnnm,0.1504424778761062,0
+Section name,rgnstntp,0.0784313725490196,0
+Section name,rgnstnclss,0.11764705882352941,0
+Section name,rgnstnsb-clss,0.47058823529411764,0
+Section name,cntnntd,0.09803921568627451,0
+Section name,cntnntnm,0.09803921568627451,0
+Section name,prjctbrwsrcntrd,0.3333333333333333,0
+Section name,cntrrgnd,0.3591549295774648,0
+Section name,cntrrgnnm,0.35172413793103446,0
+Section name,cntrrgnprcnt,0.12686567164179105,0
+Section name,sctrd,0.4146341463414634,0
+Section name,sctrnm,0.4146341463414634,0
+Section name,sctrprcnt,0.2756756756756757,0
+Section name,mntspnt,0.010159362549800797,0
+Regional program (marker),fsclr,0.5,0
+Regional program (marker),trddvlpmnt(mrkr),0.5,0
+Regional program (marker),bdvrst(mrkr),0.5,0
+Regional program (marker),rbnsss(mrkr),0.5,0
+Regional program (marker),chldrnsss(mrkr),0.5,0
+Regional program (marker),thsss(mrkr),0.5,0
+Regional program (marker),ndgnssss(mrkr),0.5,0
+Regional program (marker),dsbltsss(mrkr),0.5,0
+Regional program (marker),ctstlfrdvlpmnt(mrkr),0.6666666666666666,0
+Regional program (marker),knwldgfrdvlpmnt(mrkr),0.5,0
+Regional program (marker),gndrqlt(mrkr),0.5,0
+Regional program (marker),rgnstnd,0.0058997050147492625,0
+Regional program (marker),rgnstnnm,0.0058997050147492625,0
+Regional program (marker),rgnstntp,0.5,0
+Regional program (marker),rgnstnclss,0.3333333333333333,0
+Regional program (marker),rgnstnsb-clss,0.08333333333333333,0
+Regional program (marker),cntnntd,0.4,0
+Regional program (marker),cntnntnm,0.4,0
+Regional program (marker),prjctbrwsrcntrd,0.013071895424836602,0
+Regional program (marker),cntrrgnd,0.014084507042253521,0
+Regional program (marker),cntrrgnnm,0.013793103448275862,0
+Regional program (marker),cntrrgnprcnt,0.004975124378109453,0
+Regional program (marker),sctrd,0.016260162601626018,0
+Regional program (marker),sctrnm,0.016260162601626018,0
+Regional program (marker),sctrprcnt,0.010810810810810811,0
+Regional program (marker),mntspnt,0.00039840637450199205,0
+Fund centre ID,fsclr,0.006172839506172839,0
+Fund centre ID,trddvlpmnt(mrkr),0.024691358024691357,0
+Fund centre ID,bdvrst(mrkr),0.024691358024691357,0
+Fund centre ID,rbnsss(mrkr),0.024691358024691357,0
+Fund centre ID,chldrnsss(mrkr),0.024691358024691357,0
+Fund centre ID,thsss(mrkr),0.024691358024691357,0
+Fund centre ID,ndgnssss(mrkr),0.024691358024691357,0
+Fund centre ID,dsbltsss(mrkr),0.024691358024691357,0
+Fund centre ID,ctstlfrdvlpmnt(mrkr),0.018518518518518517,0
+Fund centre ID,knwldgfrdvlpmnt(mrkr),0.024691358024691357,0
+Fund centre ID,gndrqlt(mrkr),0.024691358024691357,0
+Fund centre ID,rgnstnd,0.4778761061946903,0
+Fund centre ID,rgnstnnm,0.4778761061946903,0
+Fund centre ID,rgnstntp,0.024691358024691357,0
+Fund centre ID,rgnstnclss,0.037037037037037035,0
+Fund centre ID,rgnstnsb-clss,0.14814814814814814,0
+Fund centre ID,cntnntd,0.030864197530864196,0
+Fund centre ID,cntnntnm,0.030864197530864196,0
+Fund centre ID,prjctbrwsrcntrd,0.9444444444444444,0
+Fund centre ID,cntrrgnd,0.8765432098765432,0
+Fund centre ID,cntrrgnnm,0.8950617283950617,0
+Fund centre ID,cntrrgnprcnt,0.40298507462686567,0
+Fund centre ID,sctrd,0.7592592592592593,0
+Fund centre ID,sctrnm,0.7592592592592593,0
+Fund centre ID,sctrprcnt,0.8756756756756757,0
+Fund centre ID,mntspnt,0.03227091633466136,0
+Fund centre name,fsclr,0.006172839506172839,0
+Fund centre name,trddvlpmnt(mrkr),0.024691358024691357,0
+Fund centre name,bdvrst(mrkr),0.024691358024691357,0
+Fund centre name,rbnsss(mrkr),0.024691358024691357,0
+Fund centre name,chldrnsss(mrkr),0.024691358024691357,0
+Fund centre name,thsss(mrkr),0.024691358024691357,0
+Fund centre name,ndgnssss(mrkr),0.024691358024691357,0
+Fund centre name,dsbltsss(mrkr),0.024691358024691357,0
+Fund centre name,ctstlfrdvlpmnt(mrkr),0.018518518518518517,0
+Fund centre name,knwldgfrdvlpmnt(mrkr),0.024691358024691357,0
+Fund centre name,gndrqlt(mrkr),0.024691358024691357,0
+Fund centre name,rgnstnd,0.4778761061946903,0
+Fund centre name,rgnstnnm,0.4778761061946903,0
+Fund centre name,rgnstntp,0.024691358024691357,0
+Fund centre name,rgnstnclss,0.037037037037037035,0
+Fund centre name,rgnstnsb-clss,0.14814814814814814,0
+Fund centre name,cntnntd,0.030864197530864196,0
+Fund centre name,cntnntnm,0.030864197530864196,0
+Fund centre name,prjctbrwsrcntrd,0.9444444444444444,0
+Fund centre name,cntrrgnd,0.8765432098765432,0
+Fund centre name,cntrrgnnm,0.8950617283950617,0
+Fund centre name,cntrrgnprcnt,0.40298507462686567,0
+Fund centre name,sctrd,0.7592592592592593,0
+Fund centre name,sctrnm,0.7592592592592593,0
+Fund centre name,sctrprcnt,0.8756756756756757,0
+Fund centre name,mntspnt,0.03227091633466136,0
+Untied amount(Project-level budget),fsclr,0.0011641443538998836,0
+Untied amount(Project-level budget),trddvlpmnt(mrkr),0.004656577415599534,0
+Untied amount(Project-level budget),bdvrst(mrkr),0.004656577415599534,0
+Untied amount(Project-level budget),rbnsss(mrkr),0.004656577415599534,0
+Untied amount(Project-level budget),chldrnsss(mrkr),0.004656577415599534,0
+Untied amount(Project-level budget),thsss(mrkr),0.004656577415599534,0
+Untied amount(Project-level budget),ndgnssss(mrkr),0.004656577415599534,0
+Untied amount(Project-level budget),dsbltsss(mrkr),0.004656577415599534,0
+Untied amount(Project-level budget),ctstlfrdvlpmnt(mrkr),0.0034924330616996507,0
+Untied amount(Project-level budget),knwldgfrdvlpmnt(mrkr),0.004656577415599534,0
+Untied amount(Project-level budget),gndrqlt(mrkr),0.004656577415599534,0
+Untied amount(Project-level budget),rgnstnd,0.3946449359720605,0
+Untied amount(Project-level budget),rgnstnnm,0.3946449359720605,0
+Untied amount(Project-level budget),rgnstntp,0.004656577415599534,0
+Untied amount(Project-level budget),rgnstnclss,0.006984866123399301,0
+Untied amount(Project-level budget),rgnstnsb-clss,0.027939464493597205,0
+Untied amount(Project-level budget),cntnntd,0.005820721769499418,0
+Untied amount(Project-level budget),cntnntnm,0.005820721769499418,0
+Untied amount(Project-level budget),prjctbrwsrcntrd,0.1781140861466822,0
+Untied amount(Project-level budget),cntrrgnd,0.16530849825378346,0
+Untied amount(Project-level budget),cntrrgnnm,0.16880093131548313,0
+Untied amount(Project-level budget),cntrrgnprcnt,0.4679860302677532,0
+Untied amount(Project-level budget),sctrd,0.14318975552968569,0
+Untied amount(Project-level budget),sctrnm,0.14318975552968569,0
+Untied amount(Project-level budget),sctrprcnt,0.21536670547147846,0
+Untied amount(Project-level budget),mntspnt,0.1711155378486056,0
+FSTC percent,fsclr,0.02040816326530612,0
+FSTC percent,trddvlpmnt(mrkr),0.08163265306122448,0
+FSTC percent,bdvrst(mrkr),0.08163265306122448,0
+FSTC percent,rbnsss(mrkr),0.08163265306122448,0
+FSTC percent,chldrnsss(mrkr),0.08163265306122448,0
+FSTC percent,thsss(mrkr),0.08163265306122448,0
+FSTC percent,ndgnssss(mrkr),0.08163265306122448,0
+FSTC percent,dsbltsss(mrkr),0.08163265306122448,0
+FSTC percent,ctstlfrdvlpmnt(mrkr),0.061224489795918366,0
+FSTC percent,knwldgfrdvlpmnt(mrkr),0.08163265306122448,0
+FSTC percent,gndrqlt(mrkr),0.08163265306122448,0
+FSTC percent,rgnstnd,0.14454277286135694,0
+FSTC percent,rgnstnnm,0.14454277286135694,0
+FSTC percent,rgnstntp,0.08163265306122448,0
+FSTC percent,rgnstnclss,0.12244897959183673,0
+FSTC percent,rgnstnsb-clss,0.4897959183673469,0
+FSTC percent,cntnntd,0.10204081632653061,0
+FSTC percent,cntnntnm,0.10204081632653061,0
+FSTC percent,prjctbrwsrcntrd,0.3202614379084967,0
+FSTC percent,cntrrgnd,0.34507042253521125,0
+FSTC percent,cntrrgnnm,0.33793103448275863,0
+FSTC percent,cntrrgnprcnt,0.12189054726368159,0
+FSTC percent,sctrd,0.3983739837398374,0
+FSTC percent,sctrnm,0.3983739837398374,0
+FSTC percent,sctrprcnt,0.2648648648648649,0
+FSTC percent,mntspnt,0.009760956175298804,0
+IRTC percent,fsclr,0.25,0
+IRTC percent,trddvlpmnt(mrkr),1.0,0
+IRTC percent,bdvrst(mrkr),1.0,0
+IRTC percent,rbnsss(mrkr),1.0,0
+IRTC percent,chldrnsss(mrkr),1.0,0
+IRTC percent,thsss(mrkr),1.0,0
+IRTC percent,ndgnssss(mrkr),1.0,0
+IRTC percent,dsbltsss(mrkr),1.0,0
+IRTC percent,ctstlfrdvlpmnt(mrkr),0.75,0
+IRTC percent,knwldgfrdvlpmnt(mrkr),1.0,0
+IRTC percent,gndrqlt(mrkr),1.0,0
+IRTC percent,rgnstnd,0.011799410029498525,0
+IRTC percent,rgnstnnm,0.011799410029498525,0
+IRTC percent,rgnstntp,1.0,0
+IRTC percent,rgnstnclss,0.6666666666666666,0
+IRTC percent,rgnstnsb-clss,0.16666666666666666,0
+IRTC percent,cntnntd,0.8,0
+IRTC percent,cntnntnm,0.8,0
+IRTC percent,prjctbrwsrcntrd,0.026143790849673203,0
+IRTC percent,cntrrgnd,0.028169014084507043,0
+IRTC percent,cntrrgnnm,0.027586206896551724,0
+IRTC percent,cntrrgnprcnt,0.009950248756218905,0
+IRTC percent,sctrd,0.032520325203252036,0
+IRTC percent,sctrnm,0.032520325203252036,0
+IRTC percent,sctrprcnt,0.021621621621621623,0
+IRTC percent,mntspnt,0.0007968127490039841,0
+CFLI (marker),fsclr,0.5,0
+CFLI (marker),trddvlpmnt(mrkr),0.5,0
+CFLI (marker),bdvrst(mrkr),0.5,0
+CFLI (marker),rbnsss(mrkr),0.5,0
+CFLI (marker),chldrnsss(mrkr),0.5,0
+CFLI (marker),thsss(mrkr),0.5,0
+CFLI (marker),ndgnssss(mrkr),0.5,0
+CFLI (marker),dsbltsss(mrkr),0.5,0
+CFLI (marker),ctstlfrdvlpmnt(mrkr),0.6666666666666666,0
+CFLI (marker),knwldgfrdvlpmnt(mrkr),0.5,0
+CFLI (marker),gndrqlt(mrkr),0.5,0
+CFLI (marker),rgnstnd,0.0058997050147492625,0
+CFLI (marker),rgnstnnm,0.0058997050147492625,0
+CFLI (marker),rgnstntp,0.5,0
+CFLI (marker),rgnstnclss,0.3333333333333333,0
+CFLI (marker),rgnstnsb-clss,0.08333333333333333,0
+CFLI (marker),cntnntd,0.4,0
+CFLI (marker),cntnntnm,0.4,0
+CFLI (marker),prjctbrwsrcntrd,0.013071895424836602,0
+CFLI (marker),cntrrgnd,0.014084507042253521,0
+CFLI (marker),cntrrgnnm,0.013793103448275862,0
+CFLI (marker),cntrrgnprcnt,0.004975124378109453,0
+CFLI (marker),sctrd,0.016260162601626018,0
+CFLI (marker),sctrnm,0.016260162601626018,0
+CFLI (marker),sctrprcnt,0.010810810810810811,0
+CFLI (marker),mntspnt,0.00039840637450199205,0
+CIDA business delivery model (old),fsclr,0.3333333333333333,0
+CIDA business delivery model (old),trddvlpmnt(mrkr),0.75,0
+CIDA business delivery model (old),bdvrst(mrkr),0.75,0
+CIDA business delivery model (old),rbnsss(mrkr),0.75,0
+CIDA business delivery model (old),chldrnsss(mrkr),0.75,0
+CIDA business delivery model (old),thsss(mrkr),0.75,0
+CIDA business delivery model (old),ndgnssss(mrkr),0.75,0
+CIDA business delivery model (old),dsbltsss(mrkr),0.75,0
+CIDA business delivery model (old),ctstlfrdvlpmnt(mrkr),1.0,0
+CIDA business delivery model (old),knwldgfrdvlpmnt(mrkr),0.75,0
+CIDA business delivery model (old),gndrqlt(mrkr),0.75,0
+CIDA business delivery model (old),rgnstnd,0.008849557522123894,0
+CIDA business delivery model (old),rgnstnnm,0.008849557522123894,0
+CIDA business delivery model (old),rgnstntp,0.75,0
+CIDA business delivery model (old),rgnstnclss,0.5,0
+CIDA business delivery model (old),rgnstnsb-clss,0.125,0
+CIDA business delivery model (old),cntnntd,0.6,0
+CIDA business delivery model (old),cntnntnm,0.6,0
+CIDA business delivery model (old),prjctbrwsrcntrd,0.0196078431372549,0
+CIDA business delivery model (old),cntrrgnd,0.02112676056338028,0
+CIDA business delivery model (old),cntrrgnnm,0.020689655172413793,0
+CIDA business delivery model (old),cntrrgnprcnt,0.007462686567164179,0
+CIDA business delivery model (old),sctrd,0.024390243902439025,0
+CIDA business delivery model (old),sctrnm,0.024390243902439025,0
+CIDA business delivery model (old),sctrprcnt,0.016216216216216217,0
+CIDA business delivery model (old),mntspnt,0.000597609561752988,0
+Programming process (new),fsclr,1.0,0
+Programming process (new),trddvlpmnt(mrkr),0.25,0
+Programming process (new),bdvrst(mrkr),0.25,0
+Programming process (new),rbnsss(mrkr),0.25,0
+Programming process (new),chldrnsss(mrkr),0.25,0
+Programming process (new),thsss(mrkr),0.25,0
+Programming process (new),ndgnssss(mrkr),0.25,0
+Programming process (new),dsbltsss(mrkr),0.25,0
+Programming process (new),ctstlfrdvlpmnt(mrkr),0.3333333333333333,0
+Programming process (new),knwldgfrdvlpmnt(mrkr),0.25,0
+Programming process (new),gndrqlt(mrkr),0.25,0
+Programming process (new),rgnstnd,0.0029498525073746312,0
+Programming process (new),rgnstnnm,0.0029498525073746312,0
+Programming process (new),rgnstntp,0.25,0
+Programming process (new),rgnstnclss,0.16666666666666666,0
+Programming process (new),rgnstnsb-clss,0.041666666666666664,0
+Programming process (new),cntnntd,0.2,0
+Programming process (new),cntnntnm,0.2,0
+Programming process (new),prjctbrwsrcntrd,0.006535947712418301,0
+Programming process (new),cntrrgnd,0.007042253521126761,0
+Programming process (new),cntrrgnnm,0.006896551724137931,0
+Programming process (new),cntrrgnprcnt,0.0024875621890547263,0
+Programming process (new),sctrd,0.008130081300813009,0
+Programming process (new),sctrnm,0.008130081300813009,0
+Programming process (new),sctrprcnt,0.005405405405405406,0
+Programming process (new),mntspnt,0.00019920318725099602,0
+Bilateral aid (international marker),fsclr,0.5,0
+Bilateral aid (international marker),trddvlpmnt(mrkr),0.5,0
+Bilateral aid (international marker),bdvrst(mrkr),0.5,0
+Bilateral aid (international marker),rbnsss(mrkr),0.5,0
+Bilateral aid (international marker),chldrnsss(mrkr),0.5,0
+Bilateral aid (international marker),thsss(mrkr),0.5,0
+Bilateral aid (international marker),ndgnssss(mrkr),0.5,0
+Bilateral aid (international marker),dsbltsss(mrkr),0.5,0
+Bilateral aid (international marker),ctstlfrdvlpmnt(mrkr),0.6666666666666666,0
+Bilateral aid (international marker),knwldgfrdvlpmnt(mrkr),0.5,0
+Bilateral aid (international marker),gndrqlt(mrkr),0.5,0
+Bilateral aid (international marker),rgnstnd,0.0058997050147492625,0
+Bilateral aid (international marker),rgnstnnm,0.0058997050147492625,0
+Bilateral aid (international marker),rgnstntp,0.5,0
+Bilateral aid (international marker),rgnstnclss,0.3333333333333333,0
+Bilateral aid (international marker),rgnstnsb-clss,0.08333333333333333,0
+Bilateral aid (international marker),cntnntd,0.4,0
+Bilateral aid (international marker),cntnntnm,0.4,0
+Bilateral aid (international marker),prjctbrwsrcntrd,0.013071895424836602,0
+Bilateral aid (international marker),cntrrgnd,0.014084507042253521,0
+Bilateral aid (international marker),cntrrgnnm,0.013793103448275862,0
+Bilateral aid (international marker),cntrrgnprcnt,0.004975124378109453,0
+Bilateral aid (international marker),sctrd,0.016260162601626018,0
+Bilateral aid (international marker),sctrnm,0.016260162601626018,0
+Bilateral aid (international marker),sctrprcnt,0.010810810810810811,0
+Bilateral aid (international marker),mntspnt,0.00039840637450199205,0
+PBA type,fsclr,0.2,0
+PBA type,trddvlpmnt(mrkr),0.8,0
+PBA type,bdvrst(mrkr),0.8,0
+PBA type,rbnsss(mrkr),0.8,0
+PBA type,chldrnsss(mrkr),0.8,0
+PBA type,thsss(mrkr),0.8,0
+PBA type,ndgnssss(mrkr),0.8,0
+PBA type,dsbltsss(mrkr),0.8,0
+PBA type,ctstlfrdvlpmnt(mrkr),0.6,0
+PBA type,knwldgfrdvlpmnt(mrkr),0.8,0
+PBA type,gndrqlt(mrkr),0.8,0
+PBA type,rgnstnd,0.014749262536873156,0
+PBA type,rgnstnnm,0.014749262536873156,0
+PBA type,rgnstntp,0.8,0
+PBA type,rgnstnclss,0.8333333333333334,0
+PBA type,rgnstnsb-clss,0.20833333333333334,0
+PBA type,cntnntd,1.0,0
+PBA type,cntnntnm,1.0,0
+PBA type,prjctbrwsrcntrd,0.032679738562091505,0
+PBA type,cntrrgnd,0.035211267605633804,0
+PBA type,cntrrgnnm,0.034482758620689655,0
+PBA type,cntrrgnprcnt,0.012437810945273632,0
+PBA type,sctrd,0.04065040650406504,0
+PBA type,sctrnm,0.04065040650406504,0
+PBA type,sctrprcnt,0.02702702702702703,0
+PBA type,mntspnt,0.00099601593625498,0
+Enviromental sustainability (marker),fsclr,0.3333333333333333,0
+Enviromental sustainability (marker),trddvlpmnt(mrkr),0.75,0
+Enviromental sustainability (marker),bdvrst(mrkr),0.75,0
+Enviromental sustainability (marker),rbnsss(mrkr),0.75,0
+Enviromental sustainability (marker),chldrnsss(mrkr),0.75,0
+Enviromental sustainability (marker),thsss(mrkr),0.75,0
+Enviromental sustainability (marker),ndgnssss(mrkr),0.75,0
+Enviromental sustainability (marker),dsbltsss(mrkr),0.75,0
+Enviromental sustainability (marker),ctstlfrdvlpmnt(mrkr),1.0,0
+Enviromental sustainability (marker),knwldgfrdvlpmnt(mrkr),0.75,0
+Enviromental sustainability (marker),gndrqlt(mrkr),0.75,0
+Enviromental sustainability (marker),rgnstnd,0.008849557522123894,0
+Enviromental sustainability (marker),rgnstnnm,0.008849557522123894,0
+Enviromental sustainability (marker),rgnstntp,0.75,0
+Enviromental sustainability (marker),rgnstnclss,0.5,0
+Enviromental sustainability (marker),rgnstnsb-clss,0.125,0
+Enviromental sustainability (marker),cntnntd,0.6,0
+Enviromental sustainability (marker),cntnntnm,0.6,0
+Enviromental sustainability (marker),prjctbrwsrcntrd,0.0196078431372549,0
+Enviromental sustainability (marker),cntrrgnd,0.02112676056338028,0
+Enviromental sustainability (marker),cntrrgnnm,0.020689655172413793,0
+Enviromental sustainability (marker),cntrrgnprcnt,0.007462686567164179,0
+Enviromental sustainability (marker),sctrd,0.024390243902439025,0
+Enviromental sustainability (marker),sctrnm,0.024390243902439025,0
+Enviromental sustainability (marker),sctrprcnt,0.016216216216216217,0
+Enviromental sustainability (marker),mntspnt,0.000597609561752988,0
+Climate change adaptation (marker),fsclr,0.3333333333333333,0
+Climate change adaptation (marker),trddvlpmnt(mrkr),0.75,0
+Climate change adaptation (marker),bdvrst(mrkr),0.75,0
+Climate change adaptation (marker),rbnsss(mrkr),0.75,0
+Climate change adaptation (marker),chldrnsss(mrkr),0.75,0
+Climate change adaptation (marker),thsss(mrkr),0.75,0
+Climate change adaptation (marker),ndgnssss(mrkr),0.75,0
+Climate change adaptation (marker),dsbltsss(mrkr),0.75,0
+Climate change adaptation (marker),ctstlfrdvlpmnt(mrkr),1.0,0
+Climate change adaptation (marker),knwldgfrdvlpmnt(mrkr),0.75,0
+Climate change adaptation (marker),gndrqlt(mrkr),0.75,0
+Climate change adaptation (marker),rgnstnd,0.008849557522123894,0
+Climate change adaptation (marker),rgnstnnm,0.008849557522123894,0
+Climate change adaptation (marker),rgnstntp,0.75,0
+Climate change adaptation (marker),rgnstnclss,0.5,0
+Climate change adaptation (marker),rgnstnsb-clss,0.125,0
+Climate change adaptation (marker),cntnntd,0.6,0
+Climate change adaptation (marker),cntnntnm,0.6,0
+Climate change adaptation (marker),prjctbrwsrcntrd,0.0196078431372549,0
+Climate change adaptation (marker),cntrrgnd,0.02112676056338028,0
+Climate change adaptation (marker),cntrrgnnm,0.020689655172413793,0
+Climate change adaptation (marker),cntrrgnprcnt,0.007462686567164179,0
+Climate change adaptation (marker),sctrd,0.024390243902439025,0
+Climate change adaptation (marker),sctrnm,0.024390243902439025,0
+Climate change adaptation (marker),sctrprcnt,0.016216216216216217,0
+Climate change adaptation (marker),mntspnt,0.000597609561752988,0
+Climate change mitigation (marker),fsclr,0.25,0
+Climate change mitigation (marker),trddvlpmnt(mrkr),1.0,0
+Climate change mitigation (marker),bdvrst(mrkr),1.0,0
+Climate change mitigation (marker),rbnsss(mrkr),1.0,0
+Climate change mitigation (marker),chldrnsss(mrkr),1.0,0
+Climate change mitigation (marker),thsss(mrkr),1.0,0
+Climate change mitigation (marker),ndgnssss(mrkr),1.0,0
+Climate change mitigation (marker),dsbltsss(mrkr),1.0,0
+Climate change mitigation (marker),ctstlfrdvlpmnt(mrkr),0.75,0
+Climate change mitigation (marker),knwldgfrdvlpmnt(mrkr),1.0,0
+Climate change mitigation (marker),gndrqlt(mrkr),1.0,0
+Climate change mitigation (marker),rgnstnd,0.011799410029498525,0
+Climate change mitigation (marker),rgnstnnm,0.011799410029498525,0
+Climate change mitigation (marker),rgnstntp,1.0,0
+Climate change mitigation (marker),rgnstnclss,0.6666666666666666,0
+Climate change mitigation (marker),rgnstnsb-clss,0.16666666666666666,0
+Climate change mitigation (marker),cntnntd,0.8,0
+Climate change mitigation (marker),cntnntnm,0.8,0
+Climate change mitigation (marker),prjctbrwsrcntrd,0.026143790849673203,0
+Climate change mitigation (marker),cntrrgnd,0.028169014084507043,0
+Climate change mitigation (marker),cntrrgnnm,0.027586206896551724,0
+Climate change mitigation (marker),cntrrgnprcnt,0.009950248756218905,0
+Climate change mitigation (marker),sctrd,0.032520325203252036,0
+Climate change mitigation (marker),sctrnm,0.032520325203252036,0
+Climate change mitigation (marker),sctrprcnt,0.021621621621621623,0
+Climate change mitigation (marker),mntspnt,0.0007968127490039841,0
+Desertification (marker),fsclr,0.25,0
+Desertification (marker),trddvlpmnt(mrkr),1.0,0
+Desertification (marker),bdvrst(mrkr),1.0,0
+Desertification (marker),rbnsss(mrkr),1.0,0
+Desertification (marker),chldrnsss(mrkr),1.0,0
+Desertification (marker),thsss(mrkr),1.0,0
+Desertification (marker),ndgnssss(mrkr),1.0,0
+Desertification (marker),dsbltsss(mrkr),1.0,0
+Desertification (marker),ctstlfrdvlpmnt(mrkr),0.75,0
+Desertification (marker),knwldgfrdvlpmnt(mrkr),1.0,0
+Desertification (marker),gndrqlt(mrkr),1.0,0
+Desertification (marker),rgnstnd,0.011799410029498525,0
+Desertification (marker),rgnstnnm,0.011799410029498525,0
+Desertification (marker),rgnstntp,1.0,0
+Desertification (marker),rgnstnclss,0.6666666666666666,0
+Desertification (marker),rgnstnsb-clss,0.16666666666666666,0
+Desertification (marker),cntnntd,0.8,0
+Desertification (marker),cntnntnm,0.8,0
+Desertification (marker),prjctbrwsrcntrd,0.026143790849673203,0
+Desertification (marker),cntrrgnd,0.028169014084507043,0
+Desertification (marker),cntrrgnnm,0.027586206896551724,0
+Desertification (marker),cntrrgnprcnt,0.009950248756218905,0
+Desertification (marker),sctrd,0.032520325203252036,0
+Desertification (marker),sctrnm,0.032520325203252036,0
+Desertification (marker),sctrprcnt,0.021621621621621623,0
+Desertification (marker),mntspnt,0.0007968127490039841,0
+Participatory development and good governance,fsclr,0.25,0
+Participatory development and good governance,trddvlpmnt(mrkr),1.0,0
+Participatory development and good governance,bdvrst(mrkr),1.0,0
+Participatory development and good governance,rbnsss(mrkr),1.0,0
+Participatory development and good governance,chldrnsss(mrkr),1.0,0
+Participatory development and good governance,thsss(mrkr),1.0,0
+Participatory development and good governance,ndgnssss(mrkr),1.0,0
+Participatory development and good governance,dsbltsss(mrkr),1.0,0
+Participatory development and good governance,ctstlfrdvlpmnt(mrkr),0.75,0
+Participatory development and good governance,knwldgfrdvlpmnt(mrkr),1.0,0
+Participatory development and good governance,gndrqlt(mrkr),1.0,0
+Participatory development and good governance,rgnstnd,0.011799410029498525,0
+Participatory development and good governance,rgnstnnm,0.011799410029498525,0
+Participatory development and good governance,rgnstntp,1.0,0
+Participatory development and good governance,rgnstnclss,0.6666666666666666,0
+Participatory development and good governance,rgnstnsb-clss,0.16666666666666666,0
+Participatory development and good governance,cntnntd,0.8,0
+Participatory development and good governance,cntnntnm,0.8,0
+Participatory development and good governance,prjctbrwsrcntrd,0.026143790849673203,0
+Participatory development and good governance,cntrrgnd,0.028169014084507043,0
+Participatory development and good governance,cntrrgnnm,0.027586206896551724,0
+Participatory development and good governance,cntrrgnprcnt,0.009950248756218905,0
+Participatory development and good governance,sctrd,0.032520325203252036,0
+Participatory development and good governance,sctrnm,0.032520325203252036,0
+Participatory development and good governance,sctrprcnt,0.021621621621621623,0
+Participatory development and good governance,mntspnt,0.0007968127490039841,0

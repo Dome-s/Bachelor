@@ -1,0 +1,197 @@
+source,target,des1,des2,label
+AgencyID,AgeID,A unique identifier for each individual or record in the dataset.,A distinct identification code assigned to each record within the dataset facilitating unique reference and differentiation,1
+AgencyID,CreRa,A unique identifier for each individual or record in the dataset.,A numerical representation of the individual's creditworthiness indicating their ability to manage financial obligations.,0
+AgencyID,AddL2,A unique identifier for each individual or record in the dataset.,Additional details regarding the residence such as apartment number or suite if applicable.,0
+AgencyID,Empl,A unique identifier for each individual or record in the dataset.,The organizational entity by which the individual is employed.,0
+AgencyID,FiNa,A unique identifier for each individual or record in the dataset.,The initial forename assigned to an individual at birth or registration.,0
+AgencyID,MiIn,A unique identifier for each individual or record in the dataset.,The single-letter abbreviation representing the middle name or initial of an individual.,0
+AgencyID,Inc,A unique identifier for each individual or record in the dataset.,The total financial remuneration received by the individual typically on an annual basis.,0
+AgencyID,NumCa,A unique identifier for each individual or record in the dataset.,The quantity of automobiles owned by the individual.,0
+AgencyID,NuChil,A unique identifier for each individual or record in the dataset.,The total number of biological or adopted children associated with the individual.,0
+AgencyID,MaSta,A unique identifier for each individual or record in the dataset.,The current legal or social relationship status of the individual,0
+AgencyID,A,A unique identifier for each individual or record in the dataset.,The chronological age of the individual measured in years.,0
+AgencyID,OOReFl,A unique identifier for each individual or record in the dataset.,A binary indicator specifying whether the individual owns or rents their primary residence.,0
+AgencyID,NumCreCar,A unique identifier for each individual or record in the dataset.,The total count of credit cards associated with the individual.,0
+AgencyID,NWo,A unique identifier for each individual or record in the dataset.,The financial value representing the individual's net worth calculated by subtracting liabilities from total assets.,0
+CreditRating,AgeID,The credit rating of the individual.,A distinct identification code assigned to each record within the dataset facilitating unique reference and differentiation,0
+CreditRating,CreRa,The credit rating of the individual.,A numerical representation of the individual's creditworthiness indicating their ability to manage financial obligations.,1
+CreditRating,AddL2,The credit rating of the individual.,Additional details regarding the residence such as apartment number or suite if applicable.,0
+CreditRating,Empl,The credit rating of the individual.,The organizational entity by which the individual is employed.,0
+CreditRating,FiNa,The credit rating of the individual.,The initial forename assigned to an individual at birth or registration.,0
+CreditRating,MiIn,The credit rating of the individual.,The single-letter abbreviation representing the middle name or initial of an individual.,0
+CreditRating,Inc,The credit rating of the individual.,The total financial remuneration received by the individual typically on an annual basis.,0
+CreditRating,NumCa,The credit rating of the individual.,The quantity of automobiles owned by the individual.,0
+CreditRating,NuChil,The credit rating of the individual.,The total number of biological or adopted children associated with the individual.,0
+CreditRating,MaSta,The credit rating of the individual.,The current legal or social relationship status of the individual,0
+CreditRating,A,The credit rating of the individual.,The chronological age of the individual measured in years.,0
+CreditRating,OOReFl,The credit rating of the individual.,A binary indicator specifying whether the individual owns or rents their primary residence.,0
+CreditRating,NumCreCar,The credit rating of the individual.,The total count of credit cards associated with the individual.,0
+CreditRating,NWo,The credit rating of the individual.,The financial value representing the individual's net worth calculated by subtracting liabilities from total assets.,0
+AddressLine2,AgeID,Additional address information such as apartment number or suite.,A distinct identification code assigned to each record within the dataset facilitating unique reference and differentiation,0
+AddressLine2,CreRa,Additional address information such as apartment number or suite.,A numerical representation of the individual's creditworthiness indicating their ability to manage financial obligations.,0
+AddressLine2,AddL2,Additional address information such as apartment number or suite.,Additional details regarding the residence such as apartment number or suite if applicable.,1
+AddressLine2,Empl,Additional address information such as apartment number or suite.,The organizational entity by which the individual is employed.,0
+AddressLine2,FiNa,Additional address information such as apartment number or suite.,The initial forename assigned to an individual at birth or registration.,0
+AddressLine2,MiIn,Additional address information such as apartment number or suite.,The single-letter abbreviation representing the middle name or initial of an individual.,0
+AddressLine2,Inc,Additional address information such as apartment number or suite.,The total financial remuneration received by the individual typically on an annual basis.,0
+AddressLine2,NumCa,Additional address information such as apartment number or suite.,The quantity of automobiles owned by the individual.,0
+AddressLine2,NuChil,Additional address information such as apartment number or suite.,The total number of biological or adopted children associated with the individual.,0
+AddressLine2,MaSta,Additional address information such as apartment number or suite.,The current legal or social relationship status of the individual,0
+AddressLine2,A,Additional address information such as apartment number or suite.,The chronological age of the individual measured in years.,0
+AddressLine2,OOReFl,Additional address information such as apartment number or suite.,A binary indicator specifying whether the individual owns or rents their primary residence.,0
+AddressLine2,NumCreCar,Additional address information such as apartment number or suite.,The total count of credit cards associated with the individual.,0
+AddressLine2,NWo,Additional address information such as apartment number or suite.,The financial value representing the individual's net worth calculated by subtracting liabilities from total assets.,0
+Employer,AgeID,The name of the employer of the individual.,A distinct identification code assigned to each record within the dataset facilitating unique reference and differentiation,0
+Employer,CreRa,The name of the employer of the individual.,A numerical representation of the individual's creditworthiness indicating their ability to manage financial obligations.,0
+Employer,AddL2,The name of the employer of the individual.,Additional details regarding the residence such as apartment number or suite if applicable.,0
+Employer,Empl,The name of the employer of the individual.,The organizational entity by which the individual is employed.,1
+Employer,FiNa,The name of the employer of the individual.,The initial forename assigned to an individual at birth or registration.,0
+Employer,MiIn,The name of the employer of the individual.,The single-letter abbreviation representing the middle name or initial of an individual.,0
+Employer,Inc,The name of the employer of the individual.,The total financial remuneration received by the individual typically on an annual basis.,0
+Employer,NumCa,The name of the employer of the individual.,The quantity of automobiles owned by the individual.,0
+Employer,NuChil,The name of the employer of the individual.,The total number of biological or adopted children associated with the individual.,0
+Employer,MaSta,The name of the employer of the individual.,The current legal or social relationship status of the individual,0
+Employer,A,The name of the employer of the individual.,The chronological age of the individual measured in years.,0
+Employer,OOReFl,The name of the employer of the individual.,A binary indicator specifying whether the individual owns or rents their primary residence.,0
+Employer,NumCreCar,The name of the employer of the individual.,The total count of credit cards associated with the individual.,0
+Employer,NWo,The name of the employer of the individual.,The financial value representing the individual's net worth calculated by subtracting liabilities from total assets.,0
+FirstName,AgeID,The first name of the individual.,A distinct identification code assigned to each record within the dataset facilitating unique reference and differentiation,0
+FirstName,CreRa,The first name of the individual.,A numerical representation of the individual's creditworthiness indicating their ability to manage financial obligations.,0
+FirstName,AddL2,The first name of the individual.,Additional details regarding the residence such as apartment number or suite if applicable.,0
+FirstName,Empl,The first name of the individual.,The organizational entity by which the individual is employed.,0
+FirstName,FiNa,The first name of the individual.,The initial forename assigned to an individual at birth or registration.,1
+FirstName,MiIn,The first name of the individual.,The single-letter abbreviation representing the middle name or initial of an individual.,0
+FirstName,Inc,The first name of the individual.,The total financial remuneration received by the individual typically on an annual basis.,0
+FirstName,NumCa,The first name of the individual.,The quantity of automobiles owned by the individual.,0
+FirstName,NuChil,The first name of the individual.,The total number of biological or adopted children associated with the individual.,0
+FirstName,MaSta,The first name of the individual.,The current legal or social relationship status of the individual,0
+FirstName,A,The first name of the individual.,The chronological age of the individual measured in years.,0
+FirstName,OOReFl,The first name of the individual.,A binary indicator specifying whether the individual owns or rents their primary residence.,0
+FirstName,NumCreCar,The first name of the individual.,The total count of credit cards associated with the individual.,0
+FirstName,NWo,The first name of the individual.,The financial value representing the individual's net worth calculated by subtracting liabilities from total assets.,0
+MiddleInitial,AgeID,The middle initial of the individual.,A distinct identification code assigned to each record within the dataset facilitating unique reference and differentiation,0
+MiddleInitial,CreRa,The middle initial of the individual.,A numerical representation of the individual's creditworthiness indicating their ability to manage financial obligations.,0
+MiddleInitial,AddL2,The middle initial of the individual.,Additional details regarding the residence such as apartment number or suite if applicable.,0
+MiddleInitial,Empl,The middle initial of the individual.,The organizational entity by which the individual is employed.,0
+MiddleInitial,FiNa,The middle initial of the individual.,The initial forename assigned to an individual at birth or registration.,0
+MiddleInitial,MiIn,The middle initial of the individual.,The single-letter abbreviation representing the middle name or initial of an individual.,1
+MiddleInitial,Inc,The middle initial of the individual.,The total financial remuneration received by the individual typically on an annual basis.,0
+MiddleInitial,NumCa,The middle initial of the individual.,The quantity of automobiles owned by the individual.,0
+MiddleInitial,NuChil,The middle initial of the individual.,The total number of biological or adopted children associated with the individual.,0
+MiddleInitial,MaSta,The middle initial of the individual.,The current legal or social relationship status of the individual,0
+MiddleInitial,A,The middle initial of the individual.,The chronological age of the individual measured in years.,0
+MiddleInitial,OOReFl,The middle initial of the individual.,A binary indicator specifying whether the individual owns or rents their primary residence.,0
+MiddleInitial,NumCreCar,The middle initial of the individual.,The total count of credit cards associated with the individual.,0
+MiddleInitial,NWo,The middle initial of the individual.,The financial value representing the individual's net worth calculated by subtracting liabilities from total assets.,0
+LastName,AgeID,The last name of the individual indicating their family name.,A distinct identification code assigned to each record within the dataset facilitating unique reference and differentiation,0
+LastName,CreRa,The last name of the individual indicating their family name.,A numerical representation of the individual's creditworthiness indicating their ability to manage financial obligations.,0
+LastName,AddL2,The last name of the individual indicating their family name.,Additional details regarding the residence such as apartment number or suite if applicable.,0
+LastName,Empl,The last name of the individual indicating their family name.,The organizational entity by which the individual is employed.,0
+LastName,FiNa,The last name of the individual indicating their family name.,The initial forename assigned to an individual at birth or registration.,0
+LastName,MiIn,The last name of the individual indicating their family name.,The single-letter abbreviation representing the middle name or initial of an individual.,0
+LastName,Inc,The last name of the individual indicating their family name.,The total financial remuneration received by the individual typically on an annual basis.,0
+LastName,NumCa,The last name of the individual indicating their family name.,The quantity of automobiles owned by the individual.,0
+LastName,NuChil,The last name of the individual indicating their family name.,The total number of biological or adopted children associated with the individual.,0
+LastName,MaSta,The last name of the individual indicating their family name.,The current legal or social relationship status of the individual,0
+LastName,A,The last name of the individual indicating their family name.,The chronological age of the individual measured in years.,0
+LastName,OOReFl,The last name of the individual indicating their family name.,A binary indicator specifying whether the individual owns or rents their primary residence.,0
+LastName,NumCreCar,The last name of the individual indicating their family name.,The total count of credit cards associated with the individual.,0
+LastName,NWo,The last name of the individual indicating their family name.,The financial value representing the individual's net worth calculated by subtracting liabilities from total assets.,0
+Gender,AgeID,Indicates the gender of the individual.,A distinct identification code assigned to each record within the dataset facilitating unique reference and differentiation,0
+Gender,CreRa,Indicates the gender of the individual.,A numerical representation of the individual's creditworthiness indicating their ability to manage financial obligations.,0
+Gender,AddL2,Indicates the gender of the individual.,Additional details regarding the residence such as apartment number or suite if applicable.,0
+Gender,Empl,Indicates the gender of the individual.,The organizational entity by which the individual is employed.,0
+Gender,FiNa,Indicates the gender of the individual.,The initial forename assigned to an individual at birth or registration.,0
+Gender,MiIn,Indicates the gender of the individual.,The single-letter abbreviation representing the middle name or initial of an individual.,0
+Gender,Inc,Indicates the gender of the individual.,The total financial remuneration received by the individual typically on an annual basis.,0
+Gender,NumCa,Indicates the gender of the individual.,The quantity of automobiles owned by the individual.,0
+Gender,NuChil,Indicates the gender of the individual.,The total number of biological or adopted children associated with the individual.,0
+Gender,MaSta,Indicates the gender of the individual.,The current legal or social relationship status of the individual,0
+Gender,A,Indicates the gender of the individual.,The chronological age of the individual measured in years.,0
+Gender,OOReFl,Indicates the gender of the individual.,A binary indicator specifying whether the individual owns or rents their primary residence.,0
+Gender,NumCreCar,Indicates the gender of the individual.,The total count of credit cards associated with the individual.,0
+Gender,NWo,Indicates the gender of the individual.,The financial value representing the individual's net worth calculated by subtracting liabilities from total assets.,0
+AddressLine1,AgeID,The primary address of the individual.,A distinct identification code assigned to each record within the dataset facilitating unique reference and differentiation,0
+AddressLine1,CreRa,The primary address of the individual.,A numerical representation of the individual's creditworthiness indicating their ability to manage financial obligations.,0
+AddressLine1,AddL2,The primary address of the individual.,Additional details regarding the residence such as apartment number or suite if applicable.,0
+AddressLine1,Empl,The primary address of the individual.,The organizational entity by which the individual is employed.,0
+AddressLine1,FiNa,The primary address of the individual.,The initial forename assigned to an individual at birth or registration.,0
+AddressLine1,MiIn,The primary address of the individual.,The single-letter abbreviation representing the middle name or initial of an individual.,0
+AddressLine1,Inc,The primary address of the individual.,The total financial remuneration received by the individual typically on an annual basis.,0
+AddressLine1,NumCa,The primary address of the individual.,The quantity of automobiles owned by the individual.,0
+AddressLine1,NuChil,The primary address of the individual.,The total number of biological or adopted children associated with the individual.,0
+AddressLine1,MaSta,The primary address of the individual.,The current legal or social relationship status of the individual,0
+AddressLine1,A,The primary address of the individual.,The chronological age of the individual measured in years.,0
+AddressLine1,OOReFl,The primary address of the individual.,A binary indicator specifying whether the individual owns or rents their primary residence.,0
+AddressLine1,NumCreCar,The primary address of the individual.,The total count of credit cards associated with the individual.,0
+AddressLine1,NWo,The primary address of the individual.,The financial value representing the individual's net worth calculated by subtracting liabilities from total assets.,0
+PostalCode,AgeID,The postal code of the individual's address.,A distinct identification code assigned to each record within the dataset facilitating unique reference and differentiation,0
+PostalCode,CreRa,The postal code of the individual's address.,A numerical representation of the individual's creditworthiness indicating their ability to manage financial obligations.,0
+PostalCode,AddL2,The postal code of the individual's address.,Additional details regarding the residence such as apartment number or suite if applicable.,0
+PostalCode,Empl,The postal code of the individual's address.,The organizational entity by which the individual is employed.,0
+PostalCode,FiNa,The postal code of the individual's address.,The initial forename assigned to an individual at birth or registration.,0
+PostalCode,MiIn,The postal code of the individual's address.,The single-letter abbreviation representing the middle name or initial of an individual.,0
+PostalCode,Inc,The postal code of the individual's address.,The total financial remuneration received by the individual typically on an annual basis.,0
+PostalCode,NumCa,The postal code of the individual's address.,The quantity of automobiles owned by the individual.,0
+PostalCode,NuChil,The postal code of the individual's address.,The total number of biological or adopted children associated with the individual.,0
+PostalCode,MaSta,The postal code of the individual's address.,The current legal or social relationship status of the individual,0
+PostalCode,A,The postal code of the individual's address.,The chronological age of the individual measured in years.,0
+PostalCode,OOReFl,The postal code of the individual's address.,A binary indicator specifying whether the individual owns or rents their primary residence.,0
+PostalCode,NumCreCar,The postal code of the individual's address.,The total count of credit cards associated with the individual.,0
+PostalCode,NWo,The postal code of the individual's address.,The financial value representing the individual's net worth calculated by subtracting liabilities from total assets.,0
+City,AgeID,The city in which the individual resides.,A distinct identification code assigned to each record within the dataset facilitating unique reference and differentiation,0
+City,CreRa,The city in which the individual resides.,A numerical representation of the individual's creditworthiness indicating their ability to manage financial obligations.,0
+City,AddL2,The city in which the individual resides.,Additional details regarding the residence such as apartment number or suite if applicable.,0
+City,Empl,The city in which the individual resides.,The organizational entity by which the individual is employed.,0
+City,FiNa,The city in which the individual resides.,The initial forename assigned to an individual at birth or registration.,0
+City,MiIn,The city in which the individual resides.,The single-letter abbreviation representing the middle name or initial of an individual.,0
+City,Inc,The city in which the individual resides.,The total financial remuneration received by the individual typically on an annual basis.,0
+City,NumCa,The city in which the individual resides.,The quantity of automobiles owned by the individual.,0
+City,NuChil,The city in which the individual resides.,The total number of biological or adopted children associated with the individual.,0
+City,MaSta,The city in which the individual resides.,The current legal or social relationship status of the individual,0
+City,A,The city in which the individual resides.,The chronological age of the individual measured in years.,0
+City,OOReFl,The city in which the individual resides.,A binary indicator specifying whether the individual owns or rents their primary residence.,0
+City,NumCreCar,The city in which the individual resides.,The total count of credit cards associated with the individual.,0
+City,NWo,The city in which the individual resides.,The financial value representing the individual's net worth calculated by subtracting liabilities from total assets.,0
+State,AgeID,The state or province of the individual's address.,A distinct identification code assigned to each record within the dataset facilitating unique reference and differentiation,0
+State,CreRa,The state or province of the individual's address.,A numerical representation of the individual's creditworthiness indicating their ability to manage financial obligations.,0
+State,AddL2,The state or province of the individual's address.,Additional details regarding the residence such as apartment number or suite if applicable.,0
+State,Empl,The state or province of the individual's address.,The organizational entity by which the individual is employed.,0
+State,FiNa,The state or province of the individual's address.,The initial forename assigned to an individual at birth or registration.,0
+State,MiIn,The state or province of the individual's address.,The single-letter abbreviation representing the middle name or initial of an individual.,0
+State,Inc,The state or province of the individual's address.,The total financial remuneration received by the individual typically on an annual basis.,0
+State,NumCa,The state or province of the individual's address.,The quantity of automobiles owned by the individual.,0
+State,NuChil,The state or province of the individual's address.,The total number of biological or adopted children associated with the individual.,0
+State,MaSta,The state or province of the individual's address.,The current legal or social relationship status of the individual,0
+State,A,The state or province of the individual's address.,The chronological age of the individual measured in years.,0
+State,OOReFl,The state or province of the individual's address.,A binary indicator specifying whether the individual owns or rents their primary residence.,0
+State,NumCreCar,The state or province of the individual's address.,The total count of credit cards associated with the individual.,0
+State,NWo,The state or province of the individual's address.,The financial value representing the individual's net worth calculated by subtracting liabilities from total assets.,0
+Country,AgeID,The country in which the individual resides.,A distinct identification code assigned to each record within the dataset facilitating unique reference and differentiation,0
+Country,CreRa,The country in which the individual resides.,A numerical representation of the individual's creditworthiness indicating their ability to manage financial obligations.,0
+Country,AddL2,The country in which the individual resides.,Additional details regarding the residence such as apartment number or suite if applicable.,0
+Country,Empl,The country in which the individual resides.,The organizational entity by which the individual is employed.,0
+Country,FiNa,The country in which the individual resides.,The initial forename assigned to an individual at birth or registration.,0
+Country,MiIn,The country in which the individual resides.,The single-letter abbreviation representing the middle name or initial of an individual.,0
+Country,Inc,The country in which the individual resides.,The total financial remuneration received by the individual typically on an annual basis.,0
+Country,NumCa,The country in which the individual resides.,The quantity of automobiles owned by the individual.,0
+Country,NuChil,The country in which the individual resides.,The total number of biological or adopted children associated with the individual.,0
+Country,MaSta,The country in which the individual resides.,The current legal or social relationship status of the individual,0
+Country,A,The country in which the individual resides.,The chronological age of the individual measured in years.,0
+Country,OOReFl,The country in which the individual resides.,A binary indicator specifying whether the individual owns or rents their primary residence.,0
+Country,NumCreCar,The country in which the individual resides.,The total count of credit cards associated with the individual.,0
+Country,NWo,The country in which the individual resides.,The financial value representing the individual's net worth calculated by subtracting liabilities from total assets.,0
+Phone,AgeID,The contact phone number for the individual.,A distinct identification code assigned to each record within the dataset facilitating unique reference and differentiation,0
+Phone,CreRa,The contact phone number for the individual.,A numerical representation of the individual's creditworthiness indicating their ability to manage financial obligations.,0
+Phone,AddL2,The contact phone number for the individual.,Additional details regarding the residence such as apartment number or suite if applicable.,0
+Phone,Empl,The contact phone number for the individual.,The organizational entity by which the individual is employed.,0
+Phone,FiNa,The contact phone number for the individual.,The initial forename assigned to an individual at birth or registration.,0
+Phone,MiIn,The contact phone number for the individual.,The single-letter abbreviation representing the middle name or initial of an individual.,0
+Phone,Inc,The contact phone number for the individual.,The total financial remuneration received by the individual typically on an annual basis.,0
+Phone,NumCa,The contact phone number for the individual.,The quantity of automobiles owned by the individual.,0
+Phone,NuChil,The contact phone number for the individual.,The total number of biological or adopted children associated with the individual.,0
+Phone,MaSta,The contact phone number for the individual.,The current legal or social relationship status of the individual,0
+Phone,A,The contact phone number for the individual.,The chronological age of the individual measured in years.,0
+Phone,OOReFl,The contact phone number for the individual.,A binary indicator specifying whether the individual owns or rents their primary residence.,0
+Phone,NumCreCar,The contact phone number for the individual.,The total count of credit cards associated with the individual.,0
+Phone,NWo,The contact phone number for the individual.,The financial value representing the individual's net worth calculated by subtracting liabilities from total assets.,0

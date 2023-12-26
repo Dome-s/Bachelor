@@ -1,0 +1,24 @@
+pip install cython
+clone pyFM repo remove labrary'm' line from setup.Py
+python setup.py install --user
+
+pip install tensorflow==1.11.0
+pip install grpcio==1.36.1
+pip install cython
+pip install protobuf==3.19.6
+pip install keras==2.2.4
+pip install pandas
+pip install -U scikit-learn scipy matplotlib
+conda install -c conda-forge scikit-surprise
+pip install surprise
+pip install --upgrade setuptools
+pip setup.py install (in pyfm repo)
+pip install setuptools==39.1.0
+pip uninstall numpy
+pip install numpy==1.16.0
+
+AdaptAndEvaluate line 666 changed to ('binary' to 'micro')
+precision_recall_fscore_support(y, yhat_full, average='micro')[:3]), 
+
+validation line 760 changed to (added np.ravel())
+y = column_or_1d(np.ravel(y), warn=True)

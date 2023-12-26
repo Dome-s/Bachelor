@@ -1,0 +1,677 @@
+source,target,conf,realConf
+Fiscal year,FiY,0.03333333333333333,1
+Fiscal year,TraDevelo,0.13333333333333333,0
+Fiscal year,Biodi,0.13333333333333333,0
+Fiscal year,UrbIss,0.13333333333333333,0
+Fiscal year,ChiIs,0.13333333333333333,0
+Fiscal year,YoIs,0.13333333333333333,0
+Fiscal year,IndigIs,0.13333333333333333,0
+Fiscal year,DisaIss,0.13333333333333333,0
+Fiscal year,ICTAAToFoDevelo,0.1,0
+Fiscal year,KnoFoDeve,0.13333333333333333,0
+Fiscal year,GeEqua,0.13333333333333333,0
+Fiscal year,OrgaID,0.08849557522123894,0
+Fiscal year,OrgNa,0.08849557522123894,0
+Fiscal year,OrgT,0.13333333333333333,0
+Fiscal year,OrganCl,0.2,0
+Fiscal year,OrganS,0.8,0
+Fiscal year,ContID,0.16666666666666666,0
+Fiscal year,ContiNa,0.16666666666666666,0
+Fiscal year,PrBroCounID,0.19607843137254902,0
+Fiscal year,CouReID,0.2112676056338028,0
+Fiscal year,CouRegN,0.20689655172413793,0
+Fiscal year,CoRegPerc,0.07462686567164178,0
+Fiscal year,SecID,0.24390243902439024,0
+Fiscal year,SeN,0.24390243902439024,0
+Fiscal year,SePe,0.16216216216216217,0
+Fiscal year,AmSp,0.00597609561752988,0
+Project number,FiY,0.0007331378299120235,0
+Project number,TraDevelo,0.002932551319648094,0
+Project number,Biodi,0.002932551319648094,0
+Project number,UrbIss,0.002932551319648094,0
+Project number,ChiIs,0.002932551319648094,0
+Project number,YoIs,0.002932551319648094,0
+Project number,IndigIs,0.002932551319648094,0
+Project number,DisaIss,0.002932551319648094,0
+Project number,ICTAAToFoDevelo,0.0021994134897360706,0
+Project number,KnoFoDeve,0.002932551319648094,0
+Project number,GeEqua,0.002932551319648094,0
+Project number,OrgaID,0.24853372434017595,0
+Project number,OrgNa,0.24853372434017595,0
+Project number,OrgT,0.002932551319648094,0
+Project number,OrganCl,0.004398826979472141,0
+Project number,OrganS,0.017595307917888565,0
+Project number,ContID,0.0036656891495601175,0
+Project number,ContiNa,0.0036656891495601175,0
+Project number,PrBroCounID,0.11217008797653959,0
+Project number,CouReID,0.10410557184750734,0
+Project number,CouRegN,0.1063049853372434,0
+Project number,CoRegPerc,0.29472140762463345,0
+Project number,SecID,0.09017595307917889,0
+Project number,SeN,0.09017595307917889,0
+Project number,SePe,0.13563049853372433,0
+Project number,AmSp,0.27171314741035857,0
+Status,FiY,0.3333333333333333,0
+Status,TraDevelo,0.75,0
+Status,Biodi,0.75,0
+Status,UrbIss,0.75,0
+Status,ChiIs,0.75,0
+Status,YoIs,0.75,0
+Status,IndigIs,0.75,0
+Status,DisaIss,0.75,0
+Status,ICTAAToFoDevelo,1.0,0
+Status,KnoFoDeve,0.75,0
+Status,GeEqua,0.75,0
+Status,OrgaID,0.008849557522123894,0
+Status,OrgNa,0.008849557522123894,0
+Status,OrgT,0.75,0
+Status,OrganCl,0.5,0
+Status,OrganS,0.125,0
+Status,ContID,0.6,0
+Status,ContiNa,0.6,0
+Status,PrBroCounID,0.0196078431372549,0
+Status,CouReID,0.02112676056338028,0
+Status,CouRegN,0.020689655172413793,0
+Status,CoRegPerc,0.007462686567164179,0
+Status,SecID,0.024390243902439025,0
+Status,SeN,0.024390243902439025,0
+Status,SePe,0.016216216216216217,0
+Status,AmSp,0.000597609561752988,0
+Maximum CIDA contribution (project-level),FiY,0.0009132420091324201,0
+Maximum CIDA contribution (project-level),TraDevelo,0.0036529680365296802,0
+Maximum CIDA contribution (project-level),Biodi,0.0036529680365296802,0
+Maximum CIDA contribution (project-level),UrbIss,0.0036529680365296802,0
+Maximum CIDA contribution (project-level),ChiIs,0.0036529680365296802,0
+Maximum CIDA contribution (project-level),YoIs,0.0036529680365296802,0
+Maximum CIDA contribution (project-level),IndigIs,0.0036529680365296802,0
+Maximum CIDA contribution (project-level),DisaIss,0.0036529680365296802,0
+Maximum CIDA contribution (project-level),ICTAAToFoDevelo,0.0027397260273972603,0
+Maximum CIDA contribution (project-level),KnoFoDeve,0.0036529680365296802,0
+Maximum CIDA contribution (project-level),GeEqua,0.0036529680365296802,0
+Maximum CIDA contribution (project-level),OrgaID,0.3095890410958904,0
+Maximum CIDA contribution (project-level),OrgNa,0.3095890410958904,0
+Maximum CIDA contribution (project-level),OrgT,0.0036529680365296802,0
+Maximum CIDA contribution (project-level),OrganCl,0.005479452054794521,0
+Maximum CIDA contribution (project-level),OrganS,0.021917808219178082,0
+Maximum CIDA contribution (project-level),ContID,0.0045662100456621,0
+Maximum CIDA contribution (project-level),ContiNa,0.0045662100456621,0
+Maximum CIDA contribution (project-level),PrBroCounID,0.13972602739726028,0
+Maximum CIDA contribution (project-level),CouReID,0.12968036529680366,0
+Maximum CIDA contribution (project-level),CouRegN,0.1324200913242009,0
+Maximum CIDA contribution (project-level),CoRegPerc,0.36712328767123287,0
+Maximum CIDA contribution (project-level),SecID,0.11232876712328767,0
+Maximum CIDA contribution (project-level),SeN,0.11232876712328767,0
+Maximum CIDA contribution (project-level),SePe,0.1689497716894977,0
+Maximum CIDA contribution (project-level),AmSp,0.21812749003984064,0
+Branch ID,FiY,0.14285714285714285,0
+Branch ID,TraDevelo,0.5714285714285714,0
+Branch ID,Biodi,0.5714285714285714,0
+Branch ID,UrbIss,0.5714285714285714,0
+Branch ID,ChiIs,0.5714285714285714,0
+Branch ID,YoIs,0.5714285714285714,0
+Branch ID,IndigIs,0.5714285714285714,0
+Branch ID,DisaIss,0.5714285714285714,0
+Branch ID,ICTAAToFoDevelo,0.42857142857142855,0
+Branch ID,KnoFoDeve,0.5714285714285714,0
+Branch ID,GeEqua,0.5714285714285714,0
+Branch ID,OrgaID,0.02064896755162242,0
+Branch ID,OrgNa,0.02064896755162242,0
+Branch ID,OrgT,0.5714285714285714,0
+Branch ID,OrganCl,0.8571428571428571,0
+Branch ID,OrganS,0.2916666666666667,0
+Branch ID,ContID,0.7142857142857143,0
+Branch ID,ContiNa,0.7142857142857143,0
+Branch ID,PrBroCounID,0.0457516339869281,0
+Branch ID,CouReID,0.04929577464788732,0
+Branch ID,CouRegN,0.04827586206896552,0
+Branch ID,CoRegPerc,0.017412935323383085,0
+Branch ID,SecID,0.056910569105691054,0
+Branch ID,SeN,0.056910569105691054,0
+Branch ID,SePe,0.03783783783783784,0
+Branch ID,AmSp,0.0013944223107569722,0
+Branch name,FiY,0.14285714285714285,0
+Branch name,TraDevelo,0.5714285714285714,0
+Branch name,Biodi,0.5714285714285714,0
+Branch name,UrbIss,0.5714285714285714,0
+Branch name,ChiIs,0.5714285714285714,0
+Branch name,YoIs,0.5714285714285714,0
+Branch name,IndigIs,0.5714285714285714,0
+Branch name,DisaIss,0.5714285714285714,0
+Branch name,ICTAAToFoDevelo,0.42857142857142855,0
+Branch name,KnoFoDeve,0.5714285714285714,0
+Branch name,GeEqua,0.5714285714285714,0
+Branch name,OrgaID,0.02064896755162242,0
+Branch name,OrgNa,0.02064896755162242,0
+Branch name,OrgT,0.5714285714285714,0
+Branch name,OrganCl,0.8571428571428571,0
+Branch name,OrganS,0.2916666666666667,0
+Branch name,ContID,0.7142857142857143,0
+Branch name,ContiNa,0.7142857142857143,0
+Branch name,PrBroCounID,0.0457516339869281,0
+Branch name,CouReID,0.04929577464788732,0
+Branch name,CouRegN,0.04827586206896552,0
+Branch name,CoRegPerc,0.017412935323383085,0
+Branch name,SecID,0.056910569105691054,0
+Branch name,SeN,0.056910569105691054,0
+Branch name,SePe,0.03783783783783784,0
+Branch name,AmSp,0.0013944223107569722,0
+Division ID,FiY,0.058823529411764705,0
+Division ID,TraDevelo,0.23529411764705882,0
+Division ID,Biodi,0.23529411764705882,0
+Division ID,UrbIss,0.23529411764705882,0
+Division ID,ChiIs,0.23529411764705882,0
+Division ID,YoIs,0.23529411764705882,0
+Division ID,IndigIs,0.23529411764705882,0
+Division ID,DisaIss,0.23529411764705882,0
+Division ID,ICTAAToFoDevelo,0.17647058823529413,0
+Division ID,KnoFoDeve,0.23529411764705882,0
+Division ID,GeEqua,0.23529411764705882,0
+Division ID,OrgaID,0.05014749262536873,0
+Division ID,OrgNa,0.05014749262536873,0
+Division ID,OrgT,0.23529411764705882,0
+Division ID,OrganCl,0.35294117647058826,0
+Division ID,OrganS,0.7083333333333334,0
+Division ID,ContID,0.29411764705882354,0
+Division ID,ContiNa,0.29411764705882354,0
+Division ID,PrBroCounID,0.1111111111111111,0
+Division ID,CouReID,0.11971830985915492,0
+Division ID,CouRegN,0.11724137931034483,0
+Division ID,CoRegPerc,0.04228855721393035,0
+Division ID,SecID,0.13821138211382114,0
+Division ID,SeN,0.13821138211382114,0
+Division ID,SePe,0.0918918918918919,0
+Division ID,AmSp,0.003386454183266932,0
+Division name,FiY,0.058823529411764705,0
+Division name,TraDevelo,0.23529411764705882,0
+Division name,Biodi,0.23529411764705882,0
+Division name,UrbIss,0.23529411764705882,0
+Division name,ChiIs,0.23529411764705882,0
+Division name,YoIs,0.23529411764705882,0
+Division name,IndigIs,0.23529411764705882,0
+Division name,DisaIss,0.23529411764705882,0
+Division name,ICTAAToFoDevelo,0.17647058823529413,0
+Division name,KnoFoDeve,0.23529411764705882,0
+Division name,GeEqua,0.23529411764705882,0
+Division name,OrgaID,0.05014749262536873,0
+Division name,OrgNa,0.05014749262536873,0
+Division name,OrgT,0.23529411764705882,0
+Division name,OrganCl,0.35294117647058826,0
+Division name,OrganS,0.7083333333333334,0
+Division name,ContID,0.29411764705882354,0
+Division name,ContiNa,0.29411764705882354,0
+Division name,PrBroCounID,0.1111111111111111,0
+Division name,CouReID,0.11971830985915492,0
+Division name,CouRegN,0.11724137931034483,0
+Division name,CoRegPerc,0.04228855721393035,0
+Division name,SecID,0.13821138211382114,0
+Division name,SeN,0.13821138211382114,0
+Division name,SePe,0.0918918918918919,0
+Division name,AmSp,0.003386454183266932,0
+Section ID,FiY,0.0196078431372549,0
+Section ID,TraDevelo,0.0784313725490196,0
+Section ID,Biodi,0.0784313725490196,0
+Section ID,UrbIss,0.0784313725490196,0
+Section ID,ChiIs,0.0784313725490196,0
+Section ID,YoIs,0.0784313725490196,0
+Section ID,IndigIs,0.0784313725490196,0
+Section ID,DisaIss,0.0784313725490196,0
+Section ID,ICTAAToFoDevelo,0.058823529411764705,0
+Section ID,KnoFoDeve,0.0784313725490196,0
+Section ID,GeEqua,0.0784313725490196,0
+Section ID,OrgaID,0.1504424778761062,0
+Section ID,OrgNa,0.1504424778761062,0
+Section ID,OrgT,0.0784313725490196,0
+Section ID,OrganCl,0.11764705882352941,0
+Section ID,OrganS,0.47058823529411764,0
+Section ID,ContID,0.09803921568627451,0
+Section ID,ContiNa,0.09803921568627451,0
+Section ID,PrBroCounID,0.3333333333333333,0
+Section ID,CouReID,0.3591549295774648,0
+Section ID,CouRegN,0.35172413793103446,0
+Section ID,CoRegPerc,0.12686567164179105,0
+Section ID,SecID,0.4146341463414634,0
+Section ID,SeN,0.4146341463414634,0
+Section ID,SePe,0.2756756756756757,0
+Section ID,AmSp,0.010159362549800797,0
+Section name,FiY,0.0196078431372549,0
+Section name,TraDevelo,0.0784313725490196,0
+Section name,Biodi,0.0784313725490196,0
+Section name,UrbIss,0.0784313725490196,0
+Section name,ChiIs,0.0784313725490196,0
+Section name,YoIs,0.0784313725490196,0
+Section name,IndigIs,0.0784313725490196,0
+Section name,DisaIss,0.0784313725490196,0
+Section name,ICTAAToFoDevelo,0.058823529411764705,0
+Section name,KnoFoDeve,0.0784313725490196,0
+Section name,GeEqua,0.0784313725490196,0
+Section name,OrgaID,0.1504424778761062,0
+Section name,OrgNa,0.1504424778761062,0
+Section name,OrgT,0.0784313725490196,0
+Section name,OrganCl,0.11764705882352941,0
+Section name,OrganS,0.47058823529411764,0
+Section name,ContID,0.09803921568627451,0
+Section name,ContiNa,0.09803921568627451,0
+Section name,PrBroCounID,0.3333333333333333,0
+Section name,CouReID,0.3591549295774648,0
+Section name,CouRegN,0.35172413793103446,0
+Section name,CoRegPerc,0.12686567164179105,0
+Section name,SecID,0.4146341463414634,0
+Section name,SeN,0.4146341463414634,0
+Section name,SePe,0.2756756756756757,0
+Section name,AmSp,0.010159362549800797,0
+Regional program (marker),FiY,0.5,0
+Regional program (marker),TraDevelo,0.5,0
+Regional program (marker),Biodi,0.5,0
+Regional program (marker),UrbIss,0.5,0
+Regional program (marker),ChiIs,0.5,0
+Regional program (marker),YoIs,0.5,0
+Regional program (marker),IndigIs,0.5,0
+Regional program (marker),DisaIss,0.5,0
+Regional program (marker),ICTAAToFoDevelo,0.6666666666666666,0
+Regional program (marker),KnoFoDeve,0.5,0
+Regional program (marker),GeEqua,0.5,0
+Regional program (marker),OrgaID,0.0058997050147492625,0
+Regional program (marker),OrgNa,0.0058997050147492625,0
+Regional program (marker),OrgT,0.5,0
+Regional program (marker),OrganCl,0.3333333333333333,0
+Regional program (marker),OrganS,0.08333333333333333,0
+Regional program (marker),ContID,0.4,0
+Regional program (marker),ContiNa,0.4,0
+Regional program (marker),PrBroCounID,0.013071895424836602,0
+Regional program (marker),CouReID,0.014084507042253521,0
+Regional program (marker),CouRegN,0.013793103448275862,0
+Regional program (marker),CoRegPerc,0.004975124378109453,0
+Regional program (marker),SecID,0.016260162601626018,0
+Regional program (marker),SeN,0.016260162601626018,0
+Regional program (marker),SePe,0.010810810810810811,0
+Regional program (marker),AmSp,0.00039840637450199205,0
+Fund centre ID,FiY,0.006172839506172839,0
+Fund centre ID,TraDevelo,0.024691358024691357,0
+Fund centre ID,Biodi,0.024691358024691357,0
+Fund centre ID,UrbIss,0.024691358024691357,0
+Fund centre ID,ChiIs,0.024691358024691357,0
+Fund centre ID,YoIs,0.024691358024691357,0
+Fund centre ID,IndigIs,0.024691358024691357,0
+Fund centre ID,DisaIss,0.024691358024691357,0
+Fund centre ID,ICTAAToFoDevelo,0.018518518518518517,0
+Fund centre ID,KnoFoDeve,0.024691358024691357,0
+Fund centre ID,GeEqua,0.024691358024691357,0
+Fund centre ID,OrgaID,0.4778761061946903,0
+Fund centre ID,OrgNa,0.4778761061946903,0
+Fund centre ID,OrgT,0.024691358024691357,0
+Fund centre ID,OrganCl,0.037037037037037035,0
+Fund centre ID,OrganS,0.14814814814814814,0
+Fund centre ID,ContID,0.030864197530864196,0
+Fund centre ID,ContiNa,0.030864197530864196,0
+Fund centre ID,PrBroCounID,0.9444444444444444,0
+Fund centre ID,CouReID,0.8765432098765432,0
+Fund centre ID,CouRegN,0.8950617283950617,0
+Fund centre ID,CoRegPerc,0.40298507462686567,0
+Fund centre ID,SecID,0.7592592592592593,0
+Fund centre ID,SeN,0.7592592592592593,0
+Fund centre ID,SePe,0.8756756756756757,0
+Fund centre ID,AmSp,0.03227091633466136,0
+Fund centre name,FiY,0.006172839506172839,0
+Fund centre name,TraDevelo,0.024691358024691357,0
+Fund centre name,Biodi,0.024691358024691357,0
+Fund centre name,UrbIss,0.024691358024691357,0
+Fund centre name,ChiIs,0.024691358024691357,0
+Fund centre name,YoIs,0.024691358024691357,0
+Fund centre name,IndigIs,0.024691358024691357,0
+Fund centre name,DisaIss,0.024691358024691357,0
+Fund centre name,ICTAAToFoDevelo,0.018518518518518517,0
+Fund centre name,KnoFoDeve,0.024691358024691357,0
+Fund centre name,GeEqua,0.024691358024691357,0
+Fund centre name,OrgaID,0.4778761061946903,0
+Fund centre name,OrgNa,0.4778761061946903,0
+Fund centre name,OrgT,0.024691358024691357,0
+Fund centre name,OrganCl,0.037037037037037035,0
+Fund centre name,OrganS,0.14814814814814814,0
+Fund centre name,ContID,0.030864197530864196,0
+Fund centre name,ContiNa,0.030864197530864196,0
+Fund centre name,PrBroCounID,0.9444444444444444,0
+Fund centre name,CouReID,0.8765432098765432,0
+Fund centre name,CouRegN,0.8950617283950617,0
+Fund centre name,CoRegPerc,0.40298507462686567,0
+Fund centre name,SecID,0.7592592592592593,0
+Fund centre name,SeN,0.7592592592592593,0
+Fund centre name,SePe,0.8756756756756757,0
+Fund centre name,AmSp,0.03227091633466136,0
+Untied amount(Project-level budget),FiY,0.0011641443538998836,0
+Untied amount(Project-level budget),TraDevelo,0.004656577415599534,0
+Untied amount(Project-level budget),Biodi,0.004656577415599534,0
+Untied amount(Project-level budget),UrbIss,0.004656577415599534,0
+Untied amount(Project-level budget),ChiIs,0.004656577415599534,0
+Untied amount(Project-level budget),YoIs,0.004656577415599534,0
+Untied amount(Project-level budget),IndigIs,0.004656577415599534,0
+Untied amount(Project-level budget),DisaIss,0.004656577415599534,0
+Untied amount(Project-level budget),ICTAAToFoDevelo,0.0034924330616996507,0
+Untied amount(Project-level budget),KnoFoDeve,0.004656577415599534,0
+Untied amount(Project-level budget),GeEqua,0.004656577415599534,0
+Untied amount(Project-level budget),OrgaID,0.3946449359720605,0
+Untied amount(Project-level budget),OrgNa,0.3946449359720605,0
+Untied amount(Project-level budget),OrgT,0.004656577415599534,0
+Untied amount(Project-level budget),OrganCl,0.006984866123399301,0
+Untied amount(Project-level budget),OrganS,0.027939464493597205,0
+Untied amount(Project-level budget),ContID,0.005820721769499418,0
+Untied amount(Project-level budget),ContiNa,0.005820721769499418,0
+Untied amount(Project-level budget),PrBroCounID,0.1781140861466822,0
+Untied amount(Project-level budget),CouReID,0.16530849825378346,0
+Untied amount(Project-level budget),CouRegN,0.16880093131548313,0
+Untied amount(Project-level budget),CoRegPerc,0.4679860302677532,0
+Untied amount(Project-level budget),SecID,0.14318975552968569,0
+Untied amount(Project-level budget),SeN,0.14318975552968569,0
+Untied amount(Project-level budget),SePe,0.21536670547147846,0
+Untied amount(Project-level budget),AmSp,0.1711155378486056,0
+FSTC percent,FiY,0.02040816326530612,0
+FSTC percent,TraDevelo,0.08163265306122448,0
+FSTC percent,Biodi,0.08163265306122448,0
+FSTC percent,UrbIss,0.08163265306122448,0
+FSTC percent,ChiIs,0.08163265306122448,0
+FSTC percent,YoIs,0.08163265306122448,0
+FSTC percent,IndigIs,0.08163265306122448,0
+FSTC percent,DisaIss,0.08163265306122448,0
+FSTC percent,ICTAAToFoDevelo,0.061224489795918366,0
+FSTC percent,KnoFoDeve,0.08163265306122448,0
+FSTC percent,GeEqua,0.08163265306122448,0
+FSTC percent,OrgaID,0.14454277286135694,0
+FSTC percent,OrgNa,0.14454277286135694,0
+FSTC percent,OrgT,0.08163265306122448,0
+FSTC percent,OrganCl,0.12244897959183673,0
+FSTC percent,OrganS,0.4897959183673469,0
+FSTC percent,ContID,0.10204081632653061,0
+FSTC percent,ContiNa,0.10204081632653061,0
+FSTC percent,PrBroCounID,0.3202614379084967,0
+FSTC percent,CouReID,0.34507042253521125,0
+FSTC percent,CouRegN,0.33793103448275863,0
+FSTC percent,CoRegPerc,0.12189054726368159,0
+FSTC percent,SecID,0.3983739837398374,0
+FSTC percent,SeN,0.3983739837398374,0
+FSTC percent,SePe,0.2648648648648649,0
+FSTC percent,AmSp,0.009760956175298804,0
+IRTC percent,FiY,0.25,0
+IRTC percent,TraDevelo,1.0,0
+IRTC percent,Biodi,1.0,0
+IRTC percent,UrbIss,1.0,0
+IRTC percent,ChiIs,1.0,0
+IRTC percent,YoIs,1.0,0
+IRTC percent,IndigIs,1.0,0
+IRTC percent,DisaIss,1.0,0
+IRTC percent,ICTAAToFoDevelo,0.75,0
+IRTC percent,KnoFoDeve,1.0,0
+IRTC percent,GeEqua,1.0,0
+IRTC percent,OrgaID,0.011799410029498525,0
+IRTC percent,OrgNa,0.011799410029498525,0
+IRTC percent,OrgT,1.0,0
+IRTC percent,OrganCl,0.6666666666666666,0
+IRTC percent,OrganS,0.16666666666666666,0
+IRTC percent,ContID,0.8,0
+IRTC percent,ContiNa,0.8,0
+IRTC percent,PrBroCounID,0.026143790849673203,0
+IRTC percent,CouReID,0.028169014084507043,0
+IRTC percent,CouRegN,0.027586206896551724,0
+IRTC percent,CoRegPerc,0.009950248756218905,0
+IRTC percent,SecID,0.032520325203252036,0
+IRTC percent,SeN,0.032520325203252036,0
+IRTC percent,SePe,0.021621621621621623,0
+IRTC percent,AmSp,0.0007968127490039841,0
+CFLI (marker),FiY,0.5,0
+CFLI (marker),TraDevelo,0.5,0
+CFLI (marker),Biodi,0.5,0
+CFLI (marker),UrbIss,0.5,0
+CFLI (marker),ChiIs,0.5,0
+CFLI (marker),YoIs,0.5,0
+CFLI (marker),IndigIs,0.5,0
+CFLI (marker),DisaIss,0.5,0
+CFLI (marker),ICTAAToFoDevelo,0.6666666666666666,0
+CFLI (marker),KnoFoDeve,0.5,0
+CFLI (marker),GeEqua,0.5,0
+CFLI (marker),OrgaID,0.0058997050147492625,0
+CFLI (marker),OrgNa,0.0058997050147492625,0
+CFLI (marker),OrgT,0.5,0
+CFLI (marker),OrganCl,0.3333333333333333,0
+CFLI (marker),OrganS,0.08333333333333333,0
+CFLI (marker),ContID,0.4,0
+CFLI (marker),ContiNa,0.4,0
+CFLI (marker),PrBroCounID,0.013071895424836602,0
+CFLI (marker),CouReID,0.014084507042253521,0
+CFLI (marker),CouRegN,0.013793103448275862,0
+CFLI (marker),CoRegPerc,0.004975124378109453,0
+CFLI (marker),SecID,0.016260162601626018,0
+CFLI (marker),SeN,0.016260162601626018,0
+CFLI (marker),SePe,0.010810810810810811,0
+CFLI (marker),AmSp,0.00039840637450199205,0
+CIDA business delivery model (old),FiY,0.3333333333333333,0
+CIDA business delivery model (old),TraDevelo,0.75,0
+CIDA business delivery model (old),Biodi,0.75,0
+CIDA business delivery model (old),UrbIss,0.75,0
+CIDA business delivery model (old),ChiIs,0.75,0
+CIDA business delivery model (old),YoIs,0.75,0
+CIDA business delivery model (old),IndigIs,0.75,0
+CIDA business delivery model (old),DisaIss,0.75,0
+CIDA business delivery model (old),ICTAAToFoDevelo,1.0,0
+CIDA business delivery model (old),KnoFoDeve,0.75,0
+CIDA business delivery model (old),GeEqua,0.75,0
+CIDA business delivery model (old),OrgaID,0.008849557522123894,0
+CIDA business delivery model (old),OrgNa,0.008849557522123894,0
+CIDA business delivery model (old),OrgT,0.75,0
+CIDA business delivery model (old),OrganCl,0.5,0
+CIDA business delivery model (old),OrganS,0.125,0
+CIDA business delivery model (old),ContID,0.6,0
+CIDA business delivery model (old),ContiNa,0.6,0
+CIDA business delivery model (old),PrBroCounID,0.0196078431372549,0
+CIDA business delivery model (old),CouReID,0.02112676056338028,0
+CIDA business delivery model (old),CouRegN,0.020689655172413793,0
+CIDA business delivery model (old),CoRegPerc,0.007462686567164179,0
+CIDA business delivery model (old),SecID,0.024390243902439025,0
+CIDA business delivery model (old),SeN,0.024390243902439025,0
+CIDA business delivery model (old),SePe,0.016216216216216217,0
+CIDA business delivery model (old),AmSp,0.000597609561752988,0
+Programming process (new),FiY,1.0,0
+Programming process (new),TraDevelo,0.25,0
+Programming process (new),Biodi,0.25,0
+Programming process (new),UrbIss,0.25,0
+Programming process (new),ChiIs,0.25,0
+Programming process (new),YoIs,0.25,0
+Programming process (new),IndigIs,0.25,0
+Programming process (new),DisaIss,0.25,0
+Programming process (new),ICTAAToFoDevelo,0.3333333333333333,0
+Programming process (new),KnoFoDeve,0.25,0
+Programming process (new),GeEqua,0.25,0
+Programming process (new),OrgaID,0.0029498525073746312,0
+Programming process (new),OrgNa,0.0029498525073746312,0
+Programming process (new),OrgT,0.25,0
+Programming process (new),OrganCl,0.16666666666666666,0
+Programming process (new),OrganS,0.041666666666666664,0
+Programming process (new),ContID,0.2,0
+Programming process (new),ContiNa,0.2,0
+Programming process (new),PrBroCounID,0.006535947712418301,0
+Programming process (new),CouReID,0.007042253521126761,0
+Programming process (new),CouRegN,0.006896551724137931,0
+Programming process (new),CoRegPerc,0.0024875621890547263,0
+Programming process (new),SecID,0.008130081300813009,0
+Programming process (new),SeN,0.008130081300813009,0
+Programming process (new),SePe,0.005405405405405406,0
+Programming process (new),AmSp,0.00019920318725099602,0
+Bilateral aid (international marker),FiY,0.5,0
+Bilateral aid (international marker),TraDevelo,0.5,0
+Bilateral aid (international marker),Biodi,0.5,0
+Bilateral aid (international marker),UrbIss,0.5,0
+Bilateral aid (international marker),ChiIs,0.5,0
+Bilateral aid (international marker),YoIs,0.5,0
+Bilateral aid (international marker),IndigIs,0.5,0
+Bilateral aid (international marker),DisaIss,0.5,0
+Bilateral aid (international marker),ICTAAToFoDevelo,0.6666666666666666,0
+Bilateral aid (international marker),KnoFoDeve,0.5,0
+Bilateral aid (international marker),GeEqua,0.5,0
+Bilateral aid (international marker),OrgaID,0.0058997050147492625,0
+Bilateral aid (international marker),OrgNa,0.0058997050147492625,0
+Bilateral aid (international marker),OrgT,0.5,0
+Bilateral aid (international marker),OrganCl,0.3333333333333333,0
+Bilateral aid (international marker),OrganS,0.08333333333333333,0
+Bilateral aid (international marker),ContID,0.4,0
+Bilateral aid (international marker),ContiNa,0.4,0
+Bilateral aid (international marker),PrBroCounID,0.013071895424836602,0
+Bilateral aid (international marker),CouReID,0.014084507042253521,0
+Bilateral aid (international marker),CouRegN,0.013793103448275862,0
+Bilateral aid (international marker),CoRegPerc,0.004975124378109453,0
+Bilateral aid (international marker),SecID,0.016260162601626018,0
+Bilateral aid (international marker),SeN,0.016260162601626018,0
+Bilateral aid (international marker),SePe,0.010810810810810811,0
+Bilateral aid (international marker),AmSp,0.00039840637450199205,0
+PBA type,FiY,0.2,0
+PBA type,TraDevelo,0.8,0
+PBA type,Biodi,0.8,0
+PBA type,UrbIss,0.8,0
+PBA type,ChiIs,0.8,0
+PBA type,YoIs,0.8,0
+PBA type,IndigIs,0.8,0
+PBA type,DisaIss,0.8,0
+PBA type,ICTAAToFoDevelo,0.6,0
+PBA type,KnoFoDeve,0.8,0
+PBA type,GeEqua,0.8,0
+PBA type,OrgaID,0.014749262536873156,0
+PBA type,OrgNa,0.014749262536873156,0
+PBA type,OrgT,0.8,0
+PBA type,OrganCl,0.8333333333333334,0
+PBA type,OrganS,0.20833333333333334,0
+PBA type,ContID,1.0,0
+PBA type,ContiNa,1.0,0
+PBA type,PrBroCounID,0.032679738562091505,0
+PBA type,CouReID,0.035211267605633804,0
+PBA type,CouRegN,0.034482758620689655,0
+PBA type,CoRegPerc,0.012437810945273632,0
+PBA type,SecID,0.04065040650406504,0
+PBA type,SeN,0.04065040650406504,0
+PBA type,SePe,0.02702702702702703,0
+PBA type,AmSp,0.00099601593625498,0
+Enviromental sustainability (marker),FiY,0.3333333333333333,0
+Enviromental sustainability (marker),TraDevelo,0.75,0
+Enviromental sustainability (marker),Biodi,0.75,0
+Enviromental sustainability (marker),UrbIss,0.75,0
+Enviromental sustainability (marker),ChiIs,0.75,0
+Enviromental sustainability (marker),YoIs,0.75,0
+Enviromental sustainability (marker),IndigIs,0.75,0
+Enviromental sustainability (marker),DisaIss,0.75,0
+Enviromental sustainability (marker),ICTAAToFoDevelo,1.0,0
+Enviromental sustainability (marker),KnoFoDeve,0.75,0
+Enviromental sustainability (marker),GeEqua,0.75,0
+Enviromental sustainability (marker),OrgaID,0.008849557522123894,0
+Enviromental sustainability (marker),OrgNa,0.008849557522123894,0
+Enviromental sustainability (marker),OrgT,0.75,0
+Enviromental sustainability (marker),OrganCl,0.5,0
+Enviromental sustainability (marker),OrganS,0.125,0
+Enviromental sustainability (marker),ContID,0.6,0
+Enviromental sustainability (marker),ContiNa,0.6,0
+Enviromental sustainability (marker),PrBroCounID,0.0196078431372549,0
+Enviromental sustainability (marker),CouReID,0.02112676056338028,0
+Enviromental sustainability (marker),CouRegN,0.020689655172413793,0
+Enviromental sustainability (marker),CoRegPerc,0.007462686567164179,0
+Enviromental sustainability (marker),SecID,0.024390243902439025,0
+Enviromental sustainability (marker),SeN,0.024390243902439025,0
+Enviromental sustainability (marker),SePe,0.016216216216216217,0
+Enviromental sustainability (marker),AmSp,0.000597609561752988,0
+Climate change adaptation (marker),FiY,0.3333333333333333,0
+Climate change adaptation (marker),TraDevelo,0.75,0
+Climate change adaptation (marker),Biodi,0.75,0
+Climate change adaptation (marker),UrbIss,0.75,0
+Climate change adaptation (marker),ChiIs,0.75,0
+Climate change adaptation (marker),YoIs,0.75,0
+Climate change adaptation (marker),IndigIs,0.75,0
+Climate change adaptation (marker),DisaIss,0.75,0
+Climate change adaptation (marker),ICTAAToFoDevelo,1.0,0
+Climate change adaptation (marker),KnoFoDeve,0.75,0
+Climate change adaptation (marker),GeEqua,0.75,0
+Climate change adaptation (marker),OrgaID,0.008849557522123894,0
+Climate change adaptation (marker),OrgNa,0.008849557522123894,0
+Climate change adaptation (marker),OrgT,0.75,0
+Climate change adaptation (marker),OrganCl,0.5,0
+Climate change adaptation (marker),OrganS,0.125,0
+Climate change adaptation (marker),ContID,0.6,0
+Climate change adaptation (marker),ContiNa,0.6,0
+Climate change adaptation (marker),PrBroCounID,0.0196078431372549,0
+Climate change adaptation (marker),CouReID,0.02112676056338028,0
+Climate change adaptation (marker),CouRegN,0.020689655172413793,0
+Climate change adaptation (marker),CoRegPerc,0.007462686567164179,0
+Climate change adaptation (marker),SecID,0.024390243902439025,0
+Climate change adaptation (marker),SeN,0.024390243902439025,0
+Climate change adaptation (marker),SePe,0.016216216216216217,0
+Climate change adaptation (marker),AmSp,0.000597609561752988,0
+Climate change mitigation (marker),FiY,0.25,0
+Climate change mitigation (marker),TraDevelo,1.0,0
+Climate change mitigation (marker),Biodi,1.0,0
+Climate change mitigation (marker),UrbIss,1.0,0
+Climate change mitigation (marker),ChiIs,1.0,0
+Climate change mitigation (marker),YoIs,1.0,0
+Climate change mitigation (marker),IndigIs,1.0,0
+Climate change mitigation (marker),DisaIss,1.0,0
+Climate change mitigation (marker),ICTAAToFoDevelo,0.75,0
+Climate change mitigation (marker),KnoFoDeve,1.0,0
+Climate change mitigation (marker),GeEqua,1.0,0
+Climate change mitigation (marker),OrgaID,0.011799410029498525,0
+Climate change mitigation (marker),OrgNa,0.011799410029498525,0
+Climate change mitigation (marker),OrgT,1.0,0
+Climate change mitigation (marker),OrganCl,0.6666666666666666,0
+Climate change mitigation (marker),OrganS,0.16666666666666666,0
+Climate change mitigation (marker),ContID,0.8,0
+Climate change mitigation (marker),ContiNa,0.8,0
+Climate change mitigation (marker),PrBroCounID,0.026143790849673203,0
+Climate change mitigation (marker),CouReID,0.028169014084507043,0
+Climate change mitigation (marker),CouRegN,0.027586206896551724,0
+Climate change mitigation (marker),CoRegPerc,0.009950248756218905,0
+Climate change mitigation (marker),SecID,0.032520325203252036,0
+Climate change mitigation (marker),SeN,0.032520325203252036,0
+Climate change mitigation (marker),SePe,0.021621621621621623,0
+Climate change mitigation (marker),AmSp,0.0007968127490039841,0
+Desertification (marker),FiY,0.25,0
+Desertification (marker),TraDevelo,1.0,0
+Desertification (marker),Biodi,1.0,0
+Desertification (marker),UrbIss,1.0,0
+Desertification (marker),ChiIs,1.0,0
+Desertification (marker),YoIs,1.0,0
+Desertification (marker),IndigIs,1.0,0
+Desertification (marker),DisaIss,1.0,0
+Desertification (marker),ICTAAToFoDevelo,0.75,0
+Desertification (marker),KnoFoDeve,1.0,0
+Desertification (marker),GeEqua,1.0,0
+Desertification (marker),OrgaID,0.011799410029498525,0
+Desertification (marker),OrgNa,0.011799410029498525,0
+Desertification (marker),OrgT,1.0,0
+Desertification (marker),OrganCl,0.6666666666666666,0
+Desertification (marker),OrganS,0.16666666666666666,0
+Desertification (marker),ContID,0.8,0
+Desertification (marker),ContiNa,0.8,0
+Desertification (marker),PrBroCounID,0.026143790849673203,0
+Desertification (marker),CouReID,0.028169014084507043,0
+Desertification (marker),CouRegN,0.027586206896551724,0
+Desertification (marker),CoRegPerc,0.009950248756218905,0
+Desertification (marker),SecID,0.032520325203252036,0
+Desertification (marker),SeN,0.032520325203252036,0
+Desertification (marker),SePe,0.021621621621621623,0
+Desertification (marker),AmSp,0.0007968127490039841,0
+Participatory development and good governance,FiY,0.25,0
+Participatory development and good governance,TraDevelo,1.0,0
+Participatory development and good governance,Biodi,1.0,0
+Participatory development and good governance,UrbIss,1.0,0
+Participatory development and good governance,ChiIs,1.0,0
+Participatory development and good governance,YoIs,1.0,0
+Participatory development and good governance,IndigIs,1.0,0
+Participatory development and good governance,DisaIss,1.0,0
+Participatory development and good governance,ICTAAToFoDevelo,0.75,0
+Participatory development and good governance,KnoFoDeve,1.0,0
+Participatory development and good governance,GeEqua,1.0,0
+Participatory development and good governance,OrgaID,0.011799410029498525,0
+Participatory development and good governance,OrgNa,0.011799410029498525,0
+Participatory development and good governance,OrgT,1.0,0
+Participatory development and good governance,OrganCl,0.6666666666666666,0
+Participatory development and good governance,OrganS,0.16666666666666666,0
+Participatory development and good governance,ContID,0.8,0
+Participatory development and good governance,ContiNa,0.8,0
+Participatory development and good governance,PrBroCounID,0.026143790849673203,0
+Participatory development and good governance,CouReID,0.028169014084507043,0
+Participatory development and good governance,CouRegN,0.027586206896551724,0
+Participatory development and good governance,CoRegPerc,0.009950248756218905,0
+Participatory development and good governance,SecID,0.032520325203252036,0
+Participatory development and good governance,SeN,0.032520325203252036,0
+Participatory development and good governance,SePe,0.021621621621621623,0
+Participatory development and good governance,AmSp,0.0007968127490039841,0

@@ -1,0 +1,1090 @@
+source,target,des1,des2,label
+Fiscal year,FiYe,The fiscal year during which the project was active.,The financial year in which the project was conducted.,1
+Fiscal year,CIDABusDeliMod,The fiscal year during which the project was active.,The previous model utilized by CIDA for project delivery.,0
+Fiscal year,CoReID,The fiscal year during which the project was active.,The identification code for the country or region related to the project.,0
+Fiscal year,Bio,The fiscal year during which the project was active.,A marker indicating the project's contribution to biodiversity.,0
+Fiscal year,OrganN,The fiscal year during which the project was active.,The official name of the organization linked to the project.,0
+Fiscal year,DivID,The fiscal year during which the project was active.,The unique code for the division in charge of the project.,0
+Fiscal year,ProPr,The fiscal year during which the project was active.,The current process employed for project programming.,0
+Fiscal year,DiviN,The fiscal year during which the project was active.,The official name of the division handling the project.,0
+Fiscal year,ContiID,The fiscal year during which the project was active.,The unique code for the continent associated with the project.,0
+Fiscal year,SecID,The fiscal year during which the project was active.,A specific code assigned to the section managing the project.,0
+Fiscal year,PrNum,The fiscal year during which the project was active.,A distinct identifier assigned to each project for reference.,0
+Fiscal year,TrDev,The fiscal year during which the project was active.,A marker denoting the project's involvement in trade development.,0
+Fiscal year,BraN,The fiscal year during which the project was active.,The title of the branch responsible for project management.,0
+Fiscal year,ContiN,The fiscal year during which the project was active.,The name of the continent linked to the project.,0
+Fiscal year,CounRegPer,The fiscal year during which the project was active.,The percentage of the project associated with the country or region.,0
+Fiscal year,UrIs,The fiscal year during which the project was active.,A marker representing the project's focus on urban issues.,0
+Fiscal year,ChIss,The fiscal year during which the project was active.,A marker indicating the project's concern for children's issues.,0
+Fiscal year,YoIss,The fiscal year during which the project was active.,A marker signifying the project's attention to youth-related matters.,0
+Fiscal year,IndiIss,The fiscal year during which the project was active.,A marker denoting the project's involvement in indigenous issues.,0
+Fiscal year,DisIs,The fiscal year during which the project was active.,A marker indicating the project's focus on disability-related concerns.,0
+Fiscal year,ICTAAToFoDev,The fiscal year during which the project was active.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Fiscal year,KnoFoDevelo,The fiscal year during which the project was active.,A marker representing the project's contribution to knowledge for development.,0
+Fiscal year,GeEq,The fiscal year during which the project was active.,A marker indicating the project's commitment to promoting gender equality.,0
+Fiscal year,OrgaID,The fiscal year during which the project was active.,The unique identifier for the organization associated with the project.,0
+Fiscal year,OrgTy,The fiscal year during which the project was active.,The type of organization involved in the project.,0
+Fiscal year,OrgCl,The fiscal year during which the project was active.,The class to which the organization belongs.,0
+Fiscal year,OrgS,The fiscal year during which the project was active.,A more specific classification within the organization class.,0
+Fiscal year,ProjBrCoID,The fiscal year during which the project was active.,The unique identifier for the country associated with the project.,0
+Fiscal year,CoReNa,The fiscal year during which the project was active.,The name of the country or region connected to the project.,0
+Fiscal year,SeID,The fiscal year during which the project was active.,A specific code assigned to the section managing the project.,0
+Fiscal year,SecN,The fiscal year during which the project was active.,The name designating the section overseeing the project.,0
+Fiscal year,SePerc,The fiscal year during which the project was active.,The percentage of the project linked to the sector.,0
+Fiscal year,AmoSpe,The fiscal year during which the project was active.,The total expenditure incurred on the project.,0
+CIDA business delivery model (old),FiYe,The previous business delivery model used by CIDA.,The financial year in which the project was conducted.,0
+CIDA business delivery model (old),CIDABusDeliMod,The previous business delivery model used by CIDA.,The previous model utilized by CIDA for project delivery.,1
+CIDA business delivery model (old),CoReID,The previous business delivery model used by CIDA.,The identification code for the country or region related to the project.,0
+CIDA business delivery model (old),Bio,The previous business delivery model used by CIDA.,A marker indicating the project's contribution to biodiversity.,0
+CIDA business delivery model (old),OrganN,The previous business delivery model used by CIDA.,The official name of the organization linked to the project.,0
+CIDA business delivery model (old),DivID,The previous business delivery model used by CIDA.,The unique code for the division in charge of the project.,0
+CIDA business delivery model (old),ProPr,The previous business delivery model used by CIDA.,The current process employed for project programming.,0
+CIDA business delivery model (old),DiviN,The previous business delivery model used by CIDA.,The official name of the division handling the project.,0
+CIDA business delivery model (old),ContiID,The previous business delivery model used by CIDA.,The unique code for the continent associated with the project.,0
+CIDA business delivery model (old),SecID,The previous business delivery model used by CIDA.,A specific code assigned to the section managing the project.,0
+CIDA business delivery model (old),PrNum,The previous business delivery model used by CIDA.,A distinct identifier assigned to each project for reference.,0
+CIDA business delivery model (old),TrDev,The previous business delivery model used by CIDA.,A marker denoting the project's involvement in trade development.,0
+CIDA business delivery model (old),BraN,The previous business delivery model used by CIDA.,The title of the branch responsible for project management.,0
+CIDA business delivery model (old),ContiN,The previous business delivery model used by CIDA.,The name of the continent linked to the project.,0
+CIDA business delivery model (old),CounRegPer,The previous business delivery model used by CIDA.,The percentage of the project associated with the country or region.,0
+CIDA business delivery model (old),UrIs,The previous business delivery model used by CIDA.,A marker representing the project's focus on urban issues.,0
+CIDA business delivery model (old),ChIss,The previous business delivery model used by CIDA.,A marker indicating the project's concern for children's issues.,0
+CIDA business delivery model (old),YoIss,The previous business delivery model used by CIDA.,A marker signifying the project's attention to youth-related matters.,0
+CIDA business delivery model (old),IndiIss,The previous business delivery model used by CIDA.,A marker denoting the project's involvement in indigenous issues.,0
+CIDA business delivery model (old),DisIs,The previous business delivery model used by CIDA.,A marker indicating the project's focus on disability-related concerns.,0
+CIDA business delivery model (old),ICTAAToFoDev,The previous business delivery model used by CIDA.,A marker signifying the project's use of Information and Communication Technology for development.,0
+CIDA business delivery model (old),KnoFoDevelo,The previous business delivery model used by CIDA.,A marker representing the project's contribution to knowledge for development.,0
+CIDA business delivery model (old),GeEq,The previous business delivery model used by CIDA.,A marker indicating the project's commitment to promoting gender equality.,0
+CIDA business delivery model (old),OrgaID,The previous business delivery model used by CIDA.,The unique identifier for the organization associated with the project.,0
+CIDA business delivery model (old),OrgTy,The previous business delivery model used by CIDA.,The type of organization involved in the project.,0
+CIDA business delivery model (old),OrgCl,The previous business delivery model used by CIDA.,The class to which the organization belongs.,0
+CIDA business delivery model (old),OrgS,The previous business delivery model used by CIDA.,A more specific classification within the organization class.,0
+CIDA business delivery model (old),ProjBrCoID,The previous business delivery model used by CIDA.,The unique identifier for the country associated with the project.,0
+CIDA business delivery model (old),CoReNa,The previous business delivery model used by CIDA.,The name of the country or region connected to the project.,0
+CIDA business delivery model (old),SeID,The previous business delivery model used by CIDA.,A specific code assigned to the section managing the project.,0
+CIDA business delivery model (old),SecN,The previous business delivery model used by CIDA.,The name designating the section overseeing the project.,0
+CIDA business delivery model (old),SePerc,The previous business delivery model used by CIDA.,The percentage of the project linked to the sector.,0
+CIDA business delivery model (old),AmoSpe,The previous business delivery model used by CIDA.,The total expenditure incurred on the project.,0
+CountryRegion ID,FiYe,Identification code for the country or region associated with the project.,The financial year in which the project was conducted.,0
+CountryRegion ID,CIDABusDeliMod,Identification code for the country or region associated with the project.,The previous model utilized by CIDA for project delivery.,0
+CountryRegion ID,CoReID,Identification code for the country or region associated with the project.,The identification code for the country or region related to the project.,1
+CountryRegion ID,Bio,Identification code for the country or region associated with the project.,A marker indicating the project's contribution to biodiversity.,0
+CountryRegion ID,OrganN,Identification code for the country or region associated with the project.,The official name of the organization linked to the project.,0
+CountryRegion ID,DivID,Identification code for the country or region associated with the project.,The unique code for the division in charge of the project.,0
+CountryRegion ID,ProPr,Identification code for the country or region associated with the project.,The current process employed for project programming.,0
+CountryRegion ID,DiviN,Identification code for the country or region associated with the project.,The official name of the division handling the project.,0
+CountryRegion ID,ContiID,Identification code for the country or region associated with the project.,The unique code for the continent associated with the project.,0
+CountryRegion ID,SecID,Identification code for the country or region associated with the project.,A specific code assigned to the section managing the project.,0
+CountryRegion ID,PrNum,Identification code for the country or region associated with the project.,A distinct identifier assigned to each project for reference.,0
+CountryRegion ID,TrDev,Identification code for the country or region associated with the project.,A marker denoting the project's involvement in trade development.,0
+CountryRegion ID,BraN,Identification code for the country or region associated with the project.,The title of the branch responsible for project management.,0
+CountryRegion ID,ContiN,Identification code for the country or region associated with the project.,The name of the continent linked to the project.,0
+CountryRegion ID,CounRegPer,Identification code for the country or region associated with the project.,The percentage of the project associated with the country or region.,0
+CountryRegion ID,UrIs,Identification code for the country or region associated with the project.,A marker representing the project's focus on urban issues.,0
+CountryRegion ID,ChIss,Identification code for the country or region associated with the project.,A marker indicating the project's concern for children's issues.,0
+CountryRegion ID,YoIss,Identification code for the country or region associated with the project.,A marker signifying the project's attention to youth-related matters.,0
+CountryRegion ID,IndiIss,Identification code for the country or region associated with the project.,A marker denoting the project's involvement in indigenous issues.,0
+CountryRegion ID,DisIs,Identification code for the country or region associated with the project.,A marker indicating the project's focus on disability-related concerns.,0
+CountryRegion ID,ICTAAToFoDev,Identification code for the country or region associated with the project.,A marker signifying the project's use of Information and Communication Technology for development.,0
+CountryRegion ID,KnoFoDevelo,Identification code for the country or region associated with the project.,A marker representing the project's contribution to knowledge for development.,0
+CountryRegion ID,GeEq,Identification code for the country or region associated with the project.,A marker indicating the project's commitment to promoting gender equality.,0
+CountryRegion ID,OrgaID,Identification code for the country or region associated with the project.,The unique identifier for the organization associated with the project.,0
+CountryRegion ID,OrgTy,Identification code for the country or region associated with the project.,The type of organization involved in the project.,0
+CountryRegion ID,OrgCl,Identification code for the country or region associated with the project.,The class to which the organization belongs.,0
+CountryRegion ID,OrgS,Identification code for the country or region associated with the project.,A more specific classification within the organization class.,0
+CountryRegion ID,ProjBrCoID,Identification code for the country or region associated with the project.,The unique identifier for the country associated with the project.,0
+CountryRegion ID,CoReNa,Identification code for the country or region associated with the project.,The name of the country or region connected to the project.,0
+CountryRegion ID,SeID,Identification code for the country or region associated with the project.,A specific code assigned to the section managing the project.,0
+CountryRegion ID,SecN,Identification code for the country or region associated with the project.,The name designating the section overseeing the project.,0
+CountryRegion ID,SePerc,Identification code for the country or region associated with the project.,The percentage of the project linked to the sector.,0
+CountryRegion ID,AmoSpe,Identification code for the country or region associated with the project.,The total expenditure incurred on the project.,0
+Biodiversity (marker),FiYe,Indicates if the project addresses biodiversity.,The financial year in which the project was conducted.,0
+Biodiversity (marker),CIDABusDeliMod,Indicates if the project addresses biodiversity.,The previous model utilized by CIDA for project delivery.,0
+Biodiversity (marker),CoReID,Indicates if the project addresses biodiversity.,The identification code for the country or region related to the project.,0
+Biodiversity (marker),Bio,Indicates if the project addresses biodiversity.,A marker indicating the project's contribution to biodiversity.,1
+Biodiversity (marker),OrganN,Indicates if the project addresses biodiversity.,The official name of the organization linked to the project.,0
+Biodiversity (marker),DivID,Indicates if the project addresses biodiversity.,The unique code for the division in charge of the project.,0
+Biodiversity (marker),ProPr,Indicates if the project addresses biodiversity.,The current process employed for project programming.,0
+Biodiversity (marker),DiviN,Indicates if the project addresses biodiversity.,The official name of the division handling the project.,0
+Biodiversity (marker),ContiID,Indicates if the project addresses biodiversity.,The unique code for the continent associated with the project.,0
+Biodiversity (marker),SecID,Indicates if the project addresses biodiversity.,A specific code assigned to the section managing the project.,0
+Biodiversity (marker),PrNum,Indicates if the project addresses biodiversity.,A distinct identifier assigned to each project for reference.,0
+Biodiversity (marker),TrDev,Indicates if the project addresses biodiversity.,A marker denoting the project's involvement in trade development.,0
+Biodiversity (marker),BraN,Indicates if the project addresses biodiversity.,The title of the branch responsible for project management.,0
+Biodiversity (marker),ContiN,Indicates if the project addresses biodiversity.,The name of the continent linked to the project.,0
+Biodiversity (marker),CounRegPer,Indicates if the project addresses biodiversity.,The percentage of the project associated with the country or region.,0
+Biodiversity (marker),UrIs,Indicates if the project addresses biodiversity.,A marker representing the project's focus on urban issues.,0
+Biodiversity (marker),ChIss,Indicates if the project addresses biodiversity.,A marker indicating the project's concern for children's issues.,0
+Biodiversity (marker),YoIss,Indicates if the project addresses biodiversity.,A marker signifying the project's attention to youth-related matters.,0
+Biodiversity (marker),IndiIss,Indicates if the project addresses biodiversity.,A marker denoting the project's involvement in indigenous issues.,0
+Biodiversity (marker),DisIs,Indicates if the project addresses biodiversity.,A marker indicating the project's focus on disability-related concerns.,0
+Biodiversity (marker),ICTAAToFoDev,Indicates if the project addresses biodiversity.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Biodiversity (marker),KnoFoDevelo,Indicates if the project addresses biodiversity.,A marker representing the project's contribution to knowledge for development.,0
+Biodiversity (marker),GeEq,Indicates if the project addresses biodiversity.,A marker indicating the project's commitment to promoting gender equality.,0
+Biodiversity (marker),OrgaID,Indicates if the project addresses biodiversity.,The unique identifier for the organization associated with the project.,0
+Biodiversity (marker),OrgTy,Indicates if the project addresses biodiversity.,The type of organization involved in the project.,0
+Biodiversity (marker),OrgCl,Indicates if the project addresses biodiversity.,The class to which the organization belongs.,0
+Biodiversity (marker),OrgS,Indicates if the project addresses biodiversity.,A more specific classification within the organization class.,0
+Biodiversity (marker),ProjBrCoID,Indicates if the project addresses biodiversity.,The unique identifier for the country associated with the project.,0
+Biodiversity (marker),CoReNa,Indicates if the project addresses biodiversity.,The name of the country or region connected to the project.,0
+Biodiversity (marker),SeID,Indicates if the project addresses biodiversity.,A specific code assigned to the section managing the project.,0
+Biodiversity (marker),SecN,Indicates if the project addresses biodiversity.,The name designating the section overseeing the project.,0
+Biodiversity (marker),SePerc,Indicates if the project addresses biodiversity.,The percentage of the project linked to the sector.,0
+Biodiversity (marker),AmoSpe,Indicates if the project addresses biodiversity.,The total expenditure incurred on the project.,0
+Organisation name,FiYe,The name of the organization associated with the project.,The financial year in which the project was conducted.,0
+Organisation name,CIDABusDeliMod,The name of the organization associated with the project.,The previous model utilized by CIDA for project delivery.,0
+Organisation name,CoReID,The name of the organization associated with the project.,The identification code for the country or region related to the project.,0
+Organisation name,Bio,The name of the organization associated with the project.,A marker indicating the project's contribution to biodiversity.,0
+Organisation name,OrganN,The name of the organization associated with the project.,The official name of the organization linked to the project.,1
+Organisation name,DivID,The name of the organization associated with the project.,The unique code for the division in charge of the project.,0
+Organisation name,ProPr,The name of the organization associated with the project.,The current process employed for project programming.,0
+Organisation name,DiviN,The name of the organization associated with the project.,The official name of the division handling the project.,0
+Organisation name,ContiID,The name of the organization associated with the project.,The unique code for the continent associated with the project.,0
+Organisation name,SecID,The name of the organization associated with the project.,A specific code assigned to the section managing the project.,0
+Organisation name,PrNum,The name of the organization associated with the project.,A distinct identifier assigned to each project for reference.,0
+Organisation name,TrDev,The name of the organization associated with the project.,A marker denoting the project's involvement in trade development.,0
+Organisation name,BraN,The name of the organization associated with the project.,The title of the branch responsible for project management.,0
+Organisation name,ContiN,The name of the organization associated with the project.,The name of the continent linked to the project.,0
+Organisation name,CounRegPer,The name of the organization associated with the project.,The percentage of the project associated with the country or region.,0
+Organisation name,UrIs,The name of the organization associated with the project.,A marker representing the project's focus on urban issues.,0
+Organisation name,ChIss,The name of the organization associated with the project.,A marker indicating the project's concern for children's issues.,0
+Organisation name,YoIss,The name of the organization associated with the project.,A marker signifying the project's attention to youth-related matters.,0
+Organisation name,IndiIss,The name of the organization associated with the project.,A marker denoting the project's involvement in indigenous issues.,0
+Organisation name,DisIs,The name of the organization associated with the project.,A marker indicating the project's focus on disability-related concerns.,0
+Organisation name,ICTAAToFoDev,The name of the organization associated with the project.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Organisation name,KnoFoDevelo,The name of the organization associated with the project.,A marker representing the project's contribution to knowledge for development.,0
+Organisation name,GeEq,The name of the organization associated with the project.,A marker indicating the project's commitment to promoting gender equality.,0
+Organisation name,OrgaID,The name of the organization associated with the project.,The unique identifier for the organization associated with the project.,0
+Organisation name,OrgTy,The name of the organization associated with the project.,The type of organization involved in the project.,0
+Organisation name,OrgCl,The name of the organization associated with the project.,The class to which the organization belongs.,0
+Organisation name,OrgS,The name of the organization associated with the project.,A more specific classification within the organization class.,0
+Organisation name,ProjBrCoID,The name of the organization associated with the project.,The unique identifier for the country associated with the project.,0
+Organisation name,CoReNa,The name of the organization associated with the project.,The name of the country or region connected to the project.,0
+Organisation name,SeID,The name of the organization associated with the project.,A specific code assigned to the section managing the project.,0
+Organisation name,SecN,The name of the organization associated with the project.,The name designating the section overseeing the project.,0
+Organisation name,SePerc,The name of the organization associated with the project.,The percentage of the project linked to the sector.,0
+Organisation name,AmoSpe,The name of the organization associated with the project.,The total expenditure incurred on the project.,0
+Division ID,FiYe,Identification code for the division responsible for the project.,The financial year in which the project was conducted.,0
+Division ID,CIDABusDeliMod,Identification code for the division responsible for the project.,The previous model utilized by CIDA for project delivery.,0
+Division ID,CoReID,Identification code for the division responsible for the project.,The identification code for the country or region related to the project.,0
+Division ID,Bio,Identification code for the division responsible for the project.,A marker indicating the project's contribution to biodiversity.,0
+Division ID,OrganN,Identification code for the division responsible for the project.,The official name of the organization linked to the project.,0
+Division ID,DivID,Identification code for the division responsible for the project.,The unique code for the division in charge of the project.,1
+Division ID,ProPr,Identification code for the division responsible for the project.,The current process employed for project programming.,0
+Division ID,DiviN,Identification code for the division responsible for the project.,The official name of the division handling the project.,0
+Division ID,ContiID,Identification code for the division responsible for the project.,The unique code for the continent associated with the project.,0
+Division ID,SecID,Identification code for the division responsible for the project.,A specific code assigned to the section managing the project.,0
+Division ID,PrNum,Identification code for the division responsible for the project.,A distinct identifier assigned to each project for reference.,0
+Division ID,TrDev,Identification code for the division responsible for the project.,A marker denoting the project's involvement in trade development.,0
+Division ID,BraN,Identification code for the division responsible for the project.,The title of the branch responsible for project management.,0
+Division ID,ContiN,Identification code for the division responsible for the project.,The name of the continent linked to the project.,0
+Division ID,CounRegPer,Identification code for the division responsible for the project.,The percentage of the project associated with the country or region.,0
+Division ID,UrIs,Identification code for the division responsible for the project.,A marker representing the project's focus on urban issues.,0
+Division ID,ChIss,Identification code for the division responsible for the project.,A marker indicating the project's concern for children's issues.,0
+Division ID,YoIss,Identification code for the division responsible for the project.,A marker signifying the project's attention to youth-related matters.,0
+Division ID,IndiIss,Identification code for the division responsible for the project.,A marker denoting the project's involvement in indigenous issues.,0
+Division ID,DisIs,Identification code for the division responsible for the project.,A marker indicating the project's focus on disability-related concerns.,0
+Division ID,ICTAAToFoDev,Identification code for the division responsible for the project.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Division ID,KnoFoDevelo,Identification code for the division responsible for the project.,A marker representing the project's contribution to knowledge for development.,0
+Division ID,GeEq,Identification code for the division responsible for the project.,A marker indicating the project's commitment to promoting gender equality.,0
+Division ID,OrgaID,Identification code for the division responsible for the project.,The unique identifier for the organization associated with the project.,0
+Division ID,OrgTy,Identification code for the division responsible for the project.,The type of organization involved in the project.,0
+Division ID,OrgCl,Identification code for the division responsible for the project.,The class to which the organization belongs.,0
+Division ID,OrgS,Identification code for the division responsible for the project.,A more specific classification within the organization class.,0
+Division ID,ProjBrCoID,Identification code for the division responsible for the project.,The unique identifier for the country associated with the project.,0
+Division ID,CoReNa,Identification code for the division responsible for the project.,The name of the country or region connected to the project.,0
+Division ID,SeID,Identification code for the division responsible for the project.,A specific code assigned to the section managing the project.,0
+Division ID,SecN,Identification code for the division responsible for the project.,The name designating the section overseeing the project.,0
+Division ID,SePerc,Identification code for the division responsible for the project.,The percentage of the project linked to the sector.,0
+Division ID,AmoSpe,Identification code for the division responsible for the project.,The total expenditure incurred on the project.,0
+Programming process (new),FiYe,The current programming process used.,The financial year in which the project was conducted.,0
+Programming process (new),CIDABusDeliMod,The current programming process used.,The previous model utilized by CIDA for project delivery.,0
+Programming process (new),CoReID,The current programming process used.,The identification code for the country or region related to the project.,0
+Programming process (new),Bio,The current programming process used.,A marker indicating the project's contribution to biodiversity.,0
+Programming process (new),OrganN,The current programming process used.,The official name of the organization linked to the project.,0
+Programming process (new),DivID,The current programming process used.,The unique code for the division in charge of the project.,0
+Programming process (new),ProPr,The current programming process used.,The current process employed for project programming.,1
+Programming process (new),DiviN,The current programming process used.,The official name of the division handling the project.,0
+Programming process (new),ContiID,The current programming process used.,The unique code for the continent associated with the project.,0
+Programming process (new),SecID,The current programming process used.,A specific code assigned to the section managing the project.,0
+Programming process (new),PrNum,The current programming process used.,A distinct identifier assigned to each project for reference.,0
+Programming process (new),TrDev,The current programming process used.,A marker denoting the project's involvement in trade development.,0
+Programming process (new),BraN,The current programming process used.,The title of the branch responsible for project management.,0
+Programming process (new),ContiN,The current programming process used.,The name of the continent linked to the project.,0
+Programming process (new),CounRegPer,The current programming process used.,The percentage of the project associated with the country or region.,0
+Programming process (new),UrIs,The current programming process used.,A marker representing the project's focus on urban issues.,0
+Programming process (new),ChIss,The current programming process used.,A marker indicating the project's concern for children's issues.,0
+Programming process (new),YoIss,The current programming process used.,A marker signifying the project's attention to youth-related matters.,0
+Programming process (new),IndiIss,The current programming process used.,A marker denoting the project's involvement in indigenous issues.,0
+Programming process (new),DisIs,The current programming process used.,A marker indicating the project's focus on disability-related concerns.,0
+Programming process (new),ICTAAToFoDev,The current programming process used.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Programming process (new),KnoFoDevelo,The current programming process used.,A marker representing the project's contribution to knowledge for development.,0
+Programming process (new),GeEq,The current programming process used.,A marker indicating the project's commitment to promoting gender equality.,0
+Programming process (new),OrgaID,The current programming process used.,The unique identifier for the organization associated with the project.,0
+Programming process (new),OrgTy,The current programming process used.,The type of organization involved in the project.,0
+Programming process (new),OrgCl,The current programming process used.,The class to which the organization belongs.,0
+Programming process (new),OrgS,The current programming process used.,A more specific classification within the organization class.,0
+Programming process (new),ProjBrCoID,The current programming process used.,The unique identifier for the country associated with the project.,0
+Programming process (new),CoReNa,The current programming process used.,The name of the country or region connected to the project.,0
+Programming process (new),SeID,The current programming process used.,A specific code assigned to the section managing the project.,0
+Programming process (new),SecN,The current programming process used.,The name designating the section overseeing the project.,0
+Programming process (new),SePerc,The current programming process used.,The percentage of the project linked to the sector.,0
+Programming process (new),AmoSpe,The current programming process used.,The total expenditure incurred on the project.,0
+Division name,FiYe,The name of the division responsible for the project.,The financial year in which the project was conducted.,0
+Division name,CIDABusDeliMod,The name of the division responsible for the project.,The previous model utilized by CIDA for project delivery.,0
+Division name,CoReID,The name of the division responsible for the project.,The identification code for the country or region related to the project.,0
+Division name,Bio,The name of the division responsible for the project.,A marker indicating the project's contribution to biodiversity.,0
+Division name,OrganN,The name of the division responsible for the project.,The official name of the organization linked to the project.,0
+Division name,DivID,The name of the division responsible for the project.,The unique code for the division in charge of the project.,0
+Division name,ProPr,The name of the division responsible for the project.,The current process employed for project programming.,0
+Division name,DiviN,The name of the division responsible for the project.,The official name of the division handling the project.,1
+Division name,ContiID,The name of the division responsible for the project.,The unique code for the continent associated with the project.,0
+Division name,SecID,The name of the division responsible for the project.,A specific code assigned to the section managing the project.,0
+Division name,PrNum,The name of the division responsible for the project.,A distinct identifier assigned to each project for reference.,0
+Division name,TrDev,The name of the division responsible for the project.,A marker denoting the project's involvement in trade development.,0
+Division name,BraN,The name of the division responsible for the project.,The title of the branch responsible for project management.,0
+Division name,ContiN,The name of the division responsible for the project.,The name of the continent linked to the project.,0
+Division name,CounRegPer,The name of the division responsible for the project.,The percentage of the project associated with the country or region.,0
+Division name,UrIs,The name of the division responsible for the project.,A marker representing the project's focus on urban issues.,0
+Division name,ChIss,The name of the division responsible for the project.,A marker indicating the project's concern for children's issues.,0
+Division name,YoIss,The name of the division responsible for the project.,A marker signifying the project's attention to youth-related matters.,0
+Division name,IndiIss,The name of the division responsible for the project.,A marker denoting the project's involvement in indigenous issues.,0
+Division name,DisIs,The name of the division responsible for the project.,A marker indicating the project's focus on disability-related concerns.,0
+Division name,ICTAAToFoDev,The name of the division responsible for the project.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Division name,KnoFoDevelo,The name of the division responsible for the project.,A marker representing the project's contribution to knowledge for development.,0
+Division name,GeEq,The name of the division responsible for the project.,A marker indicating the project's commitment to promoting gender equality.,0
+Division name,OrgaID,The name of the division responsible for the project.,The unique identifier for the organization associated with the project.,0
+Division name,OrgTy,The name of the division responsible for the project.,The type of organization involved in the project.,0
+Division name,OrgCl,The name of the division responsible for the project.,The class to which the organization belongs.,0
+Division name,OrgS,The name of the division responsible for the project.,A more specific classification within the organization class.,0
+Division name,ProjBrCoID,The name of the division responsible for the project.,The unique identifier for the country associated with the project.,0
+Division name,CoReNa,The name of the division responsible for the project.,The name of the country or region connected to the project.,0
+Division name,SeID,The name of the division responsible for the project.,A specific code assigned to the section managing the project.,0
+Division name,SecN,The name of the division responsible for the project.,The name designating the section overseeing the project.,0
+Division name,SePerc,The name of the division responsible for the project.,The percentage of the project linked to the sector.,0
+Division name,AmoSpe,The name of the division responsible for the project.,The total expenditure incurred on the project.,0
+Continent ID,FiYe,Identification code for the continent associated with the project.,The financial year in which the project was conducted.,0
+Continent ID,CIDABusDeliMod,Identification code for the continent associated with the project.,The previous model utilized by CIDA for project delivery.,0
+Continent ID,CoReID,Identification code for the continent associated with the project.,The identification code for the country or region related to the project.,0
+Continent ID,Bio,Identification code for the continent associated with the project.,A marker indicating the project's contribution to biodiversity.,0
+Continent ID,OrganN,Identification code for the continent associated with the project.,The official name of the organization linked to the project.,0
+Continent ID,DivID,Identification code for the continent associated with the project.,The unique code for the division in charge of the project.,0
+Continent ID,ProPr,Identification code for the continent associated with the project.,The current process employed for project programming.,0
+Continent ID,DiviN,Identification code for the continent associated with the project.,The official name of the division handling the project.,0
+Continent ID,ContiID,Identification code for the continent associated with the project.,The unique code for the continent associated with the project.,1
+Continent ID,SecID,Identification code for the continent associated with the project.,A specific code assigned to the section managing the project.,0
+Continent ID,PrNum,Identification code for the continent associated with the project.,A distinct identifier assigned to each project for reference.,0
+Continent ID,TrDev,Identification code for the continent associated with the project.,A marker denoting the project's involvement in trade development.,0
+Continent ID,BraN,Identification code for the continent associated with the project.,The title of the branch responsible for project management.,0
+Continent ID,ContiN,Identification code for the continent associated with the project.,The name of the continent linked to the project.,0
+Continent ID,CounRegPer,Identification code for the continent associated with the project.,The percentage of the project associated with the country or region.,0
+Continent ID,UrIs,Identification code for the continent associated with the project.,A marker representing the project's focus on urban issues.,0
+Continent ID,ChIss,Identification code for the continent associated with the project.,A marker indicating the project's concern for children's issues.,0
+Continent ID,YoIss,Identification code for the continent associated with the project.,A marker signifying the project's attention to youth-related matters.,0
+Continent ID,IndiIss,Identification code for the continent associated with the project.,A marker denoting the project's involvement in indigenous issues.,0
+Continent ID,DisIs,Identification code for the continent associated with the project.,A marker indicating the project's focus on disability-related concerns.,0
+Continent ID,ICTAAToFoDev,Identification code for the continent associated with the project.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Continent ID,KnoFoDevelo,Identification code for the continent associated with the project.,A marker representing the project's contribution to knowledge for development.,0
+Continent ID,GeEq,Identification code for the continent associated with the project.,A marker indicating the project's commitment to promoting gender equality.,0
+Continent ID,OrgaID,Identification code for the continent associated with the project.,The unique identifier for the organization associated with the project.,0
+Continent ID,OrgTy,Identification code for the continent associated with the project.,The type of organization involved in the project.,0
+Continent ID,OrgCl,Identification code for the continent associated with the project.,The class to which the organization belongs.,0
+Continent ID,OrgS,Identification code for the continent associated with the project.,A more specific classification within the organization class.,0
+Continent ID,ProjBrCoID,Identification code for the continent associated with the project.,The unique identifier for the country associated with the project.,0
+Continent ID,CoReNa,Identification code for the continent associated with the project.,The name of the country or region connected to the project.,0
+Continent ID,SeID,Identification code for the continent associated with the project.,A specific code assigned to the section managing the project.,0
+Continent ID,SecN,Identification code for the continent associated with the project.,The name designating the section overseeing the project.,0
+Continent ID,SePerc,Identification code for the continent associated with the project.,The percentage of the project linked to the sector.,0
+Continent ID,AmoSpe,Identification code for the continent associated with the project.,The total expenditure incurred on the project.,0
+Section ID,FiYe,Identification code for the section responsible for the project.,The financial year in which the project was conducted.,0
+Section ID,CIDABusDeliMod,Identification code for the section responsible for the project.,The previous model utilized by CIDA for project delivery.,0
+Section ID,CoReID,Identification code for the section responsible for the project.,The identification code for the country or region related to the project.,0
+Section ID,Bio,Identification code for the section responsible for the project.,A marker indicating the project's contribution to biodiversity.,0
+Section ID,OrganN,Identification code for the section responsible for the project.,The official name of the organization linked to the project.,0
+Section ID,DivID,Identification code for the section responsible for the project.,The unique code for the division in charge of the project.,0
+Section ID,ProPr,Identification code for the section responsible for the project.,The current process employed for project programming.,0
+Section ID,DiviN,Identification code for the section responsible for the project.,The official name of the division handling the project.,0
+Section ID,ContiID,Identification code for the section responsible for the project.,The unique code for the continent associated with the project.,0
+Section ID,SecID,Identification code for the section responsible for the project.,A specific code assigned to the section managing the project.,1
+Section ID,PrNum,Identification code for the section responsible for the project.,A distinct identifier assigned to each project for reference.,0
+Section ID,TrDev,Identification code for the section responsible for the project.,A marker denoting the project's involvement in trade development.,0
+Section ID,BraN,Identification code for the section responsible for the project.,The title of the branch responsible for project management.,0
+Section ID,ContiN,Identification code for the section responsible for the project.,The name of the continent linked to the project.,0
+Section ID,CounRegPer,Identification code for the section responsible for the project.,The percentage of the project associated with the country or region.,0
+Section ID,UrIs,Identification code for the section responsible for the project.,A marker representing the project's focus on urban issues.,0
+Section ID,ChIss,Identification code for the section responsible for the project.,A marker indicating the project's concern for children's issues.,0
+Section ID,YoIss,Identification code for the section responsible for the project.,A marker signifying the project's attention to youth-related matters.,0
+Section ID,IndiIss,Identification code for the section responsible for the project.,A marker denoting the project's involvement in indigenous issues.,0
+Section ID,DisIs,Identification code for the section responsible for the project.,A marker indicating the project's focus on disability-related concerns.,0
+Section ID,ICTAAToFoDev,Identification code for the section responsible for the project.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Section ID,KnoFoDevelo,Identification code for the section responsible for the project.,A marker representing the project's contribution to knowledge for development.,0
+Section ID,GeEq,Identification code for the section responsible for the project.,A marker indicating the project's commitment to promoting gender equality.,0
+Section ID,OrgaID,Identification code for the section responsible for the project.,The unique identifier for the organization associated with the project.,0
+Section ID,OrgTy,Identification code for the section responsible for the project.,The type of organization involved in the project.,0
+Section ID,OrgCl,Identification code for the section responsible for the project.,The class to which the organization belongs.,0
+Section ID,OrgS,Identification code for the section responsible for the project.,A more specific classification within the organization class.,0
+Section ID,ProjBrCoID,Identification code for the section responsible for the project.,The unique identifier for the country associated with the project.,0
+Section ID,CoReNa,Identification code for the section responsible for the project.,The name of the country or region connected to the project.,0
+Section ID,SeID,Identification code for the section responsible for the project.,A specific code assigned to the section managing the project.,1
+Section ID,SecN,Identification code for the section responsible for the project.,The name designating the section overseeing the project.,0
+Section ID,SePerc,Identification code for the section responsible for the project.,The percentage of the project linked to the sector.,0
+Section ID,AmoSpe,Identification code for the section responsible for the project.,The total expenditure incurred on the project.,0
+Project number,FiYe,A unique identifier for each project.,The financial year in which the project was conducted.,0
+Project number,CIDABusDeliMod,A unique identifier for each project.,The previous model utilized by CIDA for project delivery.,0
+Project number,CoReID,A unique identifier for each project.,The identification code for the country or region related to the project.,0
+Project number,Bio,A unique identifier for each project.,A marker indicating the project's contribution to biodiversity.,0
+Project number,OrganN,A unique identifier for each project.,The official name of the organization linked to the project.,0
+Project number,DivID,A unique identifier for each project.,The unique code for the division in charge of the project.,0
+Project number,ProPr,A unique identifier for each project.,The current process employed for project programming.,0
+Project number,DiviN,A unique identifier for each project.,The official name of the division handling the project.,0
+Project number,ContiID,A unique identifier for each project.,The unique code for the continent associated with the project.,0
+Project number,SecID,A unique identifier for each project.,A specific code assigned to the section managing the project.,0
+Project number,PrNum,A unique identifier for each project.,A distinct identifier assigned to each project for reference.,1
+Project number,TrDev,A unique identifier for each project.,A marker denoting the project's involvement in trade development.,0
+Project number,BraN,A unique identifier for each project.,The title of the branch responsible for project management.,0
+Project number,ContiN,A unique identifier for each project.,The name of the continent linked to the project.,0
+Project number,CounRegPer,A unique identifier for each project.,The percentage of the project associated with the country or region.,0
+Project number,UrIs,A unique identifier for each project.,A marker representing the project's focus on urban issues.,0
+Project number,ChIss,A unique identifier for each project.,A marker indicating the project's concern for children's issues.,0
+Project number,YoIss,A unique identifier for each project.,A marker signifying the project's attention to youth-related matters.,0
+Project number,IndiIss,A unique identifier for each project.,A marker denoting the project's involvement in indigenous issues.,0
+Project number,DisIs,A unique identifier for each project.,A marker indicating the project's focus on disability-related concerns.,0
+Project number,ICTAAToFoDev,A unique identifier for each project.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Project number,KnoFoDevelo,A unique identifier for each project.,A marker representing the project's contribution to knowledge for development.,0
+Project number,GeEq,A unique identifier for each project.,A marker indicating the project's commitment to promoting gender equality.,0
+Project number,OrgaID,A unique identifier for each project.,The unique identifier for the organization associated with the project.,0
+Project number,OrgTy,A unique identifier for each project.,The type of organization involved in the project.,0
+Project number,OrgCl,A unique identifier for each project.,The class to which the organization belongs.,0
+Project number,OrgS,A unique identifier for each project.,A more specific classification within the organization class.,0
+Project number,ProjBrCoID,A unique identifier for each project.,The unique identifier for the country associated with the project.,0
+Project number,CoReNa,A unique identifier for each project.,The name of the country or region connected to the project.,0
+Project number,SeID,A unique identifier for each project.,A specific code assigned to the section managing the project.,0
+Project number,SecN,A unique identifier for each project.,The name designating the section overseeing the project.,0
+Project number,SePerc,A unique identifier for each project.,The percentage of the project linked to the sector.,0
+Project number,AmoSpe,A unique identifier for each project.,The total expenditure incurred on the project.,0
+Trade development (marker),FiYe,Indicates if the project addresses trade development.,The financial year in which the project was conducted.,0
+Trade development (marker),CIDABusDeliMod,Indicates if the project addresses trade development.,The previous model utilized by CIDA for project delivery.,0
+Trade development (marker),CoReID,Indicates if the project addresses trade development.,The identification code for the country or region related to the project.,0
+Trade development (marker),Bio,Indicates if the project addresses trade development.,A marker indicating the project's contribution to biodiversity.,0
+Trade development (marker),OrganN,Indicates if the project addresses trade development.,The official name of the organization linked to the project.,0
+Trade development (marker),DivID,Indicates if the project addresses trade development.,The unique code for the division in charge of the project.,0
+Trade development (marker),ProPr,Indicates if the project addresses trade development.,The current process employed for project programming.,0
+Trade development (marker),DiviN,Indicates if the project addresses trade development.,The official name of the division handling the project.,0
+Trade development (marker),ContiID,Indicates if the project addresses trade development.,The unique code for the continent associated with the project.,0
+Trade development (marker),SecID,Indicates if the project addresses trade development.,A specific code assigned to the section managing the project.,0
+Trade development (marker),PrNum,Indicates if the project addresses trade development.,A distinct identifier assigned to each project for reference.,0
+Trade development (marker),TrDev,Indicates if the project addresses trade development.,A marker denoting the project's involvement in trade development.,1
+Trade development (marker),BraN,Indicates if the project addresses trade development.,The title of the branch responsible for project management.,0
+Trade development (marker),ContiN,Indicates if the project addresses trade development.,The name of the continent linked to the project.,0
+Trade development (marker),CounRegPer,Indicates if the project addresses trade development.,The percentage of the project associated with the country or region.,0
+Trade development (marker),UrIs,Indicates if the project addresses trade development.,A marker representing the project's focus on urban issues.,0
+Trade development (marker),ChIss,Indicates if the project addresses trade development.,A marker indicating the project's concern for children's issues.,0
+Trade development (marker),YoIss,Indicates if the project addresses trade development.,A marker signifying the project's attention to youth-related matters.,0
+Trade development (marker),IndiIss,Indicates if the project addresses trade development.,A marker denoting the project's involvement in indigenous issues.,0
+Trade development (marker),DisIs,Indicates if the project addresses trade development.,A marker indicating the project's focus on disability-related concerns.,0
+Trade development (marker),ICTAAToFoDev,Indicates if the project addresses trade development.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Trade development (marker),KnoFoDevelo,Indicates if the project addresses trade development.,A marker representing the project's contribution to knowledge for development.,0
+Trade development (marker),GeEq,Indicates if the project addresses trade development.,A marker indicating the project's commitment to promoting gender equality.,0
+Trade development (marker),OrgaID,Indicates if the project addresses trade development.,The unique identifier for the organization associated with the project.,0
+Trade development (marker),OrgTy,Indicates if the project addresses trade development.,The type of organization involved in the project.,0
+Trade development (marker),OrgCl,Indicates if the project addresses trade development.,The class to which the organization belongs.,0
+Trade development (marker),OrgS,Indicates if the project addresses trade development.,A more specific classification within the organization class.,0
+Trade development (marker),ProjBrCoID,Indicates if the project addresses trade development.,The unique identifier for the country associated with the project.,0
+Trade development (marker),CoReNa,Indicates if the project addresses trade development.,The name of the country or region connected to the project.,0
+Trade development (marker),SeID,Indicates if the project addresses trade development.,A specific code assigned to the section managing the project.,0
+Trade development (marker),SecN,Indicates if the project addresses trade development.,The name designating the section overseeing the project.,0
+Trade development (marker),SePerc,Indicates if the project addresses trade development.,The percentage of the project linked to the sector.,0
+Trade development (marker),AmoSpe,Indicates if the project addresses trade development.,The total expenditure incurred on the project.,0
+Branch name,FiYe,The name of the branch responsible for the project.,The financial year in which the project was conducted.,0
+Branch name,CIDABusDeliMod,The name of the branch responsible for the project.,The previous model utilized by CIDA for project delivery.,0
+Branch name,CoReID,The name of the branch responsible for the project.,The identification code for the country or region related to the project.,0
+Branch name,Bio,The name of the branch responsible for the project.,A marker indicating the project's contribution to biodiversity.,0
+Branch name,OrganN,The name of the branch responsible for the project.,The official name of the organization linked to the project.,0
+Branch name,DivID,The name of the branch responsible for the project.,The unique code for the division in charge of the project.,0
+Branch name,ProPr,The name of the branch responsible for the project.,The current process employed for project programming.,0
+Branch name,DiviN,The name of the branch responsible for the project.,The official name of the division handling the project.,0
+Branch name,ContiID,The name of the branch responsible for the project.,The unique code for the continent associated with the project.,0
+Branch name,SecID,The name of the branch responsible for the project.,A specific code assigned to the section managing the project.,0
+Branch name,PrNum,The name of the branch responsible for the project.,A distinct identifier assigned to each project for reference.,0
+Branch name,TrDev,The name of the branch responsible for the project.,A marker denoting the project's involvement in trade development.,0
+Branch name,BraN,The name of the branch responsible for the project.,The title of the branch responsible for project management.,1
+Branch name,ContiN,The name of the branch responsible for the project.,The name of the continent linked to the project.,0
+Branch name,CounRegPer,The name of the branch responsible for the project.,The percentage of the project associated with the country or region.,0
+Branch name,UrIs,The name of the branch responsible for the project.,A marker representing the project's focus on urban issues.,0
+Branch name,ChIss,The name of the branch responsible for the project.,A marker indicating the project's concern for children's issues.,0
+Branch name,YoIss,The name of the branch responsible for the project.,A marker signifying the project's attention to youth-related matters.,0
+Branch name,IndiIss,The name of the branch responsible for the project.,A marker denoting the project's involvement in indigenous issues.,0
+Branch name,DisIs,The name of the branch responsible for the project.,A marker indicating the project's focus on disability-related concerns.,0
+Branch name,ICTAAToFoDev,The name of the branch responsible for the project.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Branch name,KnoFoDevelo,The name of the branch responsible for the project.,A marker representing the project's contribution to knowledge for development.,0
+Branch name,GeEq,The name of the branch responsible for the project.,A marker indicating the project's commitment to promoting gender equality.,0
+Branch name,OrgaID,The name of the branch responsible for the project.,The unique identifier for the organization associated with the project.,0
+Branch name,OrgTy,The name of the branch responsible for the project.,The type of organization involved in the project.,0
+Branch name,OrgCl,The name of the branch responsible for the project.,The class to which the organization belongs.,0
+Branch name,OrgS,The name of the branch responsible for the project.,A more specific classification within the organization class.,0
+Branch name,ProjBrCoID,The name of the branch responsible for the project.,The unique identifier for the country associated with the project.,0
+Branch name,CoReNa,The name of the branch responsible for the project.,The name of the country or region connected to the project.,0
+Branch name,SeID,The name of the branch responsible for the project.,A specific code assigned to the section managing the project.,0
+Branch name,SecN,The name of the branch responsible for the project.,The name designating the section overseeing the project.,0
+Branch name,SePerc,The name of the branch responsible for the project.,The percentage of the project linked to the sector.,0
+Branch name,AmoSpe,The name of the branch responsible for the project.,The total expenditure incurred on the project.,0
+Continent name,FiYe,The name of the continent associated with the project.,The financial year in which the project was conducted.,0
+Continent name,CIDABusDeliMod,The name of the continent associated with the project.,The previous model utilized by CIDA for project delivery.,0
+Continent name,CoReID,The name of the continent associated with the project.,The identification code for the country or region related to the project.,0
+Continent name,Bio,The name of the continent associated with the project.,A marker indicating the project's contribution to biodiversity.,0
+Continent name,OrganN,The name of the continent associated with the project.,The official name of the organization linked to the project.,0
+Continent name,DivID,The name of the continent associated with the project.,The unique code for the division in charge of the project.,0
+Continent name,ProPr,The name of the continent associated with the project.,The current process employed for project programming.,0
+Continent name,DiviN,The name of the continent associated with the project.,The official name of the division handling the project.,0
+Continent name,ContiID,The name of the continent associated with the project.,The unique code for the continent associated with the project.,0
+Continent name,SecID,The name of the continent associated with the project.,A specific code assigned to the section managing the project.,0
+Continent name,PrNum,The name of the continent associated with the project.,A distinct identifier assigned to each project for reference.,0
+Continent name,TrDev,The name of the continent associated with the project.,A marker denoting the project's involvement in trade development.,0
+Continent name,BraN,The name of the continent associated with the project.,The title of the branch responsible for project management.,0
+Continent name,ContiN,The name of the continent associated with the project.,The name of the continent linked to the project.,1
+Continent name,CounRegPer,The name of the continent associated with the project.,The percentage of the project associated with the country or region.,0
+Continent name,UrIs,The name of the continent associated with the project.,A marker representing the project's focus on urban issues.,0
+Continent name,ChIss,The name of the continent associated with the project.,A marker indicating the project's concern for children's issues.,0
+Continent name,YoIss,The name of the continent associated with the project.,A marker signifying the project's attention to youth-related matters.,0
+Continent name,IndiIss,The name of the continent associated with the project.,A marker denoting the project's involvement in indigenous issues.,0
+Continent name,DisIs,The name of the continent associated with the project.,A marker indicating the project's focus on disability-related concerns.,0
+Continent name,ICTAAToFoDev,The name of the continent associated with the project.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Continent name,KnoFoDevelo,The name of the continent associated with the project.,A marker representing the project's contribution to knowledge for development.,0
+Continent name,GeEq,The name of the continent associated with the project.,A marker indicating the project's commitment to promoting gender equality.,0
+Continent name,OrgaID,The name of the continent associated with the project.,The unique identifier for the organization associated with the project.,0
+Continent name,OrgTy,The name of the continent associated with the project.,The type of organization involved in the project.,0
+Continent name,OrgCl,The name of the continent associated with the project.,The class to which the organization belongs.,0
+Continent name,OrgS,The name of the continent associated with the project.,A more specific classification within the organization class.,0
+Continent name,ProjBrCoID,The name of the continent associated with the project.,The unique identifier for the country associated with the project.,0
+Continent name,CoReNa,The name of the continent associated with the project.,The name of the country or region connected to the project.,0
+Continent name,SeID,The name of the continent associated with the project.,A specific code assigned to the section managing the project.,0
+Continent name,SecN,The name of the continent associated with the project.,The name designating the section overseeing the project.,0
+Continent name,SePerc,The name of the continent associated with the project.,The percentage of the project linked to the sector.,0
+Continent name,AmoSpe,The name of the continent associated with the project.,The total expenditure incurred on the project.,0
+CountryRegion percent,FiYe,The percentage of the project associated with the country or region.,The financial year in which the project was conducted.,0
+CountryRegion percent,CIDABusDeliMod,The percentage of the project associated with the country or region.,The previous model utilized by CIDA for project delivery.,0
+CountryRegion percent,CoReID,The percentage of the project associated with the country or region.,The identification code for the country or region related to the project.,0
+CountryRegion percent,Bio,The percentage of the project associated with the country or region.,A marker indicating the project's contribution to biodiversity.,0
+CountryRegion percent,OrganN,The percentage of the project associated with the country or region.,The official name of the organization linked to the project.,0
+CountryRegion percent,DivID,The percentage of the project associated with the country or region.,The unique code for the division in charge of the project.,0
+CountryRegion percent,ProPr,The percentage of the project associated with the country or region.,The current process employed for project programming.,0
+CountryRegion percent,DiviN,The percentage of the project associated with the country or region.,The official name of the division handling the project.,0
+CountryRegion percent,ContiID,The percentage of the project associated with the country or region.,The unique code for the continent associated with the project.,0
+CountryRegion percent,SecID,The percentage of the project associated with the country or region.,A specific code assigned to the section managing the project.,0
+CountryRegion percent,PrNum,The percentage of the project associated with the country or region.,A distinct identifier assigned to each project for reference.,0
+CountryRegion percent,TrDev,The percentage of the project associated with the country or region.,A marker denoting the project's involvement in trade development.,0
+CountryRegion percent,BraN,The percentage of the project associated with the country or region.,The title of the branch responsible for project management.,0
+CountryRegion percent,ContiN,The percentage of the project associated with the country or region.,The name of the continent linked to the project.,0
+CountryRegion percent,CounRegPer,The percentage of the project associated with the country or region.,The percentage of the project associated with the country or region.,1
+CountryRegion percent,UrIs,The percentage of the project associated with the country or region.,A marker representing the project's focus on urban issues.,0
+CountryRegion percent,ChIss,The percentage of the project associated with the country or region.,A marker indicating the project's concern for children's issues.,0
+CountryRegion percent,YoIss,The percentage of the project associated with the country or region.,A marker signifying the project's attention to youth-related matters.,0
+CountryRegion percent,IndiIss,The percentage of the project associated with the country or region.,A marker denoting the project's involvement in indigenous issues.,0
+CountryRegion percent,DisIs,The percentage of the project associated with the country or region.,A marker indicating the project's focus on disability-related concerns.,0
+CountryRegion percent,ICTAAToFoDev,The percentage of the project associated with the country or region.,A marker signifying the project's use of Information and Communication Technology for development.,0
+CountryRegion percent,KnoFoDevelo,The percentage of the project associated with the country or region.,A marker representing the project's contribution to knowledge for development.,0
+CountryRegion percent,GeEq,The percentage of the project associated with the country or region.,A marker indicating the project's commitment to promoting gender equality.,0
+CountryRegion percent,OrgaID,The percentage of the project associated with the country or region.,The unique identifier for the organization associated with the project.,0
+CountryRegion percent,OrgTy,The percentage of the project associated with the country or region.,The type of organization involved in the project.,0
+CountryRegion percent,OrgCl,The percentage of the project associated with the country or region.,The class to which the organization belongs.,0
+CountryRegion percent,OrgS,The percentage of the project associated with the country or region.,A more specific classification within the organization class.,0
+CountryRegion percent,ProjBrCoID,The percentage of the project associated with the country or region.,The unique identifier for the country associated with the project.,0
+CountryRegion percent,CoReNa,The percentage of the project associated with the country or region.,The name of the country or region connected to the project.,0
+CountryRegion percent,SeID,The percentage of the project associated with the country or region.,A specific code assigned to the section managing the project.,0
+CountryRegion percent,SecN,The percentage of the project associated with the country or region.,The name designating the section overseeing the project.,0
+CountryRegion percent,SePerc,The percentage of the project associated with the country or region.,The percentage of the project linked to the sector.,0
+CountryRegion percent,AmoSpe,The percentage of the project associated with the country or region.,The total expenditure incurred on the project.,0
+Status,FiYe,Indicates the current status of the project,The financial year in which the project was conducted.,0
+Status,CIDABusDeliMod,Indicates the current status of the project,The previous model utilized by CIDA for project delivery.,0
+Status,CoReID,Indicates the current status of the project,The identification code for the country or region related to the project.,0
+Status,Bio,Indicates the current status of the project,A marker indicating the project's contribution to biodiversity.,0
+Status,OrganN,Indicates the current status of the project,The official name of the organization linked to the project.,0
+Status,DivID,Indicates the current status of the project,The unique code for the division in charge of the project.,0
+Status,ProPr,Indicates the current status of the project,The current process employed for project programming.,0
+Status,DiviN,Indicates the current status of the project,The official name of the division handling the project.,0
+Status,ContiID,Indicates the current status of the project,The unique code for the continent associated with the project.,0
+Status,SecID,Indicates the current status of the project,A specific code assigned to the section managing the project.,0
+Status,PrNum,Indicates the current status of the project,A distinct identifier assigned to each project for reference.,0
+Status,TrDev,Indicates the current status of the project,A marker denoting the project's involvement in trade development.,0
+Status,BraN,Indicates the current status of the project,The title of the branch responsible for project management.,0
+Status,ContiN,Indicates the current status of the project,The name of the continent linked to the project.,0
+Status,CounRegPer,Indicates the current status of the project,The percentage of the project associated with the country or region.,0
+Status,UrIs,Indicates the current status of the project,A marker representing the project's focus on urban issues.,0
+Status,ChIss,Indicates the current status of the project,A marker indicating the project's concern for children's issues.,0
+Status,YoIss,Indicates the current status of the project,A marker signifying the project's attention to youth-related matters.,0
+Status,IndiIss,Indicates the current status of the project,A marker denoting the project's involvement in indigenous issues.,0
+Status,DisIs,Indicates the current status of the project,A marker indicating the project's focus on disability-related concerns.,0
+Status,ICTAAToFoDev,Indicates the current status of the project,A marker signifying the project's use of Information and Communication Technology for development.,0
+Status,KnoFoDevelo,Indicates the current status of the project,A marker representing the project's contribution to knowledge for development.,0
+Status,GeEq,Indicates the current status of the project,A marker indicating the project's commitment to promoting gender equality.,0
+Status,OrgaID,Indicates the current status of the project,The unique identifier for the organization associated with the project.,0
+Status,OrgTy,Indicates the current status of the project,The type of organization involved in the project.,0
+Status,OrgCl,Indicates the current status of the project,The class to which the organization belongs.,0
+Status,OrgS,Indicates the current status of the project,A more specific classification within the organization class.,0
+Status,ProjBrCoID,Indicates the current status of the project,The unique identifier for the country associated with the project.,0
+Status,CoReNa,Indicates the current status of the project,The name of the country or region connected to the project.,0
+Status,SeID,Indicates the current status of the project,A specific code assigned to the section managing the project.,0
+Status,SecN,Indicates the current status of the project,The name designating the section overseeing the project.,0
+Status,SePerc,Indicates the current status of the project,The percentage of the project linked to the sector.,0
+Status,AmoSpe,Indicates the current status of the project,The total expenditure incurred on the project.,0
+Maximum CIDA contribution (project-level),FiYe,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,The financial year in which the project was conducted.,0
+Maximum CIDA contribution (project-level),CIDABusDeliMod,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,The previous model utilized by CIDA for project delivery.,0
+Maximum CIDA contribution (project-level),CoReID,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,The identification code for the country or region related to the project.,0
+Maximum CIDA contribution (project-level),Bio,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,A marker indicating the project's contribution to biodiversity.,0
+Maximum CIDA contribution (project-level),OrganN,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,The official name of the organization linked to the project.,0
+Maximum CIDA contribution (project-level),DivID,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,The unique code for the division in charge of the project.,0
+Maximum CIDA contribution (project-level),ProPr,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,The current process employed for project programming.,0
+Maximum CIDA contribution (project-level),DiviN,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,The official name of the division handling the project.,0
+Maximum CIDA contribution (project-level),ContiID,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,The unique code for the continent associated with the project.,0
+Maximum CIDA contribution (project-level),SecID,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,A specific code assigned to the section managing the project.,0
+Maximum CIDA contribution (project-level),PrNum,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,A distinct identifier assigned to each project for reference.,0
+Maximum CIDA contribution (project-level),TrDev,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,A marker denoting the project's involvement in trade development.,0
+Maximum CIDA contribution (project-level),BraN,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,The title of the branch responsible for project management.,0
+Maximum CIDA contribution (project-level),ContiN,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,The name of the continent linked to the project.,0
+Maximum CIDA contribution (project-level),CounRegPer,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,The percentage of the project associated with the country or region.,0
+Maximum CIDA contribution (project-level),UrIs,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,A marker representing the project's focus on urban issues.,0
+Maximum CIDA contribution (project-level),ChIss,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,A marker indicating the project's concern for children's issues.,0
+Maximum CIDA contribution (project-level),YoIss,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,A marker signifying the project's attention to youth-related matters.,0
+Maximum CIDA contribution (project-level),IndiIss,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,A marker denoting the project's involvement in indigenous issues.,0
+Maximum CIDA contribution (project-level),DisIs,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,A marker indicating the project's focus on disability-related concerns.,0
+Maximum CIDA contribution (project-level),ICTAAToFoDev,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Maximum CIDA contribution (project-level),KnoFoDevelo,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,A marker representing the project's contribution to knowledge for development.,0
+Maximum CIDA contribution (project-level),GeEq,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,A marker indicating the project's commitment to promoting gender equality.,0
+Maximum CIDA contribution (project-level),OrgaID,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,The unique identifier for the organization associated with the project.,0
+Maximum CIDA contribution (project-level),OrgTy,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,The type of organization involved in the project.,0
+Maximum CIDA contribution (project-level),OrgCl,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,The class to which the organization belongs.,0
+Maximum CIDA contribution (project-level),OrgS,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,A more specific classification within the organization class.,0
+Maximum CIDA contribution (project-level),ProjBrCoID,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,The unique identifier for the country associated with the project.,0
+Maximum CIDA contribution (project-level),CoReNa,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,The name of the country or region connected to the project.,0
+Maximum CIDA contribution (project-level),SeID,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,A specific code assigned to the section managing the project.,0
+Maximum CIDA contribution (project-level),SecN,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,The name designating the section overseeing the project.,0
+Maximum CIDA contribution (project-level),SePerc,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,The percentage of the project linked to the sector.,0
+Maximum CIDA contribution (project-level),AmoSpe,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,The total expenditure incurred on the project.,0
+Branch ID,FiYe,Identification code for the branch responsible for the project.,The financial year in which the project was conducted.,0
+Branch ID,CIDABusDeliMod,Identification code for the branch responsible for the project.,The previous model utilized by CIDA for project delivery.,0
+Branch ID,CoReID,Identification code for the branch responsible for the project.,The identification code for the country or region related to the project.,0
+Branch ID,Bio,Identification code for the branch responsible for the project.,A marker indicating the project's contribution to biodiversity.,0
+Branch ID,OrganN,Identification code for the branch responsible for the project.,The official name of the organization linked to the project.,0
+Branch ID,DivID,Identification code for the branch responsible for the project.,The unique code for the division in charge of the project.,0
+Branch ID,ProPr,Identification code for the branch responsible for the project.,The current process employed for project programming.,0
+Branch ID,DiviN,Identification code for the branch responsible for the project.,The official name of the division handling the project.,0
+Branch ID,ContiID,Identification code for the branch responsible for the project.,The unique code for the continent associated with the project.,0
+Branch ID,SecID,Identification code for the branch responsible for the project.,A specific code assigned to the section managing the project.,0
+Branch ID,PrNum,Identification code for the branch responsible for the project.,A distinct identifier assigned to each project for reference.,0
+Branch ID,TrDev,Identification code for the branch responsible for the project.,A marker denoting the project's involvement in trade development.,0
+Branch ID,BraN,Identification code for the branch responsible for the project.,The title of the branch responsible for project management.,0
+Branch ID,ContiN,Identification code for the branch responsible for the project.,The name of the continent linked to the project.,0
+Branch ID,CounRegPer,Identification code for the branch responsible for the project.,The percentage of the project associated with the country or region.,0
+Branch ID,UrIs,Identification code for the branch responsible for the project.,A marker representing the project's focus on urban issues.,0
+Branch ID,ChIss,Identification code for the branch responsible for the project.,A marker indicating the project's concern for children's issues.,0
+Branch ID,YoIss,Identification code for the branch responsible for the project.,A marker signifying the project's attention to youth-related matters.,0
+Branch ID,IndiIss,Identification code for the branch responsible for the project.,A marker denoting the project's involvement in indigenous issues.,0
+Branch ID,DisIs,Identification code for the branch responsible for the project.,A marker indicating the project's focus on disability-related concerns.,0
+Branch ID,ICTAAToFoDev,Identification code for the branch responsible for the project.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Branch ID,KnoFoDevelo,Identification code for the branch responsible for the project.,A marker representing the project's contribution to knowledge for development.,0
+Branch ID,GeEq,Identification code for the branch responsible for the project.,A marker indicating the project's commitment to promoting gender equality.,0
+Branch ID,OrgaID,Identification code for the branch responsible for the project.,The unique identifier for the organization associated with the project.,0
+Branch ID,OrgTy,Identification code for the branch responsible for the project.,The type of organization involved in the project.,0
+Branch ID,OrgCl,Identification code for the branch responsible for the project.,The class to which the organization belongs.,0
+Branch ID,OrgS,Identification code for the branch responsible for the project.,A more specific classification within the organization class.,0
+Branch ID,ProjBrCoID,Identification code for the branch responsible for the project.,The unique identifier for the country associated with the project.,0
+Branch ID,CoReNa,Identification code for the branch responsible for the project.,The name of the country or region connected to the project.,0
+Branch ID,SeID,Identification code for the branch responsible for the project.,A specific code assigned to the section managing the project.,0
+Branch ID,SecN,Identification code for the branch responsible for the project.,The name designating the section overseeing the project.,0
+Branch ID,SePerc,Identification code for the branch responsible for the project.,The percentage of the project linked to the sector.,0
+Branch ID,AmoSpe,Identification code for the branch responsible for the project.,The total expenditure incurred on the project.,0
+Section name,FiYe,The name of the section responsible for the project.,The financial year in which the project was conducted.,0
+Section name,CIDABusDeliMod,The name of the section responsible for the project.,The previous model utilized by CIDA for project delivery.,0
+Section name,CoReID,The name of the section responsible for the project.,The identification code for the country or region related to the project.,0
+Section name,Bio,The name of the section responsible for the project.,A marker indicating the project's contribution to biodiversity.,0
+Section name,OrganN,The name of the section responsible for the project.,The official name of the organization linked to the project.,0
+Section name,DivID,The name of the section responsible for the project.,The unique code for the division in charge of the project.,0
+Section name,ProPr,The name of the section responsible for the project.,The current process employed for project programming.,0
+Section name,DiviN,The name of the section responsible for the project.,The official name of the division handling the project.,0
+Section name,ContiID,The name of the section responsible for the project.,The unique code for the continent associated with the project.,0
+Section name,SecID,The name of the section responsible for the project.,A specific code assigned to the section managing the project.,0
+Section name,PrNum,The name of the section responsible for the project.,A distinct identifier assigned to each project for reference.,0
+Section name,TrDev,The name of the section responsible for the project.,A marker denoting the project's involvement in trade development.,0
+Section name,BraN,The name of the section responsible for the project.,The title of the branch responsible for project management.,0
+Section name,ContiN,The name of the section responsible for the project.,The name of the continent linked to the project.,0
+Section name,CounRegPer,The name of the section responsible for the project.,The percentage of the project associated with the country or region.,0
+Section name,UrIs,The name of the section responsible for the project.,A marker representing the project's focus on urban issues.,0
+Section name,ChIss,The name of the section responsible for the project.,A marker indicating the project's concern for children's issues.,0
+Section name,YoIss,The name of the section responsible for the project.,A marker signifying the project's attention to youth-related matters.,0
+Section name,IndiIss,The name of the section responsible for the project.,A marker denoting the project's involvement in indigenous issues.,0
+Section name,DisIs,The name of the section responsible for the project.,A marker indicating the project's focus on disability-related concerns.,0
+Section name,ICTAAToFoDev,The name of the section responsible for the project.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Section name,KnoFoDevelo,The name of the section responsible for the project.,A marker representing the project's contribution to knowledge for development.,0
+Section name,GeEq,The name of the section responsible for the project.,A marker indicating the project's commitment to promoting gender equality.,0
+Section name,OrgaID,The name of the section responsible for the project.,The unique identifier for the organization associated with the project.,0
+Section name,OrgTy,The name of the section responsible for the project.,The type of organization involved in the project.,0
+Section name,OrgCl,The name of the section responsible for the project.,The class to which the organization belongs.,0
+Section name,OrgS,The name of the section responsible for the project.,A more specific classification within the organization class.,0
+Section name,ProjBrCoID,The name of the section responsible for the project.,The unique identifier for the country associated with the project.,0
+Section name,CoReNa,The name of the section responsible for the project.,The name of the country or region connected to the project.,0
+Section name,SeID,The name of the section responsible for the project.,A specific code assigned to the section managing the project.,0
+Section name,SecN,The name of the section responsible for the project.,The name designating the section overseeing the project.,1
+Section name,SePerc,The name of the section responsible for the project.,The percentage of the project linked to the sector.,0
+Section name,AmoSpe,The name of the section responsible for the project.,The total expenditure incurred on the project.,0
+Regional program (marker),FiYe,Indicates if the project is part of a regional program.,The financial year in which the project was conducted.,0
+Regional program (marker),CIDABusDeliMod,Indicates if the project is part of a regional program.,The previous model utilized by CIDA for project delivery.,0
+Regional program (marker),CoReID,Indicates if the project is part of a regional program.,The identification code for the country or region related to the project.,0
+Regional program (marker),Bio,Indicates if the project is part of a regional program.,A marker indicating the project's contribution to biodiversity.,0
+Regional program (marker),OrganN,Indicates if the project is part of a regional program.,The official name of the organization linked to the project.,0
+Regional program (marker),DivID,Indicates if the project is part of a regional program.,The unique code for the division in charge of the project.,0
+Regional program (marker),ProPr,Indicates if the project is part of a regional program.,The current process employed for project programming.,0
+Regional program (marker),DiviN,Indicates if the project is part of a regional program.,The official name of the division handling the project.,0
+Regional program (marker),ContiID,Indicates if the project is part of a regional program.,The unique code for the continent associated with the project.,0
+Regional program (marker),SecID,Indicates if the project is part of a regional program.,A specific code assigned to the section managing the project.,0
+Regional program (marker),PrNum,Indicates if the project is part of a regional program.,A distinct identifier assigned to each project for reference.,0
+Regional program (marker),TrDev,Indicates if the project is part of a regional program.,A marker denoting the project's involvement in trade development.,0
+Regional program (marker),BraN,Indicates if the project is part of a regional program.,The title of the branch responsible for project management.,0
+Regional program (marker),ContiN,Indicates if the project is part of a regional program.,The name of the continent linked to the project.,0
+Regional program (marker),CounRegPer,Indicates if the project is part of a regional program.,The percentage of the project associated with the country or region.,0
+Regional program (marker),UrIs,Indicates if the project is part of a regional program.,A marker representing the project's focus on urban issues.,0
+Regional program (marker),ChIss,Indicates if the project is part of a regional program.,A marker indicating the project's concern for children's issues.,0
+Regional program (marker),YoIss,Indicates if the project is part of a regional program.,A marker signifying the project's attention to youth-related matters.,0
+Regional program (marker),IndiIss,Indicates if the project is part of a regional program.,A marker denoting the project's involvement in indigenous issues.,0
+Regional program (marker),DisIs,Indicates if the project is part of a regional program.,A marker indicating the project's focus on disability-related concerns.,0
+Regional program (marker),ICTAAToFoDev,Indicates if the project is part of a regional program.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Regional program (marker),KnoFoDevelo,Indicates if the project is part of a regional program.,A marker representing the project's contribution to knowledge for development.,0
+Regional program (marker),GeEq,Indicates if the project is part of a regional program.,A marker indicating the project's commitment to promoting gender equality.,0
+Regional program (marker),OrgaID,Indicates if the project is part of a regional program.,The unique identifier for the organization associated with the project.,0
+Regional program (marker),OrgTy,Indicates if the project is part of a regional program.,The type of organization involved in the project.,0
+Regional program (marker),OrgCl,Indicates if the project is part of a regional program.,The class to which the organization belongs.,0
+Regional program (marker),OrgS,Indicates if the project is part of a regional program.,A more specific classification within the organization class.,0
+Regional program (marker),ProjBrCoID,Indicates if the project is part of a regional program.,The unique identifier for the country associated with the project.,0
+Regional program (marker),CoReNa,Indicates if the project is part of a regional program.,The name of the country or region connected to the project.,0
+Regional program (marker),SeID,Indicates if the project is part of a regional program.,A specific code assigned to the section managing the project.,0
+Regional program (marker),SecN,Indicates if the project is part of a regional program.,The name designating the section overseeing the project.,0
+Regional program (marker),SePerc,Indicates if the project is part of a regional program.,The percentage of the project linked to the sector.,0
+Regional program (marker),AmoSpe,Indicates if the project is part of a regional program.,The total expenditure incurred on the project.,0
+Fund centre ID,FiYe,Identification code for the fund center associated with the project.,The financial year in which the project was conducted.,0
+Fund centre ID,CIDABusDeliMod,Identification code for the fund center associated with the project.,The previous model utilized by CIDA for project delivery.,0
+Fund centre ID,CoReID,Identification code for the fund center associated with the project.,The identification code for the country or region related to the project.,0
+Fund centre ID,Bio,Identification code for the fund center associated with the project.,A marker indicating the project's contribution to biodiversity.,0
+Fund centre ID,OrganN,Identification code for the fund center associated with the project.,The official name of the organization linked to the project.,0
+Fund centre ID,DivID,Identification code for the fund center associated with the project.,The unique code for the division in charge of the project.,0
+Fund centre ID,ProPr,Identification code for the fund center associated with the project.,The current process employed for project programming.,0
+Fund centre ID,DiviN,Identification code for the fund center associated with the project.,The official name of the division handling the project.,0
+Fund centre ID,ContiID,Identification code for the fund center associated with the project.,The unique code for the continent associated with the project.,0
+Fund centre ID,SecID,Identification code for the fund center associated with the project.,A specific code assigned to the section managing the project.,0
+Fund centre ID,PrNum,Identification code for the fund center associated with the project.,A distinct identifier assigned to each project for reference.,0
+Fund centre ID,TrDev,Identification code for the fund center associated with the project.,A marker denoting the project's involvement in trade development.,0
+Fund centre ID,BraN,Identification code for the fund center associated with the project.,The title of the branch responsible for project management.,0
+Fund centre ID,ContiN,Identification code for the fund center associated with the project.,The name of the continent linked to the project.,0
+Fund centre ID,CounRegPer,Identification code for the fund center associated with the project.,The percentage of the project associated with the country or region.,0
+Fund centre ID,UrIs,Identification code for the fund center associated with the project.,A marker representing the project's focus on urban issues.,0
+Fund centre ID,ChIss,Identification code for the fund center associated with the project.,A marker indicating the project's concern for children's issues.,0
+Fund centre ID,YoIss,Identification code for the fund center associated with the project.,A marker signifying the project's attention to youth-related matters.,0
+Fund centre ID,IndiIss,Identification code for the fund center associated with the project.,A marker denoting the project's involvement in indigenous issues.,0
+Fund centre ID,DisIs,Identification code for the fund center associated with the project.,A marker indicating the project's focus on disability-related concerns.,0
+Fund centre ID,ICTAAToFoDev,Identification code for the fund center associated with the project.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Fund centre ID,KnoFoDevelo,Identification code for the fund center associated with the project.,A marker representing the project's contribution to knowledge for development.,0
+Fund centre ID,GeEq,Identification code for the fund center associated with the project.,A marker indicating the project's commitment to promoting gender equality.,0
+Fund centre ID,OrgaID,Identification code for the fund center associated with the project.,The unique identifier for the organization associated with the project.,0
+Fund centre ID,OrgTy,Identification code for the fund center associated with the project.,The type of organization involved in the project.,0
+Fund centre ID,OrgCl,Identification code for the fund center associated with the project.,The class to which the organization belongs.,0
+Fund centre ID,OrgS,Identification code for the fund center associated with the project.,A more specific classification within the organization class.,0
+Fund centre ID,ProjBrCoID,Identification code for the fund center associated with the project.,The unique identifier for the country associated with the project.,0
+Fund centre ID,CoReNa,Identification code for the fund center associated with the project.,The name of the country or region connected to the project.,0
+Fund centre ID,SeID,Identification code for the fund center associated with the project.,A specific code assigned to the section managing the project.,0
+Fund centre ID,SecN,Identification code for the fund center associated with the project.,The name designating the section overseeing the project.,0
+Fund centre ID,SePerc,Identification code for the fund center associated with the project.,The percentage of the project linked to the sector.,0
+Fund centre ID,AmoSpe,Identification code for the fund center associated with the project.,The total expenditure incurred on the project.,0
+Fund centre name,FiYe,The name of the fund center associated with the project.,The financial year in which the project was conducted.,0
+Fund centre name,CIDABusDeliMod,The name of the fund center associated with the project.,The previous model utilized by CIDA for project delivery.,0
+Fund centre name,CoReID,The name of the fund center associated with the project.,The identification code for the country or region related to the project.,0
+Fund centre name,Bio,The name of the fund center associated with the project.,A marker indicating the project's contribution to biodiversity.,0
+Fund centre name,OrganN,The name of the fund center associated with the project.,The official name of the organization linked to the project.,0
+Fund centre name,DivID,The name of the fund center associated with the project.,The unique code for the division in charge of the project.,0
+Fund centre name,ProPr,The name of the fund center associated with the project.,The current process employed for project programming.,0
+Fund centre name,DiviN,The name of the fund center associated with the project.,The official name of the division handling the project.,0
+Fund centre name,ContiID,The name of the fund center associated with the project.,The unique code for the continent associated with the project.,0
+Fund centre name,SecID,The name of the fund center associated with the project.,A specific code assigned to the section managing the project.,0
+Fund centre name,PrNum,The name of the fund center associated with the project.,A distinct identifier assigned to each project for reference.,0
+Fund centre name,TrDev,The name of the fund center associated with the project.,A marker denoting the project's involvement in trade development.,0
+Fund centre name,BraN,The name of the fund center associated with the project.,The title of the branch responsible for project management.,0
+Fund centre name,ContiN,The name of the fund center associated with the project.,The name of the continent linked to the project.,0
+Fund centre name,CounRegPer,The name of the fund center associated with the project.,The percentage of the project associated with the country or region.,0
+Fund centre name,UrIs,The name of the fund center associated with the project.,A marker representing the project's focus on urban issues.,0
+Fund centre name,ChIss,The name of the fund center associated with the project.,A marker indicating the project's concern for children's issues.,0
+Fund centre name,YoIss,The name of the fund center associated with the project.,A marker signifying the project's attention to youth-related matters.,0
+Fund centre name,IndiIss,The name of the fund center associated with the project.,A marker denoting the project's involvement in indigenous issues.,0
+Fund centre name,DisIs,The name of the fund center associated with the project.,A marker indicating the project's focus on disability-related concerns.,0
+Fund centre name,ICTAAToFoDev,The name of the fund center associated with the project.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Fund centre name,KnoFoDevelo,The name of the fund center associated with the project.,A marker representing the project's contribution to knowledge for development.,0
+Fund centre name,GeEq,The name of the fund center associated with the project.,A marker indicating the project's commitment to promoting gender equality.,0
+Fund centre name,OrgaID,The name of the fund center associated with the project.,The unique identifier for the organization associated with the project.,0
+Fund centre name,OrgTy,The name of the fund center associated with the project.,The type of organization involved in the project.,0
+Fund centre name,OrgCl,The name of the fund center associated with the project.,The class to which the organization belongs.,0
+Fund centre name,OrgS,The name of the fund center associated with the project.,A more specific classification within the organization class.,0
+Fund centre name,ProjBrCoID,The name of the fund center associated with the project.,The unique identifier for the country associated with the project.,0
+Fund centre name,CoReNa,The name of the fund center associated with the project.,The name of the country or region connected to the project.,0
+Fund centre name,SeID,The name of the fund center associated with the project.,A specific code assigned to the section managing the project.,0
+Fund centre name,SecN,The name of the fund center associated with the project.,The name designating the section overseeing the project.,0
+Fund centre name,SePerc,The name of the fund center associated with the project.,The percentage of the project linked to the sector.,0
+Fund centre name,AmoSpe,The name of the fund center associated with the project.,The total expenditure incurred on the project.,0
+Untied amount(Project-level budget),FiYe,The untied amount for the project-level budget.,The financial year in which the project was conducted.,0
+Untied amount(Project-level budget),CIDABusDeliMod,The untied amount for the project-level budget.,The previous model utilized by CIDA for project delivery.,0
+Untied amount(Project-level budget),CoReID,The untied amount for the project-level budget.,The identification code for the country or region related to the project.,0
+Untied amount(Project-level budget),Bio,The untied amount for the project-level budget.,A marker indicating the project's contribution to biodiversity.,0
+Untied amount(Project-level budget),OrganN,The untied amount for the project-level budget.,The official name of the organization linked to the project.,0
+Untied amount(Project-level budget),DivID,The untied amount for the project-level budget.,The unique code for the division in charge of the project.,0
+Untied amount(Project-level budget),ProPr,The untied amount for the project-level budget.,The current process employed for project programming.,0
+Untied amount(Project-level budget),DiviN,The untied amount for the project-level budget.,The official name of the division handling the project.,0
+Untied amount(Project-level budget),ContiID,The untied amount for the project-level budget.,The unique code for the continent associated with the project.,0
+Untied amount(Project-level budget),SecID,The untied amount for the project-level budget.,A specific code assigned to the section managing the project.,0
+Untied amount(Project-level budget),PrNum,The untied amount for the project-level budget.,A distinct identifier assigned to each project for reference.,0
+Untied amount(Project-level budget),TrDev,The untied amount for the project-level budget.,A marker denoting the project's involvement in trade development.,0
+Untied amount(Project-level budget),BraN,The untied amount for the project-level budget.,The title of the branch responsible for project management.,0
+Untied amount(Project-level budget),ContiN,The untied amount for the project-level budget.,The name of the continent linked to the project.,0
+Untied amount(Project-level budget),CounRegPer,The untied amount for the project-level budget.,The percentage of the project associated with the country or region.,0
+Untied amount(Project-level budget),UrIs,The untied amount for the project-level budget.,A marker representing the project's focus on urban issues.,0
+Untied amount(Project-level budget),ChIss,The untied amount for the project-level budget.,A marker indicating the project's concern for children's issues.,0
+Untied amount(Project-level budget),YoIss,The untied amount for the project-level budget.,A marker signifying the project's attention to youth-related matters.,0
+Untied amount(Project-level budget),IndiIss,The untied amount for the project-level budget.,A marker denoting the project's involvement in indigenous issues.,0
+Untied amount(Project-level budget),DisIs,The untied amount for the project-level budget.,A marker indicating the project's focus on disability-related concerns.,0
+Untied amount(Project-level budget),ICTAAToFoDev,The untied amount for the project-level budget.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Untied amount(Project-level budget),KnoFoDevelo,The untied amount for the project-level budget.,A marker representing the project's contribution to knowledge for development.,0
+Untied amount(Project-level budget),GeEq,The untied amount for the project-level budget.,A marker indicating the project's commitment to promoting gender equality.,0
+Untied amount(Project-level budget),OrgaID,The untied amount for the project-level budget.,The unique identifier for the organization associated with the project.,0
+Untied amount(Project-level budget),OrgTy,The untied amount for the project-level budget.,The type of organization involved in the project.,0
+Untied amount(Project-level budget),OrgCl,The untied amount for the project-level budget.,The class to which the organization belongs.,0
+Untied amount(Project-level budget),OrgS,The untied amount for the project-level budget.,A more specific classification within the organization class.,0
+Untied amount(Project-level budget),ProjBrCoID,The untied amount for the project-level budget.,The unique identifier for the country associated with the project.,0
+Untied amount(Project-level budget),CoReNa,The untied amount for the project-level budget.,The name of the country or region connected to the project.,0
+Untied amount(Project-level budget),SeID,The untied amount for the project-level budget.,A specific code assigned to the section managing the project.,0
+Untied amount(Project-level budget),SecN,The untied amount for the project-level budget.,The name designating the section overseeing the project.,0
+Untied amount(Project-level budget),SePerc,The untied amount for the project-level budget.,The percentage of the project linked to the sector.,0
+Untied amount(Project-level budget),AmoSpe,The untied amount for the project-level budget.,The total expenditure incurred on the project.,0
+FSTC percent,FiYe,The percentage of the FSTC (Field Support Technology and Communication) for the project.,The financial year in which the project was conducted.,0
+FSTC percent,CIDABusDeliMod,The percentage of the FSTC (Field Support Technology and Communication) for the project.,The previous model utilized by CIDA for project delivery.,0
+FSTC percent,CoReID,The percentage of the FSTC (Field Support Technology and Communication) for the project.,The identification code for the country or region related to the project.,0
+FSTC percent,Bio,The percentage of the FSTC (Field Support Technology and Communication) for the project.,A marker indicating the project's contribution to biodiversity.,0
+FSTC percent,OrganN,The percentage of the FSTC (Field Support Technology and Communication) for the project.,The official name of the organization linked to the project.,0
+FSTC percent,DivID,The percentage of the FSTC (Field Support Technology and Communication) for the project.,The unique code for the division in charge of the project.,0
+FSTC percent,ProPr,The percentage of the FSTC (Field Support Technology and Communication) for the project.,The current process employed for project programming.,0
+FSTC percent,DiviN,The percentage of the FSTC (Field Support Technology and Communication) for the project.,The official name of the division handling the project.,0
+FSTC percent,ContiID,The percentage of the FSTC (Field Support Technology and Communication) for the project.,The unique code for the continent associated with the project.,0
+FSTC percent,SecID,The percentage of the FSTC (Field Support Technology and Communication) for the project.,A specific code assigned to the section managing the project.,0
+FSTC percent,PrNum,The percentage of the FSTC (Field Support Technology and Communication) for the project.,A distinct identifier assigned to each project for reference.,0
+FSTC percent,TrDev,The percentage of the FSTC (Field Support Technology and Communication) for the project.,A marker denoting the project's involvement in trade development.,0
+FSTC percent,BraN,The percentage of the FSTC (Field Support Technology and Communication) for the project.,The title of the branch responsible for project management.,0
+FSTC percent,ContiN,The percentage of the FSTC (Field Support Technology and Communication) for the project.,The name of the continent linked to the project.,0
+FSTC percent,CounRegPer,The percentage of the FSTC (Field Support Technology and Communication) for the project.,The percentage of the project associated with the country or region.,0
+FSTC percent,UrIs,The percentage of the FSTC (Field Support Technology and Communication) for the project.,A marker representing the project's focus on urban issues.,0
+FSTC percent,ChIss,The percentage of the FSTC (Field Support Technology and Communication) for the project.,A marker indicating the project's concern for children's issues.,0
+FSTC percent,YoIss,The percentage of the FSTC (Field Support Technology and Communication) for the project.,A marker signifying the project's attention to youth-related matters.,0
+FSTC percent,IndiIss,The percentage of the FSTC (Field Support Technology and Communication) for the project.,A marker denoting the project's involvement in indigenous issues.,0
+FSTC percent,DisIs,The percentage of the FSTC (Field Support Technology and Communication) for the project.,A marker indicating the project's focus on disability-related concerns.,0
+FSTC percent,ICTAAToFoDev,The percentage of the FSTC (Field Support Technology and Communication) for the project.,A marker signifying the project's use of Information and Communication Technology for development.,0
+FSTC percent,KnoFoDevelo,The percentage of the FSTC (Field Support Technology and Communication) for the project.,A marker representing the project's contribution to knowledge for development.,0
+FSTC percent,GeEq,The percentage of the FSTC (Field Support Technology and Communication) for the project.,A marker indicating the project's commitment to promoting gender equality.,0
+FSTC percent,OrgaID,The percentage of the FSTC (Field Support Technology and Communication) for the project.,The unique identifier for the organization associated with the project.,0
+FSTC percent,OrgTy,The percentage of the FSTC (Field Support Technology and Communication) for the project.,The type of organization involved in the project.,0
+FSTC percent,OrgCl,The percentage of the FSTC (Field Support Technology and Communication) for the project.,The class to which the organization belongs.,0
+FSTC percent,OrgS,The percentage of the FSTC (Field Support Technology and Communication) for the project.,A more specific classification within the organization class.,0
+FSTC percent,ProjBrCoID,The percentage of the FSTC (Field Support Technology and Communication) for the project.,The unique identifier for the country associated with the project.,0
+FSTC percent,CoReNa,The percentage of the FSTC (Field Support Technology and Communication) for the project.,The name of the country or region connected to the project.,0
+FSTC percent,SeID,The percentage of the FSTC (Field Support Technology and Communication) for the project.,A specific code assigned to the section managing the project.,0
+FSTC percent,SecN,The percentage of the FSTC (Field Support Technology and Communication) for the project.,The name designating the section overseeing the project.,0
+FSTC percent,SePerc,The percentage of the FSTC (Field Support Technology and Communication) for the project.,The percentage of the project linked to the sector.,0
+FSTC percent,AmoSpe,The percentage of the FSTC (Field Support Technology and Communication) for the project.,The total expenditure incurred on the project.,0
+IRTC percent,FiYe,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,The financial year in which the project was conducted.,0
+IRTC percent,CIDABusDeliMod,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,The previous model utilized by CIDA for project delivery.,0
+IRTC percent,CoReID,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,The identification code for the country or region related to the project.,0
+IRTC percent,Bio,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,A marker indicating the project's contribution to biodiversity.,0
+IRTC percent,OrganN,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,The official name of the organization linked to the project.,0
+IRTC percent,DivID,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,The unique code for the division in charge of the project.,0
+IRTC percent,ProPr,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,The current process employed for project programming.,0
+IRTC percent,DiviN,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,The official name of the division handling the project.,0
+IRTC percent,ContiID,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,The unique code for the continent associated with the project.,0
+IRTC percent,SecID,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,A specific code assigned to the section managing the project.,0
+IRTC percent,PrNum,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,A distinct identifier assigned to each project for reference.,0
+IRTC percent,TrDev,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,A marker denoting the project's involvement in trade development.,0
+IRTC percent,BraN,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,The title of the branch responsible for project management.,0
+IRTC percent,ContiN,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,The name of the continent linked to the project.,0
+IRTC percent,CounRegPer,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,The percentage of the project associated with the country or region.,0
+IRTC percent,UrIs,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,A marker representing the project's focus on urban issues.,0
+IRTC percent,ChIss,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,A marker indicating the project's concern for children's issues.,0
+IRTC percent,YoIss,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,A marker signifying the project's attention to youth-related matters.,0
+IRTC percent,IndiIss,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,A marker denoting the project's involvement in indigenous issues.,0
+IRTC percent,DisIs,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,A marker indicating the project's focus on disability-related concerns.,0
+IRTC percent,ICTAAToFoDev,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,A marker signifying the project's use of Information and Communication Technology for development.,0
+IRTC percent,KnoFoDevelo,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,A marker representing the project's contribution to knowledge for development.,0
+IRTC percent,GeEq,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,A marker indicating the project's commitment to promoting gender equality.,0
+IRTC percent,OrgaID,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,The unique identifier for the organization associated with the project.,0
+IRTC percent,OrgTy,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,The type of organization involved in the project.,0
+IRTC percent,OrgCl,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,The class to which the organization belongs.,0
+IRTC percent,OrgS,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,A more specific classification within the organization class.,0
+IRTC percent,ProjBrCoID,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,The unique identifier for the country associated with the project.,0
+IRTC percent,CoReNa,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,The name of the country or region connected to the project.,0
+IRTC percent,SeID,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,A specific code assigned to the section managing the project.,0
+IRTC percent,SecN,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,The name designating the section overseeing the project.,0
+IRTC percent,SePerc,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,The percentage of the project linked to the sector.,0
+IRTC percent,AmoSpe,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,The total expenditure incurred on the project.,0
+CFLI (marker),FiYe,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,The financial year in which the project was conducted.,0
+CFLI (marker),CIDABusDeliMod,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,The previous model utilized by CIDA for project delivery.,0
+CFLI (marker),CoReID,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,The identification code for the country or region related to the project.,0
+CFLI (marker),Bio,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,A marker indicating the project's contribution to biodiversity.,0
+CFLI (marker),OrganN,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,The official name of the organization linked to the project.,0
+CFLI (marker),DivID,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,The unique code for the division in charge of the project.,0
+CFLI (marker),ProPr,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,The current process employed for project programming.,0
+CFLI (marker),DiviN,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,The official name of the division handling the project.,0
+CFLI (marker),ContiID,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,The unique code for the continent associated with the project.,0
+CFLI (marker),SecID,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,A specific code assigned to the section managing the project.,0
+CFLI (marker),PrNum,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,A distinct identifier assigned to each project for reference.,0
+CFLI (marker),TrDev,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,A marker denoting the project's involvement in trade development.,0
+CFLI (marker),BraN,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,The title of the branch responsible for project management.,0
+CFLI (marker),ContiN,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,The name of the continent linked to the project.,0
+CFLI (marker),CounRegPer,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,The percentage of the project associated with the country or region.,0
+CFLI (marker),UrIs,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,A marker representing the project's focus on urban issues.,0
+CFLI (marker),ChIss,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,A marker indicating the project's concern for children's issues.,0
+CFLI (marker),YoIss,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,A marker signifying the project's attention to youth-related matters.,0
+CFLI (marker),IndiIss,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,A marker denoting the project's involvement in indigenous issues.,0
+CFLI (marker),DisIs,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,A marker indicating the project's focus on disability-related concerns.,0
+CFLI (marker),ICTAAToFoDev,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,A marker signifying the project's use of Information and Communication Technology for development.,0
+CFLI (marker),KnoFoDevelo,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,A marker representing the project's contribution to knowledge for development.,0
+CFLI (marker),GeEq,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,A marker indicating the project's commitment to promoting gender equality.,0
+CFLI (marker),OrgaID,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,The unique identifier for the organization associated with the project.,0
+CFLI (marker),OrgTy,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,The type of organization involved in the project.,0
+CFLI (marker),OrgCl,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,The class to which the organization belongs.,0
+CFLI (marker),OrgS,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,A more specific classification within the organization class.,0
+CFLI (marker),ProjBrCoID,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,The unique identifier for the country associated with the project.,0
+CFLI (marker),CoReNa,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,The name of the country or region connected to the project.,0
+CFLI (marker),SeID,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,A specific code assigned to the section managing the project.,0
+CFLI (marker),SecN,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,The name designating the section overseeing the project.,0
+CFLI (marker),SePerc,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,The percentage of the project linked to the sector.,0
+CFLI (marker),AmoSpe,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,The total expenditure incurred on the project.,0
+Bilateral aid (international marker),FiYe,Indicates if the project involves bilateral aid.,The financial year in which the project was conducted.,0
+Bilateral aid (international marker),CIDABusDeliMod,Indicates if the project involves bilateral aid.,The previous model utilized by CIDA for project delivery.,0
+Bilateral aid (international marker),CoReID,Indicates if the project involves bilateral aid.,The identification code for the country or region related to the project.,0
+Bilateral aid (international marker),Bio,Indicates if the project involves bilateral aid.,A marker indicating the project's contribution to biodiversity.,0
+Bilateral aid (international marker),OrganN,Indicates if the project involves bilateral aid.,The official name of the organization linked to the project.,0
+Bilateral aid (international marker),DivID,Indicates if the project involves bilateral aid.,The unique code for the division in charge of the project.,0
+Bilateral aid (international marker),ProPr,Indicates if the project involves bilateral aid.,The current process employed for project programming.,0
+Bilateral aid (international marker),DiviN,Indicates if the project involves bilateral aid.,The official name of the division handling the project.,0
+Bilateral aid (international marker),ContiID,Indicates if the project involves bilateral aid.,The unique code for the continent associated with the project.,0
+Bilateral aid (international marker),SecID,Indicates if the project involves bilateral aid.,A specific code assigned to the section managing the project.,0
+Bilateral aid (international marker),PrNum,Indicates if the project involves bilateral aid.,A distinct identifier assigned to each project for reference.,0
+Bilateral aid (international marker),TrDev,Indicates if the project involves bilateral aid.,A marker denoting the project's involvement in trade development.,0
+Bilateral aid (international marker),BraN,Indicates if the project involves bilateral aid.,The title of the branch responsible for project management.,0
+Bilateral aid (international marker),ContiN,Indicates if the project involves bilateral aid.,The name of the continent linked to the project.,0
+Bilateral aid (international marker),CounRegPer,Indicates if the project involves bilateral aid.,The percentage of the project associated with the country or region.,0
+Bilateral aid (international marker),UrIs,Indicates if the project involves bilateral aid.,A marker representing the project's focus on urban issues.,0
+Bilateral aid (international marker),ChIss,Indicates if the project involves bilateral aid.,A marker indicating the project's concern for children's issues.,0
+Bilateral aid (international marker),YoIss,Indicates if the project involves bilateral aid.,A marker signifying the project's attention to youth-related matters.,0
+Bilateral aid (international marker),IndiIss,Indicates if the project involves bilateral aid.,A marker denoting the project's involvement in indigenous issues.,0
+Bilateral aid (international marker),DisIs,Indicates if the project involves bilateral aid.,A marker indicating the project's focus on disability-related concerns.,0
+Bilateral aid (international marker),ICTAAToFoDev,Indicates if the project involves bilateral aid.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Bilateral aid (international marker),KnoFoDevelo,Indicates if the project involves bilateral aid.,A marker representing the project's contribution to knowledge for development.,0
+Bilateral aid (international marker),GeEq,Indicates if the project involves bilateral aid.,A marker indicating the project's commitment to promoting gender equality.,0
+Bilateral aid (international marker),OrgaID,Indicates if the project involves bilateral aid.,The unique identifier for the organization associated with the project.,0
+Bilateral aid (international marker),OrgTy,Indicates if the project involves bilateral aid.,The type of organization involved in the project.,0
+Bilateral aid (international marker),OrgCl,Indicates if the project involves bilateral aid.,The class to which the organization belongs.,0
+Bilateral aid (international marker),OrgS,Indicates if the project involves bilateral aid.,A more specific classification within the organization class.,0
+Bilateral aid (international marker),ProjBrCoID,Indicates if the project involves bilateral aid.,The unique identifier for the country associated with the project.,0
+Bilateral aid (international marker),CoReNa,Indicates if the project involves bilateral aid.,The name of the country or region connected to the project.,0
+Bilateral aid (international marker),SeID,Indicates if the project involves bilateral aid.,A specific code assigned to the section managing the project.,0
+Bilateral aid (international marker),SecN,Indicates if the project involves bilateral aid.,The name designating the section overseeing the project.,0
+Bilateral aid (international marker),SePerc,Indicates if the project involves bilateral aid.,The percentage of the project linked to the sector.,0
+Bilateral aid (international marker),AmoSpe,Indicates if the project involves bilateral aid.,The total expenditure incurred on the project.,0
+PBA type,FiYe,Type of Project-Based Agreement.,The financial year in which the project was conducted.,0
+PBA type,CIDABusDeliMod,Type of Project-Based Agreement.,The previous model utilized by CIDA for project delivery.,0
+PBA type,CoReID,Type of Project-Based Agreement.,The identification code for the country or region related to the project.,0
+PBA type,Bio,Type of Project-Based Agreement.,A marker indicating the project's contribution to biodiversity.,0
+PBA type,OrganN,Type of Project-Based Agreement.,The official name of the organization linked to the project.,0
+PBA type,DivID,Type of Project-Based Agreement.,The unique code for the division in charge of the project.,0
+PBA type,ProPr,Type of Project-Based Agreement.,The current process employed for project programming.,0
+PBA type,DiviN,Type of Project-Based Agreement.,The official name of the division handling the project.,0
+PBA type,ContiID,Type of Project-Based Agreement.,The unique code for the continent associated with the project.,0
+PBA type,SecID,Type of Project-Based Agreement.,A specific code assigned to the section managing the project.,0
+PBA type,PrNum,Type of Project-Based Agreement.,A distinct identifier assigned to each project for reference.,0
+PBA type,TrDev,Type of Project-Based Agreement.,A marker denoting the project's involvement in trade development.,0
+PBA type,BraN,Type of Project-Based Agreement.,The title of the branch responsible for project management.,0
+PBA type,ContiN,Type of Project-Based Agreement.,The name of the continent linked to the project.,0
+PBA type,CounRegPer,Type of Project-Based Agreement.,The percentage of the project associated with the country or region.,0
+PBA type,UrIs,Type of Project-Based Agreement.,A marker representing the project's focus on urban issues.,0
+PBA type,ChIss,Type of Project-Based Agreement.,A marker indicating the project's concern for children's issues.,0
+PBA type,YoIss,Type of Project-Based Agreement.,A marker signifying the project's attention to youth-related matters.,0
+PBA type,IndiIss,Type of Project-Based Agreement.,A marker denoting the project's involvement in indigenous issues.,0
+PBA type,DisIs,Type of Project-Based Agreement.,A marker indicating the project's focus on disability-related concerns.,0
+PBA type,ICTAAToFoDev,Type of Project-Based Agreement.,A marker signifying the project's use of Information and Communication Technology for development.,0
+PBA type,KnoFoDevelo,Type of Project-Based Agreement.,A marker representing the project's contribution to knowledge for development.,0
+PBA type,GeEq,Type of Project-Based Agreement.,A marker indicating the project's commitment to promoting gender equality.,0
+PBA type,OrgaID,Type of Project-Based Agreement.,The unique identifier for the organization associated with the project.,0
+PBA type,OrgTy,Type of Project-Based Agreement.,The type of organization involved in the project.,0
+PBA type,OrgCl,Type of Project-Based Agreement.,The class to which the organization belongs.,0
+PBA type,OrgS,Type of Project-Based Agreement.,A more specific classification within the organization class.,0
+PBA type,ProjBrCoID,Type of Project-Based Agreement.,The unique identifier for the country associated with the project.,0
+PBA type,CoReNa,Type of Project-Based Agreement.,The name of the country or region connected to the project.,0
+PBA type,SeID,Type of Project-Based Agreement.,A specific code assigned to the section managing the project.,0
+PBA type,SecN,Type of Project-Based Agreement.,The name designating the section overseeing the project.,0
+PBA type,SePerc,Type of Project-Based Agreement.,The percentage of the project linked to the sector.,0
+PBA type,AmoSpe,Type of Project-Based Agreement.,The total expenditure incurred on the project.,0
+Enviromental sustainability (marker),FiYe,Indicates if the project addresses environmental sustainability.,The financial year in which the project was conducted.,0
+Enviromental sustainability (marker),CIDABusDeliMod,Indicates if the project addresses environmental sustainability.,The previous model utilized by CIDA for project delivery.,0
+Enviromental sustainability (marker),CoReID,Indicates if the project addresses environmental sustainability.,The identification code for the country or region related to the project.,0
+Enviromental sustainability (marker),Bio,Indicates if the project addresses environmental sustainability.,A marker indicating the project's contribution to biodiversity.,0
+Enviromental sustainability (marker),OrganN,Indicates if the project addresses environmental sustainability.,The official name of the organization linked to the project.,0
+Enviromental sustainability (marker),DivID,Indicates if the project addresses environmental sustainability.,The unique code for the division in charge of the project.,0
+Enviromental sustainability (marker),ProPr,Indicates if the project addresses environmental sustainability.,The current process employed for project programming.,0
+Enviromental sustainability (marker),DiviN,Indicates if the project addresses environmental sustainability.,The official name of the division handling the project.,0
+Enviromental sustainability (marker),ContiID,Indicates if the project addresses environmental sustainability.,The unique code for the continent associated with the project.,0
+Enviromental sustainability (marker),SecID,Indicates if the project addresses environmental sustainability.,A specific code assigned to the section managing the project.,0
+Enviromental sustainability (marker),PrNum,Indicates if the project addresses environmental sustainability.,A distinct identifier assigned to each project for reference.,0
+Enviromental sustainability (marker),TrDev,Indicates if the project addresses environmental sustainability.,A marker denoting the project's involvement in trade development.,0
+Enviromental sustainability (marker),BraN,Indicates if the project addresses environmental sustainability.,The title of the branch responsible for project management.,0
+Enviromental sustainability (marker),ContiN,Indicates if the project addresses environmental sustainability.,The name of the continent linked to the project.,0
+Enviromental sustainability (marker),CounRegPer,Indicates if the project addresses environmental sustainability.,The percentage of the project associated with the country or region.,0
+Enviromental sustainability (marker),UrIs,Indicates if the project addresses environmental sustainability.,A marker representing the project's focus on urban issues.,0
+Enviromental sustainability (marker),ChIss,Indicates if the project addresses environmental sustainability.,A marker indicating the project's concern for children's issues.,0
+Enviromental sustainability (marker),YoIss,Indicates if the project addresses environmental sustainability.,A marker signifying the project's attention to youth-related matters.,0
+Enviromental sustainability (marker),IndiIss,Indicates if the project addresses environmental sustainability.,A marker denoting the project's involvement in indigenous issues.,0
+Enviromental sustainability (marker),DisIs,Indicates if the project addresses environmental sustainability.,A marker indicating the project's focus on disability-related concerns.,0
+Enviromental sustainability (marker),ICTAAToFoDev,Indicates if the project addresses environmental sustainability.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Enviromental sustainability (marker),KnoFoDevelo,Indicates if the project addresses environmental sustainability.,A marker representing the project's contribution to knowledge for development.,0
+Enviromental sustainability (marker),GeEq,Indicates if the project addresses environmental sustainability.,A marker indicating the project's commitment to promoting gender equality.,0
+Enviromental sustainability (marker),OrgaID,Indicates if the project addresses environmental sustainability.,The unique identifier for the organization associated with the project.,0
+Enviromental sustainability (marker),OrgTy,Indicates if the project addresses environmental sustainability.,The type of organization involved in the project.,0
+Enviromental sustainability (marker),OrgCl,Indicates if the project addresses environmental sustainability.,The class to which the organization belongs.,0
+Enviromental sustainability (marker),OrgS,Indicates if the project addresses environmental sustainability.,A more specific classification within the organization class.,0
+Enviromental sustainability (marker),ProjBrCoID,Indicates if the project addresses environmental sustainability.,The unique identifier for the country associated with the project.,0
+Enviromental sustainability (marker),CoReNa,Indicates if the project addresses environmental sustainability.,The name of the country or region connected to the project.,0
+Enviromental sustainability (marker),SeID,Indicates if the project addresses environmental sustainability.,A specific code assigned to the section managing the project.,0
+Enviromental sustainability (marker),SecN,Indicates if the project addresses environmental sustainability.,The name designating the section overseeing the project.,0
+Enviromental sustainability (marker),SePerc,Indicates if the project addresses environmental sustainability.,The percentage of the project linked to the sector.,0
+Enviromental sustainability (marker),AmoSpe,Indicates if the project addresses environmental sustainability.,The total expenditure incurred on the project.,0
+Climate change adaptation (marker),FiYe,Indicates if the project addresses climate change adaptation.,The financial year in which the project was conducted.,0
+Climate change adaptation (marker),CIDABusDeliMod,Indicates if the project addresses climate change adaptation.,The previous model utilized by CIDA for project delivery.,0
+Climate change adaptation (marker),CoReID,Indicates if the project addresses climate change adaptation.,The identification code for the country or region related to the project.,0
+Climate change adaptation (marker),Bio,Indicates if the project addresses climate change adaptation.,A marker indicating the project's contribution to biodiversity.,0
+Climate change adaptation (marker),OrganN,Indicates if the project addresses climate change adaptation.,The official name of the organization linked to the project.,0
+Climate change adaptation (marker),DivID,Indicates if the project addresses climate change adaptation.,The unique code for the division in charge of the project.,0
+Climate change adaptation (marker),ProPr,Indicates if the project addresses climate change adaptation.,The current process employed for project programming.,0
+Climate change adaptation (marker),DiviN,Indicates if the project addresses climate change adaptation.,The official name of the division handling the project.,0
+Climate change adaptation (marker),ContiID,Indicates if the project addresses climate change adaptation.,The unique code for the continent associated with the project.,0
+Climate change adaptation (marker),SecID,Indicates if the project addresses climate change adaptation.,A specific code assigned to the section managing the project.,0
+Climate change adaptation (marker),PrNum,Indicates if the project addresses climate change adaptation.,A distinct identifier assigned to each project for reference.,0
+Climate change adaptation (marker),TrDev,Indicates if the project addresses climate change adaptation.,A marker denoting the project's involvement in trade development.,0
+Climate change adaptation (marker),BraN,Indicates if the project addresses climate change adaptation.,The title of the branch responsible for project management.,0
+Climate change adaptation (marker),ContiN,Indicates if the project addresses climate change adaptation.,The name of the continent linked to the project.,0
+Climate change adaptation (marker),CounRegPer,Indicates if the project addresses climate change adaptation.,The percentage of the project associated with the country or region.,0
+Climate change adaptation (marker),UrIs,Indicates if the project addresses climate change adaptation.,A marker representing the project's focus on urban issues.,0
+Climate change adaptation (marker),ChIss,Indicates if the project addresses climate change adaptation.,A marker indicating the project's concern for children's issues.,0
+Climate change adaptation (marker),YoIss,Indicates if the project addresses climate change adaptation.,A marker signifying the project's attention to youth-related matters.,0
+Climate change adaptation (marker),IndiIss,Indicates if the project addresses climate change adaptation.,A marker denoting the project's involvement in indigenous issues.,0
+Climate change adaptation (marker),DisIs,Indicates if the project addresses climate change adaptation.,A marker indicating the project's focus on disability-related concerns.,0
+Climate change adaptation (marker),ICTAAToFoDev,Indicates if the project addresses climate change adaptation.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Climate change adaptation (marker),KnoFoDevelo,Indicates if the project addresses climate change adaptation.,A marker representing the project's contribution to knowledge for development.,0
+Climate change adaptation (marker),GeEq,Indicates if the project addresses climate change adaptation.,A marker indicating the project's commitment to promoting gender equality.,0
+Climate change adaptation (marker),OrgaID,Indicates if the project addresses climate change adaptation.,The unique identifier for the organization associated with the project.,0
+Climate change adaptation (marker),OrgTy,Indicates if the project addresses climate change adaptation.,The type of organization involved in the project.,0
+Climate change adaptation (marker),OrgCl,Indicates if the project addresses climate change adaptation.,The class to which the organization belongs.,0
+Climate change adaptation (marker),OrgS,Indicates if the project addresses climate change adaptation.,A more specific classification within the organization class.,0
+Climate change adaptation (marker),ProjBrCoID,Indicates if the project addresses climate change adaptation.,The unique identifier for the country associated with the project.,0
+Climate change adaptation (marker),CoReNa,Indicates if the project addresses climate change adaptation.,The name of the country or region connected to the project.,0
+Climate change adaptation (marker),SeID,Indicates if the project addresses climate change adaptation.,A specific code assigned to the section managing the project.,0
+Climate change adaptation (marker),SecN,Indicates if the project addresses climate change adaptation.,The name designating the section overseeing the project.,0
+Climate change adaptation (marker),SePerc,Indicates if the project addresses climate change adaptation.,The percentage of the project linked to the sector.,0
+Climate change adaptation (marker),AmoSpe,Indicates if the project addresses climate change adaptation.,The total expenditure incurred on the project.,0
+Climate change mitigation (marker),FiYe,Indicates if the project addresses climate change mitigation.,The financial year in which the project was conducted.,0
+Climate change mitigation (marker),CIDABusDeliMod,Indicates if the project addresses climate change mitigation.,The previous model utilized by CIDA for project delivery.,0
+Climate change mitigation (marker),CoReID,Indicates if the project addresses climate change mitigation.,The identification code for the country or region related to the project.,0
+Climate change mitigation (marker),Bio,Indicates if the project addresses climate change mitigation.,A marker indicating the project's contribution to biodiversity.,0
+Climate change mitigation (marker),OrganN,Indicates if the project addresses climate change mitigation.,The official name of the organization linked to the project.,0
+Climate change mitigation (marker),DivID,Indicates if the project addresses climate change mitigation.,The unique code for the division in charge of the project.,0
+Climate change mitigation (marker),ProPr,Indicates if the project addresses climate change mitigation.,The current process employed for project programming.,0
+Climate change mitigation (marker),DiviN,Indicates if the project addresses climate change mitigation.,The official name of the division handling the project.,0
+Climate change mitigation (marker),ContiID,Indicates if the project addresses climate change mitigation.,The unique code for the continent associated with the project.,0
+Climate change mitigation (marker),SecID,Indicates if the project addresses climate change mitigation.,A specific code assigned to the section managing the project.,0
+Climate change mitigation (marker),PrNum,Indicates if the project addresses climate change mitigation.,A distinct identifier assigned to each project for reference.,0
+Climate change mitigation (marker),TrDev,Indicates if the project addresses climate change mitigation.,A marker denoting the project's involvement in trade development.,0
+Climate change mitigation (marker),BraN,Indicates if the project addresses climate change mitigation.,The title of the branch responsible for project management.,0
+Climate change mitigation (marker),ContiN,Indicates if the project addresses climate change mitigation.,The name of the continent linked to the project.,0
+Climate change mitigation (marker),CounRegPer,Indicates if the project addresses climate change mitigation.,The percentage of the project associated with the country or region.,0
+Climate change mitigation (marker),UrIs,Indicates if the project addresses climate change mitigation.,A marker representing the project's focus on urban issues.,0
+Climate change mitigation (marker),ChIss,Indicates if the project addresses climate change mitigation.,A marker indicating the project's concern for children's issues.,0
+Climate change mitigation (marker),YoIss,Indicates if the project addresses climate change mitigation.,A marker signifying the project's attention to youth-related matters.,0
+Climate change mitigation (marker),IndiIss,Indicates if the project addresses climate change mitigation.,A marker denoting the project's involvement in indigenous issues.,0
+Climate change mitigation (marker),DisIs,Indicates if the project addresses climate change mitigation.,A marker indicating the project's focus on disability-related concerns.,0
+Climate change mitigation (marker),ICTAAToFoDev,Indicates if the project addresses climate change mitigation.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Climate change mitigation (marker),KnoFoDevelo,Indicates if the project addresses climate change mitigation.,A marker representing the project's contribution to knowledge for development.,0
+Climate change mitigation (marker),GeEq,Indicates if the project addresses climate change mitigation.,A marker indicating the project's commitment to promoting gender equality.,0
+Climate change mitigation (marker),OrgaID,Indicates if the project addresses climate change mitigation.,The unique identifier for the organization associated with the project.,0
+Climate change mitigation (marker),OrgTy,Indicates if the project addresses climate change mitigation.,The type of organization involved in the project.,0
+Climate change mitigation (marker),OrgCl,Indicates if the project addresses climate change mitigation.,The class to which the organization belongs.,0
+Climate change mitigation (marker),OrgS,Indicates if the project addresses climate change mitigation.,A more specific classification within the organization class.,0
+Climate change mitigation (marker),ProjBrCoID,Indicates if the project addresses climate change mitigation.,The unique identifier for the country associated with the project.,0
+Climate change mitigation (marker),CoReNa,Indicates if the project addresses climate change mitigation.,The name of the country or region connected to the project.,0
+Climate change mitigation (marker),SeID,Indicates if the project addresses climate change mitigation.,A specific code assigned to the section managing the project.,0
+Climate change mitigation (marker),SecN,Indicates if the project addresses climate change mitigation.,The name designating the section overseeing the project.,0
+Climate change mitigation (marker),SePerc,Indicates if the project addresses climate change mitigation.,The percentage of the project linked to the sector.,0
+Climate change mitigation (marker),AmoSpe,Indicates if the project addresses climate change mitigation.,The total expenditure incurred on the project.,0
+Desertification (marker),FiYe,Indicates if the project addresses desertification.,The financial year in which the project was conducted.,0
+Desertification (marker),CIDABusDeliMod,Indicates if the project addresses desertification.,The previous model utilized by CIDA for project delivery.,0
+Desertification (marker),CoReID,Indicates if the project addresses desertification.,The identification code for the country or region related to the project.,0
+Desertification (marker),Bio,Indicates if the project addresses desertification.,A marker indicating the project's contribution to biodiversity.,0
+Desertification (marker),OrganN,Indicates if the project addresses desertification.,The official name of the organization linked to the project.,0
+Desertification (marker),DivID,Indicates if the project addresses desertification.,The unique code for the division in charge of the project.,0
+Desertification (marker),ProPr,Indicates if the project addresses desertification.,The current process employed for project programming.,0
+Desertification (marker),DiviN,Indicates if the project addresses desertification.,The official name of the division handling the project.,0
+Desertification (marker),ContiID,Indicates if the project addresses desertification.,The unique code for the continent associated with the project.,0
+Desertification (marker),SecID,Indicates if the project addresses desertification.,A specific code assigned to the section managing the project.,0
+Desertification (marker),PrNum,Indicates if the project addresses desertification.,A distinct identifier assigned to each project for reference.,0
+Desertification (marker),TrDev,Indicates if the project addresses desertification.,A marker denoting the project's involvement in trade development.,0
+Desertification (marker),BraN,Indicates if the project addresses desertification.,The title of the branch responsible for project management.,0
+Desertification (marker),ContiN,Indicates if the project addresses desertification.,The name of the continent linked to the project.,0
+Desertification (marker),CounRegPer,Indicates if the project addresses desertification.,The percentage of the project associated with the country or region.,0
+Desertification (marker),UrIs,Indicates if the project addresses desertification.,A marker representing the project's focus on urban issues.,0
+Desertification (marker),ChIss,Indicates if the project addresses desertification.,A marker indicating the project's concern for children's issues.,0
+Desertification (marker),YoIss,Indicates if the project addresses desertification.,A marker signifying the project's attention to youth-related matters.,0
+Desertification (marker),IndiIss,Indicates if the project addresses desertification.,A marker denoting the project's involvement in indigenous issues.,0
+Desertification (marker),DisIs,Indicates if the project addresses desertification.,A marker indicating the project's focus on disability-related concerns.,0
+Desertification (marker),ICTAAToFoDev,Indicates if the project addresses desertification.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Desertification (marker),KnoFoDevelo,Indicates if the project addresses desertification.,A marker representing the project's contribution to knowledge for development.,0
+Desertification (marker),GeEq,Indicates if the project addresses desertification.,A marker indicating the project's commitment to promoting gender equality.,0
+Desertification (marker),OrgaID,Indicates if the project addresses desertification.,The unique identifier for the organization associated with the project.,0
+Desertification (marker),OrgTy,Indicates if the project addresses desertification.,The type of organization involved in the project.,0
+Desertification (marker),OrgCl,Indicates if the project addresses desertification.,The class to which the organization belongs.,0
+Desertification (marker),OrgS,Indicates if the project addresses desertification.,A more specific classification within the organization class.,0
+Desertification (marker),ProjBrCoID,Indicates if the project addresses desertification.,The unique identifier for the country associated with the project.,0
+Desertification (marker),CoReNa,Indicates if the project addresses desertification.,The name of the country or region connected to the project.,0
+Desertification (marker),SeID,Indicates if the project addresses desertification.,A specific code assigned to the section managing the project.,0
+Desertification (marker),SecN,Indicates if the project addresses desertification.,The name designating the section overseeing the project.,0
+Desertification (marker),SePerc,Indicates if the project addresses desertification.,The percentage of the project linked to the sector.,0
+Desertification (marker),AmoSpe,Indicates if the project addresses desertification.,The total expenditure incurred on the project.,0
+Participatory development and good governance,FiYe,Indicates if the project focuses on participatory development and good governance.,The financial year in which the project was conducted.,0
+Participatory development and good governance,CIDABusDeliMod,Indicates if the project focuses on participatory development and good governance.,The previous model utilized by CIDA for project delivery.,0
+Participatory development and good governance,CoReID,Indicates if the project focuses on participatory development and good governance.,The identification code for the country or region related to the project.,0
+Participatory development and good governance,Bio,Indicates if the project focuses on participatory development and good governance.,A marker indicating the project's contribution to biodiversity.,0
+Participatory development and good governance,OrganN,Indicates if the project focuses on participatory development and good governance.,The official name of the organization linked to the project.,0
+Participatory development and good governance,DivID,Indicates if the project focuses on participatory development and good governance.,The unique code for the division in charge of the project.,0
+Participatory development and good governance,ProPr,Indicates if the project focuses on participatory development and good governance.,The current process employed for project programming.,0
+Participatory development and good governance,DiviN,Indicates if the project focuses on participatory development and good governance.,The official name of the division handling the project.,0
+Participatory development and good governance,ContiID,Indicates if the project focuses on participatory development and good governance.,The unique code for the continent associated with the project.,0
+Participatory development and good governance,SecID,Indicates if the project focuses on participatory development and good governance.,A specific code assigned to the section managing the project.,0
+Participatory development and good governance,PrNum,Indicates if the project focuses on participatory development and good governance.,A distinct identifier assigned to each project for reference.,0
+Participatory development and good governance,TrDev,Indicates if the project focuses on participatory development and good governance.,A marker denoting the project's involvement in trade development.,0
+Participatory development and good governance,BraN,Indicates if the project focuses on participatory development and good governance.,The title of the branch responsible for project management.,0
+Participatory development and good governance,ContiN,Indicates if the project focuses on participatory development and good governance.,The name of the continent linked to the project.,0
+Participatory development and good governance,CounRegPer,Indicates if the project focuses on participatory development and good governance.,The percentage of the project associated with the country or region.,0
+Participatory development and good governance,UrIs,Indicates if the project focuses on participatory development and good governance.,A marker representing the project's focus on urban issues.,0
+Participatory development and good governance,ChIss,Indicates if the project focuses on participatory development and good governance.,A marker indicating the project's concern for children's issues.,0
+Participatory development and good governance,YoIss,Indicates if the project focuses on participatory development and good governance.,A marker signifying the project's attention to youth-related matters.,0
+Participatory development and good governance,IndiIss,Indicates if the project focuses on participatory development and good governance.,A marker denoting the project's involvement in indigenous issues.,0
+Participatory development and good governance,DisIs,Indicates if the project focuses on participatory development and good governance.,A marker indicating the project's focus on disability-related concerns.,0
+Participatory development and good governance,ICTAAToFoDev,Indicates if the project focuses on participatory development and good governance.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Participatory development and good governance,KnoFoDevelo,Indicates if the project focuses on participatory development and good governance.,A marker representing the project's contribution to knowledge for development.,0
+Participatory development and good governance,GeEq,Indicates if the project focuses on participatory development and good governance.,A marker indicating the project's commitment to promoting gender equality.,0
+Participatory development and good governance,OrgaID,Indicates if the project focuses on participatory development and good governance.,The unique identifier for the organization associated with the project.,0
+Participatory development and good governance,OrgTy,Indicates if the project focuses on participatory development and good governance.,The type of organization involved in the project.,0
+Participatory development and good governance,OrgCl,Indicates if the project focuses on participatory development and good governance.,The class to which the organization belongs.,0
+Participatory development and good governance,OrgS,Indicates if the project focuses on participatory development and good governance.,A more specific classification within the organization class.,0
+Participatory development and good governance,ProjBrCoID,Indicates if the project focuses on participatory development and good governance.,The unique identifier for the country associated with the project.,0
+Participatory development and good governance,CoReNa,Indicates if the project focuses on participatory development and good governance.,The name of the country or region connected to the project.,0
+Participatory development and good governance,SeID,Indicates if the project focuses on participatory development and good governance.,A specific code assigned to the section managing the project.,0
+Participatory development and good governance,SecN,Indicates if the project focuses on participatory development and good governance.,The name designating the section overseeing the project.,0
+Participatory development and good governance,SePerc,Indicates if the project focuses on participatory development and good governance.,The percentage of the project linked to the sector.,0
+Participatory development and good governance,AmoSpe,Indicates if the project focuses on participatory development and good governance.,The total expenditure incurred on the project.,0

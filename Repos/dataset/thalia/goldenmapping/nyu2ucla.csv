@@ -1,0 +1,11 @@
+nyu.Course,ucla.Course,1
+nyu.Course.Name,ucla.Course.Title,1
+nyu.Course.No,ucla.Course.Title,1
+nyu.Course.Name,ucla.Course.CourseInfo.Type,1
+nyu.Course.Days,ucla.Course.CourseInfo.Days,1
+nyu.Course.Time,ucla.Course.CourseInfo.TimeBegin,1
+nyu.Course.Time,ucla.Course.CourseInfo.TimeEnd,1
+nyu.Course.Room,ucla.Course.CourseInfo.Bldg,1
+nyu.Course.Room,ucla.Course.CourseInfo.Room,1
+nyu.Course.CallNo,ucla.Course.CourseInfo.CourseID,1
+nyu.Course,ucla.Course.CourseInfo,1

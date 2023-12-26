@@ -1,0 +1,1445 @@
+source,target,conf,realConf
+Fiscal year,miller2_FisY,0,1
+Fiscal year,miller2_IndiIss,0,0
+Fiscal year,miller2_CFLI,0,0
+Fiscal year,miller2_PrograPr,0,0
+Fiscal year,miller2_SeID,0,0
+Fiscal year,miller2_UrIss,0,0
+Fiscal year,miller2_ClimChaAdap,0,0
+Fiscal year,miller2_Sta,0,0
+Fiscal year,miller2_EnviSustai,0,0
+Fiscal year,miller2_CouRegNa,0,0
+Fiscal year,miller2_OrgaNa,0,0
+Fiscal year,miller2_FuCenNa,0,0
+Fiscal year,miller2_PBATy,0,0
+Fiscal year,miller2_ClChMit,0,0
+Fiscal year,miller2_IRTCPer,0,0
+Fiscal year,miller2_OrgaT,0,0
+Fiscal year,miller2_MaxCIDAContr,0,0
+Fiscal year,miller2_UntAmoProBud,0,0
+Fiscal year,miller2_DivID,0,0
+Fiscal year,miller2_SecPer,0,0
+Fiscal year,miller2_FSTCPe,0,0
+Fiscal year,Section ID,0,0
+Fiscal year,miller2_SeN,0,0
+Fiscal year,miller2_ConID,0,0
+Fiscal year,miller2_FCenID,0,0
+Fiscal year,miller2_YoIss,0,0
+Fiscal year,miller2_DisaIss,0,0
+Fiscal year,miller2_ICTAATFoDeve,0,0
+Fiscal year,miller2_KnowlFoDeve,0,0
+Fiscal year,miller2_GeEqu,0,0
+Fiscal year,miller2_OrganID,0,0
+Fiscal year,miller2_OrgCla,0,0
+Fiscal year,miller2_OrgaSu,0,0
+Fiscal year,miller2_ConNa,0,0
+Fiscal year,miller2_ProjBroCouID,0,0
+Fiscal year,miller2_CouReID,0,0
+Fiscal year,miller2_CouRegPerc,0,0
+Fiscal year,miller2_AmSp,0,0
+Indigenous issues (marker),miller2_FisY,0,0
+Indigenous issues (marker),miller2_IndiIss,1.0,1
+Indigenous issues (marker),miller2_CFLI,0.9826073429259765,0
+Indigenous issues (marker),miller2_PrograPr,0,0
+Indigenous issues (marker),miller2_SeID,0,0
+Indigenous issues (marker),miller2_UrIss,0.9970842980876425,0
+Indigenous issues (marker),miller2_ClimChaAdap,0.9702217518019866,0
+Indigenous issues (marker),miller2_Sta,0,0
+Indigenous issues (marker),miller2_EnviSustai,1.0,0
+Indigenous issues (marker),miller2_CouRegNa,0,0
+Indigenous issues (marker),miller2_OrgaNa,0,0
+Indigenous issues (marker),miller2_FuCenNa,0,0
+Indigenous issues (marker),miller2_PBATy,0,0
+Indigenous issues (marker),miller2_ClChMit,1.0,0
+Indigenous issues (marker),miller2_IRTCPer,1.0,0
+Indigenous issues (marker),miller2_OrgaT,0,0
+Indigenous issues (marker),miller2_MaxCIDAContr,0,0
+Indigenous issues (marker),miller2_UntAmoProBud,0.809047484762733,0
+Indigenous issues (marker),miller2_DivID,0,0
+Indigenous issues (marker),miller2_SecPer,0,0
+Indigenous issues (marker),miller2_FSTCPe,0,0
+Indigenous issues (marker),Section ID,0,0
+Indigenous issues (marker),miller2_SeN,0,0
+Indigenous issues (marker),miller2_ConID,0.9585768305259539,0
+Indigenous issues (marker),miller2_FCenID,0,0
+Indigenous issues (marker),miller2_YoIss,0.9970842980876425,0
+Indigenous issues (marker),miller2_DisaIss,0.9970842980876425,0
+Indigenous issues (marker),miller2_ICTAATFoDeve,1.0,0
+Indigenous issues (marker),miller2_KnowlFoDeve,0.9970842980876425,0
+Indigenous issues (marker),miller2_GeEqu,0.995995288574794,0
+Indigenous issues (marker),miller2_OrganID,0,0
+Indigenous issues (marker),miller2_OrgCla,0,0
+Indigenous issues (marker),miller2_OrgaSu,0,0
+Indigenous issues (marker),miller2_ConNa,0,0
+Indigenous issues (marker),miller2_ProjBroCouID,0,0
+Indigenous issues (marker),miller2_CouReID,0,0
+Indigenous issues (marker),miller2_CouRegPerc,0,0
+Indigenous issues (marker),miller2_AmSp,0,0
+CFLI (marker),miller2_FisY,0,0
+CFLI (marker),miller2_IndiIss,0.9967025579184241,0
+CFLI (marker),miller2_CFLI,0.9957180782735291,1
+CFLI (marker),miller2_PrograPr,0,0
+CFLI (marker),miller2_SeID,0,0
+CFLI (marker),miller2_UrIss,0.9915290050488735,0
+CFLI (marker),miller2_ClimChaAdap,0.9577696480561939,0
+CFLI (marker),miller2_Sta,0,0
+CFLI (marker),miller2_EnviSustai,0.8962669442114932,0
+CFLI (marker),miller2_CouRegNa,0,0
+CFLI (marker),miller2_OrgaNa,0,0
+CFLI (marker),miller2_FuCenNa,0,0
+CFLI (marker),miller2_PBATy,0,0
+CFLI (marker),miller2_ClChMit,0.9867213758214844,0
+CFLI (marker),miller2_IRTCPer,0.9908389790787848,0
+CFLI (marker),miller2_OrgaT,0,0
+CFLI (marker),miller2_MaxCIDAContr,0,0
+CFLI (marker),miller2_UntAmoProBud,0.990121774674274,0
+CFLI (marker),miller2_DivID,0,0
+CFLI (marker),miller2_SecPer,0,0
+CFLI (marker),miller2_FSTCPe,0,0
+CFLI (marker),Section ID,0,0
+CFLI (marker),miller2_SeN,0,0
+CFLI (marker),miller2_ConID,0.6711304799561315,0
+CFLI (marker),miller2_FCenID,0,0
+CFLI (marker),miller2_YoIss,0.9275225617337631,0
+CFLI (marker),miller2_DisaIss,0.999112535839776,0
+CFLI (marker),miller2_ICTAATFoDeve,0.9772818642454961,0
+CFLI (marker),miller2_KnowlFoDeve,0.9597459884753664,0
+CFLI (marker),miller2_GeEqu,0.8173841252500219,0
+CFLI (marker),miller2_OrganID,0,0
+CFLI (marker),miller2_OrgCla,0,0
+CFLI (marker),miller2_OrgaSu,0,0
+CFLI (marker),miller2_ConNa,0,0
+CFLI (marker),miller2_ProjBroCouID,0,0
+CFLI (marker),miller2_CouReID,0,0
+CFLI (marker),miller2_CouRegPerc,0,0
+CFLI (marker),miller2_AmSp,0,0
+Programming process (new),miller2_FisY,0,0
+Programming process (new),miller2_IndiIss,0,0
+Programming process (new),miller2_CFLI,0,0
+Programming process (new),miller2_PrograPr,0,1
+Programming process (new),miller2_SeID,0,0
+Programming process (new),miller2_UrIss,0,0
+Programming process (new),miller2_ClimChaAdap,0,0
+Programming process (new),miller2_Sta,0,0
+Programming process (new),miller2_EnviSustai,0,0
+Programming process (new),miller2_CouRegNa,0,0
+Programming process (new),miller2_OrgaNa,0,0
+Programming process (new),miller2_FuCenNa,0,0
+Programming process (new),miller2_PBATy,0,0
+Programming process (new),miller2_ClChMit,0,0
+Programming process (new),miller2_IRTCPer,0,0
+Programming process (new),miller2_OrgaT,0,0
+Programming process (new),miller2_MaxCIDAContr,0,0
+Programming process (new),miller2_UntAmoProBud,0,0
+Programming process (new),miller2_DivID,0,0
+Programming process (new),miller2_SecPer,0,0
+Programming process (new),miller2_FSTCPe,0,0
+Programming process (new),Section ID,0,0
+Programming process (new),miller2_SeN,0,0
+Programming process (new),miller2_ConID,0,0
+Programming process (new),miller2_FCenID,0,0
+Programming process (new),miller2_YoIss,0,0
+Programming process (new),miller2_DisaIss,0,0
+Programming process (new),miller2_ICTAATFoDeve,0,0
+Programming process (new),miller2_KnowlFoDeve,0,0
+Programming process (new),miller2_GeEqu,0,0
+Programming process (new),miller2_OrganID,0,0
+Programming process (new),miller2_OrgCla,0,0
+Programming process (new),miller2_OrgaSu,0,0
+Programming process (new),miller2_ConNa,0,0
+Programming process (new),miller2_ProjBroCouID,0,0
+Programming process (new),miller2_CouReID,0,0
+Programming process (new),miller2_CouRegPerc,0,0
+Programming process (new),miller2_AmSp,0,0
+Sector ID,miller2_FisY,0,0
+Sector ID,miller2_IndiIss,0,0
+Sector ID,miller2_CFLI,0,0
+Sector ID,miller2_PrograPr,0,0
+Sector ID,miller2_SeID,0.9699959777294387,1
+Sector ID,miller2_UrIss,0,0
+Sector ID,miller2_ClimChaAdap,0,0
+Sector ID,miller2_Sta,0,0
+Sector ID,miller2_EnviSustai,0,0
+Sector ID,miller2_CouRegNa,0,0
+Sector ID,miller2_OrgaNa,0,0
+Sector ID,miller2_FuCenNa,0,0
+Sector ID,miller2_PBATy,0,0
+Sector ID,miller2_ClChMit,0,0
+Sector ID,miller2_IRTCPer,0,0
+Sector ID,miller2_OrgaT,0,0
+Sector ID,miller2_MaxCIDAContr,0,0
+Sector ID,miller2_UntAmoProBud,0,0
+Sector ID,miller2_DivID,0,0
+Sector ID,miller2_SecPer,0,0
+Sector ID,miller2_FSTCPe,0,0
+Sector ID,Section ID,0,0
+Sector ID,miller2_SeN,0,0
+Sector ID,miller2_ConID,0,0
+Sector ID,miller2_FCenID,0,0
+Sector ID,miller2_YoIss,0,0
+Sector ID,miller2_DisaIss,0,0
+Sector ID,miller2_ICTAATFoDeve,0,0
+Sector ID,miller2_KnowlFoDeve,0,0
+Sector ID,miller2_GeEqu,0,0
+Sector ID,miller2_OrganID,0,0
+Sector ID,miller2_OrgCla,0,0
+Sector ID,miller2_OrgaSu,0,0
+Sector ID,miller2_ConNa,0,0
+Sector ID,miller2_ProjBroCouID,0,0
+Sector ID,miller2_CouReID,0,0
+Sector ID,miller2_CouRegPerc,0,0
+Sector ID,miller2_AmSp,0,0
+Urban issues (marker),miller2_FisY,0,0
+Urban issues (marker),miller2_IndiIss,1.0,0
+Urban issues (marker),miller2_CFLI,0.9751945708935068,0
+Urban issues (marker),miller2_PrograPr,0,0
+Urban issues (marker),miller2_SeID,0,0
+Urban issues (marker),miller2_UrIss,0.9970842980876425,1
+Urban issues (marker),miller2_ClimChaAdap,0.9775588321521046,0
+Urban issues (marker),miller2_Sta,0,0
+Urban issues (marker),miller2_EnviSustai,1.0,0
+Urban issues (marker),miller2_CouRegNa,0,0
+Urban issues (marker),miller2_OrgaNa,0,0
+Urban issues (marker),miller2_FuCenNa,0,0
+Urban issues (marker),miller2_PBATy,0,0
+Urban issues (marker),miller2_ClChMit,1.0,0
+Urban issues (marker),miller2_IRTCPer,1.0,0
+Urban issues (marker),miller2_OrgaT,0,0
+Urban issues (marker),miller2_MaxCIDAContr,0,0
+Urban issues (marker),miller2_UntAmoProBud,0.8091643448646938,0
+Urban issues (marker),miller2_DivID,0,0
+Urban issues (marker),miller2_SecPer,0,0
+Urban issues (marker),miller2_FSTCPe,0,0
+Urban issues (marker),Section ID,0,0
+Urban issues (marker),miller2_SeN,0,0
+Urban issues (marker),miller2_ConID,0.9585768305259539,0
+Urban issues (marker),miller2_FCenID,0,0
+Urban issues (marker),miller2_YoIss,0.9970842980876425,0
+Urban issues (marker),miller2_DisaIss,0.9970842980876425,0
+Urban issues (marker),miller2_ICTAATFoDeve,1.0,0
+Urban issues (marker),miller2_KnowlFoDeve,0.9970842980876425,0
+Urban issues (marker),miller2_GeEqu,0.995995288574794,0
+Urban issues (marker),miller2_OrganID,0,0
+Urban issues (marker),miller2_OrgCla,0,0
+Urban issues (marker),miller2_OrgaSu,0,0
+Urban issues (marker),miller2_ConNa,0,0
+Urban issues (marker),miller2_ProjBroCouID,0,0
+Urban issues (marker),miller2_CouReID,0,0
+Urban issues (marker),miller2_CouRegPerc,0,0
+Urban issues (marker),miller2_AmSp,0,0
+Climate change adaptation (marker),miller2_FisY,0,0
+Climate change adaptation (marker),miller2_IndiIss,1.0,0
+Climate change adaptation (marker),miller2_CFLI,1.0,0
+Climate change adaptation (marker),miller2_PrograPr,0,0
+Climate change adaptation (marker),miller2_SeID,0,0
+Climate change adaptation (marker),miller2_UrIss,0.9969133156134784,0
+Climate change adaptation (marker),miller2_ClimChaAdap,0.9658924116228454,1
+Climate change adaptation (marker),miller2_Sta,0,0
+Climate change adaptation (marker),miller2_EnviSustai,1.0,0
+Climate change adaptation (marker),miller2_CouRegNa,0,0
+Climate change adaptation (marker),miller2_OrgaNa,0,0
+Climate change adaptation (marker),miller2_FuCenNa,0,0
+Climate change adaptation (marker),miller2_PBATy,0,0
+Climate change adaptation (marker),miller2_ClChMit,1.0,0
+Climate change adaptation (marker),miller2_IRTCPer,1.0,0
+Climate change adaptation (marker),miller2_OrgaT,0,0
+Climate change adaptation (marker),miller2_MaxCIDAContr,0,0
+Climate change adaptation (marker),miller2_UntAmoProBud,1.0,0
+Climate change adaptation (marker),miller2_DivID,0,0
+Climate change adaptation (marker),miller2_SecPer,0,0
+Climate change adaptation (marker),miller2_FSTCPe,0,0
+Climate change adaptation (marker),Section ID,0,0
+Climate change adaptation (marker),miller2_SeN,0,0
+Climate change adaptation (marker),miller2_ConID,0.9585768305259539,0
+Climate change adaptation (marker),miller2_FCenID,0,0
+Climate change adaptation (marker),miller2_YoIss,0.9969133156134784,0
+Climate change adaptation (marker),miller2_DisaIss,1.0,0
+Climate change adaptation (marker),miller2_ICTAATFoDeve,1.0,0
+Climate change adaptation (marker),miller2_KnowlFoDeve,1.0,0
+Climate change adaptation (marker),miller2_GeEqu,1.0,0
+Climate change adaptation (marker),miller2_OrganID,0,0
+Climate change adaptation (marker),miller2_OrgCla,0,0
+Climate change adaptation (marker),miller2_OrgaSu,0,0
+Climate change adaptation (marker),miller2_ConNa,0,0
+Climate change adaptation (marker),miller2_ProjBroCouID,0,0
+Climate change adaptation (marker),miller2_CouReID,0,0
+Climate change adaptation (marker),miller2_CouRegPerc,0,0
+Climate change adaptation (marker),miller2_AmSp,0,0
+Status,miller2_FisY,0,0
+Status,miller2_IndiIss,0,0
+Status,miller2_CFLI,0,0
+Status,miller2_PrograPr,0,0
+Status,miller2_SeID,0,0
+Status,miller2_UrIss,0,0
+Status,miller2_ClimChaAdap,0,0
+Status,miller2_Sta,0,1
+Status,miller2_EnviSustai,0,0
+Status,miller2_CouRegNa,0,0
+Status,miller2_OrgaNa,0,0
+Status,miller2_FuCenNa,0,0
+Status,miller2_PBATy,0,0
+Status,miller2_ClChMit,0,0
+Status,miller2_IRTCPer,0,0
+Status,miller2_OrgaT,0,0
+Status,miller2_MaxCIDAContr,0,0
+Status,miller2_UntAmoProBud,0,0
+Status,miller2_DivID,0,0
+Status,miller2_SecPer,0,0
+Status,miller2_FSTCPe,0,0
+Status,Section ID,0,0
+Status,miller2_SeN,0,0
+Status,miller2_ConID,0,0
+Status,miller2_FCenID,0,0
+Status,miller2_YoIss,0,0
+Status,miller2_DisaIss,0,0
+Status,miller2_ICTAATFoDeve,0,0
+Status,miller2_KnowlFoDeve,0,0
+Status,miller2_GeEqu,0,0
+Status,miller2_OrganID,0,0
+Status,miller2_OrgCla,0,0
+Status,miller2_OrgaSu,0,0
+Status,miller2_ConNa,0,0
+Status,miller2_ProjBroCouID,0,0
+Status,miller2_CouReID,0,0
+Status,miller2_CouRegPerc,0,0
+Status,miller2_AmSp,0,0
+Enviromental sustainability (marker),miller2_FisY,0,0
+Enviromental sustainability (marker),miller2_IndiIss,1.0,0
+Enviromental sustainability (marker),miller2_CFLI,1.0,0
+Enviromental sustainability (marker),miller2_PrograPr,0,0
+Enviromental sustainability (marker),miller2_SeID,0,0
+Enviromental sustainability (marker),miller2_UrIss,0.9969133156134784,0
+Enviromental sustainability (marker),miller2_ClimChaAdap,0.943712442889424,0
+Enviromental sustainability (marker),miller2_Sta,0,0
+Enviromental sustainability (marker),miller2_EnviSustai,1.0,1
+Enviromental sustainability (marker),miller2_CouRegNa,0,0
+Enviromental sustainability (marker),miller2_OrgaNa,0,0
+Enviromental sustainability (marker),miller2_FuCenNa,0,0
+Enviromental sustainability (marker),miller2_PBATy,0,0
+Enviromental sustainability (marker),miller2_ClChMit,1.0,0
+Enviromental sustainability (marker),miller2_IRTCPer,1.0,0
+Enviromental sustainability (marker),miller2_OrgaT,0,0
+Enviromental sustainability (marker),miller2_MaxCIDAContr,0,0
+Enviromental sustainability (marker),miller2_UntAmoProBud,1.0,0
+Enviromental sustainability (marker),miller2_DivID,0,0
+Enviromental sustainability (marker),miller2_SecPer,0,0
+Enviromental sustainability (marker),miller2_FSTCPe,0,0
+Enviromental sustainability (marker),Section ID,0,0
+Enviromental sustainability (marker),miller2_SeN,0,0
+Enviromental sustainability (marker),miller2_ConID,0.9585768305259539,0
+Enviromental sustainability (marker),miller2_FCenID,0,0
+Enviromental sustainability (marker),miller2_YoIss,0.9969133156134784,0
+Enviromental sustainability (marker),miller2_DisaIss,1.0,0
+Enviromental sustainability (marker),miller2_ICTAATFoDeve,1.0,0
+Enviromental sustainability (marker),miller2_KnowlFoDeve,1.0,0
+Enviromental sustainability (marker),miller2_GeEqu,1.0,0
+Enviromental sustainability (marker),miller2_OrganID,0,0
+Enviromental sustainability (marker),miller2_OrgCla,0,0
+Enviromental sustainability (marker),miller2_OrgaSu,0,0
+Enviromental sustainability (marker),miller2_ConNa,0,0
+Enviromental sustainability (marker),miller2_ProjBroCouID,0,0
+Enviromental sustainability (marker),miller2_CouReID,0,0
+Enviromental sustainability (marker),miller2_CouRegPerc,0,0
+Enviromental sustainability (marker),miller2_AmSp,0,0
+CountryRegion name,miller2_FisY,0,0
+CountryRegion name,miller2_IndiIss,0,0
+CountryRegion name,miller2_CFLI,0,0
+CountryRegion name,miller2_PrograPr,0,0
+CountryRegion name,miller2_SeID,0,0
+CountryRegion name,miller2_UrIss,0,0
+CountryRegion name,miller2_ClimChaAdap,0,0
+CountryRegion name,miller2_Sta,0,0
+CountryRegion name,miller2_EnviSustai,0,0
+CountryRegion name,miller2_CouRegNa,0.9664478829631313,1
+CountryRegion name,miller2_OrgaNa,0,0
+CountryRegion name,miller2_FuCenNa,0,0
+CountryRegion name,miller2_PBATy,0,0
+CountryRegion name,miller2_ClChMit,0,0
+CountryRegion name,miller2_IRTCPer,0,0
+CountryRegion name,miller2_OrgaT,0,0
+CountryRegion name,miller2_MaxCIDAContr,0,0
+CountryRegion name,miller2_UntAmoProBud,0,0
+CountryRegion name,miller2_DivID,0,0
+CountryRegion name,miller2_SecPer,0,0
+CountryRegion name,miller2_FSTCPe,0,0
+CountryRegion name,Section ID,0,0
+CountryRegion name,miller2_SeN,0,0
+CountryRegion name,miller2_ConID,0,0
+CountryRegion name,miller2_FCenID,0,0
+CountryRegion name,miller2_YoIss,0,0
+CountryRegion name,miller2_DisaIss,0,0
+CountryRegion name,miller2_ICTAATFoDeve,0,0
+CountryRegion name,miller2_KnowlFoDeve,0,0
+CountryRegion name,miller2_GeEqu,0,0
+CountryRegion name,miller2_OrganID,0,0
+CountryRegion name,miller2_OrgCla,0,0
+CountryRegion name,miller2_OrgaSu,0,0
+CountryRegion name,miller2_ConNa,0.8690467467047605,0
+CountryRegion name,miller2_ProjBroCouID,0,0
+CountryRegion name,miller2_CouReID,0,0
+CountryRegion name,miller2_CouRegPerc,0,0
+CountryRegion name,miller2_AmSp,0,0
+Organisation name,miller2_FisY,0,0
+Organisation name,miller2_IndiIss,0,0
+Organisation name,miller2_CFLI,0,0
+Organisation name,miller2_PrograPr,0,0
+Organisation name,miller2_SeID,0,0
+Organisation name,miller2_UrIss,0,0
+Organisation name,miller2_ClimChaAdap,0,0
+Organisation name,miller2_Sta,0,0
+Organisation name,miller2_EnviSustai,0,0
+Organisation name,miller2_CouRegNa,0,0
+Organisation name,miller2_OrgaNa,0,1
+Organisation name,miller2_FuCenNa,0,0
+Organisation name,miller2_PBATy,0,0
+Organisation name,miller2_ClChMit,0,0
+Organisation name,miller2_IRTCPer,0,0
+Organisation name,miller2_OrgaT,0,0
+Organisation name,miller2_MaxCIDAContr,0,0
+Organisation name,miller2_UntAmoProBud,0,0
+Organisation name,miller2_DivID,0,0
+Organisation name,miller2_SecPer,0,0
+Organisation name,miller2_FSTCPe,0,0
+Organisation name,Section ID,0,0
+Organisation name,miller2_SeN,0,0
+Organisation name,miller2_ConID,0,0
+Organisation name,miller2_FCenID,0,0
+Organisation name,miller2_YoIss,0,0
+Organisation name,miller2_DisaIss,0,0
+Organisation name,miller2_ICTAATFoDeve,0,0
+Organisation name,miller2_KnowlFoDeve,0,0
+Organisation name,miller2_GeEqu,0,0
+Organisation name,miller2_OrganID,0,0
+Organisation name,miller2_OrgCla,0,0
+Organisation name,miller2_OrgaSu,0,0
+Organisation name,miller2_ConNa,0,0
+Organisation name,miller2_ProjBroCouID,0,0
+Organisation name,miller2_CouReID,0,0
+Organisation name,miller2_CouRegPerc,0,0
+Organisation name,miller2_AmSp,0,0
+Fund centre name,miller2_FisY,0,0
+Fund centre name,miller2_IndiIss,0,0
+Fund centre name,miller2_CFLI,0,0
+Fund centre name,miller2_PrograPr,0,0
+Fund centre name,miller2_SeID,0,0
+Fund centre name,miller2_UrIss,0,0
+Fund centre name,miller2_ClimChaAdap,0,0
+Fund centre name,miller2_Sta,0,0
+Fund centre name,miller2_EnviSustai,0,0
+Fund centre name,miller2_CouRegNa,0,0
+Fund centre name,miller2_OrgaNa,0,0
+Fund centre name,miller2_FuCenNa,0,1
+Fund centre name,miller2_PBATy,0,0
+Fund centre name,miller2_ClChMit,0,0
+Fund centre name,miller2_IRTCPer,0,0
+Fund centre name,miller2_OrgaT,0,0
+Fund centre name,miller2_MaxCIDAContr,0,0
+Fund centre name,miller2_UntAmoProBud,0,0
+Fund centre name,miller2_DivID,0,0
+Fund centre name,miller2_SecPer,0,0
+Fund centre name,miller2_FSTCPe,0,0
+Fund centre name,Section ID,0,0
+Fund centre name,miller2_SeN,0,0
+Fund centre name,miller2_ConID,0,0
+Fund centre name,miller2_FCenID,0,0
+Fund centre name,miller2_YoIss,0,0
+Fund centre name,miller2_DisaIss,0,0
+Fund centre name,miller2_ICTAATFoDeve,0,0
+Fund centre name,miller2_KnowlFoDeve,0,0
+Fund centre name,miller2_GeEqu,0,0
+Fund centre name,miller2_OrganID,0,0
+Fund centre name,miller2_OrgCla,0,0
+Fund centre name,miller2_OrgaSu,0,0
+Fund centre name,miller2_ConNa,0,0
+Fund centre name,miller2_ProjBroCouID,0,0
+Fund centre name,miller2_CouReID,0,0
+Fund centre name,miller2_CouRegPerc,0,0
+Fund centre name,miller2_AmSp,0,0
+PBA type,miller2_FisY,0,0
+PBA type,miller2_IndiIss,0,0
+PBA type,miller2_CFLI,0,0
+PBA type,miller2_PrograPr,0,0
+PBA type,miller2_SeID,0,0
+PBA type,miller2_UrIss,0,0
+PBA type,miller2_ClimChaAdap,0,0
+PBA type,miller2_Sta,0,0
+PBA type,miller2_EnviSustai,0,0
+PBA type,miller2_CouRegNa,0,0
+PBA type,miller2_OrgaNa,0,0
+PBA type,miller2_FuCenNa,0,0
+PBA type,miller2_PBATy,0,1
+PBA type,miller2_ClChMit,0,0
+PBA type,miller2_IRTCPer,0,0
+PBA type,miller2_OrgaT,0,0
+PBA type,miller2_MaxCIDAContr,0,0
+PBA type,miller2_UntAmoProBud,0,0
+PBA type,miller2_DivID,0,0
+PBA type,miller2_SecPer,0,0
+PBA type,miller2_FSTCPe,0,0
+PBA type,Section ID,0,0
+PBA type,miller2_SeN,0,0
+PBA type,miller2_ConID,0,0
+PBA type,miller2_FCenID,0,0
+PBA type,miller2_YoIss,0,0
+PBA type,miller2_DisaIss,0,0
+PBA type,miller2_ICTAATFoDeve,0,0
+PBA type,miller2_KnowlFoDeve,0,0
+PBA type,miller2_GeEqu,0,0
+PBA type,miller2_OrganID,0,0
+PBA type,miller2_OrgCla,0,0
+PBA type,miller2_OrgaSu,0,0
+PBA type,miller2_ConNa,0,0
+PBA type,miller2_ProjBroCouID,0,0
+PBA type,miller2_CouReID,0,0
+PBA type,miller2_CouRegPerc,0,0
+PBA type,miller2_AmSp,0,0
+Climate change mitigation (marker),miller2_FisY,0,0
+Climate change mitigation (marker),miller2_IndiIss,1.0,0
+Climate change mitigation (marker),miller2_CFLI,0.9837414925093899,0
+Climate change mitigation (marker),miller2_PrograPr,0,0
+Climate change mitigation (marker),miller2_SeID,0,0
+Climate change mitigation (marker),miller2_UrIss,0.9969987995198079,0
+Climate change mitigation (marker),miller2_ClimChaAdap,0.9691185441799022,0
+Climate change mitigation (marker),miller2_Sta,0,0
+Climate change mitigation (marker),miller2_EnviSustai,1.0,0
+Climate change mitigation (marker),miller2_CouRegNa,0,0
+Climate change mitigation (marker),miller2_OrgaNa,0,0
+Climate change mitigation (marker),miller2_FuCenNa,0,0
+Climate change mitigation (marker),miller2_PBATy,0,0
+Climate change mitigation (marker),miller2_ClChMit,1.0,1
+Climate change mitigation (marker),miller2_IRTCPer,1.0,0
+Climate change mitigation (marker),miller2_OrgaT,0,0
+Climate change mitigation (marker),miller2_MaxCIDAContr,0,0
+Climate change mitigation (marker),miller2_UntAmoProBud,0.8106607407510757,0
+Climate change mitigation (marker),miller2_DivID,0,0
+Climate change mitigation (marker),miller2_SecPer,0,0
+Climate change mitigation (marker),miller2_FSTCPe,0,0
+Climate change mitigation (marker),Section ID,0,0
+Climate change mitigation (marker),miller2_SeN,0,0
+Climate change mitigation (marker),miller2_ConID,0.9585768305259539,0
+Climate change mitigation (marker),miller2_FCenID,0,0
+Climate change mitigation (marker),miller2_YoIss,0.9969987995198079,0
+Climate change mitigation (marker),miller2_DisaIss,0.9969987995198079,0
+Climate change mitigation (marker),miller2_ICTAATFoDeve,1.0,0
+Climate change mitigation (marker),miller2_KnowlFoDeve,0.9969987995198079,0
+Climate change mitigation (marker),miller2_GeEqu,0.995995288574794,0
+Climate change mitigation (marker),miller2_OrganID,0,0
+Climate change mitigation (marker),miller2_OrgCla,0,0
+Climate change mitigation (marker),miller2_OrgaSu,0,0
+Climate change mitigation (marker),miller2_ConNa,0,0
+Climate change mitigation (marker),miller2_ProjBroCouID,0,0
+Climate change mitigation (marker),miller2_CouReID,0,0
+Climate change mitigation (marker),miller2_CouRegPerc,0,0
+Climate change mitigation (marker),miller2_AmSp,0,0
+IRTC percent,miller2_FisY,0,0
+IRTC percent,miller2_IndiIss,0,0
+IRTC percent,miller2_CFLI,0,0
+IRTC percent,miller2_PrograPr,0,0
+IRTC percent,miller2_SeID,0,0
+IRTC percent,miller2_UrIss,0,0
+IRTC percent,miller2_ClimChaAdap,0,0
+IRTC percent,miller2_Sta,0,0
+IRTC percent,miller2_EnviSustai,0,0
+IRTC percent,miller2_CouRegNa,0,0
+IRTC percent,miller2_OrgaNa,0,0
+IRTC percent,miller2_FuCenNa,0,0
+IRTC percent,miller2_PBATy,0,0
+IRTC percent,miller2_ClChMit,0,0
+IRTC percent,miller2_IRTCPer,0,1
+IRTC percent,miller2_OrgaT,0,0
+IRTC percent,miller2_MaxCIDAContr,0,0
+IRTC percent,miller2_UntAmoProBud,0,0
+IRTC percent,miller2_DivID,0,0
+IRTC percent,miller2_SecPer,0,0
+IRTC percent,miller2_FSTCPe,0,0
+IRTC percent,Section ID,0,0
+IRTC percent,miller2_SeN,0,0
+IRTC percent,miller2_ConID,0,0
+IRTC percent,miller2_FCenID,0,0
+IRTC percent,miller2_YoIss,0,0
+IRTC percent,miller2_DisaIss,0,0
+IRTC percent,miller2_ICTAATFoDeve,0,0
+IRTC percent,miller2_KnowlFoDeve,0,0
+IRTC percent,miller2_GeEqu,0,0
+IRTC percent,miller2_OrganID,0,0
+IRTC percent,miller2_OrgCla,0,0
+IRTC percent,miller2_OrgaSu,0,0
+IRTC percent,miller2_ConNa,0,0
+IRTC percent,miller2_ProjBroCouID,0,0
+IRTC percent,miller2_CouReID,0,0
+IRTC percent,miller2_CouRegPerc,0,0
+IRTC percent,miller2_AmSp,0,0
+Organisation type,miller2_FisY,0,0
+Organisation type,miller2_IndiIss,0,0
+Organisation type,miller2_CFLI,0,0
+Organisation type,miller2_PrograPr,0,0
+Organisation type,miller2_SeID,0,0
+Organisation type,miller2_UrIss,0,0
+Organisation type,miller2_ClimChaAdap,0,0
+Organisation type,miller2_Sta,0,0
+Organisation type,miller2_EnviSustai,0,0
+Organisation type,miller2_CouRegNa,0,0
+Organisation type,miller2_OrgaNa,0,0
+Organisation type,miller2_FuCenNa,0,0
+Organisation type,miller2_PBATy,0,0
+Organisation type,miller2_ClChMit,0,0
+Organisation type,miller2_IRTCPer,0,0
+Organisation type,miller2_OrgaT,0,1
+Organisation type,miller2_MaxCIDAContr,0,0
+Organisation type,miller2_UntAmoProBud,0,0
+Organisation type,miller2_DivID,0,0
+Organisation type,miller2_SecPer,0,0
+Organisation type,miller2_FSTCPe,0,0
+Organisation type,Section ID,0,0
+Organisation type,miller2_SeN,0,0
+Organisation type,miller2_ConID,0,0
+Organisation type,miller2_FCenID,0,0
+Organisation type,miller2_YoIss,0,0
+Organisation type,miller2_DisaIss,0,0
+Organisation type,miller2_ICTAATFoDeve,0,0
+Organisation type,miller2_KnowlFoDeve,0,0
+Organisation type,miller2_GeEqu,0,0
+Organisation type,miller2_OrganID,0,0
+Organisation type,miller2_OrgCla,0,0
+Organisation type,miller2_OrgaSu,0,0
+Organisation type,miller2_ConNa,0,0
+Organisation type,miller2_ProjBroCouID,0,0
+Organisation type,miller2_CouReID,0,0
+Organisation type,miller2_CouRegPerc,0,0
+Organisation type,miller2_AmSp,0,0
+Maximum CIDA contribution (project-level),miller2_FisY,0,0
+Maximum CIDA contribution (project-level),miller2_IndiIss,0,0
+Maximum CIDA contribution (project-level),miller2_CFLI,0,0
+Maximum CIDA contribution (project-level),miller2_PrograPr,0,0
+Maximum CIDA contribution (project-level),miller2_SeID,0,0
+Maximum CIDA contribution (project-level),miller2_UrIss,0,0
+Maximum CIDA contribution (project-level),miller2_ClimChaAdap,0,0
+Maximum CIDA contribution (project-level),miller2_Sta,0,0
+Maximum CIDA contribution (project-level),miller2_EnviSustai,0,0
+Maximum CIDA contribution (project-level),miller2_CouRegNa,0,0
+Maximum CIDA contribution (project-level),miller2_OrgaNa,0,0
+Maximum CIDA contribution (project-level),miller2_FuCenNa,0,0
+Maximum CIDA contribution (project-level),miller2_PBATy,0,0
+Maximum CIDA contribution (project-level),miller2_ClChMit,0,0
+Maximum CIDA contribution (project-level),miller2_IRTCPer,0,0
+Maximum CIDA contribution (project-level),miller2_OrgaT,0,0
+Maximum CIDA contribution (project-level),miller2_MaxCIDAContr,0,1
+Maximum CIDA contribution (project-level),miller2_UntAmoProBud,0,0
+Maximum CIDA contribution (project-level),miller2_DivID,0,0
+Maximum CIDA contribution (project-level),miller2_SecPer,0,0
+Maximum CIDA contribution (project-level),miller2_FSTCPe,0,0
+Maximum CIDA contribution (project-level),Section ID,0,0
+Maximum CIDA contribution (project-level),miller2_SeN,0,0
+Maximum CIDA contribution (project-level),miller2_ConID,0,0
+Maximum CIDA contribution (project-level),miller2_FCenID,0,0
+Maximum CIDA contribution (project-level),miller2_YoIss,0,0
+Maximum CIDA contribution (project-level),miller2_DisaIss,0,0
+Maximum CIDA contribution (project-level),miller2_ICTAATFoDeve,0,0
+Maximum CIDA contribution (project-level),miller2_KnowlFoDeve,0,0
+Maximum CIDA contribution (project-level),miller2_GeEqu,0,0
+Maximum CIDA contribution (project-level),miller2_OrganID,0,0
+Maximum CIDA contribution (project-level),miller2_OrgCla,0,0
+Maximum CIDA contribution (project-level),miller2_OrgaSu,0,0
+Maximum CIDA contribution (project-level),miller2_ConNa,0,0
+Maximum CIDA contribution (project-level),miller2_ProjBroCouID,0,0
+Maximum CIDA contribution (project-level),miller2_CouReID,0,0
+Maximum CIDA contribution (project-level),miller2_CouRegPerc,0,0
+Maximum CIDA contribution (project-level),miller2_AmSp,0,0
+Untied amount(Project-level budget),miller2_FisY,0,0
+Untied amount(Project-level budget),miller2_IndiIss,0,0
+Untied amount(Project-level budget),miller2_CFLI,0,0
+Untied amount(Project-level budget),miller2_PrograPr,0,0
+Untied amount(Project-level budget),miller2_SeID,0,0
+Untied amount(Project-level budget),miller2_UrIss,0,0
+Untied amount(Project-level budget),miller2_ClimChaAdap,0,0
+Untied amount(Project-level budget),miller2_Sta,0,0
+Untied amount(Project-level budget),miller2_EnviSustai,0,0
+Untied amount(Project-level budget),miller2_CouRegNa,0,0
+Untied amount(Project-level budget),miller2_OrgaNa,0,0
+Untied amount(Project-level budget),miller2_FuCenNa,0,0
+Untied amount(Project-level budget),miller2_PBATy,0,0
+Untied amount(Project-level budget),miller2_ClChMit,0,0
+Untied amount(Project-level budget),miller2_IRTCPer,0,0
+Untied amount(Project-level budget),miller2_OrgaT,0,0
+Untied amount(Project-level budget),miller2_MaxCIDAContr,0,0
+Untied amount(Project-level budget),miller2_UntAmoProBud,0,1
+Untied amount(Project-level budget),miller2_DivID,0,0
+Untied amount(Project-level budget),miller2_SecPer,0,0
+Untied amount(Project-level budget),miller2_FSTCPe,0,0
+Untied amount(Project-level budget),Section ID,0,0
+Untied amount(Project-level budget),miller2_SeN,0,0
+Untied amount(Project-level budget),miller2_ConID,0,0
+Untied amount(Project-level budget),miller2_FCenID,0,0
+Untied amount(Project-level budget),miller2_YoIss,0,0
+Untied amount(Project-level budget),miller2_DisaIss,0,0
+Untied amount(Project-level budget),miller2_ICTAATFoDeve,0,0
+Untied amount(Project-level budget),miller2_KnowlFoDeve,0,0
+Untied amount(Project-level budget),miller2_GeEqu,0,0
+Untied amount(Project-level budget),miller2_OrganID,0,0
+Untied amount(Project-level budget),miller2_OrgCla,0,0
+Untied amount(Project-level budget),miller2_OrgaSu,0,0
+Untied amount(Project-level budget),miller2_ConNa,0,0
+Untied amount(Project-level budget),miller2_ProjBroCouID,0,0
+Untied amount(Project-level budget),miller2_CouReID,0,0
+Untied amount(Project-level budget),miller2_CouRegPerc,0,0
+Untied amount(Project-level budget),miller2_AmSp,0,0
+Division ID,miller2_FisY,0,0
+Division ID,miller2_IndiIss,0,0
+Division ID,miller2_CFLI,0,0
+Division ID,miller2_PrograPr,0,0
+Division ID,miller2_SeID,0,0
+Division ID,miller2_UrIss,0,0
+Division ID,miller2_ClimChaAdap,0,0
+Division ID,miller2_Sta,0,0
+Division ID,miller2_EnviSustai,0,0
+Division ID,miller2_CouRegNa,0,0
+Division ID,miller2_OrgaNa,0,0
+Division ID,miller2_FuCenNa,0,0
+Division ID,miller2_PBATy,0,0
+Division ID,miller2_ClChMit,0,0
+Division ID,miller2_IRTCPer,0,0
+Division ID,miller2_OrgaT,0,0
+Division ID,miller2_MaxCIDAContr,0,0
+Division ID,miller2_UntAmoProBud,0,0
+Division ID,miller2_DivID,0,1
+Division ID,miller2_SecPer,0,0
+Division ID,miller2_FSTCPe,0,0
+Division ID,Section ID,0,0
+Division ID,miller2_SeN,0,0
+Division ID,miller2_ConID,0,0
+Division ID,miller2_FCenID,0,0
+Division ID,miller2_YoIss,0,0
+Division ID,miller2_DisaIss,0,0
+Division ID,miller2_ICTAATFoDeve,0,0
+Division ID,miller2_KnowlFoDeve,0,0
+Division ID,miller2_GeEqu,0,0
+Division ID,miller2_OrganID,0,0
+Division ID,miller2_OrgCla,0,0
+Division ID,miller2_OrgaSu,0,0
+Division ID,miller2_ConNa,0,0
+Division ID,miller2_ProjBroCouID,0,0
+Division ID,miller2_CouReID,0,0
+Division ID,miller2_CouRegPerc,0,0
+Division ID,miller2_AmSp,0,0
+Sector percent,miller2_FisY,0,0
+Sector percent,miller2_IndiIss,0,0
+Sector percent,miller2_CFLI,0,0
+Sector percent,miller2_PrograPr,0,0
+Sector percent,miller2_SeID,0,0
+Sector percent,miller2_UrIss,0,0
+Sector percent,miller2_ClimChaAdap,0,0
+Sector percent,miller2_Sta,0,0
+Sector percent,miller2_EnviSustai,0,0
+Sector percent,miller2_CouRegNa,0,0
+Sector percent,miller2_OrgaNa,0,0
+Sector percent,miller2_FuCenNa,0,0
+Sector percent,miller2_PBATy,0,0
+Sector percent,miller2_ClChMit,0,0
+Sector percent,miller2_IRTCPer,0,0
+Sector percent,miller2_OrgaT,0,0
+Sector percent,miller2_MaxCIDAContr,0,0
+Sector percent,miller2_UntAmoProBud,0,0
+Sector percent,miller2_DivID,0,0
+Sector percent,miller2_SecPer,0,1
+Sector percent,miller2_FSTCPe,0,0
+Sector percent,Section ID,0,0
+Sector percent,miller2_SeN,0,0
+Sector percent,miller2_ConID,0,0
+Sector percent,miller2_FCenID,0,0
+Sector percent,miller2_YoIss,0,0
+Sector percent,miller2_DisaIss,0,0
+Sector percent,miller2_ICTAATFoDeve,0,0
+Sector percent,miller2_KnowlFoDeve,0,0
+Sector percent,miller2_GeEqu,0,0
+Sector percent,miller2_OrganID,0,0
+Sector percent,miller2_OrgCla,0,0
+Sector percent,miller2_OrgaSu,0,0
+Sector percent,miller2_ConNa,0,0
+Sector percent,miller2_ProjBroCouID,0,0
+Sector percent,miller2_CouReID,0,0
+Sector percent,miller2_CouRegPerc,0,0
+Sector percent,miller2_AmSp,0,0
+FSTC percent,miller2_FisY,0,0
+FSTC percent,miller2_IndiIss,0,0
+FSTC percent,miller2_CFLI,0,0
+FSTC percent,miller2_PrograPr,0,0
+FSTC percent,miller2_SeID,0,0
+FSTC percent,miller2_UrIss,0,0
+FSTC percent,miller2_ClimChaAdap,0,0
+FSTC percent,miller2_Sta,0,0
+FSTC percent,miller2_EnviSustai,0,0
+FSTC percent,miller2_CouRegNa,0,0
+FSTC percent,miller2_OrgaNa,0,0
+FSTC percent,miller2_FuCenNa,0,0
+FSTC percent,miller2_PBATy,0,0
+FSTC percent,miller2_ClChMit,0,0
+FSTC percent,miller2_IRTCPer,0,0
+FSTC percent,miller2_OrgaT,0,0
+FSTC percent,miller2_MaxCIDAContr,0,0
+FSTC percent,miller2_UntAmoProBud,0,0
+FSTC percent,miller2_DivID,0,0
+FSTC percent,miller2_SecPer,0,0
+FSTC percent,miller2_FSTCPe,0,1
+FSTC percent,Section ID,0,0
+FSTC percent,miller2_SeN,0,0
+FSTC percent,miller2_ConID,0,0
+FSTC percent,miller2_FCenID,0,0
+FSTC percent,miller2_YoIss,0,0
+FSTC percent,miller2_DisaIss,0,0
+FSTC percent,miller2_ICTAATFoDeve,0,0
+FSTC percent,miller2_KnowlFoDeve,0,0
+FSTC percent,miller2_GeEqu,0,0
+FSTC percent,miller2_OrganID,0,0
+FSTC percent,miller2_OrgCla,0,0
+FSTC percent,miller2_OrgaSu,0,0
+FSTC percent,miller2_ConNa,0,0
+FSTC percent,miller2_ProjBroCouID,0,0
+FSTC percent,miller2_CouReID,0,0
+FSTC percent,miller2_CouRegPerc,0,0
+FSTC percent,miller2_AmSp,0,0
+Section ID,miller2_FisY,0,0
+Section ID,miller2_IndiIss,0,0
+Section ID,miller2_CFLI,0,0
+Section ID,miller2_PrograPr,0,0
+Section ID,miller2_SeID,0,0
+Section ID,miller2_UrIss,0,0
+Section ID,miller2_ClimChaAdap,0,0
+Section ID,miller2_Sta,0,0
+Section ID,miller2_EnviSustai,0,0
+Section ID,miller2_CouRegNa,0,0
+Section ID,miller2_OrgaNa,0,0
+Section ID,miller2_FuCenNa,0,0
+Section ID,miller2_PBATy,0,0
+Section ID,miller2_ClChMit,0,0
+Section ID,miller2_IRTCPer,0,0
+Section ID,miller2_OrgaT,0,0
+Section ID,miller2_MaxCIDAContr,0,0
+Section ID,miller2_UntAmoProBud,0,0
+Section ID,miller2_DivID,0,0
+Section ID,miller2_SecPer,0,0
+Section ID,miller2_FSTCPe,0,0
+Section ID,Section ID,0,1
+Section ID,miller2_SeN,0,0
+Section ID,miller2_ConID,0,0
+Section ID,miller2_FCenID,0,0
+Section ID,miller2_YoIss,0,0
+Section ID,miller2_DisaIss,0,0
+Section ID,miller2_ICTAATFoDeve,0,0
+Section ID,miller2_KnowlFoDeve,0,0
+Section ID,miller2_GeEqu,0,0
+Section ID,miller2_OrganID,0,0
+Section ID,miller2_OrgCla,0,0
+Section ID,miller2_OrgaSu,0,0
+Section ID,miller2_ConNa,0,0
+Section ID,miller2_ProjBroCouID,0,0
+Section ID,miller2_CouReID,0,0
+Section ID,miller2_CouRegPerc,0,0
+Section ID,miller2_AmSp,0,0
+Sector name,miller2_FisY,0,0
+Sector name,miller2_IndiIss,0,0
+Sector name,miller2_CFLI,0,0
+Sector name,miller2_PrograPr,0,0
+Sector name,miller2_SeID,0,0
+Sector name,miller2_UrIss,0,0
+Sector name,miller2_ClimChaAdap,0,0
+Sector name,miller2_Sta,0,0
+Sector name,miller2_EnviSustai,0,0
+Sector name,miller2_CouRegNa,0,0
+Sector name,miller2_OrgaNa,0,0
+Sector name,miller2_FuCenNa,0,0
+Sector name,miller2_PBATy,0,0
+Sector name,miller2_ClChMit,0,0
+Sector name,miller2_IRTCPer,0,0
+Sector name,miller2_OrgaT,0,0
+Sector name,miller2_MaxCIDAContr,0,0
+Sector name,miller2_UntAmoProBud,0,0
+Sector name,miller2_DivID,0,0
+Sector name,miller2_SecPer,0,0
+Sector name,miller2_FSTCPe,0,0
+Sector name,Section ID,0,0
+Sector name,miller2_SeN,0,1
+Sector name,miller2_ConID,0,0
+Sector name,miller2_FCenID,0,0
+Sector name,miller2_YoIss,0,0
+Sector name,miller2_DisaIss,0,0
+Sector name,miller2_ICTAATFoDeve,0,0
+Sector name,miller2_KnowlFoDeve,0,0
+Sector name,miller2_GeEqu,0,0
+Sector name,miller2_OrganID,0,0
+Sector name,miller2_OrgCla,0,0
+Sector name,miller2_OrgaSu,0,0
+Sector name,miller2_ConNa,0,0
+Sector name,miller2_ProjBroCouID,0,0
+Sector name,miller2_CouReID,0,0
+Sector name,miller2_CouRegPerc,0,0
+Sector name,miller2_AmSp,0,0
+Continent ID,miller2_FisY,0,0
+Continent ID,miller2_IndiIss,1.0,0
+Continent ID,miller2_CFLI,0.6691991136435581,0
+Continent ID,miller2_PrograPr,0,0
+Continent ID,miller2_SeID,0,0
+Continent ID,miller2_UrIss,0.9461114388591655,0
+Continent ID,miller2_ClimChaAdap,0.6915960136843671,0
+Continent ID,miller2_Sta,0,0
+Continent ID,miller2_EnviSustai,0.9584849206079357,0
+Continent ID,miller2_CouRegNa,0,0
+Continent ID,miller2_OrgaNa,0,0
+Continent ID,miller2_FuCenNa,0,0
+Continent ID,miller2_PBATy,0,0
+Continent ID,miller2_ClChMit,1.0,0
+Continent ID,miller2_IRTCPer,0.0,0
+Continent ID,miller2_OrgaT,0,0
+Continent ID,miller2_MaxCIDAContr,0,0
+Continent ID,miller2_UntAmoProBud,0.8767792776857084,0
+Continent ID,miller2_DivID,0,0
+Continent ID,miller2_SecPer,0,0
+Continent ID,miller2_FSTCPe,0,0
+Continent ID,Section ID,0,0
+Continent ID,miller2_SeN,0,0
+Continent ID,miller2_ConID,0.9998999754228414,1
+Continent ID,miller2_FCenID,0,0
+Continent ID,miller2_YoIss,0.9461114388591655,0
+Continent ID,miller2_DisaIss,0.9461114388591655,0
+Continent ID,miller2_ICTAATFoDeve,1.0,0
+Continent ID,miller2_KnowlFoDeve,0.9461114388591655,0
+Continent ID,miller2_GeEqu,0.9623654874259494,0
+Continent ID,miller2_OrganID,0,0
+Continent ID,miller2_OrgCla,0,0
+Continent ID,miller2_OrgaSu,0,0
+Continent ID,miller2_ConNa,0,0
+Continent ID,miller2_ProjBroCouID,0,0
+Continent ID,miller2_CouReID,0,0
+Continent ID,miller2_CouRegPerc,0,0
+Continent ID,miller2_AmSp,0,0
+Fund centre ID,miller2_FisY,0,0
+Fund centre ID,miller2_IndiIss,0,0
+Fund centre ID,miller2_CFLI,0,0
+Fund centre ID,miller2_PrograPr,0,0
+Fund centre ID,miller2_SeID,0,0
+Fund centre ID,miller2_UrIss,0,0
+Fund centre ID,miller2_ClimChaAdap,0,0
+Fund centre ID,miller2_Sta,0,0
+Fund centre ID,miller2_EnviSustai,0,0
+Fund centre ID,miller2_CouRegNa,0,0
+Fund centre ID,miller2_OrgaNa,0,0
+Fund centre ID,miller2_FuCenNa,0,0
+Fund centre ID,miller2_PBATy,0,0
+Fund centre ID,miller2_ClChMit,0,0
+Fund centre ID,miller2_IRTCPer,0,0
+Fund centre ID,miller2_OrgaT,0,0
+Fund centre ID,miller2_MaxCIDAContr,0,0
+Fund centre ID,miller2_UntAmoProBud,0,0
+Fund centre ID,miller2_DivID,0,0
+Fund centre ID,miller2_SecPer,0,0
+Fund centre ID,miller2_FSTCPe,0,0
+Fund centre ID,Section ID,0,0
+Fund centre ID,miller2_SeN,0,0
+Fund centre ID,miller2_ConID,0,0
+Fund centre ID,miller2_FCenID,0,1
+Fund centre ID,miller2_YoIss,0,0
+Fund centre ID,miller2_DisaIss,0,0
+Fund centre ID,miller2_ICTAATFoDeve,0,0
+Fund centre ID,miller2_KnowlFoDeve,0,0
+Fund centre ID,miller2_GeEqu,0,0
+Fund centre ID,miller2_OrganID,0,0
+Fund centre ID,miller2_OrgCla,0,0
+Fund centre ID,miller2_OrgaSu,0,0
+Fund centre ID,miller2_ConNa,0,0
+Fund centre ID,miller2_ProjBroCouID,0,0
+Fund centre ID,miller2_CouReID,0,0
+Fund centre ID,miller2_CouRegPerc,0,0
+Fund centre ID,miller2_AmSp,0,0
+Project number,miller2_FisY,0,0
+Project number,miller2_IndiIss,0,0
+Project number,miller2_CFLI,0,0
+Project number,miller2_PrograPr,0,0
+Project number,miller2_SeID,0,0
+Project number,miller2_UrIss,0,0
+Project number,miller2_ClimChaAdap,0,0
+Project number,miller2_Sta,0,0
+Project number,miller2_EnviSustai,0,0
+Project number,miller2_CouRegNa,0,0
+Project number,miller2_OrgaNa,0,0
+Project number,miller2_FuCenNa,0,0
+Project number,miller2_PBATy,0,0
+Project number,miller2_ClChMit,0,0
+Project number,miller2_IRTCPer,0,0
+Project number,miller2_OrgaT,0,0
+Project number,miller2_MaxCIDAContr,0,0
+Project number,miller2_UntAmoProBud,0,0
+Project number,miller2_DivID,0,0
+Project number,miller2_SecPer,0,0
+Project number,miller2_FSTCPe,0,0
+Project number,Section ID,0,0
+Project number,miller2_SeN,0,0
+Project number,miller2_ConID,0,0
+Project number,miller2_FCenID,0,0
+Project number,miller2_YoIss,0,0
+Project number,miller2_DisaIss,0,0
+Project number,miller2_ICTAATFoDeve,0,0
+Project number,miller2_KnowlFoDeve,0,0
+Project number,miller2_GeEqu,0,0
+Project number,miller2_OrganID,0,0
+Project number,miller2_OrgCla,0,0
+Project number,miller2_OrgaSu,0,0
+Project number,miller2_ConNa,0,0
+Project number,miller2_ProjBroCouID,0,0
+Project number,miller2_CouReID,0,0
+Project number,miller2_CouRegPerc,0,0
+Project number,miller2_AmSp,0,0
+Branch ID,miller2_FisY,0,0
+Branch ID,miller2_IndiIss,0,0
+Branch ID,miller2_CFLI,0,0
+Branch ID,miller2_PrograPr,0,0
+Branch ID,miller2_SeID,0,0
+Branch ID,miller2_UrIss,0,0
+Branch ID,miller2_ClimChaAdap,0,0
+Branch ID,miller2_Sta,0,0
+Branch ID,miller2_EnviSustai,0,0
+Branch ID,miller2_CouRegNa,0,0
+Branch ID,miller2_OrgaNa,0,0
+Branch ID,miller2_FuCenNa,0,0
+Branch ID,miller2_PBATy,0,0
+Branch ID,miller2_ClChMit,0,0
+Branch ID,miller2_IRTCPer,0,0
+Branch ID,miller2_OrgaT,0,0
+Branch ID,miller2_MaxCIDAContr,0,0
+Branch ID,miller2_UntAmoProBud,0,0
+Branch ID,miller2_DivID,0,0
+Branch ID,miller2_SecPer,0,0
+Branch ID,miller2_FSTCPe,0,0
+Branch ID,Section ID,0,0
+Branch ID,miller2_SeN,0,0
+Branch ID,miller2_ConID,0,0
+Branch ID,miller2_FCenID,0,0
+Branch ID,miller2_YoIss,0,0
+Branch ID,miller2_DisaIss,0,0
+Branch ID,miller2_ICTAATFoDeve,0,0
+Branch ID,miller2_KnowlFoDeve,0,0
+Branch ID,miller2_GeEqu,0,0
+Branch ID,miller2_OrganID,0,0
+Branch ID,miller2_OrgCla,0,0
+Branch ID,miller2_OrgaSu,0,0
+Branch ID,miller2_ConNa,0,0
+Branch ID,miller2_ProjBroCouID,0,0
+Branch ID,miller2_CouReID,0,0
+Branch ID,miller2_CouRegPerc,0,0
+Branch ID,miller2_AmSp,0,0
+Branch name,miller2_FisY,0,0
+Branch name,miller2_IndiIss,0,0
+Branch name,miller2_CFLI,0,0
+Branch name,miller2_PrograPr,0,0
+Branch name,miller2_SeID,0,0
+Branch name,miller2_UrIss,0,0
+Branch name,miller2_ClimChaAdap,0,0
+Branch name,miller2_Sta,0,0
+Branch name,miller2_EnviSustai,0,0
+Branch name,miller2_CouRegNa,0,0
+Branch name,miller2_OrgaNa,0,0
+Branch name,miller2_FuCenNa,0,0
+Branch name,miller2_PBATy,0,0
+Branch name,miller2_ClChMit,0,0
+Branch name,miller2_IRTCPer,0,0
+Branch name,miller2_OrgaT,0,0
+Branch name,miller2_MaxCIDAContr,0,0
+Branch name,miller2_UntAmoProBud,0,0
+Branch name,miller2_DivID,0,0
+Branch name,miller2_SecPer,0,0
+Branch name,miller2_FSTCPe,0,0
+Branch name,Section ID,0,0
+Branch name,miller2_SeN,0,0
+Branch name,miller2_ConID,0,0
+Branch name,miller2_FCenID,0,0
+Branch name,miller2_YoIss,0,0
+Branch name,miller2_DisaIss,0,0
+Branch name,miller2_ICTAATFoDeve,0,0
+Branch name,miller2_KnowlFoDeve,0,0
+Branch name,miller2_GeEqu,0,0
+Branch name,miller2_OrganID,0,0
+Branch name,miller2_OrgCla,0,0
+Branch name,miller2_OrgaSu,0,0
+Branch name,miller2_ConNa,0,0
+Branch name,miller2_ProjBroCouID,0,0
+Branch name,miller2_CouReID,0,0
+Branch name,miller2_CouRegPerc,0,0
+Branch name,miller2_AmSp,0,0
+Division name,miller2_FisY,0,0
+Division name,miller2_IndiIss,0,0
+Division name,miller2_CFLI,0,0
+Division name,miller2_PrograPr,0,0
+Division name,miller2_SeID,0,0
+Division name,miller2_UrIss,0,0
+Division name,miller2_ClimChaAdap,0,0
+Division name,miller2_Sta,0,0
+Division name,miller2_EnviSustai,0,0
+Division name,miller2_CouRegNa,0,0
+Division name,miller2_OrgaNa,0,0
+Division name,miller2_FuCenNa,0,0
+Division name,miller2_PBATy,0,0
+Division name,miller2_ClChMit,0,0
+Division name,miller2_IRTCPer,0,0
+Division name,miller2_OrgaT,0,0
+Division name,miller2_MaxCIDAContr,0,0
+Division name,miller2_UntAmoProBud,0,0
+Division name,miller2_DivID,0,0
+Division name,miller2_SecPer,0,0
+Division name,miller2_FSTCPe,0,0
+Division name,Section ID,0,0
+Division name,miller2_SeN,0,0
+Division name,miller2_ConID,0,0
+Division name,miller2_FCenID,0,0
+Division name,miller2_YoIss,0,0
+Division name,miller2_DisaIss,0,0
+Division name,miller2_ICTAATFoDeve,0,0
+Division name,miller2_KnowlFoDeve,0,0
+Division name,miller2_GeEqu,0,0
+Division name,miller2_OrganID,0,0
+Division name,miller2_OrgCla,0,0
+Division name,miller2_OrgaSu,0,0
+Division name,miller2_ConNa,0,0
+Division name,miller2_ProjBroCouID,0,0
+Division name,miller2_CouReID,0,0
+Division name,miller2_CouRegPerc,0,0
+Division name,miller2_AmSp,0,0
+Section name,miller2_FisY,0,0
+Section name,miller2_IndiIss,0,0
+Section name,miller2_CFLI,0,0
+Section name,miller2_PrograPr,0,0
+Section name,miller2_SeID,0,0
+Section name,miller2_UrIss,0,0
+Section name,miller2_ClimChaAdap,0,0
+Section name,miller2_Sta,0,0
+Section name,miller2_EnviSustai,0,0
+Section name,miller2_CouRegNa,0,0
+Section name,miller2_OrgaNa,0,0
+Section name,miller2_FuCenNa,0.9211584611615129,0
+Section name,miller2_PBATy,0,0
+Section name,miller2_ClChMit,0,0
+Section name,miller2_IRTCPer,0,0
+Section name,miller2_OrgaT,0,0
+Section name,miller2_MaxCIDAContr,0,0
+Section name,miller2_UntAmoProBud,0,0
+Section name,miller2_DivID,0,0
+Section name,miller2_SecPer,0,0
+Section name,miller2_FSTCPe,0,0
+Section name,Section ID,0,0
+Section name,miller2_SeN,0,0
+Section name,miller2_ConID,0,0
+Section name,miller2_FCenID,0,0
+Section name,miller2_YoIss,0,0
+Section name,miller2_DisaIss,0,0
+Section name,miller2_ICTAATFoDeve,0,0
+Section name,miller2_KnowlFoDeve,0,0
+Section name,miller2_GeEqu,0,0
+Section name,miller2_OrganID,0,0
+Section name,miller2_OrgCla,0,0
+Section name,miller2_OrgaSu,0,0
+Section name,miller2_ConNa,0,0
+Section name,miller2_ProjBroCouID,0,0
+Section name,miller2_CouReID,0,0
+Section name,miller2_CouRegPerc,0,0
+Section name,miller2_AmSp,0,0
+Regional program (marker),miller2_FisY,0,0
+Regional program (marker),miller2_IndiIss,0.8657139152027532,0
+Regional program (marker),miller2_CFLI,0.8600488201790073,0
+Regional program (marker),miller2_PrograPr,0,0
+Regional program (marker),miller2_SeID,0,0
+Regional program (marker),miller2_UrIss,0.8696552143489344,0
+Regional program (marker),miller2_ClimChaAdap,0.8973986466092319,0
+Regional program (marker),miller2_Sta,0,0
+Regional program (marker),miller2_EnviSustai,0.9590621084677989,0
+Regional program (marker),miller2_CouRegNa,0,0
+Regional program (marker),miller2_OrgaNa,0,0
+Regional program (marker),miller2_FuCenNa,0,0
+Regional program (marker),miller2_PBATy,0,0
+Regional program (marker),miller2_ClChMit,0.8733875881139906,0
+Regional program (marker),miller2_IRTCPer,0.8564062902810003,0
+Regional program (marker),miller2_OrgaT,0,0
+Regional program (marker),miller2_MaxCIDAContr,0,0
+Regional program (marker),miller2_UntAmoProBud,0.8558704453441295,0
+Regional program (marker),miller2_DivID,0,0
+Regional program (marker),miller2_SecPer,0,0
+Regional program (marker),miller2_FSTCPe,0,0
+Regional program (marker),Section ID,0,0
+Regional program (marker),miller2_SeN,0,0
+Regional program (marker),miller2_ConID,0.7509769094138544,0
+Regional program (marker),miller2_FCenID,0,0
+Regional program (marker),miller2_YoIss,0.9256829621601992,0
+Regional program (marker),miller2_DisaIss,0.8625801114905339,0
+Regional program (marker),miller2_ICTAATFoDeve,0.8809190304479314,0
+Regional program (marker),miller2_KnowlFoDeve,0.8956705100311027,0
+Regional program (marker),miller2_GeEqu,0.9389753855573878,0
+Regional program (marker),miller2_OrganID,0,0
+Regional program (marker),miller2_OrgCla,0,0
+Regional program (marker),miller2_OrgaSu,0,0
+Regional program (marker),miller2_ConNa,0,0
+Regional program (marker),miller2_ProjBroCouID,0,0
+Regional program (marker),miller2_CouReID,0,0
+Regional program (marker),miller2_CouRegPerc,0,0
+Regional program (marker),miller2_AmSp,0,0
+CIDA business delivery model (old),miller2_FisY,0,0
+CIDA business delivery model (old),miller2_IndiIss,0,0
+CIDA business delivery model (old),miller2_CFLI,0,0
+CIDA business delivery model (old),miller2_PrograPr,0,0
+CIDA business delivery model (old),miller2_SeID,0,0
+CIDA business delivery model (old),miller2_UrIss,0,0
+CIDA business delivery model (old),miller2_ClimChaAdap,0,0
+CIDA business delivery model (old),miller2_Sta,0,0
+CIDA business delivery model (old),miller2_EnviSustai,0,0
+CIDA business delivery model (old),miller2_CouRegNa,0,0
+CIDA business delivery model (old),miller2_OrgaNa,0,0
+CIDA business delivery model (old),miller2_FuCenNa,0,0
+CIDA business delivery model (old),miller2_PBATy,0,0
+CIDA business delivery model (old),miller2_ClChMit,0,0
+CIDA business delivery model (old),miller2_IRTCPer,0,0
+CIDA business delivery model (old),miller2_OrgaT,0,0
+CIDA business delivery model (old),miller2_MaxCIDAContr,0,0
+CIDA business delivery model (old),miller2_UntAmoProBud,0,0
+CIDA business delivery model (old),miller2_DivID,0,0
+CIDA business delivery model (old),miller2_SecPer,0,0
+CIDA business delivery model (old),miller2_FSTCPe,0,0
+CIDA business delivery model (old),Section ID,0,0
+CIDA business delivery model (old),miller2_SeN,0,0
+CIDA business delivery model (old),miller2_ConID,0,0
+CIDA business delivery model (old),miller2_FCenID,0,0
+CIDA business delivery model (old),miller2_YoIss,0,0
+CIDA business delivery model (old),miller2_DisaIss,0,0
+CIDA business delivery model (old),miller2_ICTAATFoDeve,0,0
+CIDA business delivery model (old),miller2_KnowlFoDeve,0,0
+CIDA business delivery model (old),miller2_GeEqu,0,0
+CIDA business delivery model (old),miller2_OrganID,0,0
+CIDA business delivery model (old),miller2_OrgCla,0,0
+CIDA business delivery model (old),miller2_OrgaSu,0,0
+CIDA business delivery model (old),miller2_ConNa,0,0
+CIDA business delivery model (old),miller2_ProjBroCouID,0,0
+CIDA business delivery model (old),miller2_CouReID,0,0
+CIDA business delivery model (old),miller2_CouRegPerc,0,0
+CIDA business delivery model (old),miller2_AmSp,0,0
+Bilateral aid (international marker),miller2_FisY,0,0
+Bilateral aid (international marker),miller2_IndiIss,1.0,0
+Bilateral aid (international marker),miller2_CFLI,0.688803317535545,0
+Bilateral aid (international marker),miller2_PrograPr,0,0
+Bilateral aid (international marker),miller2_SeID,0,0
+Bilateral aid (international marker),miller2_UrIss,0.9969133156134784,0
+Bilateral aid (international marker),miller2_ClimChaAdap,0.7125549613458017,0
+Bilateral aid (international marker),miller2_Sta,0,0
+Bilateral aid (international marker),miller2_EnviSustai,0.7508894924274354,0
+Bilateral aid (international marker),miller2_CouRegNa,0,0
+Bilateral aid (international marker),miller2_OrgaNa,0,0
+Bilateral aid (international marker),miller2_FuCenNa,0,0
+Bilateral aid (international marker),miller2_PBATy,0,0
+Bilateral aid (international marker),miller2_ClChMit,1.0,0
+Bilateral aid (international marker),miller2_IRTCPer,0.6864649446494464,0
+Bilateral aid (international marker),miller2_OrgaT,0,0
+Bilateral aid (international marker),miller2_MaxCIDAContr,0,0
+Bilateral aid (international marker),miller2_UntAmoProBud,0.8175210513831839,0
+Bilateral aid (international marker),miller2_DivID,0,0
+Bilateral aid (international marker),miller2_SecPer,0,0
+Bilateral aid (international marker),miller2_FSTCPe,0,0
+Bilateral aid (international marker),Section ID,0,0
+Bilateral aid (international marker),miller2_SeN,0,0
+Bilateral aid (international marker),miller2_ConID,0.9585768305259539,0
+Bilateral aid (international marker),miller2_FCenID,0,0
+Bilateral aid (international marker),miller2_YoIss,0.9969133156134784,0
+Bilateral aid (international marker),miller2_DisaIss,0.9969133156134784,0
+Bilateral aid (international marker),miller2_ICTAATFoDeve,1.0,0
+Bilateral aid (international marker),miller2_KnowlFoDeve,0.9969133156134784,0
+Bilateral aid (international marker),miller2_GeEqu,0.8169414681651024,0
+Bilateral aid (international marker),miller2_OrganID,0,0
+Bilateral aid (international marker),miller2_OrgCla,0,0
+Bilateral aid (international marker),miller2_OrgaSu,0,0
+Bilateral aid (international marker),miller2_ConNa,0,0
+Bilateral aid (international marker),miller2_ProjBroCouID,0,0
+Bilateral aid (international marker),miller2_CouReID,0,0
+Bilateral aid (international marker),miller2_CouRegPerc,0,0
+Bilateral aid (international marker),miller2_AmSp,0,0
+Desertification (marker),miller2_FisY,0,0
+Desertification (marker),miller2_IndiIss,1.0,0
+Desertification (marker),miller2_CFLI,1.0,0
+Desertification (marker),miller2_PrograPr,0,0
+Desertification (marker),miller2_SeID,0,0
+Desertification (marker),miller2_UrIss,1.0,0
+Desertification (marker),miller2_ClimChaAdap,1.0,0
+Desertification (marker),miller2_Sta,0,0
+Desertification (marker),miller2_EnviSustai,1.0,0
+Desertification (marker),miller2_CouRegNa,0,0
+Desertification (marker),miller2_OrgaNa,0,0
+Desertification (marker),miller2_FuCenNa,0,0
+Desertification (marker),miller2_PBATy,0,0
+Desertification (marker),miller2_ClChMit,1.0,0
+Desertification (marker),miller2_IRTCPer,1.0,0
+Desertification (marker),miller2_OrgaT,0,0
+Desertification (marker),miller2_MaxCIDAContr,0,0
+Desertification (marker),miller2_UntAmoProBud,1.0,0
+Desertification (marker),miller2_DivID,0,0
+Desertification (marker),miller2_SecPer,0,0
+Desertification (marker),miller2_FSTCPe,0,0
+Desertification (marker),Section ID,0,0
+Desertification (marker),miller2_SeN,0,0
+Desertification (marker),miller2_ConID,1.0,0
+Desertification (marker),miller2_FCenID,0,0
+Desertification (marker),miller2_YoIss,1.0,0
+Desertification (marker),miller2_DisaIss,1.0,0
+Desertification (marker),miller2_ICTAATFoDeve,1.0,0
+Desertification (marker),miller2_KnowlFoDeve,1.0,0
+Desertification (marker),miller2_GeEqu,1.0,0
+Desertification (marker),miller2_OrganID,0,0
+Desertification (marker),miller2_OrgCla,0,0
+Desertification (marker),miller2_OrgaSu,0,0
+Desertification (marker),miller2_ConNa,0,0
+Desertification (marker),miller2_ProjBroCouID,0,0
+Desertification (marker),miller2_CouReID,0,0
+Desertification (marker),miller2_CouRegPerc,0,0
+Desertification (marker),miller2_AmSp,0,0
+Participatory development and good governance,miller2_FisY,0,0
+Participatory development and good governance,miller2_IndiIss,1.0,0
+Participatory development and good governance,miller2_CFLI,1.0,0
+Participatory development and good governance,miller2_PrograPr,0,0
+Participatory development and good governance,miller2_SeID,0,0
+Participatory development and good governance,miller2_UrIss,1.0,0
+Participatory development and good governance,miller2_ClimChaAdap,1.0,0
+Participatory development and good governance,miller2_Sta,0,0
+Participatory development and good governance,miller2_EnviSustai,1.0,0
+Participatory development and good governance,miller2_CouRegNa,0,0
+Participatory development and good governance,miller2_OrgaNa,0,0
+Participatory development and good governance,miller2_FuCenNa,0,0
+Participatory development and good governance,miller2_PBATy,0,0
+Participatory development and good governance,miller2_ClChMit,1.0,0
+Participatory development and good governance,miller2_IRTCPer,1.0,0
+Participatory development and good governance,miller2_OrgaT,0,0
+Participatory development and good governance,miller2_MaxCIDAContr,0,0
+Participatory development and good governance,miller2_UntAmoProBud,1.0,0
+Participatory development and good governance,miller2_DivID,0,0
+Participatory development and good governance,miller2_SecPer,0,0
+Participatory development and good governance,miller2_FSTCPe,0,0
+Participatory development and good governance,Section ID,0,0
+Participatory development and good governance,miller2_SeN,0,0
+Participatory development and good governance,miller2_ConID,0.9585768305259539,0
+Participatory development and good governance,miller2_FCenID,0,0
+Participatory development and good governance,miller2_YoIss,0.9969987995198079,0
+Participatory development and good governance,miller2_DisaIss,1.0,0
+Participatory development and good governance,miller2_ICTAATFoDeve,1.0,0
+Participatory development and good governance,miller2_KnowlFoDeve,1.0,0
+Participatory development and good governance,miller2_GeEqu,1.0,0
+Participatory development and good governance,miller2_OrganID,0,0
+Participatory development and good governance,miller2_OrgCla,0,0
+Participatory development and good governance,miller2_OrgaSu,0,0
+Participatory development and good governance,miller2_ConNa,0,0
+Participatory development and good governance,miller2_ProjBroCouID,0,0
+Participatory development and good governance,miller2_CouReID,0,0
+Participatory development and good governance,miller2_CouRegPerc,0,0
+Participatory development and good governance,miller2_AmSp,0,0
+Trade development (marker),miller2_FisY,0,0
+Trade development (marker),miller2_IndiIss,1.0,0
+Trade development (marker),miller2_CFLI,1.0,0
+Trade development (marker),miller2_PrograPr,0,0
+Trade development (marker),miller2_SeID,0,0
+Trade development (marker),miller2_UrIss,0.9970842980876425,0
+Trade development (marker),miller2_ClimChaAdap,0.9676187446133308,0
+Trade development (marker),miller2_Sta,0,0
+Trade development (marker),miller2_EnviSustai,1.0,0
+Trade development (marker),miller2_CouRegNa,0,0
+Trade development (marker),miller2_OrgaNa,0,0
+Trade development (marker),miller2_FuCenNa,0,0
+Trade development (marker),miller2_PBATy,0,0
+Trade development (marker),miller2_ClChMit,1.0,0
+Trade development (marker),miller2_IRTCPer,1.0,0
+Trade development (marker),miller2_OrgaT,0,0
+Trade development (marker),miller2_MaxCIDAContr,0,0
+Trade development (marker),miller2_UntAmoProBud,1.0,0
+Trade development (marker),miller2_DivID,0,0
+Trade development (marker),miller2_SecPer,0,0
+Trade development (marker),miller2_FSTCPe,0,0
+Trade development (marker),Section ID,0,0
+Trade development (marker),miller2_SeN,0,0
+Trade development (marker),miller2_ConID,0.9585768305259539,0
+Trade development (marker),miller2_FCenID,0,0
+Trade development (marker),miller2_YoIss,0.9970842980876425,0
+Trade development (marker),miller2_DisaIss,1.0,0
+Trade development (marker),miller2_ICTAATFoDeve,1.0,0
+Trade development (marker),miller2_KnowlFoDeve,1.0,0
+Trade development (marker),miller2_GeEqu,1.0,0
+Trade development (marker),miller2_OrganID,0,0
+Trade development (marker),miller2_OrgCla,0,0
+Trade development (marker),miller2_OrgaSu,0,0
+Trade development (marker),miller2_ConNa,0,0
+Trade development (marker),miller2_ProjBroCouID,0,0
+Trade development (marker),miller2_CouReID,0,0
+Trade development (marker),miller2_CouRegPerc,0,0
+Trade development (marker),miller2_AmSp,0,0
+Biodiversity (marker),miller2_FisY,0,0
+Biodiversity (marker),miller2_IndiIss,1.0,0
+Biodiversity (marker),miller2_CFLI,0.9930144648101242,0
+Biodiversity (marker),miller2_PrograPr,0,0
+Biodiversity (marker),miller2_SeID,0,0
+Biodiversity (marker),miller2_UrIss,0.9969987995198079,0
+Biodiversity (marker),miller2_ClimChaAdap,0.9602845069695418,0
+Biodiversity (marker),miller2_Sta,0,0
+Biodiversity (marker),miller2_EnviSustai,1.0,0
+Biodiversity (marker),miller2_CouRegNa,0,0
+Biodiversity (marker),miller2_OrgaNa,0,0
+Biodiversity (marker),miller2_FuCenNa,0,0
+Biodiversity (marker),miller2_PBATy,0,0
+Biodiversity (marker),miller2_ClChMit,1.0,0
+Biodiversity (marker),miller2_IRTCPer,1.0,0
+Biodiversity (marker),miller2_OrgaT,0,0
+Biodiversity (marker),miller2_MaxCIDAContr,0,0
+Biodiversity (marker),miller2_UntAmoProBud,0.8105066446915739,0
+Biodiversity (marker),miller2_DivID,0,0
+Biodiversity (marker),miller2_SecPer,0,0
+Biodiversity (marker),miller2_FSTCPe,0,0
+Biodiversity (marker),Section ID,0,0
+Biodiversity (marker),miller2_SeN,0,0
+Biodiversity (marker),miller2_ConID,0.9585768305259539,0
+Biodiversity (marker),miller2_FCenID,0,0
+Biodiversity (marker),miller2_YoIss,0.9969987995198079,0
+Biodiversity (marker),miller2_DisaIss,0.9969987995198079,0
+Biodiversity (marker),miller2_ICTAATFoDeve,1.0,0
+Biodiversity (marker),miller2_KnowlFoDeve,0.9969987995198079,0
+Biodiversity (marker),miller2_GeEqu,0.995995288574794,0
+Biodiversity (marker),miller2_OrganID,0,0
+Biodiversity (marker),miller2_OrgCla,0,0
+Biodiversity (marker),miller2_OrgaSu,0,0
+Biodiversity (marker),miller2_ConNa,0,0
+Biodiversity (marker),miller2_ProjBroCouID,0,0
+Biodiversity (marker),miller2_CouReID,0,0
+Biodiversity (marker),miller2_CouRegPerc,0,0
+Biodiversity (marker),miller2_AmSp,0,0
+Children issues (marker),miller2_FisY,0,0
+Children issues (marker),miller2_IndiIss,1.0,0
+Children issues (marker),miller2_CFLI,1.0,0
+Children issues (marker),miller2_PrograPr,0,0
+Children issues (marker),miller2_SeID,0,0
+Children issues (marker),miller2_UrIss,0.9969987995198079,0
+Children issues (marker),miller2_ClimChaAdap,0.9936078988632003,0
+Children issues (marker),miller2_Sta,0,0
+Children issues (marker),miller2_EnviSustai,1.0,0
+Children issues (marker),miller2_CouRegNa,0,0
+Children issues (marker),miller2_OrgaNa,0,0
+Children issues (marker),miller2_FuCenNa,0,0
+Children issues (marker),miller2_PBATy,0,0
+Children issues (marker),miller2_ClChMit,1.0,0
+Children issues (marker),miller2_IRTCPer,1.0,0
+Children issues (marker),miller2_OrgaT,0,0
+Children issues (marker),miller2_MaxCIDAContr,0,0
+Children issues (marker),miller2_UntAmoProBud,1.0,0
+Children issues (marker),miller2_DivID,0,0
+Children issues (marker),miller2_SecPer,0,0
+Children issues (marker),miller2_FSTCPe,0,0
+Children issues (marker),Section ID,0,0
+Children issues (marker),miller2_SeN,0,0
+Children issues (marker),miller2_ConID,0.9585768305259539,0
+Children issues (marker),miller2_FCenID,0,0
+Children issues (marker),miller2_YoIss,0.9969987995198079,0
+Children issues (marker),miller2_DisaIss,1.0,0
+Children issues (marker),miller2_ICTAATFoDeve,1.0,0
+Children issues (marker),miller2_KnowlFoDeve,0.9969987995198079,0
+Children issues (marker),miller2_GeEqu,1.0,0
+Children issues (marker),miller2_OrganID,0,0
+Children issues (marker),miller2_OrgCla,0,0
+Children issues (marker),miller2_OrgaSu,0,0
+Children issues (marker),miller2_ConNa,0,0
+Children issues (marker),miller2_ProjBroCouID,0,0
+Children issues (marker),miller2_CouReID,0,0
+Children issues (marker),miller2_CouRegPerc,0,0
+Children issues (marker),miller2_AmSp,0,0

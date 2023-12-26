@@ -1,0 +1,343 @@
+source,target,des1,des2,label
+AgencyID,prospect_AgID,A unique identifier for each individual or record in the dataset.,A distinct identification code assigned to each record within the dataset facilitating unique reference and differentiation,1
+AgencyID,prospect_MaSt,A unique identifier for each individual or record in the dataset.,The current legal or social relationship status of the individual,0
+AgencyID,prospect_CreRa,A unique identifier for each individual or record in the dataset.,A numerical representation of the individual's creditworthiness indicating their ability to manage financial obligations.,0
+AgencyID,prospect_Co,A unique identifier for each individual or record in the dataset.,The sovereign nation in which the individual maintains their primary residence.,0
+AgencyID,prospect_In,A unique identifier for each individual or record in the dataset.,The total financial remuneration received by the individual typically on an annual basis.,0
+AgencyID,prospect_St,A unique identifier for each individual or record in the dataset.,The administrative region or territory within a country where the individual's residence is situated.,0
+AgencyID,prospect_OORFl,A unique identifier for each individual or record in the dataset.,A binary indicator specifying whether the individual owns or rents their primary residence.,0
+AgencyID,prospect_FiNa,A unique identifier for each individual or record in the dataset.,The initial forename assigned to an individual at birth or registration.,0
+AgencyID,prospect_LaNa,A unique identifier for each individual or record in the dataset.,The family name associated with an individual typically indicating generational lineage.,0
+AgencyID,prospect_MidIn,A unique identifier for each individual or record in the dataset.,The single-letter abbreviation representing the middle name or initial of an individual.,0
+AgencyID,prospect_Pho,A unique identifier for each individual or record in the dataset.,The designated telephone number through which the individual can be reached.,0
+AgencyID,prospect_NuChil,A unique identifier for each individual or record in the dataset.,The total number of biological or adopted children associated with the individual.,0
+AgencyID,prospect_Ag,A unique identifier for each individual or record in the dataset.,The chronological age of the individual measured in years.,0
+AgencyID,prospect_Ci,A unique identifier for each individual or record in the dataset.,The urban or town area in which the individual resides.,0
+AgencyID,prospect_AddLi1,A unique identifier for each individual or record in the dataset.,The principal residence or mailing address of an individual serving as the primary contact location.,0
+AgencyID,prospect_NuC,A unique identifier for each individual or record in the dataset.,The quantity of automobiles owned by the individual.,0
+AgencyID,prospect_Em,A unique identifier for each individual or record in the dataset.,The organizational entity by which the individual is employed.,0
+AgencyID,prospect_NuCreCar,A unique identifier for each individual or record in the dataset.,The total count of credit cards associated with the individual.,0
+AgencyID,prospect_NeWor,A unique identifier for each individual or record in the dataset.,The financial value representing the individual's net worth calculated by subtracting liabilities from total assets.,0
+MaritalStatus,prospect_AgID,Indicates the marital status of the individual,A distinct identification code assigned to each record within the dataset facilitating unique reference and differentiation,0
+MaritalStatus,prospect_MaSt,Indicates the marital status of the individual,The current legal or social relationship status of the individual,1
+MaritalStatus,prospect_CreRa,Indicates the marital status of the individual,A numerical representation of the individual's creditworthiness indicating their ability to manage financial obligations.,0
+MaritalStatus,prospect_Co,Indicates the marital status of the individual,The sovereign nation in which the individual maintains their primary residence.,0
+MaritalStatus,prospect_In,Indicates the marital status of the individual,The total financial remuneration received by the individual typically on an annual basis.,0
+MaritalStatus,prospect_St,Indicates the marital status of the individual,The administrative region or territory within a country where the individual's residence is situated.,0
+MaritalStatus,prospect_OORFl,Indicates the marital status of the individual,A binary indicator specifying whether the individual owns or rents their primary residence.,0
+MaritalStatus,prospect_FiNa,Indicates the marital status of the individual,The initial forename assigned to an individual at birth or registration.,0
+MaritalStatus,prospect_LaNa,Indicates the marital status of the individual,The family name associated with an individual typically indicating generational lineage.,0
+MaritalStatus,prospect_MidIn,Indicates the marital status of the individual,The single-letter abbreviation representing the middle name or initial of an individual.,0
+MaritalStatus,prospect_Pho,Indicates the marital status of the individual,The designated telephone number through which the individual can be reached.,0
+MaritalStatus,prospect_NuChil,Indicates the marital status of the individual,The total number of biological or adopted children associated with the individual.,0
+MaritalStatus,prospect_Ag,Indicates the marital status of the individual,The chronological age of the individual measured in years.,0
+MaritalStatus,prospect_Ci,Indicates the marital status of the individual,The urban or town area in which the individual resides.,0
+MaritalStatus,prospect_AddLi1,Indicates the marital status of the individual,The principal residence or mailing address of an individual serving as the primary contact location.,0
+MaritalStatus,prospect_NuC,Indicates the marital status of the individual,The quantity of automobiles owned by the individual.,0
+MaritalStatus,prospect_Em,Indicates the marital status of the individual,The organizational entity by which the individual is employed.,0
+MaritalStatus,prospect_NuCreCar,Indicates the marital status of the individual,The total count of credit cards associated with the individual.,0
+MaritalStatus,prospect_NeWor,Indicates the marital status of the individual,The financial value representing the individual's net worth calculated by subtracting liabilities from total assets.,0
+CreditRating,prospect_AgID,The credit rating of the individual.,A distinct identification code assigned to each record within the dataset facilitating unique reference and differentiation,0
+CreditRating,prospect_MaSt,The credit rating of the individual.,The current legal or social relationship status of the individual,0
+CreditRating,prospect_CreRa,The credit rating of the individual.,A numerical representation of the individual's creditworthiness indicating their ability to manage financial obligations.,1
+CreditRating,prospect_Co,The credit rating of the individual.,The sovereign nation in which the individual maintains their primary residence.,0
+CreditRating,prospect_In,The credit rating of the individual.,The total financial remuneration received by the individual typically on an annual basis.,0
+CreditRating,prospect_St,The credit rating of the individual.,The administrative region or territory within a country where the individual's residence is situated.,0
+CreditRating,prospect_OORFl,The credit rating of the individual.,A binary indicator specifying whether the individual owns or rents their primary residence.,0
+CreditRating,prospect_FiNa,The credit rating of the individual.,The initial forename assigned to an individual at birth or registration.,0
+CreditRating,prospect_LaNa,The credit rating of the individual.,The family name associated with an individual typically indicating generational lineage.,0
+CreditRating,prospect_MidIn,The credit rating of the individual.,The single-letter abbreviation representing the middle name or initial of an individual.,0
+CreditRating,prospect_Pho,The credit rating of the individual.,The designated telephone number through which the individual can be reached.,0
+CreditRating,prospect_NuChil,The credit rating of the individual.,The total number of biological or adopted children associated with the individual.,0
+CreditRating,prospect_Ag,The credit rating of the individual.,The chronological age of the individual measured in years.,0
+CreditRating,prospect_Ci,The credit rating of the individual.,The urban or town area in which the individual resides.,0
+CreditRating,prospect_AddLi1,The credit rating of the individual.,The principal residence or mailing address of an individual serving as the primary contact location.,0
+CreditRating,prospect_NuC,The credit rating of the individual.,The quantity of automobiles owned by the individual.,0
+CreditRating,prospect_Em,The credit rating of the individual.,The organizational entity by which the individual is employed.,0
+CreditRating,prospect_NuCreCar,The credit rating of the individual.,The total count of credit cards associated with the individual.,0
+CreditRating,prospect_NeWor,The credit rating of the individual.,The financial value representing the individual's net worth calculated by subtracting liabilities from total assets.,0
+Country,prospect_AgID,The country in which the individual resides.,A distinct identification code assigned to each record within the dataset facilitating unique reference and differentiation,0
+Country,prospect_MaSt,The country in which the individual resides.,The current legal or social relationship status of the individual,0
+Country,prospect_CreRa,The country in which the individual resides.,A numerical representation of the individual's creditworthiness indicating their ability to manage financial obligations.,0
+Country,prospect_Co,The country in which the individual resides.,The sovereign nation in which the individual maintains their primary residence.,1
+Country,prospect_In,The country in which the individual resides.,The total financial remuneration received by the individual typically on an annual basis.,0
+Country,prospect_St,The country in which the individual resides.,The administrative region or territory within a country where the individual's residence is situated.,0
+Country,prospect_OORFl,The country in which the individual resides.,A binary indicator specifying whether the individual owns or rents their primary residence.,0
+Country,prospect_FiNa,The country in which the individual resides.,The initial forename assigned to an individual at birth or registration.,0
+Country,prospect_LaNa,The country in which the individual resides.,The family name associated with an individual typically indicating generational lineage.,0
+Country,prospect_MidIn,The country in which the individual resides.,The single-letter abbreviation representing the middle name or initial of an individual.,0
+Country,prospect_Pho,The country in which the individual resides.,The designated telephone number through which the individual can be reached.,0
+Country,prospect_NuChil,The country in which the individual resides.,The total number of biological or adopted children associated with the individual.,0
+Country,prospect_Ag,The country in which the individual resides.,The chronological age of the individual measured in years.,0
+Country,prospect_Ci,The country in which the individual resides.,The urban or town area in which the individual resides.,0
+Country,prospect_AddLi1,The country in which the individual resides.,The principal residence or mailing address of an individual serving as the primary contact location.,0
+Country,prospect_NuC,The country in which the individual resides.,The quantity of automobiles owned by the individual.,0
+Country,prospect_Em,The country in which the individual resides.,The organizational entity by which the individual is employed.,0
+Country,prospect_NuCreCar,The country in which the individual resides.,The total count of credit cards associated with the individual.,0
+Country,prospect_NeWor,The country in which the individual resides.,The financial value representing the individual's net worth calculated by subtracting liabilities from total assets.,0
+Income,prospect_AgID,The income of the individual.,A distinct identification code assigned to each record within the dataset facilitating unique reference and differentiation,0
+Income,prospect_MaSt,The income of the individual.,The current legal or social relationship status of the individual,0
+Income,prospect_CreRa,The income of the individual.,A numerical representation of the individual's creditworthiness indicating their ability to manage financial obligations.,0
+Income,prospect_Co,The income of the individual.,The sovereign nation in which the individual maintains their primary residence.,0
+Income,prospect_In,The income of the individual.,The total financial remuneration received by the individual typically on an annual basis.,1
+Income,prospect_St,The income of the individual.,The administrative region or territory within a country where the individual's residence is situated.,0
+Income,prospect_OORFl,The income of the individual.,A binary indicator specifying whether the individual owns or rents their primary residence.,0
+Income,prospect_FiNa,The income of the individual.,The initial forename assigned to an individual at birth or registration.,0
+Income,prospect_LaNa,The income of the individual.,The family name associated with an individual typically indicating generational lineage.,0
+Income,prospect_MidIn,The income of the individual.,The single-letter abbreviation representing the middle name or initial of an individual.,0
+Income,prospect_Pho,The income of the individual.,The designated telephone number through which the individual can be reached.,0
+Income,prospect_NuChil,The income of the individual.,The total number of biological or adopted children associated with the individual.,0
+Income,prospect_Ag,The income of the individual.,The chronological age of the individual measured in years.,0
+Income,prospect_Ci,The income of the individual.,The urban or town area in which the individual resides.,0
+Income,prospect_AddLi1,The income of the individual.,The principal residence or mailing address of an individual serving as the primary contact location.,0
+Income,prospect_NuC,The income of the individual.,The quantity of automobiles owned by the individual.,0
+Income,prospect_Em,The income of the individual.,The organizational entity by which the individual is employed.,0
+Income,prospect_NuCreCar,The income of the individual.,The total count of credit cards associated with the individual.,0
+Income,prospect_NeWor,The income of the individual.,The financial value representing the individual's net worth calculated by subtracting liabilities from total assets.,0
+State,prospect_AgID,The state or province of the individual's address.,A distinct identification code assigned to each record within the dataset facilitating unique reference and differentiation,0
+State,prospect_MaSt,The state or province of the individual's address.,The current legal or social relationship status of the individual,0
+State,prospect_CreRa,The state or province of the individual's address.,A numerical representation of the individual's creditworthiness indicating their ability to manage financial obligations.,0
+State,prospect_Co,The state or province of the individual's address.,The sovereign nation in which the individual maintains their primary residence.,0
+State,prospect_In,The state or province of the individual's address.,The total financial remuneration received by the individual typically on an annual basis.,0
+State,prospect_St,The state or province of the individual's address.,The administrative region or territory within a country where the individual's residence is situated.,1
+State,prospect_OORFl,The state or province of the individual's address.,A binary indicator specifying whether the individual owns or rents their primary residence.,0
+State,prospect_FiNa,The state or province of the individual's address.,The initial forename assigned to an individual at birth or registration.,0
+State,prospect_LaNa,The state or province of the individual's address.,The family name associated with an individual typically indicating generational lineage.,0
+State,prospect_MidIn,The state or province of the individual's address.,The single-letter abbreviation representing the middle name or initial of an individual.,0
+State,prospect_Pho,The state or province of the individual's address.,The designated telephone number through which the individual can be reached.,0
+State,prospect_NuChil,The state or province of the individual's address.,The total number of biological or adopted children associated with the individual.,0
+State,prospect_Ag,The state or province of the individual's address.,The chronological age of the individual measured in years.,0
+State,prospect_Ci,The state or province of the individual's address.,The urban or town area in which the individual resides.,0
+State,prospect_AddLi1,The state or province of the individual's address.,The principal residence or mailing address of an individual serving as the primary contact location.,0
+State,prospect_NuC,The state or province of the individual's address.,The quantity of automobiles owned by the individual.,0
+State,prospect_Em,The state or province of the individual's address.,The organizational entity by which the individual is employed.,0
+State,prospect_NuCreCar,The state or province of the individual's address.,The total count of credit cards associated with the individual.,0
+State,prospect_NeWor,The state or province of the individual's address.,The financial value representing the individual's net worth calculated by subtracting liabilities from total assets.,0
+OwnOrRentFlag,prospect_AgID,Indicates whether the individual owns or rents their residence,A distinct identification code assigned to each record within the dataset facilitating unique reference and differentiation,0
+OwnOrRentFlag,prospect_MaSt,Indicates whether the individual owns or rents their residence,The current legal or social relationship status of the individual,0
+OwnOrRentFlag,prospect_CreRa,Indicates whether the individual owns or rents their residence,A numerical representation of the individual's creditworthiness indicating their ability to manage financial obligations.,0
+OwnOrRentFlag,prospect_Co,Indicates whether the individual owns or rents their residence,The sovereign nation in which the individual maintains their primary residence.,0
+OwnOrRentFlag,prospect_In,Indicates whether the individual owns or rents their residence,The total financial remuneration received by the individual typically on an annual basis.,0
+OwnOrRentFlag,prospect_St,Indicates whether the individual owns or rents their residence,The administrative region or territory within a country where the individual's residence is situated.,0
+OwnOrRentFlag,prospect_OORFl,Indicates whether the individual owns or rents their residence,A binary indicator specifying whether the individual owns or rents their primary residence.,1
+OwnOrRentFlag,prospect_FiNa,Indicates whether the individual owns or rents their residence,The initial forename assigned to an individual at birth or registration.,0
+OwnOrRentFlag,prospect_LaNa,Indicates whether the individual owns or rents their residence,The family name associated with an individual typically indicating generational lineage.,0
+OwnOrRentFlag,prospect_MidIn,Indicates whether the individual owns or rents their residence,The single-letter abbreviation representing the middle name or initial of an individual.,0
+OwnOrRentFlag,prospect_Pho,Indicates whether the individual owns or rents their residence,The designated telephone number through which the individual can be reached.,0
+OwnOrRentFlag,prospect_NuChil,Indicates whether the individual owns or rents their residence,The total number of biological or adopted children associated with the individual.,0
+OwnOrRentFlag,prospect_Ag,Indicates whether the individual owns or rents their residence,The chronological age of the individual measured in years.,0
+OwnOrRentFlag,prospect_Ci,Indicates whether the individual owns or rents their residence,The urban or town area in which the individual resides.,0
+OwnOrRentFlag,prospect_AddLi1,Indicates whether the individual owns or rents their residence,The principal residence or mailing address of an individual serving as the primary contact location.,0
+OwnOrRentFlag,prospect_NuC,Indicates whether the individual owns or rents their residence,The quantity of automobiles owned by the individual.,0
+OwnOrRentFlag,prospect_Em,Indicates whether the individual owns or rents their residence,The organizational entity by which the individual is employed.,0
+OwnOrRentFlag,prospect_NuCreCar,Indicates whether the individual owns or rents their residence,The total count of credit cards associated with the individual.,0
+OwnOrRentFlag,prospect_NeWor,Indicates whether the individual owns or rents their residence,The financial value representing the individual's net worth calculated by subtracting liabilities from total assets.,0
+FirstName,prospect_AgID,The first name of the individual.,A distinct identification code assigned to each record within the dataset facilitating unique reference and differentiation,0
+FirstName,prospect_MaSt,The first name of the individual.,The current legal or social relationship status of the individual,0
+FirstName,prospect_CreRa,The first name of the individual.,A numerical representation of the individual's creditworthiness indicating their ability to manage financial obligations.,0
+FirstName,prospect_Co,The first name of the individual.,The sovereign nation in which the individual maintains their primary residence.,0
+FirstName,prospect_In,The first name of the individual.,The total financial remuneration received by the individual typically on an annual basis.,0
+FirstName,prospect_St,The first name of the individual.,The administrative region or territory within a country where the individual's residence is situated.,0
+FirstName,prospect_OORFl,The first name of the individual.,A binary indicator specifying whether the individual owns or rents their primary residence.,0
+FirstName,prospect_FiNa,The first name of the individual.,The initial forename assigned to an individual at birth or registration.,1
+FirstName,prospect_LaNa,The first name of the individual.,The family name associated with an individual typically indicating generational lineage.,0
+FirstName,prospect_MidIn,The first name of the individual.,The single-letter abbreviation representing the middle name or initial of an individual.,0
+FirstName,prospect_Pho,The first name of the individual.,The designated telephone number through which the individual can be reached.,0
+FirstName,prospect_NuChil,The first name of the individual.,The total number of biological or adopted children associated with the individual.,0
+FirstName,prospect_Ag,The first name of the individual.,The chronological age of the individual measured in years.,0
+FirstName,prospect_Ci,The first name of the individual.,The urban or town area in which the individual resides.,0
+FirstName,prospect_AddLi1,The first name of the individual.,The principal residence or mailing address of an individual serving as the primary contact location.,0
+FirstName,prospect_NuC,The first name of the individual.,The quantity of automobiles owned by the individual.,0
+FirstName,prospect_Em,The first name of the individual.,The organizational entity by which the individual is employed.,0
+FirstName,prospect_NuCreCar,The first name of the individual.,The total count of credit cards associated with the individual.,0
+FirstName,prospect_NeWor,The first name of the individual.,The financial value representing the individual's net worth calculated by subtracting liabilities from total assets.,0
+LastName,prospect_AgID,The last name of the individual indicating their family name.,A distinct identification code assigned to each record within the dataset facilitating unique reference and differentiation,0
+LastName,prospect_MaSt,The last name of the individual indicating their family name.,The current legal or social relationship status of the individual,0
+LastName,prospect_CreRa,The last name of the individual indicating their family name.,A numerical representation of the individual's creditworthiness indicating their ability to manage financial obligations.,0
+LastName,prospect_Co,The last name of the individual indicating their family name.,The sovereign nation in which the individual maintains their primary residence.,0
+LastName,prospect_In,The last name of the individual indicating their family name.,The total financial remuneration received by the individual typically on an annual basis.,0
+LastName,prospect_St,The last name of the individual indicating their family name.,The administrative region or territory within a country where the individual's residence is situated.,0
+LastName,prospect_OORFl,The last name of the individual indicating their family name.,A binary indicator specifying whether the individual owns or rents their primary residence.,0
+LastName,prospect_FiNa,The last name of the individual indicating their family name.,The initial forename assigned to an individual at birth or registration.,0
+LastName,prospect_LaNa,The last name of the individual indicating their family name.,The family name associated with an individual typically indicating generational lineage.,1
+LastName,prospect_MidIn,The last name of the individual indicating their family name.,The single-letter abbreviation representing the middle name or initial of an individual.,0
+LastName,prospect_Pho,The last name of the individual indicating their family name.,The designated telephone number through which the individual can be reached.,0
+LastName,prospect_NuChil,The last name of the individual indicating their family name.,The total number of biological or adopted children associated with the individual.,0
+LastName,prospect_Ag,The last name of the individual indicating their family name.,The chronological age of the individual measured in years.,0
+LastName,prospect_Ci,The last name of the individual indicating their family name.,The urban or town area in which the individual resides.,0
+LastName,prospect_AddLi1,The last name of the individual indicating their family name.,The principal residence or mailing address of an individual serving as the primary contact location.,0
+LastName,prospect_NuC,The last name of the individual indicating their family name.,The quantity of automobiles owned by the individual.,0
+LastName,prospect_Em,The last name of the individual indicating their family name.,The organizational entity by which the individual is employed.,0
+LastName,prospect_NuCreCar,The last name of the individual indicating their family name.,The total count of credit cards associated with the individual.,0
+LastName,prospect_NeWor,The last name of the individual indicating their family name.,The financial value representing the individual's net worth calculated by subtracting liabilities from total assets.,0
+MiddleInitial,prospect_AgID,The middle initial of the individual.,A distinct identification code assigned to each record within the dataset facilitating unique reference and differentiation,0
+MiddleInitial,prospect_MaSt,The middle initial of the individual.,The current legal or social relationship status of the individual,0
+MiddleInitial,prospect_CreRa,The middle initial of the individual.,A numerical representation of the individual's creditworthiness indicating their ability to manage financial obligations.,0
+MiddleInitial,prospect_Co,The middle initial of the individual.,The sovereign nation in which the individual maintains their primary residence.,0
+MiddleInitial,prospect_In,The middle initial of the individual.,The total financial remuneration received by the individual typically on an annual basis.,0
+MiddleInitial,prospect_St,The middle initial of the individual.,The administrative region or territory within a country where the individual's residence is situated.,0
+MiddleInitial,prospect_OORFl,The middle initial of the individual.,A binary indicator specifying whether the individual owns or rents their primary residence.,0
+MiddleInitial,prospect_FiNa,The middle initial of the individual.,The initial forename assigned to an individual at birth or registration.,0
+MiddleInitial,prospect_LaNa,The middle initial of the individual.,The family name associated with an individual typically indicating generational lineage.,0
+MiddleInitial,prospect_MidIn,The middle initial of the individual.,The single-letter abbreviation representing the middle name or initial of an individual.,1
+MiddleInitial,prospect_Pho,The middle initial of the individual.,The designated telephone number through which the individual can be reached.,0
+MiddleInitial,prospect_NuChil,The middle initial of the individual.,The total number of biological or adopted children associated with the individual.,0
+MiddleInitial,prospect_Ag,The middle initial of the individual.,The chronological age of the individual measured in years.,0
+MiddleInitial,prospect_Ci,The middle initial of the individual.,The urban or town area in which the individual resides.,0
+MiddleInitial,prospect_AddLi1,The middle initial of the individual.,The principal residence or mailing address of an individual serving as the primary contact location.,0
+MiddleInitial,prospect_NuC,The middle initial of the individual.,The quantity of automobiles owned by the individual.,0
+MiddleInitial,prospect_Em,The middle initial of the individual.,The organizational entity by which the individual is employed.,0
+MiddleInitial,prospect_NuCreCar,The middle initial of the individual.,The total count of credit cards associated with the individual.,0
+MiddleInitial,prospect_NeWor,The middle initial of the individual.,The financial value representing the individual's net worth calculated by subtracting liabilities from total assets.,0
+Phone,prospect_AgID,The contact phone number for the individual.,A distinct identification code assigned to each record within the dataset facilitating unique reference and differentiation,0
+Phone,prospect_MaSt,The contact phone number for the individual.,The current legal or social relationship status of the individual,0
+Phone,prospect_CreRa,The contact phone number for the individual.,A numerical representation of the individual's creditworthiness indicating their ability to manage financial obligations.,0
+Phone,prospect_Co,The contact phone number for the individual.,The sovereign nation in which the individual maintains their primary residence.,0
+Phone,prospect_In,The contact phone number for the individual.,The total financial remuneration received by the individual typically on an annual basis.,0
+Phone,prospect_St,The contact phone number for the individual.,The administrative region or territory within a country where the individual's residence is situated.,0
+Phone,prospect_OORFl,The contact phone number for the individual.,A binary indicator specifying whether the individual owns or rents their primary residence.,0
+Phone,prospect_FiNa,The contact phone number for the individual.,The initial forename assigned to an individual at birth or registration.,0
+Phone,prospect_LaNa,The contact phone number for the individual.,The family name associated with an individual typically indicating generational lineage.,0
+Phone,prospect_MidIn,The contact phone number for the individual.,The single-letter abbreviation representing the middle name or initial of an individual.,0
+Phone,prospect_Pho,The contact phone number for the individual.,The designated telephone number through which the individual can be reached.,1
+Phone,prospect_NuChil,The contact phone number for the individual.,The total number of biological or adopted children associated with the individual.,0
+Phone,prospect_Ag,The contact phone number for the individual.,The chronological age of the individual measured in years.,0
+Phone,prospect_Ci,The contact phone number for the individual.,The urban or town area in which the individual resides.,0
+Phone,prospect_AddLi1,The contact phone number for the individual.,The principal residence or mailing address of an individual serving as the primary contact location.,0
+Phone,prospect_NuC,The contact phone number for the individual.,The quantity of automobiles owned by the individual.,0
+Phone,prospect_Em,The contact phone number for the individual.,The organizational entity by which the individual is employed.,0
+Phone,prospect_NuCreCar,The contact phone number for the individual.,The total count of credit cards associated with the individual.,0
+Phone,prospect_NeWor,The contact phone number for the individual.,The financial value representing the individual's net worth calculated by subtracting liabilities from total assets.,0
+NumberChildren,prospect_AgID,The number of children the individual has.,A distinct identification code assigned to each record within the dataset facilitating unique reference and differentiation,0
+NumberChildren,prospect_MaSt,The number of children the individual has.,The current legal or social relationship status of the individual,0
+NumberChildren,prospect_CreRa,The number of children the individual has.,A numerical representation of the individual's creditworthiness indicating their ability to manage financial obligations.,0
+NumberChildren,prospect_Co,The number of children the individual has.,The sovereign nation in which the individual maintains their primary residence.,0
+NumberChildren,prospect_In,The number of children the individual has.,The total financial remuneration received by the individual typically on an annual basis.,0
+NumberChildren,prospect_St,The number of children the individual has.,The administrative region or territory within a country where the individual's residence is situated.,0
+NumberChildren,prospect_OORFl,The number of children the individual has.,A binary indicator specifying whether the individual owns or rents their primary residence.,0
+NumberChildren,prospect_FiNa,The number of children the individual has.,The initial forename assigned to an individual at birth or registration.,0
+NumberChildren,prospect_LaNa,The number of children the individual has.,The family name associated with an individual typically indicating generational lineage.,0
+NumberChildren,prospect_MidIn,The number of children the individual has.,The single-letter abbreviation representing the middle name or initial of an individual.,0
+NumberChildren,prospect_Pho,The number of children the individual has.,The designated telephone number through which the individual can be reached.,0
+NumberChildren,prospect_NuChil,The number of children the individual has.,The total number of biological or adopted children associated with the individual.,1
+NumberChildren,prospect_Ag,The number of children the individual has.,The chronological age of the individual measured in years.,0
+NumberChildren,prospect_Ci,The number of children the individual has.,The urban or town area in which the individual resides.,0
+NumberChildren,prospect_AddLi1,The number of children the individual has.,The principal residence or mailing address of an individual serving as the primary contact location.,0
+NumberChildren,prospect_NuC,The number of children the individual has.,The quantity of automobiles owned by the individual.,0
+NumberChildren,prospect_Em,The number of children the individual has.,The organizational entity by which the individual is employed.,0
+NumberChildren,prospect_NuCreCar,The number of children the individual has.,The total count of credit cards associated with the individual.,0
+NumberChildren,prospect_NeWor,The number of children the individual has.,The financial value representing the individual's net worth calculated by subtracting liabilities from total assets.,0
+Age,prospect_AgID,The age of the individual.,A distinct identification code assigned to each record within the dataset facilitating unique reference and differentiation,0
+Age,prospect_MaSt,The age of the individual.,The current legal or social relationship status of the individual,0
+Age,prospect_CreRa,The age of the individual.,A numerical representation of the individual's creditworthiness indicating their ability to manage financial obligations.,0
+Age,prospect_Co,The age of the individual.,The sovereign nation in which the individual maintains their primary residence.,0
+Age,prospect_In,The age of the individual.,The total financial remuneration received by the individual typically on an annual basis.,0
+Age,prospect_St,The age of the individual.,The administrative region or territory within a country where the individual's residence is situated.,0
+Age,prospect_OORFl,The age of the individual.,A binary indicator specifying whether the individual owns or rents their primary residence.,0
+Age,prospect_FiNa,The age of the individual.,The initial forename assigned to an individual at birth or registration.,0
+Age,prospect_LaNa,The age of the individual.,The family name associated with an individual typically indicating generational lineage.,0
+Age,prospect_MidIn,The age of the individual.,The single-letter abbreviation representing the middle name or initial of an individual.,0
+Age,prospect_Pho,The age of the individual.,The designated telephone number through which the individual can be reached.,0
+Age,prospect_NuChil,The age of the individual.,The total number of biological or adopted children associated with the individual.,0
+Age,prospect_Ag,The age of the individual.,The chronological age of the individual measured in years.,1
+Age,prospect_Ci,The age of the individual.,The urban or town area in which the individual resides.,0
+Age,prospect_AddLi1,The age of the individual.,The principal residence or mailing address of an individual serving as the primary contact location.,0
+Age,prospect_NuC,The age of the individual.,The quantity of automobiles owned by the individual.,0
+Age,prospect_Em,The age of the individual.,The organizational entity by which the individual is employed.,0
+Age,prospect_NuCreCar,The age of the individual.,The total count of credit cards associated with the individual.,0
+Age,prospect_NeWor,The age of the individual.,The financial value representing the individual's net worth calculated by subtracting liabilities from total assets.,0
+City,prospect_AgID,The city in which the individual resides.,A distinct identification code assigned to each record within the dataset facilitating unique reference and differentiation,0
+City,prospect_MaSt,The city in which the individual resides.,The current legal or social relationship status of the individual,0
+City,prospect_CreRa,The city in which the individual resides.,A numerical representation of the individual's creditworthiness indicating their ability to manage financial obligations.,0
+City,prospect_Co,The city in which the individual resides.,The sovereign nation in which the individual maintains their primary residence.,0
+City,prospect_In,The city in which the individual resides.,The total financial remuneration received by the individual typically on an annual basis.,0
+City,prospect_St,The city in which the individual resides.,The administrative region or territory within a country where the individual's residence is situated.,0
+City,prospect_OORFl,The city in which the individual resides.,A binary indicator specifying whether the individual owns or rents their primary residence.,0
+City,prospect_FiNa,The city in which the individual resides.,The initial forename assigned to an individual at birth or registration.,0
+City,prospect_LaNa,The city in which the individual resides.,The family name associated with an individual typically indicating generational lineage.,0
+City,prospect_MidIn,The city in which the individual resides.,The single-letter abbreviation representing the middle name or initial of an individual.,0
+City,prospect_Pho,The city in which the individual resides.,The designated telephone number through which the individual can be reached.,0
+City,prospect_NuChil,The city in which the individual resides.,The total number of biological or adopted children associated with the individual.,0
+City,prospect_Ag,The city in which the individual resides.,The chronological age of the individual measured in years.,0
+City,prospect_Ci,The city in which the individual resides.,The urban or town area in which the individual resides.,1
+City,prospect_AddLi1,The city in which the individual resides.,The principal residence or mailing address of an individual serving as the primary contact location.,0
+City,prospect_NuC,The city in which the individual resides.,The quantity of automobiles owned by the individual.,0
+City,prospect_Em,The city in which the individual resides.,The organizational entity by which the individual is employed.,0
+City,prospect_NuCreCar,The city in which the individual resides.,The total count of credit cards associated with the individual.,0
+City,prospect_NeWor,The city in which the individual resides.,The financial value representing the individual's net worth calculated by subtracting liabilities from total assets.,0
+AddressLine1,prospect_AgID,The primary address of the individual.,A distinct identification code assigned to each record within the dataset facilitating unique reference and differentiation,0
+AddressLine1,prospect_MaSt,The primary address of the individual.,The current legal or social relationship status of the individual,0
+AddressLine1,prospect_CreRa,The primary address of the individual.,A numerical representation of the individual's creditworthiness indicating their ability to manage financial obligations.,0
+AddressLine1,prospect_Co,The primary address of the individual.,The sovereign nation in which the individual maintains their primary residence.,0
+AddressLine1,prospect_In,The primary address of the individual.,The total financial remuneration received by the individual typically on an annual basis.,0
+AddressLine1,prospect_St,The primary address of the individual.,The administrative region or territory within a country where the individual's residence is situated.,0
+AddressLine1,prospect_OORFl,The primary address of the individual.,A binary indicator specifying whether the individual owns or rents their primary residence.,0
+AddressLine1,prospect_FiNa,The primary address of the individual.,The initial forename assigned to an individual at birth or registration.,0
+AddressLine1,prospect_LaNa,The primary address of the individual.,The family name associated with an individual typically indicating generational lineage.,0
+AddressLine1,prospect_MidIn,The primary address of the individual.,The single-letter abbreviation representing the middle name or initial of an individual.,0
+AddressLine1,prospect_Pho,The primary address of the individual.,The designated telephone number through which the individual can be reached.,0
+AddressLine1,prospect_NuChil,The primary address of the individual.,The total number of biological or adopted children associated with the individual.,0
+AddressLine1,prospect_Ag,The primary address of the individual.,The chronological age of the individual measured in years.,0
+AddressLine1,prospect_Ci,The primary address of the individual.,The urban or town area in which the individual resides.,0
+AddressLine1,prospect_AddLi1,The primary address of the individual.,The principal residence or mailing address of an individual serving as the primary contact location.,1
+AddressLine1,prospect_NuC,The primary address of the individual.,The quantity of automobiles owned by the individual.,0
+AddressLine1,prospect_Em,The primary address of the individual.,The organizational entity by which the individual is employed.,0
+AddressLine1,prospect_NuCreCar,The primary address of the individual.,The total count of credit cards associated with the individual.,0
+AddressLine1,prospect_NeWor,The primary address of the individual.,The financial value representing the individual's net worth calculated by subtracting liabilities from total assets.,0
+Gender,prospect_AgID,Indicates the gender of the individual.,A distinct identification code assigned to each record within the dataset facilitating unique reference and differentiation,0
+Gender,prospect_MaSt,Indicates the gender of the individual.,The current legal or social relationship status of the individual,0
+Gender,prospect_CreRa,Indicates the gender of the individual.,A numerical representation of the individual's creditworthiness indicating their ability to manage financial obligations.,0
+Gender,prospect_Co,Indicates the gender of the individual.,The sovereign nation in which the individual maintains their primary residence.,0
+Gender,prospect_In,Indicates the gender of the individual.,The total financial remuneration received by the individual typically on an annual basis.,0
+Gender,prospect_St,Indicates the gender of the individual.,The administrative region or territory within a country where the individual's residence is situated.,0
+Gender,prospect_OORFl,Indicates the gender of the individual.,A binary indicator specifying whether the individual owns or rents their primary residence.,0
+Gender,prospect_FiNa,Indicates the gender of the individual.,The initial forename assigned to an individual at birth or registration.,0
+Gender,prospect_LaNa,Indicates the gender of the individual.,The family name associated with an individual typically indicating generational lineage.,0
+Gender,prospect_MidIn,Indicates the gender of the individual.,The single-letter abbreviation representing the middle name or initial of an individual.,0
+Gender,prospect_Pho,Indicates the gender of the individual.,The designated telephone number through which the individual can be reached.,0
+Gender,prospect_NuChil,Indicates the gender of the individual.,The total number of biological or adopted children associated with the individual.,0
+Gender,prospect_Ag,Indicates the gender of the individual.,The chronological age of the individual measured in years.,0
+Gender,prospect_Ci,Indicates the gender of the individual.,The urban or town area in which the individual resides.,0
+Gender,prospect_AddLi1,Indicates the gender of the individual.,The principal residence or mailing address of an individual serving as the primary contact location.,0
+Gender,prospect_NuC,Indicates the gender of the individual.,The quantity of automobiles owned by the individual.,0
+Gender,prospect_Em,Indicates the gender of the individual.,The organizational entity by which the individual is employed.,0
+Gender,prospect_NuCreCar,Indicates the gender of the individual.,The total count of credit cards associated with the individual.,0
+Gender,prospect_NeWor,Indicates the gender of the individual.,The financial value representing the individual's net worth calculated by subtracting liabilities from total assets.,0
+AddressLine2,prospect_AgID,Additional address information such as apartment number or suite.,A distinct identification code assigned to each record within the dataset facilitating unique reference and differentiation,0
+AddressLine2,prospect_MaSt,Additional address information such as apartment number or suite.,The current legal or social relationship status of the individual,0
+AddressLine2,prospect_CreRa,Additional address information such as apartment number or suite.,A numerical representation of the individual's creditworthiness indicating their ability to manage financial obligations.,0
+AddressLine2,prospect_Co,Additional address information such as apartment number or suite.,The sovereign nation in which the individual maintains their primary residence.,0
+AddressLine2,prospect_In,Additional address information such as apartment number or suite.,The total financial remuneration received by the individual typically on an annual basis.,0
+AddressLine2,prospect_St,Additional address information such as apartment number or suite.,The administrative region or territory within a country where the individual's residence is situated.,0
+AddressLine2,prospect_OORFl,Additional address information such as apartment number or suite.,A binary indicator specifying whether the individual owns or rents their primary residence.,0
+AddressLine2,prospect_FiNa,Additional address information such as apartment number or suite.,The initial forename assigned to an individual at birth or registration.,0
+AddressLine2,prospect_LaNa,Additional address information such as apartment number or suite.,The family name associated with an individual typically indicating generational lineage.,0
+AddressLine2,prospect_MidIn,Additional address information such as apartment number or suite.,The single-letter abbreviation representing the middle name or initial of an individual.,0
+AddressLine2,prospect_Pho,Additional address information such as apartment number or suite.,The designated telephone number through which the individual can be reached.,0
+AddressLine2,prospect_NuChil,Additional address information such as apartment number or suite.,The total number of biological or adopted children associated with the individual.,0
+AddressLine2,prospect_Ag,Additional address information such as apartment number or suite.,The chronological age of the individual measured in years.,0
+AddressLine2,prospect_Ci,Additional address information such as apartment number or suite.,The urban or town area in which the individual resides.,0
+AddressLine2,prospect_AddLi1,Additional address information such as apartment number or suite.,The principal residence or mailing address of an individual serving as the primary contact location.,0
+AddressLine2,prospect_NuC,Additional address information such as apartment number or suite.,The quantity of automobiles owned by the individual.,0
+AddressLine2,prospect_Em,Additional address information such as apartment number or suite.,The organizational entity by which the individual is employed.,0
+AddressLine2,prospect_NuCreCar,Additional address information such as apartment number or suite.,The total count of credit cards associated with the individual.,0
+AddressLine2,prospect_NeWor,Additional address information such as apartment number or suite.,The financial value representing the individual's net worth calculated by subtracting liabilities from total assets.,0
+PostalCode,prospect_AgID,The postal code of the individual's address.,A distinct identification code assigned to each record within the dataset facilitating unique reference and differentiation,0
+PostalCode,prospect_MaSt,The postal code of the individual's address.,The current legal or social relationship status of the individual,0
+PostalCode,prospect_CreRa,The postal code of the individual's address.,A numerical representation of the individual's creditworthiness indicating their ability to manage financial obligations.,0
+PostalCode,prospect_Co,The postal code of the individual's address.,The sovereign nation in which the individual maintains their primary residence.,0
+PostalCode,prospect_In,The postal code of the individual's address.,The total financial remuneration received by the individual typically on an annual basis.,0
+PostalCode,prospect_St,The postal code of the individual's address.,The administrative region or territory within a country where the individual's residence is situated.,0
+PostalCode,prospect_OORFl,The postal code of the individual's address.,A binary indicator specifying whether the individual owns or rents their primary residence.,0
+PostalCode,prospect_FiNa,The postal code of the individual's address.,The initial forename assigned to an individual at birth or registration.,0
+PostalCode,prospect_LaNa,The postal code of the individual's address.,The family name associated with an individual typically indicating generational lineage.,0
+PostalCode,prospect_MidIn,The postal code of the individual's address.,The single-letter abbreviation representing the middle name or initial of an individual.,0
+PostalCode,prospect_Pho,The postal code of the individual's address.,The designated telephone number through which the individual can be reached.,0
+PostalCode,prospect_NuChil,The postal code of the individual's address.,The total number of biological or adopted children associated with the individual.,0
+PostalCode,prospect_Ag,The postal code of the individual's address.,The chronological age of the individual measured in years.,0
+PostalCode,prospect_Ci,The postal code of the individual's address.,The urban or town area in which the individual resides.,0
+PostalCode,prospect_AddLi1,The postal code of the individual's address.,The principal residence or mailing address of an individual serving as the primary contact location.,0
+PostalCode,prospect_NuC,The postal code of the individual's address.,The quantity of automobiles owned by the individual.,0
+PostalCode,prospect_Em,The postal code of the individual's address.,The organizational entity by which the individual is employed.,0
+PostalCode,prospect_NuCreCar,The postal code of the individual's address.,The total count of credit cards associated with the individual.,0
+PostalCode,prospect_NeWor,The postal code of the individual's address.,The financial value representing the individual's net worth calculated by subtracting liabilities from total assets.,0

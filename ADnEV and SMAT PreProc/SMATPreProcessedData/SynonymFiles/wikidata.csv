@@ -1,0 +1,21 @@
+musicianID,musician,This column represents the unique identifier (URI) for each musician in the dataset linking to their respective entry on Wikidata,This column holds the unique identifier (URI) for each musician serving as a direct link to their detailed profile on Wikidata.
+musicianLabel,musicianName,The name or label associated with the musician serving as their public identifier.,contains the name or alias of the musician providing a recognizable label for easy reference.
+genderLabel,genderType,Denotes the gender of the musician specifying whether they are male or female.,Indicating the gender identity of the musician specifying whether they identify as male or female.
+birthDate,Indicates the birth date of the musician presented in the ISO 8601 date and time format.,This field displays the birth date of the musician presenting the information in the standardized ISO 8601 date and time format.
+cityLabel,city,Specifies the city of origin or birthplace of the musician.,Reflecting the birthplace or hometown of the musician specifying the city associated with their origin.
+familyNameLabel,familyName,Represents the family or surname of the musician.,Representing the familial or surname of the musician this column holds the family name associated with each artist
+givenNameLabel,Corresponds to the given or first name of the musician.,This field contains the given or first name of the musician offering insight into the personal nomenclature of each artist.
+fatherLabel,fatherName,Provides the name of the musician's father.,provides the name of the musician's father presenting information about their paternal lineage.
+motherLabel,motherName,Provides the name of the musician's mother.,Displaying the name of the musician's mother sheds light on the maternal lineage of each artist.
+partner,spouse,Indicates the name of the musician's partner or spouse.,This field reveals the name of the musician's partner or spouse offering insight into their personal relationships.
+numberOfChildren,NChildren,Represents the count of children associated with the musician.,Indicating the count of children associated with the musician quantifies the artist's parenthood.
+genreLabel,kind,Specifies the musical genre or style associated with the musician.,specifies the musical genre or style associated with the musician categorizing their artistic expression.
+websiteLabel,webpage,Contains the URL of the musician's official website.,Containing the URL of the musician's official website this field provides a direct link to the artist's online presence.
+residenceLabel,residence,Specifies the city or location where the musician resides.,Describing the current city or location where the musician resides offers details about their dwelling place.
+ethnicityLabel,ethnicity,Represents the ethnicity or racial background of the musician.,denotes the ethnicity or racial background of the musician highlighting their cultural heritage.
+religionLabel,Specifies the religious affiliation of the musician.,Displaying the religious affiliation of the musician this column provides information about the artist's spiritual beliefs.
+activityStart,kickoff,Indicates the date when the musician started their musical career presented in the ISO 8601 date and time format.,Indicating the commencement date of the musician's career reveals when each artist started their musical journey.
+twitterNameLabel,twitterUsername,Contains the musician's Twitter handle or username.,Holding the musician's Twitter handle or username column provides a direct link to their Twitter profile.
+geniusNameLabel,Represents the musician's name on the Genius platform,displays the musician's name as recognized on the Genius platform facilitating connections with their work.
+recordLabelLabel,recordCompany,Specifies the name of the record label associated with the musician.,Identifying the record label associated with the musician specifies the entity responsible for releasing their music.
+forename,Represents the first name of the musician.,Representing the forename of the musician this column holds the first name associated with each artist

@@ -1,0 +1,2602 @@
+source,target,conf,realConf
+Fiscal year,miller2_FiscalYear,0.03225806451612903,1
+Fiscal year,miller2_ProjectNumber,0.04821150855365474,0
+Fiscal year,miller2_Status,0.0967741935483871,0
+Fiscal year,miller2_MaximumCIDAContribution(project-level),0.06031128404669261,0
+Fiscal year,miller2_BranchID,0.16129032258064516,0
+Fiscal year,miller2_BranchName,0.16129032258064516,0
+Fiscal year,miller2_DivisionID,0.41935483870967744,0
+Fiscal year,miller2_DivisionName,0.41935483870967744,0
+Fiscal year,miller2_SectionID,0.8064516129032258,0
+Fiscal year,miller2_SectionName,0.8064516129032258,0
+Fiscal year,miller2_RegionalProgram(marker),0.06451612903225806,0
+Fiscal year,miller2_FundCentreID,0.5961538461538461,0
+Fiscal year,miller2_FundCentreName,0.5961538461538461,0
+Fiscal year,miller2_UntiedAmount(Project-levelBudget),0.07142857142857142,0
+Fiscal year,miller2_FSTCPercent,0.6326530612244898,0
+Fiscal year,miller2_IRTCPercent,0.0967741935483871,0
+Fiscal year,miller2_CFLI(marker),0.06451612903225806,0
+Fiscal year,miller2_CIDABusinessDeliveryModel(old),0.0967741935483871,0
+Fiscal year,miller2_ProgrammingProcess(new),0.03225806451612903,0
+Fiscal year,miller2_BilateralAid(internationalMarker),0.06451612903225806,0
+Fiscal year,miller2_PBAType,0.03225806451612903,0
+Fiscal year,miller2_EnviromentalSustainability(marker),0.0967741935483871,0
+Fiscal year,miller2_ClimateChangeAdaptation(marker),0.0967741935483871,0
+Fiscal year,miller2_ClimateChangeMitigation(marker),0.12903225806451613,0
+Fiscal year,miller2_Desertification(marker),0.12903225806451613,0
+Fiscal year,miller2_ParticipatoryDevelopmentAndGoodGovernance,0.12903225806451613,0
+Fiscal year,miller2_TradeDevelopment(marker),0.12903225806451613,0
+Fiscal year,miller2_Biodiversity(marker),0.12903225806451613,0
+Fiscal year,miller2_UrbanIssues(marker),0.12903225806451613,0
+Fiscal year,miller2_ChildrenIssues(marker),0.12903225806451613,0
+Fiscal year,miller2_YouthIssues(marker),0.12903225806451613,0
+Fiscal year,miller2_IndigenousIssues(marker),0.12903225806451613,0
+Fiscal year,miller2_DisabilityIssues(marker),0.12903225806451613,0
+Fiscal year,miller2_ICTAsAToolForDevelopment(marker),0.0967741935483871,0
+Fiscal year,miller2_KnowledgeForDevelopment(marker),0.12903225806451613,0
+Fiscal year,miller2_GenderEquality(marker),0.12903225806451613,0
+Fiscal year,miller2_OrganisationID,0.09144542772861357,0
+Fiscal year,miller2_OrganisationName,0.09144542772861357,0
+Fiscal year,miller2_OrganisationType,0.12903225806451613,0
+Fiscal year,miller2_OrganisationClass,0.1935483870967742,0
+Fiscal year,miller2_OrganisationSub-class,0.7741935483870968,0
+Fiscal year,miller2_ContinentID,0.16129032258064516,0
+Fiscal year,miller2_ContinentName,0.16129032258064516,0
+Fiscal year,miller2_ProjectBrowserCountryID,0.20261437908496732,0
+Fiscal year,miller2_CountryRegionID,0.21830985915492956,0
+Fiscal year,miller2_CountryRegionName,0.21379310344827587,0
+Fiscal year,miller2_CountryRegionPercent,0.07711442786069651,0
+Fiscal year,miller2_SectorID,0.25203252032520324,0
+Fiscal year,miller2_SectorName,0.25203252032520324,0
+Fiscal year,miller2_SectorPercent,0.16756756756756758,0
+Fiscal year,miller2_AmountSpent,0.0061752988047808766,0
+Project number,miller2_FiscalYear,0.00015569048731122528,0
+Project number,miller2_ProjectNumber,0.10010898334111785,1
+Project number,miller2_Status,0.00046707146193367583,0
+Project number,miller2_MaximumCIDAContribution(project-level),0.0800249104779698,0
+Project number,miller2_BranchID,0.0007784524365561264,0
+Project number,miller2_BranchName,0.0007784524365561264,0
+Project number,miller2_DivisionID,0.0020239763350459287,0
+Project number,miller2_DivisionName,0.0020239763350459287,0
+Project number,miller2_SectionID,0.0038922621827806323,0
+Project number,miller2_SectionName,0.0038922621827806323,0
+Project number,miller2_RegionalProgram(marker),0.00031138097462245055,0
+Project number,miller2_FundCentreID,0.008095905340183715,0
+Project number,miller2_FundCentreName,0.008095905340183715,0
+Project number,miller2_UntiedAmount(Project-levelBudget),0.06756967149307178,0
+Project number,miller2_FSTCPercent,0.007628833878250039,0
+Project number,miller2_IRTCPercent,0.00046707146193367583,0
+Project number,miller2_CFLI(marker),0.00031138097462245055,0
+Project number,miller2_CIDABusinessDeliveryModel(old),0.00046707146193367583,0
+Project number,miller2_ProgrammingProcess(new),0.00015569048731122528,0
+Project number,miller2_BilateralAid(internationalMarker),0.00031138097462245055,0
+Project number,miller2_PBAType,0.00015569048731122528,0
+Project number,miller2_EnviromentalSustainability(marker),0.00046707146193367583,0
+Project number,miller2_ClimateChangeAdaptation(marker),0.00046707146193367583,0
+Project number,miller2_ClimateChangeMitigation(marker),0.0006227619492449011,0
+Project number,miller2_Desertification(marker),0.0006227619492449011,0
+Project number,miller2_ParticipatoryDevelopmentAndGoodGovernance,0.0006227619492449011,0
+Project number,miller2_TradeDevelopment(marker),0.0006227619492449011,0
+Project number,miller2_Biodiversity(marker),0.0006227619492449011,0
+Project number,miller2_UrbanIssues(marker),0.0006227619492449011,0
+Project number,miller2_ChildrenIssues(marker),0.0006227619492449011,0
+Project number,miller2_YouthIssues(marker),0.0006227619492449011,0
+Project number,miller2_IndigenousIssues(marker),0.0006227619492449011,0
+Project number,miller2_DisabilityIssues(marker),0.0006227619492449011,0
+Project number,miller2_ICTAsAToolForDevelopment(marker),0.00046707146193367583,0
+Project number,miller2_KnowledgeForDevelopment(marker),0.0006227619492449011,0
+Project number,miller2_GenderEquality(marker),0.0006227619492449011,0
+Project number,miller2_OrganisationID,0.052779075198505374,0
+Project number,miller2_OrganisationName,0.052779075198505374,0
+Project number,miller2_OrganisationType,0.0006227619492449011,0
+Project number,miller2_OrganisationClass,0.0009341429238673517,0
+Project number,miller2_OrganisationSub-class,0.0037365716954694066,0
+Project number,miller2_ContinentID,0.0007784524365561264,0
+Project number,miller2_ContinentName,0.0007784524365561264,0
+Project number,miller2_ProjectBrowserCountryID,0.02382064455861747,0
+Project number,miller2_CountryRegionID,0.02210804919819399,0
+Project number,miller2_CountryRegionName,0.022575120660127665,0
+Project number,miller2_CountryRegionPercent,0.06258757589911257,0
+Project number,miller2_SectorID,0.01914992993928071,0
+Project number,miller2_SectorName,0.01914992993928071,0
+Project number,miller2_SectorPercent,0.028802740152576677,0
+Project number,miller2_AmountSpent,0.7815662463023509,0
+Status,miller2_FiscalYear,0.0010131712259371835,0
+Status,miller2_ProjectNumber,0.6514690982776089,0
+Status,miller2_Status,0.00303951367781155,1
+Status,miller2_MaximumCIDAContribution(project-level),0.5207700101317123,0
+Status,miller2_BranchID,0.005065856129685917,0
+Status,miller2_BranchName,0.005065856129685917,0
+Status,miller2_DivisionID,0.013171225937183385,0
+Status,miller2_DivisionName,0.013171225937183385,0
+Status,miller2_SectionID,0.025329280648429583,0
+Status,miller2_SectionName,0.025329280648429583,0
+Status,miller2_RegionalProgram(marker),0.002026342451874367,0
+Status,miller2_FundCentreID,0.05268490374873354,0
+Status,miller2_FundCentreName,0.05268490374873354,0
+Status,miller2_UntiedAmount(Project-levelBudget),0.4397163120567376,0
+Status,miller2_FSTCPercent,0.04964539007092199,0
+Status,miller2_IRTCPercent,0.00303951367781155,0
+Status,miller2_CFLI(marker),0.002026342451874367,0
+Status,miller2_CIDABusinessDeliveryModel(old),0.00303951367781155,0
+Status,miller2_ProgrammingProcess(new),0.0010131712259371835,0
+Status,miller2_BilateralAid(internationalMarker),0.002026342451874367,0
+Status,miller2_PBAType,0.0010131712259371835,0
+Status,miller2_EnviromentalSustainability(marker),0.00303951367781155,0
+Status,miller2_ClimateChangeAdaptation(marker),0.00303951367781155,0
+Status,miller2_ClimateChangeMitigation(marker),0.004052684903748734,0
+Status,miller2_Desertification(marker),0.004052684903748734,0
+Status,miller2_ParticipatoryDevelopmentAndGoodGovernance,0.004052684903748734,0
+Status,miller2_TradeDevelopment(marker),0.004052684903748734,0
+Status,miller2_Biodiversity(marker),0.004052684903748734,0
+Status,miller2_UrbanIssues(marker),0.004052684903748734,0
+Status,miller2_ChildrenIssues(marker),0.004052684903748734,0
+Status,miller2_YouthIssues(marker),0.004052684903748734,0
+Status,miller2_IndigenousIssues(marker),0.004052684903748734,0
+Status,miller2_DisabilityIssues(marker),0.004052684903748734,0
+Status,miller2_ICTAsAToolForDevelopment(marker),0.00303951367781155,0
+Status,miller2_KnowledgeForDevelopment(marker),0.004052684903748734,0
+Status,miller2_GenderEquality(marker),0.004052684903748734,0
+Status,miller2_OrganisationID,0.3434650455927052,0
+Status,miller2_OrganisationName,0.3434650455927052,0
+Status,miller2_OrganisationType,0.004052684903748734,0
+Status,miller2_OrganisationClass,0.0060790273556231,0
+Status,miller2_OrganisationSub-class,0.0243161094224924,0
+Status,miller2_ContinentID,0.005065856129685917,0
+Status,miller2_ContinentName,0.005065856129685917,0
+Status,miller2_ProjectBrowserCountryID,0.15501519756838905,0
+Status,miller2_CountryRegionID,0.14387031408308004,0
+Status,miller2_CountryRegionName,0.1469098277608916,0
+Status,miller2_CountryRegionPercent,0.4072948328267477,0
+Status,miller2_SectorID,0.12462006079027356,0
+Status,miller2_SectorName,0.12462006079027356,0
+Status,miller2_SectorPercent,0.18743667679837892,0
+Status,miller2_AmountSpent,0.19661354581673307,0
+Maximum CIDA contribution (project-level),miller2_FiscalYear,0.00014475969889982628,0
+Maximum CIDA contribution (project-level),miller2_ProjectNumber,0.0930804863925883,0
+Maximum CIDA contribution (project-level),miller2_Status,0.00043427909669947886,0
+Maximum CIDA contribution (project-level),miller2_MaximumCIDAContribution(project-level),0.07440648523451071,1
+Maximum CIDA contribution (project-level),miller2_BranchID,0.0007237984944991314,0
+Maximum CIDA contribution (project-level),miller2_BranchName,0.0007237984944991314,0
+Maximum CIDA contribution (project-level),miller2_DivisionID,0.0018818760856977416,0
+Maximum CIDA contribution (project-level),miller2_DivisionName,0.0018818760856977416,0
+Maximum CIDA contribution (project-level),miller2_SectionID,0.0036189924724956573,0
+Maximum CIDA contribution (project-level),miller2_SectionName,0.0036189924724956573,0
+Maximum CIDA contribution (project-level),miller2_RegionalProgram(marker),0.00028951939779965256,0
+Maximum CIDA contribution (project-level),miller2_FundCentreID,0.007527504342790967,0
+Maximum CIDA contribution (project-level),miller2_FundCentreName,0.007527504342790967,0
+Maximum CIDA contribution (project-level),miller2_UntiedAmount(Project-levelBudget),0.06282570932252461,0
+Maximum CIDA contribution (project-level),miller2_FSTCPercent,0.007093225246091488,0
+Maximum CIDA contribution (project-level),miller2_IRTCPercent,0.00043427909669947886,0
+Maximum CIDA contribution (project-level),miller2_CFLI(marker),0.00028951939779965256,0
+Maximum CIDA contribution (project-level),miller2_CIDABusinessDeliveryModel(old),0.00043427909669947886,0
+Maximum CIDA contribution (project-level),miller2_ProgrammingProcess(new),0.00014475969889982628,0
+Maximum CIDA contribution (project-level),miller2_BilateralAid(internationalMarker),0.00028951939779965256,0
+Maximum CIDA contribution (project-level),miller2_PBAType,0.00014475969889982628,0
+Maximum CIDA contribution (project-level),miller2_EnviromentalSustainability(marker),0.00043427909669947886,0
+Maximum CIDA contribution (project-level),miller2_ClimateChangeAdaptation(marker),0.00043427909669947886,0
+Maximum CIDA contribution (project-level),miller2_ClimateChangeMitigation(marker),0.0005790387955993051,0
+Maximum CIDA contribution (project-level),miller2_Desertification(marker),0.0005790387955993051,0
+Maximum CIDA contribution (project-level),miller2_ParticipatoryDevelopmentAndGoodGovernance,0.0005790387955993051,0
+Maximum CIDA contribution (project-level),miller2_TradeDevelopment(marker),0.0005790387955993051,0
+Maximum CIDA contribution (project-level),miller2_Biodiversity(marker),0.0005790387955993051,0
+Maximum CIDA contribution (project-level),miller2_UrbanIssues(marker),0.0005790387955993051,0
+Maximum CIDA contribution (project-level),miller2_ChildrenIssues(marker),0.0005790387955993051,0
+Maximum CIDA contribution (project-level),miller2_YouthIssues(marker),0.0005790387955993051,0
+Maximum CIDA contribution (project-level),miller2_IndigenousIssues(marker),0.0005790387955993051,0
+Maximum CIDA contribution (project-level),miller2_DisabilityIssues(marker),0.0005790387955993051,0
+Maximum CIDA contribution (project-level),miller2_ICTAsAToolForDevelopment(marker),0.00043427909669947886,0
+Maximum CIDA contribution (project-level),miller2_KnowledgeForDevelopment(marker),0.0005790387955993051,0
+Maximum CIDA contribution (project-level),miller2_GenderEquality(marker),0.0005790387955993051,0
+Maximum CIDA contribution (project-level),miller2_OrganisationID,0.04907353792704111,0
+Maximum CIDA contribution (project-level),miller2_OrganisationName,0.04907353792704111,0
+Maximum CIDA contribution (project-level),miller2_OrganisationType,0.0005790387955993051,0
+Maximum CIDA contribution (project-level),miller2_OrganisationClass,0.0008685581933989577,0
+Maximum CIDA contribution (project-level),miller2_OrganisationSub-class,0.003474232773595831,0
+Maximum CIDA contribution (project-level),miller2_ContinentID,0.0007237984944991314,0
+Maximum CIDA contribution (project-level),miller2_ContinentName,0.0007237984944991314,0
+Maximum CIDA contribution (project-level),miller2_ProjectBrowserCountryID,0.022148233931673422,0
+Maximum CIDA contribution (project-level),miller2_CountryRegionID,0.020555877243775333,0
+Maximum CIDA contribution (project-level),miller2_CountryRegionName,0.02099015634047481,0
+Maximum CIDA contribution (project-level),miller2_CountryRegionPercent,0.058193398957730166,0
+Maximum CIDA contribution (project-level),miller2_SectorID,0.017805442964678633,0
+Maximum CIDA contribution (project-level),miller2_SectorName,0.017805442964678633,0
+Maximum CIDA contribution (project-level),miller2_SectorPercent,0.026780544296467864,0
+Maximum CIDA contribution (project-level),miller2_AmountSpent,0.726693688477128,0
+Branch ID,miller2_FiscalYear,0.023255813953488372,0
+Branch ID,miller2_ProjectNumber,0.06687402799377916,0
+Branch ID,miller2_Status,0.06976744186046512,0
+Branch ID,miller2_MaximumCIDAContribution(project-level),0.08365758754863813,0
+Branch ID,miller2_BranchID,0.11627906976744186,1
+Branch ID,miller2_BranchName,0.11627906976744186,0
+Branch ID,miller2_DivisionID,0.3023255813953488,0
+Branch ID,miller2_DivisionName,0.3023255813953488,0
+Branch ID,miller2_SectionID,0.5813953488372093,0
+Branch ID,miller2_SectionName,0.5813953488372093,0
+Branch ID,miller2_RegionalProgram(marker),0.046511627906976744,0
+Branch ID,miller2_FundCentreID,0.8269230769230769,0
+Branch ID,miller2_FundCentreName,0.8269230769230769,0
+Branch ID,miller2_UntiedAmount(Project-levelBudget),0.09907834101382489,0
+Branch ID,miller2_FSTCPercent,0.8775510204081632,0
+Branch ID,miller2_IRTCPercent,0.06976744186046512,0
+Branch ID,miller2_CFLI(marker),0.046511627906976744,0
+Branch ID,miller2_CIDABusinessDeliveryModel(old),0.06976744186046512,0
+Branch ID,miller2_ProgrammingProcess(new),0.023255813953488372,0
+Branch ID,miller2_BilateralAid(internationalMarker),0.046511627906976744,0
+Branch ID,miller2_PBAType,0.023255813953488372,0
+Branch ID,miller2_EnviromentalSustainability(marker),0.06976744186046512,0
+Branch ID,miller2_ClimateChangeAdaptation(marker),0.06976744186046512,0
+Branch ID,miller2_ClimateChangeMitigation(marker),0.09302325581395349,0
+Branch ID,miller2_Desertification(marker),0.09302325581395349,0
+Branch ID,miller2_ParticipatoryDevelopmentAndGoodGovernance,0.09302325581395349,0
+Branch ID,miller2_TradeDevelopment(marker),0.09302325581395349,0
+Branch ID,miller2_Biodiversity(marker),0.09302325581395349,0
+Branch ID,miller2_UrbanIssues(marker),0.09302325581395349,0
+Branch ID,miller2_ChildrenIssues(marker),0.09302325581395349,0
+Branch ID,miller2_YouthIssues(marker),0.09302325581395349,0
+Branch ID,miller2_IndigenousIssues(marker),0.09302325581395349,0
+Branch ID,miller2_DisabilityIssues(marker),0.09302325581395349,0
+Branch ID,miller2_ICTAsAToolForDevelopment(marker),0.06976744186046512,0
+Branch ID,miller2_KnowledgeForDevelopment(marker),0.09302325581395349,0
+Branch ID,miller2_GenderEquality(marker),0.09302325581395349,0
+Branch ID,miller2_OrganisationID,0.12684365781710916,0
+Branch ID,miller2_OrganisationName,0.12684365781710916,0
+Branch ID,miller2_OrganisationType,0.09302325581395349,0
+Branch ID,miller2_OrganisationClass,0.13953488372093023,0
+Branch ID,miller2_OrganisationSub-class,0.5581395348837209,0
+Branch ID,miller2_ContinentID,0.11627906976744186,0
+Branch ID,miller2_ContinentName,0.11627906976744186,0
+Branch ID,miller2_ProjectBrowserCountryID,0.28104575163398693,0
+Branch ID,miller2_CountryRegionID,0.3028169014084507,0
+Branch ID,miller2_CountryRegionName,0.296551724137931,0
+Branch ID,miller2_CountryRegionPercent,0.10696517412935323,0
+Branch ID,miller2_SectorID,0.34959349593495936,0
+Branch ID,miller2_SectorName,0.34959349593495936,0
+Branch ID,miller2_SectorPercent,0.23243243243243245,0
+Branch ID,miller2_AmountSpent,0.008565737051792829,0
+Branch name,miller2_FiscalYear,0.0001718213058419244,0
+Branch name,miller2_ProjectNumber,0.11048109965635738,0
+Branch name,miller2_Status,0.0005154639175257732,0
+Branch name,miller2_MaximumCIDAContribution(project-level),0.08831615120274915,0
+Branch name,miller2_BranchID,0.000859106529209622,0
+Branch name,miller2_BranchName,0.000859106529209622,1
+Branch name,miller2_DivisionID,0.002233676975945017,0
+Branch name,miller2_DivisionName,0.002233676975945017,0
+Branch name,miller2_SectionID,0.00429553264604811,0
+Branch name,miller2_SectionName,0.00429553264604811,0
+Branch name,miller2_RegionalProgram(marker),0.0003436426116838488,0
+Branch name,miller2_FundCentreID,0.008934707903780068,0
+Branch name,miller2_FundCentreName,0.008934707903780068,0
+Branch name,miller2_UntiedAmount(Project-levelBudget),0.07457044673539519,0
+Branch name,miller2_FSTCPercent,0.008419243986254295,0
+Branch name,miller2_IRTCPercent,0.0005154639175257732,0
+Branch name,miller2_CFLI(marker),0.0003436426116838488,0
+Branch name,miller2_CIDABusinessDeliveryModel(old),0.0005154639175257732,0
+Branch name,miller2_ProgrammingProcess(new),0.0001718213058419244,0
+Branch name,miller2_BilateralAid(internationalMarker),0.0003436426116838488,0
+Branch name,miller2_PBAType,0.0001718213058419244,0
+Branch name,miller2_EnviromentalSustainability(marker),0.0005154639175257732,0
+Branch name,miller2_ClimateChangeAdaptation(marker),0.0005154639175257732,0
+Branch name,miller2_ClimateChangeMitigation(marker),0.0006872852233676976,0
+Branch name,miller2_Desertification(marker),0.0006872852233676976,0
+Branch name,miller2_ParticipatoryDevelopmentAndGoodGovernance,0.0006872852233676976,0
+Branch name,miller2_TradeDevelopment(marker),0.0006872852233676976,0
+Branch name,miller2_Biodiversity(marker),0.0006872852233676976,0
+Branch name,miller2_UrbanIssues(marker),0.0006872852233676976,0
+Branch name,miller2_ChildrenIssues(marker),0.0006872852233676976,0
+Branch name,miller2_YouthIssues(marker),0.0006872852233676976,0
+Branch name,miller2_IndigenousIssues(marker),0.0006872852233676976,0
+Branch name,miller2_DisabilityIssues(marker),0.0006872852233676976,0
+Branch name,miller2_ICTAsAToolForDevelopment(marker),0.0005154639175257732,0
+Branch name,miller2_KnowledgeForDevelopment(marker),0.0006872852233676976,0
+Branch name,miller2_GenderEquality(marker),0.0006872852233676976,0
+Branch name,miller2_OrganisationID,0.05824742268041237,0
+Branch name,miller2_OrganisationName,0.05824742268041237,0
+Branch name,miller2_OrganisationType,0.0006872852233676976,0
+Branch name,miller2_OrganisationClass,0.0010309278350515464,0
+Branch name,miller2_OrganisationSub-class,0.004123711340206186,0
+Branch name,miller2_ContinentID,0.000859106529209622,0
+Branch name,miller2_ContinentName,0.000859106529209622,0
+Branch name,miller2_ProjectBrowserCountryID,0.026288659793814433,0
+Branch name,miller2_CountryRegionID,0.024398625429553265,0
+Branch name,miller2_CountryRegionName,0.02491408934707904,0
+Branch name,miller2_CountryRegionPercent,0.06907216494845361,0
+Branch name,miller2_SectorID,0.021134020618556702,0
+Branch name,miller2_SectorName,0.021134020618556702,0
+Branch name,miller2_SectorPercent,0.03178694158075601,0
+Branch name,miller2_AmountSpent,0.8625429553264605,0
+Division ID,miller2_FiscalYear,0.004219409282700422,0
+Division ID,miller2_ProjectNumber,0.36858475894245724,0
+Division ID,miller2_Status,0.012658227848101266,0
+Division ID,miller2_MaximumCIDAContribution(project-level),0.46108949416342415,0
+Division ID,miller2_BranchID,0.02109704641350211,0
+Division ID,miller2_BranchName,0.02109704641350211,0
+Division ID,miller2_DivisionID,0.05485232067510549,1
+Division ID,miller2_DivisionName,0.05485232067510549,0
+Division ID,miller2_SectionID,0.10548523206751055,0
+Division ID,miller2_SectionName,0.10548523206751055,0
+Division ID,miller2_RegionalProgram(marker),0.008438818565400843,0
+Division ID,miller2_FundCentreID,0.21940928270042195,0
+Division ID,miller2_FundCentreName,0.21940928270042195,0
+Division ID,miller2_UntiedAmount(Project-levelBudget),0.5460829493087558,0
+Division ID,miller2_FSTCPercent,0.20675105485232068,0
+Division ID,miller2_IRTCPercent,0.012658227848101266,0
+Division ID,miller2_CFLI(marker),0.008438818565400843,0
+Division ID,miller2_CIDABusinessDeliveryModel(old),0.012658227848101266,0
+Division ID,miller2_ProgrammingProcess(new),0.004219409282700422,0
+Division ID,miller2_BilateralAid(internationalMarker),0.008438818565400843,0
+Division ID,miller2_PBAType,0.004219409282700422,0
+Division ID,miller2_EnviromentalSustainability(marker),0.012658227848101266,0
+Division ID,miller2_ClimateChangeAdaptation(marker),0.012658227848101266,0
+Division ID,miller2_ClimateChangeMitigation(marker),0.016877637130801686,0
+Division ID,miller2_Desertification(marker),0.016877637130801686,0
+Division ID,miller2_ParticipatoryDevelopmentAndGoodGovernance,0.016877637130801686,0
+Division ID,miller2_TradeDevelopment(marker),0.016877637130801686,0
+Division ID,miller2_Biodiversity(marker),0.016877637130801686,0
+Division ID,miller2_UrbanIssues(marker),0.016877637130801686,0
+Division ID,miller2_ChildrenIssues(marker),0.016877637130801686,0
+Division ID,miller2_YouthIssues(marker),0.016877637130801686,0
+Division ID,miller2_IndigenousIssues(marker),0.016877637130801686,0
+Division ID,miller2_DisabilityIssues(marker),0.016877637130801686,0
+Division ID,miller2_ICTAsAToolForDevelopment(marker),0.012658227848101266,0
+Division ID,miller2_KnowledgeForDevelopment(marker),0.016877637130801686,0
+Division ID,miller2_GenderEquality(marker),0.016877637130801686,0
+Division ID,miller2_OrganisationID,0.6991150442477876,0
+Division ID,miller2_OrganisationName,0.6991150442477876,0
+Division ID,miller2_OrganisationType,0.016877637130801686,0
+Division ID,miller2_OrganisationClass,0.02531645569620253,0
+Division ID,miller2_OrganisationSub-class,0.10126582278481013,0
+Division ID,miller2_ContinentID,0.02109704641350211,0
+Division ID,miller2_ContinentName,0.02109704641350211,0
+Division ID,miller2_ProjectBrowserCountryID,0.6455696202531646,0
+Division ID,miller2_CountryRegionID,0.5991561181434599,0
+Division ID,miller2_CountryRegionName,0.6118143459915611,0
+Division ID,miller2_CountryRegionPercent,0.5895522388059702,0
+Division ID,miller2_SectorID,0.5189873417721519,0
+Division ID,miller2_SectorName,0.5189873417721519,0
+Division ID,miller2_SectorPercent,0.7805907172995781,0
+Division ID,miller2_AmountSpent,0.04721115537848605,0
+Division name,miller2_FiscalYear,0.00017152658662092623,0
+Division name,miller2_ProjectNumber,0.11029159519725558,0
+Division name,miller2_Status,0.0005145797598627787,0
+Division name,miller2_MaximumCIDAContribution(project-level),0.08816466552315609,0
+Division name,miller2_BranchID,0.0008576329331046312,0
+Division name,miller2_BranchName,0.0008576329331046312,0
+Division name,miller2_DivisionID,0.0022298456260720413,0
+Division name,miller2_DivisionName,0.0022298456260720413,1
+Division name,miller2_SectionID,0.004288164665523156,0
+Division name,miller2_SectionName,0.004288164665523156,0
+Division name,miller2_RegionalProgram(marker),0.00034305317324185246,0
+Division name,miller2_FundCentreID,0.008919382504288165,0
+Division name,miller2_FundCentreName,0.008919382504288165,0
+Division name,miller2_UntiedAmount(Project-levelBudget),0.07444253859348199,0
+Division name,miller2_FSTCPercent,0.008404802744425385,0
+Division name,miller2_IRTCPercent,0.0005145797598627787,0
+Division name,miller2_CFLI(marker),0.00034305317324185246,0
+Division name,miller2_CIDABusinessDeliveryModel(old),0.0005145797598627787,0
+Division name,miller2_ProgrammingProcess(new),0.00017152658662092623,0
+Division name,miller2_BilateralAid(internationalMarker),0.00034305317324185246,0
+Division name,miller2_PBAType,0.00017152658662092623,0
+Division name,miller2_EnviromentalSustainability(marker),0.0005145797598627787,0
+Division name,miller2_ClimateChangeAdaptation(marker),0.0005145797598627787,0
+Division name,miller2_ClimateChangeMitigation(marker),0.0006861063464837049,0
+Division name,miller2_Desertification(marker),0.0006861063464837049,0
+Division name,miller2_ParticipatoryDevelopmentAndGoodGovernance,0.0006861063464837049,0
+Division name,miller2_TradeDevelopment(marker),0.0006861063464837049,0
+Division name,miller2_Biodiversity(marker),0.0006861063464837049,0
+Division name,miller2_UrbanIssues(marker),0.0006861063464837049,0
+Division name,miller2_ChildrenIssues(marker),0.0006861063464837049,0
+Division name,miller2_YouthIssues(marker),0.0006861063464837049,0
+Division name,miller2_IndigenousIssues(marker),0.0006861063464837049,0
+Division name,miller2_DisabilityIssues(marker),0.0006861063464837049,0
+Division name,miller2_ICTAsAToolForDevelopment(marker),0.0005145797598627787,0
+Division name,miller2_KnowledgeForDevelopment(marker),0.0006861063464837049,0
+Division name,miller2_GenderEquality(marker),0.0006861063464837049,0
+Division name,miller2_OrganisationID,0.058147512864493996,0
+Division name,miller2_OrganisationName,0.058147512864493996,0
+Division name,miller2_OrganisationType,0.0006861063464837049,0
+Division name,miller2_OrganisationClass,0.0010291595197255575,0
+Division name,miller2_OrganisationSub-class,0.00411663807890223,0
+Division name,miller2_ContinentID,0.0008576329331046312,0
+Division name,miller2_ContinentName,0.0008576329331046312,0
+Division name,miller2_ProjectBrowserCountryID,0.026243567753001715,0
+Division name,miller2_CountryRegionID,0.024356775300171527,0
+Division name,miller2_CountryRegionName,0.024871355060034305,0
+Division name,miller2_CountryRegionPercent,0.06895368782161235,0
+Division name,miller2_SectorID,0.02109777015437393,0
+Division name,miller2_SectorName,0.02109777015437393,0
+Division name,miller2_SectorPercent,0.03173241852487135,0
+Division name,miller2_AmountSpent,0.8610634648370498,0
+Section ID,miller2_FiscalYear,0.0022624434389140274,0
+Section ID,miller2_ProjectNumber,0.687402799377916,0
+Section ID,miller2_Status,0.006787330316742082,0
+Section ID,miller2_MaximumCIDAContribution(project-level),0.8599221789883269,0
+Section ID,miller2_BranchID,0.011312217194570135,0
+Section ID,miller2_BranchName,0.011312217194570135,0
+Section ID,miller2_DivisionID,0.029411764705882353,0
+Section ID,miller2_DivisionName,0.029411764705882353,0
+Section ID,miller2_SectionID,0.05656108597285068,1
+Section ID,miller2_SectionName,0.05656108597285068,0
+Section ID,miller2_RegionalProgram(marker),0.004524886877828055,0
+Section ID,miller2_FundCentreID,0.11764705882352941,0
+Section ID,miller2_FundCentreName,0.11764705882352941,0
+Section ID,miller2_UntiedAmount(Project-levelBudget),0.9819004524886877,0
+Section ID,miller2_FSTCPercent,0.11085972850678733,0
+Section ID,miller2_IRTCPercent,0.006787330316742082,0
+Section ID,miller2_CFLI(marker),0.004524886877828055,0
+Section ID,miller2_CIDABusinessDeliveryModel(old),0.006787330316742082,0
+Section ID,miller2_ProgrammingProcess(new),0.0022624434389140274,0
+Section ID,miller2_BilateralAid(internationalMarker),0.004524886877828055,0
+Section ID,miller2_PBAType,0.0022624434389140274,0
+Section ID,miller2_EnviromentalSustainability(marker),0.006787330316742082,0
+Section ID,miller2_ClimateChangeAdaptation(marker),0.006787330316742082,0
+Section ID,miller2_ClimateChangeMitigation(marker),0.00904977375565611,0
+Section ID,miller2_Desertification(marker),0.00904977375565611,0
+Section ID,miller2_ParticipatoryDevelopmentAndGoodGovernance,0.00904977375565611,0
+Section ID,miller2_TradeDevelopment(marker),0.00904977375565611,0
+Section ID,miller2_Biodiversity(marker),0.00904977375565611,0
+Section ID,miller2_UrbanIssues(marker),0.00904977375565611,0
+Section ID,miller2_ChildrenIssues(marker),0.00904977375565611,0
+Section ID,miller2_YouthIssues(marker),0.00904977375565611,0
+Section ID,miller2_IndigenousIssues(marker),0.00904977375565611,0
+Section ID,miller2_DisabilityIssues(marker),0.00904977375565611,0
+Section ID,miller2_ICTAsAToolForDevelopment(marker),0.006787330316742082,0
+Section ID,miller2_KnowledgeForDevelopment(marker),0.00904977375565611,0
+Section ID,miller2_GenderEquality(marker),0.00904977375565611,0
+Section ID,miller2_OrganisationID,0.7669683257918553,0
+Section ID,miller2_OrganisationName,0.7669683257918553,0
+Section ID,miller2_OrganisationType,0.00904977375565611,0
+Section ID,miller2_OrganisationClass,0.013574660633484163,0
+Section ID,miller2_OrganisationSub-class,0.05429864253393665,0
+Section ID,miller2_ContinentID,0.011312217194570135,0
+Section ID,miller2_ContinentName,0.011312217194570135,0
+Section ID,miller2_ProjectBrowserCountryID,0.34615384615384615,0
+Section ID,miller2_CountryRegionID,0.3212669683257919,0
+Section ID,miller2_CountryRegionName,0.32805429864253394,0
+Section ID,miller2_CountryRegionPercent,0.9095022624434389,0
+Section ID,miller2_SectorID,0.27828054298642535,0
+Section ID,miller2_SectorName,0.27828054298642535,0
+Section ID,miller2_SectorPercent,0.41855203619909503,0
+Section ID,miller2_AmountSpent,0.08804780876494024,0
+Section name,miller2_FiscalYear,0.00021181952976064393,0
+Section name,miller2_ProjectNumber,0.13619995763609405,0
+Section name,miller2_Status,0.0006354585892819318,0
+Section name,miller2_MaximumCIDAContribution(project-level),0.10887523829697097,0
+Section name,miller2_BranchID,0.0010590976488032196,0
+Section name,miller2_BranchName,0.0010590976488032196,0
+Section name,miller2_DivisionID,0.002753653886888371,0
+Section name,miller2_DivisionName,0.002753653886888371,0
+Section name,miller2_SectionID,0.005295488244016098,0
+Section name,miller2_SectionName,0.005295488244016098,1
+Section name,miller2_RegionalProgram(marker),0.00042363905952128787,0
+Section name,miller2_FundCentreID,0.011014615547553484,0
+Section name,miller2_FundCentreName,0.011014615547553484,0
+Section name,miller2_UntiedAmount(Project-levelBudget),0.09192967591611946,0
+Section name,miller2_FSTCPercent,0.010379156958271553,0
+Section name,miller2_IRTCPercent,0.0006354585892819318,0
+Section name,miller2_CFLI(marker),0.00042363905952128787,0
+Section name,miller2_CIDABusinessDeliveryModel(old),0.0006354585892819318,0
+Section name,miller2_ProgrammingProcess(new),0.00021181952976064393,0
+Section name,miller2_BilateralAid(internationalMarker),0.00042363905952128787,0
+Section name,miller2_PBAType,0.00021181952976064393,0
+Section name,miller2_EnviromentalSustainability(marker),0.0006354585892819318,0
+Section name,miller2_ClimateChangeAdaptation(marker),0.0006354585892819318,0
+Section name,miller2_ClimateChangeMitigation(marker),0.0008472781190425757,0
+Section name,miller2_Desertification(marker),0.0008472781190425757,0
+Section name,miller2_ParticipatoryDevelopmentAndGoodGovernance,0.0008472781190425757,0
+Section name,miller2_TradeDevelopment(marker),0.0008472781190425757,0
+Section name,miller2_Biodiversity(marker),0.0008472781190425757,0
+Section name,miller2_UrbanIssues(marker),0.0008472781190425757,0
+Section name,miller2_ChildrenIssues(marker),0.0008472781190425757,0
+Section name,miller2_YouthIssues(marker),0.0008472781190425757,0
+Section name,miller2_IndigenousIssues(marker),0.0008472781190425757,0
+Section name,miller2_DisabilityIssues(marker),0.0008472781190425757,0
+Section name,miller2_ICTAsAToolForDevelopment(marker),0.0006354585892819318,0
+Section name,miller2_KnowledgeForDevelopment(marker),0.0008472781190425757,0
+Section name,miller2_GenderEquality(marker),0.0008472781190425757,0
+Section name,miller2_OrganisationID,0.07180682058885829,0
+Section name,miller2_OrganisationName,0.07180682058885829,0
+Section name,miller2_OrganisationType,0.0008472781190425757,0
+Section name,miller2_OrganisationClass,0.0012709171785638637,0
+Section name,miller2_OrganisationSub-class,0.005083668714255455,0
+Section name,miller2_ContinentID,0.0010590976488032196,0
+Section name,miller2_ContinentName,0.0010590976488032196,0
+Section name,miller2_ProjectBrowserCountryID,0.03240838805337852,0
+Section name,miller2_CountryRegionID,0.030078373226011437,0
+Section name,miller2_CountryRegionName,0.03071383181529337,0
+Section name,miller2_CountryRegionPercent,0.08515145096377887,0
+Section name,miller2_SectorID,0.026053802160559202,0
+Section name,miller2_SectorName,0.026053802160559202,0
+Section name,miller2_SectorPercent,0.03918661300571913,0
+Section name,miller2_AmountSpent,0.9404382470119522,0
+Regional program (marker),miller2_FiscalYear,0.5,0
+Regional program (marker),miller2_ProjectNumber,0.003110419906687403,0
+Regional program (marker),miller2_Status,0.6666666666666666,0
+Regional program (marker),miller2_MaximumCIDAContribution(project-level),0.0038910505836575876,0
+Regional program (marker),miller2_BranchID,0.4,0
+Regional program (marker),miller2_BranchName,0.4,0
+Regional program (marker),miller2_DivisionID,0.15384615384615385,0
+Regional program (marker),miller2_DivisionName,0.15384615384615385,0
+Regional program (marker),miller2_SectionID,0.08,0
+Regional program (marker),miller2_SectionName,0.08,0
+Regional program (marker),miller2_RegionalProgram(marker),1.0,1
+Regional program (marker),miller2_FundCentreID,0.038461538461538464,0
+Regional program (marker),miller2_FundCentreName,0.038461538461538464,0
+Regional program (marker),miller2_UntiedAmount(Project-levelBudget),0.004608294930875576,0
+Regional program (marker),miller2_FSTCPercent,0.04081632653061224,0
+Regional program (marker),miller2_IRTCPercent,0.6666666666666666,0
+Regional program (marker),miller2_CFLI(marker),1.0,0
+Regional program (marker),miller2_CIDABusinessDeliveryModel(old),0.6666666666666666,0
+Regional program (marker),miller2_ProgrammingProcess(new),0.5,0
+Regional program (marker),miller2_BilateralAid(internationalMarker),1.0,0
+Regional program (marker),miller2_PBAType,0.5,0
+Regional program (marker),miller2_EnviromentalSustainability(marker),0.6666666666666666,0
+Regional program (marker),miller2_ClimateChangeAdaptation(marker),0.6666666666666666,0
+Regional program (marker),miller2_ClimateChangeMitigation(marker),0.5,0
+Regional program (marker),miller2_Desertification(marker),0.5,0
+Regional program (marker),miller2_ParticipatoryDevelopmentAndGoodGovernance,0.5,0
+Regional program (marker),miller2_TradeDevelopment(marker),0.5,0
+Regional program (marker),miller2_Biodiversity(marker),0.5,0
+Regional program (marker),miller2_UrbanIssues(marker),0.5,0
+Regional program (marker),miller2_ChildrenIssues(marker),0.5,0
+Regional program (marker),miller2_YouthIssues(marker),0.5,0
+Regional program (marker),miller2_IndigenousIssues(marker),0.5,0
+Regional program (marker),miller2_DisabilityIssues(marker),0.5,0
+Regional program (marker),miller2_ICTAsAToolForDevelopment(marker),0.6666666666666666,0
+Regional program (marker),miller2_KnowledgeForDevelopment(marker),0.5,0
+Regional program (marker),miller2_GenderEquality(marker),0.5,0
+Regional program (marker),miller2_OrganisationID,0.0058997050147492625,0
+Regional program (marker),miller2_OrganisationName,0.0058997050147492625,0
+Regional program (marker),miller2_OrganisationType,0.5,0
+Regional program (marker),miller2_OrganisationClass,0.3333333333333333,0
+Regional program (marker),miller2_OrganisationSub-class,0.08333333333333333,0
+Regional program (marker),miller2_ContinentID,0.4,0
+Regional program (marker),miller2_ContinentName,0.4,0
+Regional program (marker),miller2_ProjectBrowserCountryID,0.013071895424836602,0
+Regional program (marker),miller2_CountryRegionID,0.014084507042253521,0
+Regional program (marker),miller2_CountryRegionName,0.013793103448275862,0
+Regional program (marker),miller2_CountryRegionPercent,0.004975124378109453,0
+Regional program (marker),miller2_SectorID,0.016260162601626018,0
+Regional program (marker),miller2_SectorName,0.016260162601626018,0
+Regional program (marker),miller2_SectorPercent,0.010810810810810811,0
+Regional program (marker),miller2_AmountSpent,0.00039840637450199205,0
+Fund centre ID,miller2_FiscalYear,0.005847953216374269,0
+Fund centre ID,miller2_ProjectNumber,0.26594090202177295,0
+Fund centre ID,miller2_Status,0.017543859649122806,0
+Fund centre ID,miller2_MaximumCIDAContribution(project-level),0.3326848249027237,0
+Fund centre ID,miller2_BranchID,0.029239766081871343,0
+Fund centre ID,miller2_BranchName,0.029239766081871343,0
+Fund centre ID,miller2_DivisionID,0.07602339181286549,0
+Fund centre ID,miller2_DivisionName,0.07602339181286549,0
+Fund centre ID,miller2_SectionID,0.14619883040935672,0
+Fund centre ID,miller2_SectionName,0.14619883040935672,0
+Fund centre ID,miller2_RegionalProgram(marker),0.011695906432748537,0
+Fund centre ID,miller2_FundCentreID,0.30409356725146197,1
+Fund centre ID,miller2_FundCentreName,0.30409356725146197,0
+Fund centre ID,miller2_UntiedAmount(Project-levelBudget),0.39400921658986177,0
+Fund centre ID,miller2_FSTCPercent,0.28654970760233917,0
+Fund centre ID,miller2_IRTCPercent,0.017543859649122806,0
+Fund centre ID,miller2_CFLI(marker),0.011695906432748537,0
+Fund centre ID,miller2_CIDABusinessDeliveryModel(old),0.017543859649122806,0
+Fund centre ID,miller2_ProgrammingProcess(new),0.005847953216374269,0
+Fund centre ID,miller2_BilateralAid(internationalMarker),0.011695906432748537,0
+Fund centre ID,miller2_PBAType,0.005847953216374269,0
+Fund centre ID,miller2_EnviromentalSustainability(marker),0.017543859649122806,0
+Fund centre ID,miller2_ClimateChangeAdaptation(marker),0.017543859649122806,0
+Fund centre ID,miller2_ClimateChangeMitigation(marker),0.023391812865497075,0
+Fund centre ID,miller2_Desertification(marker),0.023391812865497075,0
+Fund centre ID,miller2_ParticipatoryDevelopmentAndGoodGovernance,0.023391812865497075,0
+Fund centre ID,miller2_TradeDevelopment(marker),0.023391812865497075,0
+Fund centre ID,miller2_Biodiversity(marker),0.023391812865497075,0
+Fund centre ID,miller2_UrbanIssues(marker),0.023391812865497075,0
+Fund centre ID,miller2_ChildrenIssues(marker),0.023391812865497075,0
+Fund centre ID,miller2_YouthIssues(marker),0.023391812865497075,0
+Fund centre ID,miller2_IndigenousIssues(marker),0.023391812865497075,0
+Fund centre ID,miller2_DisabilityIssues(marker),0.023391812865497075,0
+Fund centre ID,miller2_ICTAsAToolForDevelopment(marker),0.017543859649122806,0
+Fund centre ID,miller2_KnowledgeForDevelopment(marker),0.023391812865497075,0
+Fund centre ID,miller2_GenderEquality(marker),0.023391812865497075,0
+Fund centre ID,miller2_OrganisationID,0.504424778761062,0
+Fund centre ID,miller2_OrganisationName,0.504424778761062,0
+Fund centre ID,miller2_OrganisationType,0.023391812865497075,0
+Fund centre ID,miller2_OrganisationClass,0.03508771929824561,0
+Fund centre ID,miller2_OrganisationSub-class,0.14035087719298245,0
+Fund centre ID,miller2_ContinentID,0.029239766081871343,0
+Fund centre ID,miller2_ContinentName,0.029239766081871343,0
+Fund centre ID,miller2_ProjectBrowserCountryID,0.8947368421052632,0
+Fund centre ID,miller2_CountryRegionID,0.8304093567251462,0
+Fund centre ID,miller2_CountryRegionName,0.847953216374269,0
+Fund centre ID,miller2_CountryRegionPercent,0.4253731343283582,0
+Fund centre ID,miller2_SectorID,0.7192982456140351,0
+Fund centre ID,miller2_SectorName,0.7192982456140351,0
+Fund centre ID,miller2_SectorPercent,0.9243243243243243,0
+Fund centre ID,miller2_AmountSpent,0.03406374501992032,0
+Fund centre name,miller2_FiscalYear,0.00020837674515524068,0
+Fund centre name,miller2_ProjectNumber,0.13398624713481974,0
+Fund centre name,miller2_Status,0.000625130235465722,0
+Fund centre name,miller2_MaximumCIDAContribution(project-level),0.1071056470097937,0
+Fund centre name,miller2_BranchID,0.0010418837257762034,0
+Fund centre name,miller2_BranchName,0.0010418837257762034,0
+Fund centre name,miller2_DivisionID,0.0027088976870181286,0
+Fund centre name,miller2_DivisionName,0.0027088976870181286,0
+Fund centre name,miller2_SectionID,0.005209418628881017,0
+Fund centre name,miller2_SectionName,0.005209418628881017,0
+Fund centre name,miller2_RegionalProgram(marker),0.00041675349031048136,0
+Fund centre name,miller2_FundCentreID,0.010835590748072515,0
+Fund centre name,miller2_FundCentreName,0.010835590748072515,1
+Fund centre name,miller2_UntiedAmount(Project-levelBudget),0.09043550739737445,0
+Fund centre name,miller2_FSTCPercent,0.010210460512606793,0
+Fund centre name,miller2_IRTCPercent,0.000625130235465722,0
+Fund centre name,miller2_CFLI(marker),0.00041675349031048136,0
+Fund centre name,miller2_CIDABusinessDeliveryModel(old),0.000625130235465722,0
+Fund centre name,miller2_ProgrammingProcess(new),0.00020837674515524068,0
+Fund centre name,miller2_BilateralAid(internationalMarker),0.00041675349031048136,0
+Fund centre name,miller2_PBAType,0.00020837674515524068,0
+Fund centre name,miller2_EnviromentalSustainability(marker),0.000625130235465722,0
+Fund centre name,miller2_ClimateChangeAdaptation(marker),0.000625130235465722,0
+Fund centre name,miller2_ClimateChangeMitigation(marker),0.0008335069806209627,0
+Fund centre name,miller2_Desertification(marker),0.0008335069806209627,0
+Fund centre name,miller2_ParticipatoryDevelopmentAndGoodGovernance,0.0008335069806209627,0
+Fund centre name,miller2_TradeDevelopment(marker),0.0008335069806209627,0
+Fund centre name,miller2_Biodiversity(marker),0.0008335069806209627,0
+Fund centre name,miller2_UrbanIssues(marker),0.0008335069806209627,0
+Fund centre name,miller2_ChildrenIssues(marker),0.0008335069806209627,0
+Fund centre name,miller2_YouthIssues(marker),0.0008335069806209627,0
+Fund centre name,miller2_IndigenousIssues(marker),0.0008335069806209627,0
+Fund centre name,miller2_DisabilityIssues(marker),0.0008335069806209627,0
+Fund centre name,miller2_ICTAsAToolForDevelopment(marker),0.000625130235465722,0
+Fund centre name,miller2_KnowledgeForDevelopment(marker),0.0008335069806209627,0
+Fund centre name,miller2_GenderEquality(marker),0.0008335069806209627,0
+Fund centre name,miller2_OrganisationID,0.0706397166076266,0
+Fund centre name,miller2_OrganisationName,0.0706397166076266,0
+Fund centre name,miller2_OrganisationType,0.0008335069806209627,0
+Fund centre name,miller2_OrganisationClass,0.001250260470931444,0
+Fund centre name,miller2_OrganisationSub-class,0.005001041883725776,0
+Fund centre name,miller2_ContinentID,0.0010418837257762034,0
+Fund centre name,miller2_ContinentName,0.0010418837257762034,0
+Fund centre name,miller2_ProjectBrowserCountryID,0.03188164200875182,0
+Fund centre name,miller2_CountryRegionID,0.029589497812044174,0
+Fund centre name,miller2_CountryRegionName,0.0302146280475099,0
+Fund centre name,miller2_CountryRegionPercent,0.08376745155240675,0
+Fund centre name,miller2_SectorID,0.025630339654094603,0
+Fund centre name,miller2_SectorName,0.025630339654094603,0
+Fund centre name,miller2_SectorPercent,0.038549697853719526,0
+Fund centre name,miller2_AmountSpent,0.9559760956175298,0
+Untied amount(Project-level budget),miller2_FiscalYear,0.00014988009592326138,0
+Untied amount(Project-level budget),miller2_ProjectNumber,0.09637290167865707,0
+Untied amount(Project-level budget),miller2_Status,0.0004496402877697842,0
+Untied amount(Project-level budget),miller2_MaximumCIDAContribution(project-level),0.07703836930455636,0
+Untied amount(Project-level budget),miller2_BranchID,0.000749400479616307,0
+Untied amount(Project-level budget),miller2_BranchName,0.000749400479616307,0
+Untied amount(Project-level budget),miller2_DivisionID,0.0019484412470023981,0
+Untied amount(Project-level budget),miller2_DivisionName,0.0019484412470023981,0
+Untied amount(Project-level budget),miller2_SectionID,0.003747002398081535,0
+Untied amount(Project-level budget),miller2_SectionName,0.003747002398081535,0
+Untied amount(Project-level budget),miller2_RegionalProgram(marker),0.00029976019184652276,0
+Untied amount(Project-level budget),miller2_FundCentreID,0.0077937649880095924,0
+Untied amount(Project-level budget),miller2_FundCentreName,0.0077937649880095924,0
+Untied amount(Project-level budget),miller2_UntiedAmount(Project-levelBudget),0.06504796163069544,1
+Untied amount(Project-level budget),miller2_FSTCPercent,0.0073441247002398085,0
+Untied amount(Project-level budget),miller2_IRTCPercent,0.0004496402877697842,0
+Untied amount(Project-level budget),miller2_CFLI(marker),0.00029976019184652276,0
+Untied amount(Project-level budget),miller2_CIDABusinessDeliveryModel(old),0.0004496402877697842,0
+Untied amount(Project-level budget),miller2_ProgrammingProcess(new),0.00014988009592326138,0
+Untied amount(Project-level budget),miller2_BilateralAid(internationalMarker),0.00029976019184652276,0
+Untied amount(Project-level budget),miller2_PBAType,0.00014988009592326138,0
+Untied amount(Project-level budget),miller2_EnviromentalSustainability(marker),0.0004496402877697842,0
+Untied amount(Project-level budget),miller2_ClimateChangeAdaptation(marker),0.0004496402877697842,0
+Untied amount(Project-level budget),miller2_ClimateChangeMitigation(marker),0.0005995203836930455,0
+Untied amount(Project-level budget),miller2_Desertification(marker),0.0005995203836930455,0
+Untied amount(Project-level budget),miller2_ParticipatoryDevelopmentAndGoodGovernance,0.0005995203836930455,0
+Untied amount(Project-level budget),miller2_TradeDevelopment(marker),0.0005995203836930455,0
+Untied amount(Project-level budget),miller2_Biodiversity(marker),0.0005995203836930455,0
+Untied amount(Project-level budget),miller2_UrbanIssues(marker),0.0005995203836930455,0
+Untied amount(Project-level budget),miller2_ChildrenIssues(marker),0.0005995203836930455,0
+Untied amount(Project-level budget),miller2_YouthIssues(marker),0.0005995203836930455,0
+Untied amount(Project-level budget),miller2_IndigenousIssues(marker),0.0005995203836930455,0
+Untied amount(Project-level budget),miller2_DisabilityIssues(marker),0.0005995203836930455,0
+Untied amount(Project-level budget),miller2_ICTAsAToolForDevelopment(marker),0.0004496402877697842,0
+Untied amount(Project-level budget),miller2_KnowledgeForDevelopment(marker),0.0005995203836930455,0
+Untied amount(Project-level budget),miller2_GenderEquality(marker),0.0005995203836930455,0
+Untied amount(Project-level budget),miller2_OrganisationID,0.050809352517985615,0
+Untied amount(Project-level budget),miller2_OrganisationName,0.050809352517985615,0
+Untied amount(Project-level budget),miller2_OrganisationType,0.0005995203836930455,0
+Untied amount(Project-level budget),miller2_OrganisationClass,0.0008992805755395684,0
+Untied amount(Project-level budget),miller2_OrganisationSub-class,0.0035971223021582736,0
+Untied amount(Project-level budget),miller2_ContinentID,0.000749400479616307,0
+Untied amount(Project-level budget),miller2_ContinentName,0.000749400479616307,0
+Untied amount(Project-level budget),miller2_ProjectBrowserCountryID,0.022931654676258992,0
+Untied amount(Project-level budget),miller2_CountryRegionID,0.021282973621103117,0
+Untied amount(Project-level budget),miller2_CountryRegionName,0.021732613908872902,0
+Untied amount(Project-level budget),miller2_CountryRegionPercent,0.06025179856115108,0
+Untied amount(Project-level budget),miller2_SectorID,0.01843525179856115,0
+Untied amount(Project-level budget),miller2_SectorName,0.01843525179856115,0
+Untied amount(Project-level budget),miller2_SectorPercent,0.02772781774580336,0
+Untied amount(Project-level budget),miller2_AmountSpent,0.7523980815347722,0
+FSTC percent,miller2_FiscalYear,0.000170590242238144,0
+FSTC percent,miller2_ProjectNumber,0.10968952575912658,0
+FSTC percent,miller2_Status,0.0005117707267144319,0
+FSTC percent,miller2_MaximumCIDAContribution(project-level),0.087683384510406,0
+FSTC percent,miller2_BranchID,0.0008529512111907199,0
+FSTC percent,miller2_BranchName,0.0008529512111907199,0
+FSTC percent,miller2_DivisionID,0.002217673149095872,0
+FSTC percent,miller2_DivisionName,0.002217673149095872,0
+FSTC percent,miller2_SectionID,0.004264756055953599,0
+FSTC percent,miller2_SectionName,0.004264756055953599,0
+FSTC percent,miller2_RegionalProgram(marker),0.000341180484476288,0
+FSTC percent,miller2_FundCentreID,0.008870692596383487,0
+FSTC percent,miller2_FundCentreName,0.008870692596383487,0
+FSTC percent,miller2_UntiedAmount(Project-levelBudget),0.07403616513135448,0
+FSTC percent,miller2_FSTCPercent,0.008358921869669056,1
+FSTC percent,miller2_IRTCPercent,0.0005117707267144319,0
+FSTC percent,miller2_CFLI(marker),0.000341180484476288,0
+FSTC percent,miller2_CIDABusinessDeliveryModel(old),0.0005117707267144319,0
+FSTC percent,miller2_ProgrammingProcess(new),0.000170590242238144,0
+FSTC percent,miller2_BilateralAid(internationalMarker),0.000341180484476288,0
+FSTC percent,miller2_PBAType,0.000170590242238144,0
+FSTC percent,miller2_EnviromentalSustainability(marker),0.0005117707267144319,0
+FSTC percent,miller2_ClimateChangeAdaptation(marker),0.0005117707267144319,0
+FSTC percent,miller2_ClimateChangeMitigation(marker),0.000682360968952576,0
+FSTC percent,miller2_Desertification(marker),0.000682360968952576,0
+FSTC percent,miller2_ParticipatoryDevelopmentAndGoodGovernance,0.000682360968952576,0
+FSTC percent,miller2_TradeDevelopment(marker),0.000682360968952576,0
+FSTC percent,miller2_Biodiversity(marker),0.000682360968952576,0
+FSTC percent,miller2_UrbanIssues(marker),0.000682360968952576,0
+FSTC percent,miller2_ChildrenIssues(marker),0.000682360968952576,0
+FSTC percent,miller2_YouthIssues(marker),0.000682360968952576,0
+FSTC percent,miller2_IndigenousIssues(marker),0.000682360968952576,0
+FSTC percent,miller2_DisabilityIssues(marker),0.000682360968952576,0
+FSTC percent,miller2_ICTAsAToolForDevelopment(marker),0.0005117707267144319,0
+FSTC percent,miller2_KnowledgeForDevelopment(marker),0.000682360968952576,0
+FSTC percent,miller2_GenderEquality(marker),0.000682360968952576,0
+FSTC percent,miller2_OrganisationID,0.05783009211873081,0
+FSTC percent,miller2_OrganisationName,0.05783009211873081,0
+FSTC percent,miller2_OrganisationType,0.000682360968952576,0
+FSTC percent,miller2_OrganisationClass,0.0010235414534288639,0
+FSTC percent,miller2_OrganisationSub-class,0.0040941658137154556,0
+FSTC percent,miller2_ContinentID,0.0008529512111907199,0
+FSTC percent,miller2_ContinentName,0.0008529512111907199,0
+FSTC percent,miller2_ProjectBrowserCountryID,0.026100307062436028,0
+FSTC percent,miller2_CountryRegionID,0.024223814397816446,0
+FSTC percent,miller2_CountryRegionName,0.024735585124530876,0
+FSTC percent,miller2_CountryRegionPercent,0.06857727737973388,0
+FSTC percent,miller2_SectorID,0.02098259979529171,0
+FSTC percent,miller2_SectorName,0.02098259979529171,0
+FSTC percent,miller2_SectorPercent,0.03155919481405663,0
+FSTC percent,miller2_AmountSpent,0.8563630160354828,0
+IRTC percent,miller2_FiscalYear,0.25,0
+IRTC percent,miller2_ProjectNumber,0.006220839813374806,0
+IRTC percent,miller2_Status,0.75,0
+IRTC percent,miller2_MaximumCIDAContribution(project-level),0.007782101167315175,0
+IRTC percent,miller2_BranchID,0.8,0
+IRTC percent,miller2_BranchName,0.8,0
+IRTC percent,miller2_DivisionID,0.3076923076923077,0
+IRTC percent,miller2_DivisionName,0.3076923076923077,0
+IRTC percent,miller2_SectionID,0.16,0
+IRTC percent,miller2_SectionName,0.16,0
+IRTC percent,miller2_RegionalProgram(marker),0.5,0
+IRTC percent,miller2_FundCentreID,0.07692307692307693,0
+IRTC percent,miller2_FundCentreName,0.07692307692307693,0
+IRTC percent,miller2_UntiedAmount(Project-levelBudget),0.009216589861751152,0
+IRTC percent,miller2_FSTCPercent,0.08163265306122448,0
+IRTC percent,miller2_IRTCPercent,0.75,1
+IRTC percent,miller2_CFLI(marker),0.5,0
+IRTC percent,miller2_CIDABusinessDeliveryModel(old),0.75,0
+IRTC percent,miller2_ProgrammingProcess(new),0.25,0
+IRTC percent,miller2_BilateralAid(internationalMarker),0.5,0
+IRTC percent,miller2_PBAType,0.25,0
+IRTC percent,miller2_EnviromentalSustainability(marker),0.75,0
+IRTC percent,miller2_ClimateChangeAdaptation(marker),0.75,0
+IRTC percent,miller2_ClimateChangeMitigation(marker),1.0,0
+IRTC percent,miller2_Desertification(marker),1.0,0
+IRTC percent,miller2_ParticipatoryDevelopmentAndGoodGovernance,1.0,0
+IRTC percent,miller2_TradeDevelopment(marker),1.0,0
+IRTC percent,miller2_Biodiversity(marker),1.0,0
+IRTC percent,miller2_UrbanIssues(marker),1.0,0
+IRTC percent,miller2_ChildrenIssues(marker),1.0,0
+IRTC percent,miller2_YouthIssues(marker),1.0,0
+IRTC percent,miller2_IndigenousIssues(marker),1.0,0
+IRTC percent,miller2_DisabilityIssues(marker),1.0,0
+IRTC percent,miller2_ICTAsAToolForDevelopment(marker),0.75,0
+IRTC percent,miller2_KnowledgeForDevelopment(marker),1.0,0
+IRTC percent,miller2_GenderEquality(marker),1.0,0
+IRTC percent,miller2_OrganisationID,0.011799410029498525,0
+IRTC percent,miller2_OrganisationName,0.011799410029498525,0
+IRTC percent,miller2_OrganisationType,1.0,0
+IRTC percent,miller2_OrganisationClass,0.6666666666666666,0
+IRTC percent,miller2_OrganisationSub-class,0.16666666666666666,0
+IRTC percent,miller2_ContinentID,0.8,0
+IRTC percent,miller2_ContinentName,0.8,0
+IRTC percent,miller2_ProjectBrowserCountryID,0.026143790849673203,0
+IRTC percent,miller2_CountryRegionID,0.028169014084507043,0
+IRTC percent,miller2_CountryRegionName,0.027586206896551724,0
+IRTC percent,miller2_CountryRegionPercent,0.009950248756218905,0
+IRTC percent,miller2_SectorID,0.032520325203252036,0
+IRTC percent,miller2_SectorName,0.032520325203252036,0
+IRTC percent,miller2_SectorPercent,0.021621621621621623,0
+IRTC percent,miller2_AmountSpent,0.0007968127490039841,0
+CFLI (marker),miller2_FiscalYear,0.5,0
+CFLI (marker),miller2_ProjectNumber,0.003110419906687403,0
+CFLI (marker),miller2_Status,0.6666666666666666,0
+CFLI (marker),miller2_MaximumCIDAContribution(project-level),0.0038910505836575876,0
+CFLI (marker),miller2_BranchID,0.4,0
+CFLI (marker),miller2_BranchName,0.4,0
+CFLI (marker),miller2_DivisionID,0.15384615384615385,0
+CFLI (marker),miller2_DivisionName,0.15384615384615385,0
+CFLI (marker),miller2_SectionID,0.08,0
+CFLI (marker),miller2_SectionName,0.08,0
+CFLI (marker),miller2_RegionalProgram(marker),1.0,0
+CFLI (marker),miller2_FundCentreID,0.038461538461538464,0
+CFLI (marker),miller2_FundCentreName,0.038461538461538464,0
+CFLI (marker),miller2_UntiedAmount(Project-levelBudget),0.004608294930875576,0
+CFLI (marker),miller2_FSTCPercent,0.04081632653061224,0
+CFLI (marker),miller2_IRTCPercent,0.6666666666666666,0
+CFLI (marker),miller2_CFLI(marker),1.0,1
+CFLI (marker),miller2_CIDABusinessDeliveryModel(old),0.6666666666666666,0
+CFLI (marker),miller2_ProgrammingProcess(new),0.5,0
+CFLI (marker),miller2_BilateralAid(internationalMarker),1.0,0
+CFLI (marker),miller2_PBAType,0.5,0
+CFLI (marker),miller2_EnviromentalSustainability(marker),0.6666666666666666,0
+CFLI (marker),miller2_ClimateChangeAdaptation(marker),0.6666666666666666,0
+CFLI (marker),miller2_ClimateChangeMitigation(marker),0.5,0
+CFLI (marker),miller2_Desertification(marker),0.5,0
+CFLI (marker),miller2_ParticipatoryDevelopmentAndGoodGovernance,0.5,0
+CFLI (marker),miller2_TradeDevelopment(marker),0.5,0
+CFLI (marker),miller2_Biodiversity(marker),0.5,0
+CFLI (marker),miller2_UrbanIssues(marker),0.5,0
+CFLI (marker),miller2_ChildrenIssues(marker),0.5,0
+CFLI (marker),miller2_YouthIssues(marker),0.5,0
+CFLI (marker),miller2_IndigenousIssues(marker),0.5,0
+CFLI (marker),miller2_DisabilityIssues(marker),0.5,0
+CFLI (marker),miller2_ICTAsAToolForDevelopment(marker),0.6666666666666666,0
+CFLI (marker),miller2_KnowledgeForDevelopment(marker),0.5,0
+CFLI (marker),miller2_GenderEquality(marker),0.5,0
+CFLI (marker),miller2_OrganisationID,0.0058997050147492625,0
+CFLI (marker),miller2_OrganisationName,0.0058997050147492625,0
+CFLI (marker),miller2_OrganisationType,0.5,0
+CFLI (marker),miller2_OrganisationClass,0.3333333333333333,0
+CFLI (marker),miller2_OrganisationSub-class,0.08333333333333333,0
+CFLI (marker),miller2_ContinentID,0.4,0
+CFLI (marker),miller2_ContinentName,0.4,0
+CFLI (marker),miller2_ProjectBrowserCountryID,0.013071895424836602,0
+CFLI (marker),miller2_CountryRegionID,0.014084507042253521,0
+CFLI (marker),miller2_CountryRegionName,0.013793103448275862,0
+CFLI (marker),miller2_CountryRegionPercent,0.004975124378109453,0
+CFLI (marker),miller2_SectorID,0.016260162601626018,0
+CFLI (marker),miller2_SectorName,0.016260162601626018,0
+CFLI (marker),miller2_SectorPercent,0.010810810810810811,0
+CFLI (marker),miller2_AmountSpent,0.00039840637450199205,0
+CIDA business delivery model (old),miller2_FiscalYear,0.00033967391304347825,0
+CIDA business delivery model (old),miller2_ProjectNumber,0.2184103260869565,0
+CIDA business delivery model (old),miller2_Status,0.0010190217391304348,0
+CIDA business delivery model (old),miller2_MaximumCIDAContribution(project-level),0.17459239130434784,0
+CIDA business delivery model (old),miller2_BranchID,0.0016983695652173913,0
+CIDA business delivery model (old),miller2_BranchName,0.0016983695652173913,0
+CIDA business delivery model (old),miller2_DivisionID,0.004415760869565217,0
+CIDA business delivery model (old),miller2_DivisionName,0.004415760869565217,0
+CIDA business delivery model (old),miller2_SectionID,0.008491847826086956,0
+CIDA business delivery model (old),miller2_SectionName,0.008491847826086956,0
+CIDA business delivery model (old),miller2_RegionalProgram(marker),0.0006793478260869565,0
+CIDA business delivery model (old),miller2_FundCentreID,0.017663043478260868,0
+CIDA business delivery model (old),miller2_FundCentreName,0.017663043478260868,0
+CIDA business delivery model (old),miller2_UntiedAmount(Project-levelBudget),0.14741847826086957,0
+CIDA business delivery model (old),miller2_FSTCPercent,0.016644021739130436,0
+CIDA business delivery model (old),miller2_IRTCPercent,0.0010190217391304348,0
+CIDA business delivery model (old),miller2_CFLI(marker),0.0006793478260869565,0
+CIDA business delivery model (old),miller2_CIDABusinessDeliveryModel(old),0.0010190217391304348,1
+CIDA business delivery model (old),miller2_ProgrammingProcess(new),0.00033967391304347825,0
+CIDA business delivery model (old),miller2_BilateralAid(internationalMarker),0.0006793478260869565,0
+CIDA business delivery model (old),miller2_PBAType,0.00033967391304347825,0
+CIDA business delivery model (old),miller2_EnviromentalSustainability(marker),0.0010190217391304348,0
+CIDA business delivery model (old),miller2_ClimateChangeAdaptation(marker),0.0010190217391304348,0
+CIDA business delivery model (old),miller2_ClimateChangeMitigation(marker),0.001358695652173913,0
+CIDA business delivery model (old),miller2_Desertification(marker),0.001358695652173913,0
+CIDA business delivery model (old),miller2_ParticipatoryDevelopmentAndGoodGovernance,0.001358695652173913,0
+CIDA business delivery model (old),miller2_TradeDevelopment(marker),0.001358695652173913,0
+CIDA business delivery model (old),miller2_Biodiversity(marker),0.001358695652173913,0
+CIDA business delivery model (old),miller2_UrbanIssues(marker),0.001358695652173913,0
+CIDA business delivery model (old),miller2_ChildrenIssues(marker),0.001358695652173913,0
+CIDA business delivery model (old),miller2_YouthIssues(marker),0.001358695652173913,0
+CIDA business delivery model (old),miller2_IndigenousIssues(marker),0.001358695652173913,0
+CIDA business delivery model (old),miller2_DisabilityIssues(marker),0.001358695652173913,0
+CIDA business delivery model (old),miller2_ICTAsAToolForDevelopment(marker),0.0010190217391304348,0
+CIDA business delivery model (old),miller2_KnowledgeForDevelopment(marker),0.001358695652173913,0
+CIDA business delivery model (old),miller2_GenderEquality(marker),0.001358695652173913,0
+CIDA business delivery model (old),miller2_OrganisationID,0.11514945652173914,0
+CIDA business delivery model (old),miller2_OrganisationName,0.11514945652173914,0
+CIDA business delivery model (old),miller2_OrganisationType,0.001358695652173913,0
+CIDA business delivery model (old),miller2_OrganisationClass,0.0020380434782608695,0
+CIDA business delivery model (old),miller2_OrganisationSub-class,0.008152173913043478,0
+CIDA business delivery model (old),miller2_ContinentID,0.0016983695652173913,0
+CIDA business delivery model (old),miller2_ContinentName,0.0016983695652173913,0
+CIDA business delivery model (old),miller2_ProjectBrowserCountryID,0.051970108695652176,0
+CIDA business delivery model (old),miller2_CountryRegionID,0.04823369565217391,0
+CIDA business delivery model (old),miller2_CountryRegionName,0.049252717391304345,0
+CIDA business delivery model (old),miller2_CountryRegionPercent,0.13654891304347827,0
+CIDA business delivery model (old),miller2_SectorID,0.041779891304347824,0
+CIDA business delivery model (old),miller2_SectorName,0.041779891304347824,0
+CIDA business delivery model (old),miller2_SectorPercent,0.06283967391304347,0
+CIDA business delivery model (old),miller2_AmountSpent,0.5864541832669322,0
+Programming process (new),miller2_FiscalYear,0.0004038772213247173,0
+Programming process (new),miller2_ProjectNumber,0.2596930533117932,0
+Programming process (new),miller2_Status,0.0012116316639741518,0
+Programming process (new),miller2_MaximumCIDAContribution(project-level),0.20759289176090467,0
+Programming process (new),miller2_BranchID,0.0020193861066235864,0
+Programming process (new),miller2_BranchName,0.0020193861066235864,0
+Programming process (new),miller2_DivisionID,0.005250403877221325,0
+Programming process (new),miller2_DivisionName,0.005250403877221325,0
+Programming process (new),miller2_SectionID,0.010096930533117932,0
+Programming process (new),miller2_SectionName,0.010096930533117932,0
+Programming process (new),miller2_RegionalProgram(marker),0.0008077544426494346,0
+Programming process (new),miller2_FundCentreID,0.0210016155088853,0
+Programming process (new),miller2_FundCentreName,0.0210016155088853,0
+Programming process (new),miller2_UntiedAmount(Project-levelBudget),0.1752827140549273,0
+Programming process (new),miller2_FSTCPercent,0.01978998384491115,0
+Programming process (new),miller2_IRTCPercent,0.0012116316639741518,0
+Programming process (new),miller2_CFLI(marker),0.0008077544426494346,0
+Programming process (new),miller2_CIDABusinessDeliveryModel(old),0.0012116316639741518,0
+Programming process (new),miller2_ProgrammingProcess(new),0.0004038772213247173,1
+Programming process (new),miller2_BilateralAid(internationalMarker),0.0008077544426494346,0
+Programming process (new),miller2_PBAType,0.0004038772213247173,0
+Programming process (new),miller2_EnviromentalSustainability(marker),0.0012116316639741518,0
+Programming process (new),miller2_ClimateChangeAdaptation(marker),0.0012116316639741518,0
+Programming process (new),miller2_ClimateChangeMitigation(marker),0.0016155088852988692,0
+Programming process (new),miller2_Desertification(marker),0.0016155088852988692,0
+Programming process (new),miller2_ParticipatoryDevelopmentAndGoodGovernance,0.0016155088852988692,0
+Programming process (new),miller2_TradeDevelopment(marker),0.0016155088852988692,0
+Programming process (new),miller2_Biodiversity(marker),0.0016155088852988692,0
+Programming process (new),miller2_UrbanIssues(marker),0.0016155088852988692,0
+Programming process (new),miller2_ChildrenIssues(marker),0.0016155088852988692,0
+Programming process (new),miller2_YouthIssues(marker),0.0016155088852988692,0
+Programming process (new),miller2_IndigenousIssues(marker),0.0016155088852988692,0
+Programming process (new),miller2_DisabilityIssues(marker),0.0016155088852988692,0
+Programming process (new),miller2_ICTAsAToolForDevelopment(marker),0.0012116316639741518,0
+Programming process (new),miller2_KnowledgeForDevelopment(marker),0.0016155088852988692,0
+Programming process (new),miller2_GenderEquality(marker),0.0016155088852988692,0
+Programming process (new),miller2_OrganisationID,0.13691437802907916,0
+Programming process (new),miller2_OrganisationName,0.13691437802907916,0
+Programming process (new),miller2_OrganisationType,0.0016155088852988692,0
+Programming process (new),miller2_OrganisationClass,0.0024232633279483036,0
+Programming process (new),miller2_OrganisationSub-class,0.009693053311793215,0
+Programming process (new),miller2_ContinentID,0.0020193861066235864,0
+Programming process (new),miller2_ContinentName,0.0020193861066235864,0
+Programming process (new),miller2_ProjectBrowserCountryID,0.061793214862681745,0
+Programming process (new),miller2_CountryRegionID,0.05735056542810985,0
+Programming process (new),miller2_CountryRegionName,0.058562197092084003,0
+Programming process (new),miller2_CountryRegionPercent,0.16235864297253635,0
+Programming process (new),miller2_SectorID,0.049676898222940226,0
+Programming process (new),miller2_SectorName,0.049676898222940226,0
+Programming process (new),miller2_SectorPercent,0.0747172859450727,0
+Programming process (new),miller2_AmountSpent,0.4932270916334661,0
+Bilateral aid (international marker),miller2_FiscalYear,0.5,0
+Bilateral aid (international marker),miller2_ProjectNumber,0.003110419906687403,0
+Bilateral aid (international marker),miller2_Status,0.6666666666666666,0
+Bilateral aid (international marker),miller2_MaximumCIDAContribution(project-level),0.0038910505836575876,0
+Bilateral aid (international marker),miller2_BranchID,0.4,0
+Bilateral aid (international marker),miller2_BranchName,0.4,0
+Bilateral aid (international marker),miller2_DivisionID,0.15384615384615385,0
+Bilateral aid (international marker),miller2_DivisionName,0.15384615384615385,0
+Bilateral aid (international marker),miller2_SectionID,0.08,0
+Bilateral aid (international marker),miller2_SectionName,0.08,0
+Bilateral aid (international marker),miller2_RegionalProgram(marker),1.0,0
+Bilateral aid (international marker),miller2_FundCentreID,0.038461538461538464,0
+Bilateral aid (international marker),miller2_FundCentreName,0.038461538461538464,0
+Bilateral aid (international marker),miller2_UntiedAmount(Project-levelBudget),0.004608294930875576,0
+Bilateral aid (international marker),miller2_FSTCPercent,0.04081632653061224,0
+Bilateral aid (international marker),miller2_IRTCPercent,0.6666666666666666,0
+Bilateral aid (international marker),miller2_CFLI(marker),1.0,0
+Bilateral aid (international marker),miller2_CIDABusinessDeliveryModel(old),0.6666666666666666,0
+Bilateral aid (international marker),miller2_ProgrammingProcess(new),0.5,0
+Bilateral aid (international marker),miller2_BilateralAid(internationalMarker),1.0,1
+Bilateral aid (international marker),miller2_PBAType,0.5,0
+Bilateral aid (international marker),miller2_EnviromentalSustainability(marker),0.6666666666666666,0
+Bilateral aid (international marker),miller2_ClimateChangeAdaptation(marker),0.6666666666666666,0
+Bilateral aid (international marker),miller2_ClimateChangeMitigation(marker),0.5,0
+Bilateral aid (international marker),miller2_Desertification(marker),0.5,0
+Bilateral aid (international marker),miller2_ParticipatoryDevelopmentAndGoodGovernance,0.5,0
+Bilateral aid (international marker),miller2_TradeDevelopment(marker),0.5,0
+Bilateral aid (international marker),miller2_Biodiversity(marker),0.5,0
+Bilateral aid (international marker),miller2_UrbanIssues(marker),0.5,0
+Bilateral aid (international marker),miller2_ChildrenIssues(marker),0.5,0
+Bilateral aid (international marker),miller2_YouthIssues(marker),0.5,0
+Bilateral aid (international marker),miller2_IndigenousIssues(marker),0.5,0
+Bilateral aid (international marker),miller2_DisabilityIssues(marker),0.5,0
+Bilateral aid (international marker),miller2_ICTAsAToolForDevelopment(marker),0.6666666666666666,0
+Bilateral aid (international marker),miller2_KnowledgeForDevelopment(marker),0.5,0
+Bilateral aid (international marker),miller2_GenderEquality(marker),0.5,0
+Bilateral aid (international marker),miller2_OrganisationID,0.0058997050147492625,0
+Bilateral aid (international marker),miller2_OrganisationName,0.0058997050147492625,0
+Bilateral aid (international marker),miller2_OrganisationType,0.5,0
+Bilateral aid (international marker),miller2_OrganisationClass,0.3333333333333333,0
+Bilateral aid (international marker),miller2_OrganisationSub-class,0.08333333333333333,0
+Bilateral aid (international marker),miller2_ContinentID,0.4,0
+Bilateral aid (international marker),miller2_ContinentName,0.4,0
+Bilateral aid (international marker),miller2_ProjectBrowserCountryID,0.013071895424836602,0
+Bilateral aid (international marker),miller2_CountryRegionID,0.014084507042253521,0
+Bilateral aid (international marker),miller2_CountryRegionName,0.013793103448275862,0
+Bilateral aid (international marker),miller2_CountryRegionPercent,0.004975124378109453,0
+Bilateral aid (international marker),miller2_SectorID,0.016260162601626018,0
+Bilateral aid (international marker),miller2_SectorName,0.016260162601626018,0
+Bilateral aid (international marker),miller2_SectorPercent,0.010810810810810811,0
+Bilateral aid (international marker),miller2_AmountSpent,0.00039840637450199205,0
+PBA type,miller2_FiscalYear,0.02564102564102564,0
+PBA type,miller2_ProjectNumber,0.060653188180404355,0
+PBA type,miller2_Status,0.07692307692307693,0
+PBA type,miller2_MaximumCIDAContribution(project-level),0.07587548638132295,0
+PBA type,miller2_BranchID,0.1282051282051282,0
+PBA type,miller2_BranchName,0.1282051282051282,0
+PBA type,miller2_DivisionID,0.3333333333333333,0
+PBA type,miller2_DivisionName,0.3333333333333333,0
+PBA type,miller2_SectionID,0.6410256410256411,0
+PBA type,miller2_SectionName,0.6410256410256411,0
+PBA type,miller2_RegionalProgram(marker),0.05128205128205128,0
+PBA type,miller2_FundCentreID,0.75,0
+PBA type,miller2_FundCentreName,0.75,0
+PBA type,miller2_UntiedAmount(Project-levelBudget),0.08986175115207373,0
+PBA type,miller2_FSTCPercent,0.7959183673469388,0
+PBA type,miller2_IRTCPercent,0.07692307692307693,0
+PBA type,miller2_CFLI(marker),0.05128205128205128,0
+PBA type,miller2_CIDABusinessDeliveryModel(old),0.07692307692307693,0
+PBA type,miller2_ProgrammingProcess(new),0.02564102564102564,0
+PBA type,miller2_BilateralAid(internationalMarker),0.05128205128205128,0
+PBA type,miller2_PBAType,0.02564102564102564,1
+PBA type,miller2_EnviromentalSustainability(marker),0.07692307692307693,0
+PBA type,miller2_ClimateChangeAdaptation(marker),0.07692307692307693,0
+PBA type,miller2_ClimateChangeMitigation(marker),0.10256410256410256,0
+PBA type,miller2_Desertification(marker),0.10256410256410256,0
+PBA type,miller2_ParticipatoryDevelopmentAndGoodGovernance,0.10256410256410256,0
+PBA type,miller2_TradeDevelopment(marker),0.10256410256410256,0
+PBA type,miller2_Biodiversity(marker),0.10256410256410256,0
+PBA type,miller2_UrbanIssues(marker),0.10256410256410256,0
+PBA type,miller2_ChildrenIssues(marker),0.10256410256410256,0
+PBA type,miller2_YouthIssues(marker),0.10256410256410256,0
+PBA type,miller2_IndigenousIssues(marker),0.10256410256410256,0
+PBA type,miller2_DisabilityIssues(marker),0.10256410256410256,0
+PBA type,miller2_ICTAsAToolForDevelopment(marker),0.07692307692307693,0
+PBA type,miller2_KnowledgeForDevelopment(marker),0.10256410256410256,0
+PBA type,miller2_GenderEquality(marker),0.10256410256410256,0
+PBA type,miller2_OrganisationID,0.11504424778761062,0
+PBA type,miller2_OrganisationName,0.11504424778761062,0
+PBA type,miller2_OrganisationType,0.10256410256410256,0
+PBA type,miller2_OrganisationClass,0.15384615384615385,0
+PBA type,miller2_OrganisationSub-class,0.6153846153846154,0
+PBA type,miller2_ContinentID,0.1282051282051282,0
+PBA type,miller2_ContinentName,0.1282051282051282,0
+PBA type,miller2_ProjectBrowserCountryID,0.2549019607843137,0
+PBA type,miller2_CountryRegionID,0.2746478873239437,0
+PBA type,miller2_CountryRegionName,0.2689655172413793,0
+PBA type,miller2_CountryRegionPercent,0.09701492537313433,0
+PBA type,miller2_SectorID,0.3170731707317073,0
+PBA type,miller2_SectorName,0.3170731707317073,0
+PBA type,miller2_SectorPercent,0.21081081081081082,0
+PBA type,miller2_AmountSpent,0.007768924302788844,0
+Enviromental sustainability (marker),miller2_FiscalYear,0.3333333333333333,0
+Enviromental sustainability (marker),miller2_ProjectNumber,0.004665629860031105,0
+Enviromental sustainability (marker),miller2_Status,1.0,0
+Enviromental sustainability (marker),miller2_MaximumCIDAContribution(project-level),0.005836575875486381,0
+Enviromental sustainability (marker),miller2_BranchID,0.6,0
+Enviromental sustainability (marker),miller2_BranchName,0.6,0
+Enviromental sustainability (marker),miller2_DivisionID,0.23076923076923078,0
+Enviromental sustainability (marker),miller2_DivisionName,0.23076923076923078,0
+Enviromental sustainability (marker),miller2_SectionID,0.12,0
+Enviromental sustainability (marker),miller2_SectionName,0.12,0
+Enviromental sustainability (marker),miller2_RegionalProgram(marker),0.6666666666666666,0
+Enviromental sustainability (marker),miller2_FundCentreID,0.057692307692307696,0
+Enviromental sustainability (marker),miller2_FundCentreName,0.057692307692307696,0
+Enviromental sustainability (marker),miller2_UntiedAmount(Project-levelBudget),0.0069124423963133645,0
+Enviromental sustainability (marker),miller2_FSTCPercent,0.061224489795918366,0
+Enviromental sustainability (marker),miller2_IRTCPercent,1.0,0
+Enviromental sustainability (marker),miller2_CFLI(marker),0.6666666666666666,0
+Enviromental sustainability (marker),miller2_CIDABusinessDeliveryModel(old),1.0,0
+Enviromental sustainability (marker),miller2_ProgrammingProcess(new),0.3333333333333333,0
+Enviromental sustainability (marker),miller2_BilateralAid(internationalMarker),0.6666666666666666,0
+Enviromental sustainability (marker),miller2_PBAType,0.3333333333333333,0
+Enviromental sustainability (marker),miller2_EnviromentalSustainability(marker),1.0,1
+Enviromental sustainability (marker),miller2_ClimateChangeAdaptation(marker),1.0,0
+Enviromental sustainability (marker),miller2_ClimateChangeMitigation(marker),0.75,0
+Enviromental sustainability (marker),miller2_Desertification(marker),0.75,0
+Enviromental sustainability (marker),miller2_ParticipatoryDevelopmentAndGoodGovernance,0.75,0
+Enviromental sustainability (marker),miller2_TradeDevelopment(marker),0.75,0
+Enviromental sustainability (marker),miller2_Biodiversity(marker),0.75,0
+Enviromental sustainability (marker),miller2_UrbanIssues(marker),0.75,0
+Enviromental sustainability (marker),miller2_ChildrenIssues(marker),0.75,0
+Enviromental sustainability (marker),miller2_YouthIssues(marker),0.75,0
+Enviromental sustainability (marker),miller2_IndigenousIssues(marker),0.75,0
+Enviromental sustainability (marker),miller2_DisabilityIssues(marker),0.75,0
+Enviromental sustainability (marker),miller2_ICTAsAToolForDevelopment(marker),1.0,0
+Enviromental sustainability (marker),miller2_KnowledgeForDevelopment(marker),0.75,0
+Enviromental sustainability (marker),miller2_GenderEquality(marker),0.75,0
+Enviromental sustainability (marker),miller2_OrganisationID,0.008849557522123894,0
+Enviromental sustainability (marker),miller2_OrganisationName,0.008849557522123894,0
+Enviromental sustainability (marker),miller2_OrganisationType,0.75,0
+Enviromental sustainability (marker),miller2_OrganisationClass,0.5,0
+Enviromental sustainability (marker),miller2_OrganisationSub-class,0.125,0
+Enviromental sustainability (marker),miller2_ContinentID,0.6,0
+Enviromental sustainability (marker),miller2_ContinentName,0.6,0
+Enviromental sustainability (marker),miller2_ProjectBrowserCountryID,0.0196078431372549,0
+Enviromental sustainability (marker),miller2_CountryRegionID,0.02112676056338028,0
+Enviromental sustainability (marker),miller2_CountryRegionName,0.020689655172413793,0
+Enviromental sustainability (marker),miller2_CountryRegionPercent,0.007462686567164179,0
+Enviromental sustainability (marker),miller2_SectorID,0.024390243902439025,0
+Enviromental sustainability (marker),miller2_SectorName,0.024390243902439025,0
+Enviromental sustainability (marker),miller2_SectorPercent,0.016216216216216217,0
+Enviromental sustainability (marker),miller2_AmountSpent,0.000597609561752988,0
+Climate change adaptation (marker),miller2_FiscalYear,0.3333333333333333,0
+Climate change adaptation (marker),miller2_ProjectNumber,0.004665629860031105,0
+Climate change adaptation (marker),miller2_Status,1.0,0
+Climate change adaptation (marker),miller2_MaximumCIDAContribution(project-level),0.005836575875486381,0
+Climate change adaptation (marker),miller2_BranchID,0.6,0
+Climate change adaptation (marker),miller2_BranchName,0.6,0
+Climate change adaptation (marker),miller2_DivisionID,0.23076923076923078,0
+Climate change adaptation (marker),miller2_DivisionName,0.23076923076923078,0
+Climate change adaptation (marker),miller2_SectionID,0.12,0
+Climate change adaptation (marker),miller2_SectionName,0.12,0
+Climate change adaptation (marker),miller2_RegionalProgram(marker),0.6666666666666666,0
+Climate change adaptation (marker),miller2_FundCentreID,0.057692307692307696,0
+Climate change adaptation (marker),miller2_FundCentreName,0.057692307692307696,0
+Climate change adaptation (marker),miller2_UntiedAmount(Project-levelBudget),0.0069124423963133645,0
+Climate change adaptation (marker),miller2_FSTCPercent,0.061224489795918366,0
+Climate change adaptation (marker),miller2_IRTCPercent,1.0,0
+Climate change adaptation (marker),miller2_CFLI(marker),0.6666666666666666,0
+Climate change adaptation (marker),miller2_CIDABusinessDeliveryModel(old),1.0,0
+Climate change adaptation (marker),miller2_ProgrammingProcess(new),0.3333333333333333,0
+Climate change adaptation (marker),miller2_BilateralAid(internationalMarker),0.6666666666666666,0
+Climate change adaptation (marker),miller2_PBAType,0.3333333333333333,0
+Climate change adaptation (marker),miller2_EnviromentalSustainability(marker),1.0,0
+Climate change adaptation (marker),miller2_ClimateChangeAdaptation(marker),1.0,1
+Climate change adaptation (marker),miller2_ClimateChangeMitigation(marker),0.75,0
+Climate change adaptation (marker),miller2_Desertification(marker),0.75,0
+Climate change adaptation (marker),miller2_ParticipatoryDevelopmentAndGoodGovernance,0.75,0
+Climate change adaptation (marker),miller2_TradeDevelopment(marker),0.75,0
+Climate change adaptation (marker),miller2_Biodiversity(marker),0.75,0
+Climate change adaptation (marker),miller2_UrbanIssues(marker),0.75,0
+Climate change adaptation (marker),miller2_ChildrenIssues(marker),0.75,0
+Climate change adaptation (marker),miller2_YouthIssues(marker),0.75,0
+Climate change adaptation (marker),miller2_IndigenousIssues(marker),0.75,0
+Climate change adaptation (marker),miller2_DisabilityIssues(marker),0.75,0
+Climate change adaptation (marker),miller2_ICTAsAToolForDevelopment(marker),1.0,0
+Climate change adaptation (marker),miller2_KnowledgeForDevelopment(marker),0.75,0
+Climate change adaptation (marker),miller2_GenderEquality(marker),0.75,0
+Climate change adaptation (marker),miller2_OrganisationID,0.008849557522123894,0
+Climate change adaptation (marker),miller2_OrganisationName,0.008849557522123894,0
+Climate change adaptation (marker),miller2_OrganisationType,0.75,0
+Climate change adaptation (marker),miller2_OrganisationClass,0.5,0
+Climate change adaptation (marker),miller2_OrganisationSub-class,0.125,0
+Climate change adaptation (marker),miller2_ContinentID,0.6,0
+Climate change adaptation (marker),miller2_ContinentName,0.6,0
+Climate change adaptation (marker),miller2_ProjectBrowserCountryID,0.0196078431372549,0
+Climate change adaptation (marker),miller2_CountryRegionID,0.02112676056338028,0
+Climate change adaptation (marker),miller2_CountryRegionName,0.020689655172413793,0
+Climate change adaptation (marker),miller2_CountryRegionPercent,0.007462686567164179,0
+Climate change adaptation (marker),miller2_SectorID,0.024390243902439025,0
+Climate change adaptation (marker),miller2_SectorName,0.024390243902439025,0
+Climate change adaptation (marker),miller2_SectorPercent,0.016216216216216217,0
+Climate change adaptation (marker),miller2_AmountSpent,0.000597609561752988,0
+Climate change mitigation (marker),miller2_FiscalYear,0.25,0
+Climate change mitigation (marker),miller2_ProjectNumber,0.006220839813374806,0
+Climate change mitigation (marker),miller2_Status,0.75,0
+Climate change mitigation (marker),miller2_MaximumCIDAContribution(project-level),0.007782101167315175,0
+Climate change mitigation (marker),miller2_BranchID,0.8,0
+Climate change mitigation (marker),miller2_BranchName,0.8,0
+Climate change mitigation (marker),miller2_DivisionID,0.3076923076923077,0
+Climate change mitigation (marker),miller2_DivisionName,0.3076923076923077,0
+Climate change mitigation (marker),miller2_SectionID,0.16,0
+Climate change mitigation (marker),miller2_SectionName,0.16,0
+Climate change mitigation (marker),miller2_RegionalProgram(marker),0.5,0
+Climate change mitigation (marker),miller2_FundCentreID,0.07692307692307693,0
+Climate change mitigation (marker),miller2_FundCentreName,0.07692307692307693,0
+Climate change mitigation (marker),miller2_UntiedAmount(Project-levelBudget),0.009216589861751152,0
+Climate change mitigation (marker),miller2_FSTCPercent,0.08163265306122448,0
+Climate change mitigation (marker),miller2_IRTCPercent,0.75,0
+Climate change mitigation (marker),miller2_CFLI(marker),0.5,0
+Climate change mitigation (marker),miller2_CIDABusinessDeliveryModel(old),0.75,0
+Climate change mitigation (marker),miller2_ProgrammingProcess(new),0.25,0
+Climate change mitigation (marker),miller2_BilateralAid(internationalMarker),0.5,0
+Climate change mitigation (marker),miller2_PBAType,0.25,0
+Climate change mitigation (marker),miller2_EnviromentalSustainability(marker),0.75,0
+Climate change mitigation (marker),miller2_ClimateChangeAdaptation(marker),0.75,0
+Climate change mitigation (marker),miller2_ClimateChangeMitigation(marker),1.0,1
+Climate change mitigation (marker),miller2_Desertification(marker),1.0,0
+Climate change mitigation (marker),miller2_ParticipatoryDevelopmentAndGoodGovernance,1.0,0
+Climate change mitigation (marker),miller2_TradeDevelopment(marker),1.0,0
+Climate change mitigation (marker),miller2_Biodiversity(marker),1.0,0
+Climate change mitigation (marker),miller2_UrbanIssues(marker),1.0,0
+Climate change mitigation (marker),miller2_ChildrenIssues(marker),1.0,0
+Climate change mitigation (marker),miller2_YouthIssues(marker),1.0,0
+Climate change mitigation (marker),miller2_IndigenousIssues(marker),1.0,0
+Climate change mitigation (marker),miller2_DisabilityIssues(marker),1.0,0
+Climate change mitigation (marker),miller2_ICTAsAToolForDevelopment(marker),0.75,0
+Climate change mitigation (marker),miller2_KnowledgeForDevelopment(marker),1.0,0
+Climate change mitigation (marker),miller2_GenderEquality(marker),1.0,0
+Climate change mitigation (marker),miller2_OrganisationID,0.011799410029498525,0
+Climate change mitigation (marker),miller2_OrganisationName,0.011799410029498525,0
+Climate change mitigation (marker),miller2_OrganisationType,1.0,0
+Climate change mitigation (marker),miller2_OrganisationClass,0.6666666666666666,0
+Climate change mitigation (marker),miller2_OrganisationSub-class,0.16666666666666666,0
+Climate change mitigation (marker),miller2_ContinentID,0.8,0
+Climate change mitigation (marker),miller2_ContinentName,0.8,0
+Climate change mitigation (marker),miller2_ProjectBrowserCountryID,0.026143790849673203,0
+Climate change mitigation (marker),miller2_CountryRegionID,0.028169014084507043,0
+Climate change mitigation (marker),miller2_CountryRegionName,0.027586206896551724,0
+Climate change mitigation (marker),miller2_CountryRegionPercent,0.009950248756218905,0
+Climate change mitigation (marker),miller2_SectorID,0.032520325203252036,0
+Climate change mitigation (marker),miller2_SectorName,0.032520325203252036,0
+Climate change mitigation (marker),miller2_SectorPercent,0.021621621621621623,0
+Climate change mitigation (marker),miller2_AmountSpent,0.0007968127490039841,0
+Desertification (marker),miller2_FiscalYear,0.25,0
+Desertification (marker),miller2_ProjectNumber,0.006220839813374806,0
+Desertification (marker),miller2_Status,0.75,0
+Desertification (marker),miller2_MaximumCIDAContribution(project-level),0.007782101167315175,0
+Desertification (marker),miller2_BranchID,0.8,0
+Desertification (marker),miller2_BranchName,0.8,0
+Desertification (marker),miller2_DivisionID,0.3076923076923077,0
+Desertification (marker),miller2_DivisionName,0.3076923076923077,0
+Desertification (marker),miller2_SectionID,0.16,0
+Desertification (marker),miller2_SectionName,0.16,0
+Desertification (marker),miller2_RegionalProgram(marker),0.5,0
+Desertification (marker),miller2_FundCentreID,0.07692307692307693,0
+Desertification (marker),miller2_FundCentreName,0.07692307692307693,0
+Desertification (marker),miller2_UntiedAmount(Project-levelBudget),0.009216589861751152,0
+Desertification (marker),miller2_FSTCPercent,0.08163265306122448,0
+Desertification (marker),miller2_IRTCPercent,0.75,0
+Desertification (marker),miller2_CFLI(marker),0.5,0
+Desertification (marker),miller2_CIDABusinessDeliveryModel(old),0.75,0
+Desertification (marker),miller2_ProgrammingProcess(new),0.25,0
+Desertification (marker),miller2_BilateralAid(internationalMarker),0.5,0
+Desertification (marker),miller2_PBAType,0.25,0
+Desertification (marker),miller2_EnviromentalSustainability(marker),0.75,0
+Desertification (marker),miller2_ClimateChangeAdaptation(marker),0.75,0
+Desertification (marker),miller2_ClimateChangeMitigation(marker),1.0,0
+Desertification (marker),miller2_Desertification(marker),1.0,1
+Desertification (marker),miller2_ParticipatoryDevelopmentAndGoodGovernance,1.0,0
+Desertification (marker),miller2_TradeDevelopment(marker),1.0,0
+Desertification (marker),miller2_Biodiversity(marker),1.0,0
+Desertification (marker),miller2_UrbanIssues(marker),1.0,0
+Desertification (marker),miller2_ChildrenIssues(marker),1.0,0
+Desertification (marker),miller2_YouthIssues(marker),1.0,0
+Desertification (marker),miller2_IndigenousIssues(marker),1.0,0
+Desertification (marker),miller2_DisabilityIssues(marker),1.0,0
+Desertification (marker),miller2_ICTAsAToolForDevelopment(marker),0.75,0
+Desertification (marker),miller2_KnowledgeForDevelopment(marker),1.0,0
+Desertification (marker),miller2_GenderEquality(marker),1.0,0
+Desertification (marker),miller2_OrganisationID,0.011799410029498525,0
+Desertification (marker),miller2_OrganisationName,0.011799410029498525,0
+Desertification (marker),miller2_OrganisationType,1.0,0
+Desertification (marker),miller2_OrganisationClass,0.6666666666666666,0
+Desertification (marker),miller2_OrganisationSub-class,0.16666666666666666,0
+Desertification (marker),miller2_ContinentID,0.8,0
+Desertification (marker),miller2_ContinentName,0.8,0
+Desertification (marker),miller2_ProjectBrowserCountryID,0.026143790849673203,0
+Desertification (marker),miller2_CountryRegionID,0.028169014084507043,0
+Desertification (marker),miller2_CountryRegionName,0.027586206896551724,0
+Desertification (marker),miller2_CountryRegionPercent,0.009950248756218905,0
+Desertification (marker),miller2_SectorID,0.032520325203252036,0
+Desertification (marker),miller2_SectorName,0.032520325203252036,0
+Desertification (marker),miller2_SectorPercent,0.021621621621621623,0
+Desertification (marker),miller2_AmountSpent,0.0007968127490039841,0
+Participatory development and good governance,miller2_FiscalYear,0.25,0
+Participatory development and good governance,miller2_ProjectNumber,0.006220839813374806,0
+Participatory development and good governance,miller2_Status,0.75,0
+Participatory development and good governance,miller2_MaximumCIDAContribution(project-level),0.007782101167315175,0
+Participatory development and good governance,miller2_BranchID,0.8,0
+Participatory development and good governance,miller2_BranchName,0.8,0
+Participatory development and good governance,miller2_DivisionID,0.3076923076923077,0
+Participatory development and good governance,miller2_DivisionName,0.3076923076923077,0
+Participatory development and good governance,miller2_SectionID,0.16,0
+Participatory development and good governance,miller2_SectionName,0.16,0
+Participatory development and good governance,miller2_RegionalProgram(marker),0.5,0
+Participatory development and good governance,miller2_FundCentreID,0.07692307692307693,0
+Participatory development and good governance,miller2_FundCentreName,0.07692307692307693,0
+Participatory development and good governance,miller2_UntiedAmount(Project-levelBudget),0.009216589861751152,0
+Participatory development and good governance,miller2_FSTCPercent,0.08163265306122448,0
+Participatory development and good governance,miller2_IRTCPercent,0.75,0
+Participatory development and good governance,miller2_CFLI(marker),0.5,0
+Participatory development and good governance,miller2_CIDABusinessDeliveryModel(old),0.75,0
+Participatory development and good governance,miller2_ProgrammingProcess(new),0.25,0
+Participatory development and good governance,miller2_BilateralAid(internationalMarker),0.5,0
+Participatory development and good governance,miller2_PBAType,0.25,0
+Participatory development and good governance,miller2_EnviromentalSustainability(marker),0.75,0
+Participatory development and good governance,miller2_ClimateChangeAdaptation(marker),0.75,0
+Participatory development and good governance,miller2_ClimateChangeMitigation(marker),1.0,0
+Participatory development and good governance,miller2_Desertification(marker),1.0,0
+Participatory development and good governance,miller2_ParticipatoryDevelopmentAndGoodGovernance,1.0,1
+Participatory development and good governance,miller2_TradeDevelopment(marker),1.0,0
+Participatory development and good governance,miller2_Biodiversity(marker),1.0,0
+Participatory development and good governance,miller2_UrbanIssues(marker),1.0,0
+Participatory development and good governance,miller2_ChildrenIssues(marker),1.0,0
+Participatory development and good governance,miller2_YouthIssues(marker),1.0,0
+Participatory development and good governance,miller2_IndigenousIssues(marker),1.0,0
+Participatory development and good governance,miller2_DisabilityIssues(marker),1.0,0
+Participatory development and good governance,miller2_ICTAsAToolForDevelopment(marker),0.75,0
+Participatory development and good governance,miller2_KnowledgeForDevelopment(marker),1.0,0
+Participatory development and good governance,miller2_GenderEquality(marker),1.0,0
+Participatory development and good governance,miller2_OrganisationID,0.011799410029498525,0
+Participatory development and good governance,miller2_OrganisationName,0.011799410029498525,0
+Participatory development and good governance,miller2_OrganisationType,1.0,0
+Participatory development and good governance,miller2_OrganisationClass,0.6666666666666666,0
+Participatory development and good governance,miller2_OrganisationSub-class,0.16666666666666666,0
+Participatory development and good governance,miller2_ContinentID,0.8,0
+Participatory development and good governance,miller2_ContinentName,0.8,0
+Participatory development and good governance,miller2_ProjectBrowserCountryID,0.026143790849673203,0
+Participatory development and good governance,miller2_CountryRegionID,0.028169014084507043,0
+Participatory development and good governance,miller2_CountryRegionName,0.027586206896551724,0
+Participatory development and good governance,miller2_CountryRegionPercent,0.009950248756218905,0
+Participatory development and good governance,miller2_SectorID,0.032520325203252036,0
+Participatory development and good governance,miller2_SectorName,0.032520325203252036,0
+Participatory development and good governance,miller2_SectorPercent,0.021621621621621623,0
+Participatory development and good governance,miller2_AmountSpent,0.0007968127490039841,0
+Trade development (marker),miller2_FiscalYear,0.25,0
+Trade development (marker),miller2_ProjectNumber,0.006220839813374806,0
+Trade development (marker),miller2_Status,0.75,0
+Trade development (marker),miller2_MaximumCIDAContribution(project-level),0.007782101167315175,0
+Trade development (marker),miller2_BranchID,0.8,0
+Trade development (marker),miller2_BranchName,0.8,0
+Trade development (marker),miller2_DivisionID,0.3076923076923077,0
+Trade development (marker),miller2_DivisionName,0.3076923076923077,0
+Trade development (marker),miller2_SectionID,0.16,0
+Trade development (marker),miller2_SectionName,0.16,0
+Trade development (marker),miller2_RegionalProgram(marker),0.5,0
+Trade development (marker),miller2_FundCentreID,0.07692307692307693,0
+Trade development (marker),miller2_FundCentreName,0.07692307692307693,0
+Trade development (marker),miller2_UntiedAmount(Project-levelBudget),0.009216589861751152,0
+Trade development (marker),miller2_FSTCPercent,0.08163265306122448,0
+Trade development (marker),miller2_IRTCPercent,0.75,0
+Trade development (marker),miller2_CFLI(marker),0.5,0
+Trade development (marker),miller2_CIDABusinessDeliveryModel(old),0.75,0
+Trade development (marker),miller2_ProgrammingProcess(new),0.25,0
+Trade development (marker),miller2_BilateralAid(internationalMarker),0.5,0
+Trade development (marker),miller2_PBAType,0.25,0
+Trade development (marker),miller2_EnviromentalSustainability(marker),0.75,0
+Trade development (marker),miller2_ClimateChangeAdaptation(marker),0.75,0
+Trade development (marker),miller2_ClimateChangeMitigation(marker),1.0,0
+Trade development (marker),miller2_Desertification(marker),1.0,0
+Trade development (marker),miller2_ParticipatoryDevelopmentAndGoodGovernance,1.0,0
+Trade development (marker),miller2_TradeDevelopment(marker),1.0,1
+Trade development (marker),miller2_Biodiversity(marker),1.0,0
+Trade development (marker),miller2_UrbanIssues(marker),1.0,0
+Trade development (marker),miller2_ChildrenIssues(marker),1.0,0
+Trade development (marker),miller2_YouthIssues(marker),1.0,0
+Trade development (marker),miller2_IndigenousIssues(marker),1.0,0
+Trade development (marker),miller2_DisabilityIssues(marker),1.0,0
+Trade development (marker),miller2_ICTAsAToolForDevelopment(marker),0.75,0
+Trade development (marker),miller2_KnowledgeForDevelopment(marker),1.0,0
+Trade development (marker),miller2_GenderEquality(marker),1.0,0
+Trade development (marker),miller2_OrganisationID,0.011799410029498525,0
+Trade development (marker),miller2_OrganisationName,0.011799410029498525,0
+Trade development (marker),miller2_OrganisationType,1.0,0
+Trade development (marker),miller2_OrganisationClass,0.6666666666666666,0
+Trade development (marker),miller2_OrganisationSub-class,0.16666666666666666,0
+Trade development (marker),miller2_ContinentID,0.8,0
+Trade development (marker),miller2_ContinentName,0.8,0
+Trade development (marker),miller2_ProjectBrowserCountryID,0.026143790849673203,0
+Trade development (marker),miller2_CountryRegionID,0.028169014084507043,0
+Trade development (marker),miller2_CountryRegionName,0.027586206896551724,0
+Trade development (marker),miller2_CountryRegionPercent,0.009950248756218905,0
+Trade development (marker),miller2_SectorID,0.032520325203252036,0
+Trade development (marker),miller2_SectorName,0.032520325203252036,0
+Trade development (marker),miller2_SectorPercent,0.021621621621621623,0
+Trade development (marker),miller2_AmountSpent,0.0007968127490039841,0
+Biodiversity (marker),miller2_FiscalYear,0.25,0
+Biodiversity (marker),miller2_ProjectNumber,0.006220839813374806,0
+Biodiversity (marker),miller2_Status,0.75,0
+Biodiversity (marker),miller2_MaximumCIDAContribution(project-level),0.007782101167315175,0
+Biodiversity (marker),miller2_BranchID,0.8,0
+Biodiversity (marker),miller2_BranchName,0.8,0
+Biodiversity (marker),miller2_DivisionID,0.3076923076923077,0
+Biodiversity (marker),miller2_DivisionName,0.3076923076923077,0
+Biodiversity (marker),miller2_SectionID,0.16,0
+Biodiversity (marker),miller2_SectionName,0.16,0
+Biodiversity (marker),miller2_RegionalProgram(marker),0.5,0
+Biodiversity (marker),miller2_FundCentreID,0.07692307692307693,0
+Biodiversity (marker),miller2_FundCentreName,0.07692307692307693,0
+Biodiversity (marker),miller2_UntiedAmount(Project-levelBudget),0.009216589861751152,0
+Biodiversity (marker),miller2_FSTCPercent,0.08163265306122448,0
+Biodiversity (marker),miller2_IRTCPercent,0.75,0
+Biodiversity (marker),miller2_CFLI(marker),0.5,0
+Biodiversity (marker),miller2_CIDABusinessDeliveryModel(old),0.75,0
+Biodiversity (marker),miller2_ProgrammingProcess(new),0.25,0
+Biodiversity (marker),miller2_BilateralAid(internationalMarker),0.5,0
+Biodiversity (marker),miller2_PBAType,0.25,0
+Biodiversity (marker),miller2_EnviromentalSustainability(marker),0.75,0
+Biodiversity (marker),miller2_ClimateChangeAdaptation(marker),0.75,0
+Biodiversity (marker),miller2_ClimateChangeMitigation(marker),1.0,0
+Biodiversity (marker),miller2_Desertification(marker),1.0,0
+Biodiversity (marker),miller2_ParticipatoryDevelopmentAndGoodGovernance,1.0,0
+Biodiversity (marker),miller2_TradeDevelopment(marker),1.0,0
+Biodiversity (marker),miller2_Biodiversity(marker),1.0,1
+Biodiversity (marker),miller2_UrbanIssues(marker),1.0,0
+Biodiversity (marker),miller2_ChildrenIssues(marker),1.0,0
+Biodiversity (marker),miller2_YouthIssues(marker),1.0,0
+Biodiversity (marker),miller2_IndigenousIssues(marker),1.0,0
+Biodiversity (marker),miller2_DisabilityIssues(marker),1.0,0
+Biodiversity (marker),miller2_ICTAsAToolForDevelopment(marker),0.75,0
+Biodiversity (marker),miller2_KnowledgeForDevelopment(marker),1.0,0
+Biodiversity (marker),miller2_GenderEquality(marker),1.0,0
+Biodiversity (marker),miller2_OrganisationID,0.011799410029498525,0
+Biodiversity (marker),miller2_OrganisationName,0.011799410029498525,0
+Biodiversity (marker),miller2_OrganisationType,1.0,0
+Biodiversity (marker),miller2_OrganisationClass,0.6666666666666666,0
+Biodiversity (marker),miller2_OrganisationSub-class,0.16666666666666666,0
+Biodiversity (marker),miller2_ContinentID,0.8,0
+Biodiversity (marker),miller2_ContinentName,0.8,0
+Biodiversity (marker),miller2_ProjectBrowserCountryID,0.026143790849673203,0
+Biodiversity (marker),miller2_CountryRegionID,0.028169014084507043,0
+Biodiversity (marker),miller2_CountryRegionName,0.027586206896551724,0
+Biodiversity (marker),miller2_CountryRegionPercent,0.009950248756218905,0
+Biodiversity (marker),miller2_SectorID,0.032520325203252036,0
+Biodiversity (marker),miller2_SectorName,0.032520325203252036,0
+Biodiversity (marker),miller2_SectorPercent,0.021621621621621623,0
+Biodiversity (marker),miller2_AmountSpent,0.0007968127490039841,0
+Urban issues (marker),miller2_FiscalYear,0.3333333333333333,0
+Urban issues (marker),miller2_ProjectNumber,0.004665629860031105,0
+Urban issues (marker),miller2_Status,1.0,0
+Urban issues (marker),miller2_MaximumCIDAContribution(project-level),0.005836575875486381,0
+Urban issues (marker),miller2_BranchID,0.6,0
+Urban issues (marker),miller2_BranchName,0.6,0
+Urban issues (marker),miller2_DivisionID,0.23076923076923078,0
+Urban issues (marker),miller2_DivisionName,0.23076923076923078,0
+Urban issues (marker),miller2_SectionID,0.12,0
+Urban issues (marker),miller2_SectionName,0.12,0
+Urban issues (marker),miller2_RegionalProgram(marker),0.6666666666666666,0
+Urban issues (marker),miller2_FundCentreID,0.057692307692307696,0
+Urban issues (marker),miller2_FundCentreName,0.057692307692307696,0
+Urban issues (marker),miller2_UntiedAmount(Project-levelBudget),0.0069124423963133645,0
+Urban issues (marker),miller2_FSTCPercent,0.061224489795918366,0
+Urban issues (marker),miller2_IRTCPercent,1.0,0
+Urban issues (marker),miller2_CFLI(marker),0.6666666666666666,0
+Urban issues (marker),miller2_CIDABusinessDeliveryModel(old),1.0,0
+Urban issues (marker),miller2_ProgrammingProcess(new),0.3333333333333333,0
+Urban issues (marker),miller2_BilateralAid(internationalMarker),0.6666666666666666,0
+Urban issues (marker),miller2_PBAType,0.3333333333333333,0
+Urban issues (marker),miller2_EnviromentalSustainability(marker),1.0,0
+Urban issues (marker),miller2_ClimateChangeAdaptation(marker),1.0,0
+Urban issues (marker),miller2_ClimateChangeMitigation(marker),0.75,0
+Urban issues (marker),miller2_Desertification(marker),0.75,0
+Urban issues (marker),miller2_ParticipatoryDevelopmentAndGoodGovernance,0.75,0
+Urban issues (marker),miller2_TradeDevelopment(marker),0.75,0
+Urban issues (marker),miller2_Biodiversity(marker),0.75,0
+Urban issues (marker),miller2_UrbanIssues(marker),0.75,1
+Urban issues (marker),miller2_ChildrenIssues(marker),0.75,0
+Urban issues (marker),miller2_YouthIssues(marker),0.75,0
+Urban issues (marker),miller2_IndigenousIssues(marker),0.75,0
+Urban issues (marker),miller2_DisabilityIssues(marker),0.75,0
+Urban issues (marker),miller2_ICTAsAToolForDevelopment(marker),1.0,0
+Urban issues (marker),miller2_KnowledgeForDevelopment(marker),0.75,0
+Urban issues (marker),miller2_GenderEquality(marker),0.75,0
+Urban issues (marker),miller2_OrganisationID,0.008849557522123894,0
+Urban issues (marker),miller2_OrganisationName,0.008849557522123894,0
+Urban issues (marker),miller2_OrganisationType,0.75,0
+Urban issues (marker),miller2_OrganisationClass,0.5,0
+Urban issues (marker),miller2_OrganisationSub-class,0.125,0
+Urban issues (marker),miller2_ContinentID,0.6,0
+Urban issues (marker),miller2_ContinentName,0.6,0
+Urban issues (marker),miller2_ProjectBrowserCountryID,0.0196078431372549,0
+Urban issues (marker),miller2_CountryRegionID,0.02112676056338028,0
+Urban issues (marker),miller2_CountryRegionName,0.020689655172413793,0
+Urban issues (marker),miller2_CountryRegionPercent,0.007462686567164179,0
+Urban issues (marker),miller2_SectorID,0.024390243902439025,0
+Urban issues (marker),miller2_SectorName,0.024390243902439025,0
+Urban issues (marker),miller2_SectorPercent,0.016216216216216217,0
+Urban issues (marker),miller2_AmountSpent,0.000597609561752988,0
+Children issues (marker),miller2_FiscalYear,0.25,0
+Children issues (marker),miller2_ProjectNumber,0.006220839813374806,0
+Children issues (marker),miller2_Status,0.75,0
+Children issues (marker),miller2_MaximumCIDAContribution(project-level),0.007782101167315175,0
+Children issues (marker),miller2_BranchID,0.8,0
+Children issues (marker),miller2_BranchName,0.8,0
+Children issues (marker),miller2_DivisionID,0.3076923076923077,0
+Children issues (marker),miller2_DivisionName,0.3076923076923077,0
+Children issues (marker),miller2_SectionID,0.16,0
+Children issues (marker),miller2_SectionName,0.16,0
+Children issues (marker),miller2_RegionalProgram(marker),0.5,0
+Children issues (marker),miller2_FundCentreID,0.07692307692307693,0
+Children issues (marker),miller2_FundCentreName,0.07692307692307693,0
+Children issues (marker),miller2_UntiedAmount(Project-levelBudget),0.009216589861751152,0
+Children issues (marker),miller2_FSTCPercent,0.08163265306122448,0
+Children issues (marker),miller2_IRTCPercent,0.75,0
+Children issues (marker),miller2_CFLI(marker),0.5,0
+Children issues (marker),miller2_CIDABusinessDeliveryModel(old),0.75,0
+Children issues (marker),miller2_ProgrammingProcess(new),0.25,0
+Children issues (marker),miller2_BilateralAid(internationalMarker),0.5,0
+Children issues (marker),miller2_PBAType,0.25,0
+Children issues (marker),miller2_EnviromentalSustainability(marker),0.75,0
+Children issues (marker),miller2_ClimateChangeAdaptation(marker),0.75,0
+Children issues (marker),miller2_ClimateChangeMitigation(marker),1.0,0
+Children issues (marker),miller2_Desertification(marker),1.0,0
+Children issues (marker),miller2_ParticipatoryDevelopmentAndGoodGovernance,1.0,0
+Children issues (marker),miller2_TradeDevelopment(marker),1.0,0
+Children issues (marker),miller2_Biodiversity(marker),1.0,0
+Children issues (marker),miller2_UrbanIssues(marker),1.0,0
+Children issues (marker),miller2_ChildrenIssues(marker),1.0,1
+Children issues (marker),miller2_YouthIssues(marker),1.0,0
+Children issues (marker),miller2_IndigenousIssues(marker),1.0,0
+Children issues (marker),miller2_DisabilityIssues(marker),1.0,0
+Children issues (marker),miller2_ICTAsAToolForDevelopment(marker),0.75,0
+Children issues (marker),miller2_KnowledgeForDevelopment(marker),1.0,0
+Children issues (marker),miller2_GenderEquality(marker),1.0,0
+Children issues (marker),miller2_OrganisationID,0.011799410029498525,0
+Children issues (marker),miller2_OrganisationName,0.011799410029498525,0
+Children issues (marker),miller2_OrganisationType,1.0,0
+Children issues (marker),miller2_OrganisationClass,0.6666666666666666,0
+Children issues (marker),miller2_OrganisationSub-class,0.16666666666666666,0
+Children issues (marker),miller2_ContinentID,0.8,0
+Children issues (marker),miller2_ContinentName,0.8,0
+Children issues (marker),miller2_ProjectBrowserCountryID,0.026143790849673203,0
+Children issues (marker),miller2_CountryRegionID,0.028169014084507043,0
+Children issues (marker),miller2_CountryRegionName,0.027586206896551724,0
+Children issues (marker),miller2_CountryRegionPercent,0.009950248756218905,0
+Children issues (marker),miller2_SectorID,0.032520325203252036,0
+Children issues (marker),miller2_SectorName,0.032520325203252036,0
+Children issues (marker),miller2_SectorPercent,0.021621621621621623,0
+Children issues (marker),miller2_AmountSpent,0.0007968127490039841,0
+Youth issues (marker),miller2_FiscalYear,0.25,0
+Youth issues (marker),miller2_ProjectNumber,0.006220839813374806,0
+Youth issues (marker),miller2_Status,0.75,0
+Youth issues (marker),miller2_MaximumCIDAContribution(project-level),0.007782101167315175,0
+Youth issues (marker),miller2_BranchID,0.8,0
+Youth issues (marker),miller2_BranchName,0.8,0
+Youth issues (marker),miller2_DivisionID,0.3076923076923077,0
+Youth issues (marker),miller2_DivisionName,0.3076923076923077,0
+Youth issues (marker),miller2_SectionID,0.16,0
+Youth issues (marker),miller2_SectionName,0.16,0
+Youth issues (marker),miller2_RegionalProgram(marker),0.5,0
+Youth issues (marker),miller2_FundCentreID,0.07692307692307693,0
+Youth issues (marker),miller2_FundCentreName,0.07692307692307693,0
+Youth issues (marker),miller2_UntiedAmount(Project-levelBudget),0.009216589861751152,0
+Youth issues (marker),miller2_FSTCPercent,0.08163265306122448,0
+Youth issues (marker),miller2_IRTCPercent,0.75,0
+Youth issues (marker),miller2_CFLI(marker),0.5,0
+Youth issues (marker),miller2_CIDABusinessDeliveryModel(old),0.75,0
+Youth issues (marker),miller2_ProgrammingProcess(new),0.25,0
+Youth issues (marker),miller2_BilateralAid(internationalMarker),0.5,0
+Youth issues (marker),miller2_PBAType,0.25,0
+Youth issues (marker),miller2_EnviromentalSustainability(marker),0.75,0
+Youth issues (marker),miller2_ClimateChangeAdaptation(marker),0.75,0
+Youth issues (marker),miller2_ClimateChangeMitigation(marker),1.0,0
+Youth issues (marker),miller2_Desertification(marker),1.0,0
+Youth issues (marker),miller2_ParticipatoryDevelopmentAndGoodGovernance,1.0,0
+Youth issues (marker),miller2_TradeDevelopment(marker),1.0,0
+Youth issues (marker),miller2_Biodiversity(marker),1.0,0
+Youth issues (marker),miller2_UrbanIssues(marker),1.0,0
+Youth issues (marker),miller2_ChildrenIssues(marker),1.0,0
+Youth issues (marker),miller2_YouthIssues(marker),1.0,1
+Youth issues (marker),miller2_IndigenousIssues(marker),1.0,0
+Youth issues (marker),miller2_DisabilityIssues(marker),1.0,0
+Youth issues (marker),miller2_ICTAsAToolForDevelopment(marker),0.75,0
+Youth issues (marker),miller2_KnowledgeForDevelopment(marker),1.0,0
+Youth issues (marker),miller2_GenderEquality(marker),1.0,0
+Youth issues (marker),miller2_OrganisationID,0.011799410029498525,0
+Youth issues (marker),miller2_OrganisationName,0.011799410029498525,0
+Youth issues (marker),miller2_OrganisationType,1.0,0
+Youth issues (marker),miller2_OrganisationClass,0.6666666666666666,0
+Youth issues (marker),miller2_OrganisationSub-class,0.16666666666666666,0
+Youth issues (marker),miller2_ContinentID,0.8,0
+Youth issues (marker),miller2_ContinentName,0.8,0
+Youth issues (marker),miller2_ProjectBrowserCountryID,0.026143790849673203,0
+Youth issues (marker),miller2_CountryRegionID,0.028169014084507043,0
+Youth issues (marker),miller2_CountryRegionName,0.027586206896551724,0
+Youth issues (marker),miller2_CountryRegionPercent,0.009950248756218905,0
+Youth issues (marker),miller2_SectorID,0.032520325203252036,0
+Youth issues (marker),miller2_SectorName,0.032520325203252036,0
+Youth issues (marker),miller2_SectorPercent,0.021621621621621623,0
+Youth issues (marker),miller2_AmountSpent,0.0007968127490039841,0
+Indigenous issues (marker),miller2_FiscalYear,0.25,0
+Indigenous issues (marker),miller2_ProjectNumber,0.006220839813374806,0
+Indigenous issues (marker),miller2_Status,0.75,0
+Indigenous issues (marker),miller2_MaximumCIDAContribution(project-level),0.007782101167315175,0
+Indigenous issues (marker),miller2_BranchID,0.8,0
+Indigenous issues (marker),miller2_BranchName,0.8,0
+Indigenous issues (marker),miller2_DivisionID,0.3076923076923077,0
+Indigenous issues (marker),miller2_DivisionName,0.3076923076923077,0
+Indigenous issues (marker),miller2_SectionID,0.16,0
+Indigenous issues (marker),miller2_SectionName,0.16,0
+Indigenous issues (marker),miller2_RegionalProgram(marker),0.5,0
+Indigenous issues (marker),miller2_FundCentreID,0.07692307692307693,0
+Indigenous issues (marker),miller2_FundCentreName,0.07692307692307693,0
+Indigenous issues (marker),miller2_UntiedAmount(Project-levelBudget),0.009216589861751152,0
+Indigenous issues (marker),miller2_FSTCPercent,0.08163265306122448,0
+Indigenous issues (marker),miller2_IRTCPercent,0.75,0
+Indigenous issues (marker),miller2_CFLI(marker),0.5,0
+Indigenous issues (marker),miller2_CIDABusinessDeliveryModel(old),0.75,0
+Indigenous issues (marker),miller2_ProgrammingProcess(new),0.25,0
+Indigenous issues (marker),miller2_BilateralAid(internationalMarker),0.5,0
+Indigenous issues (marker),miller2_PBAType,0.25,0
+Indigenous issues (marker),miller2_EnviromentalSustainability(marker),0.75,0
+Indigenous issues (marker),miller2_ClimateChangeAdaptation(marker),0.75,0
+Indigenous issues (marker),miller2_ClimateChangeMitigation(marker),1.0,0
+Indigenous issues (marker),miller2_Desertification(marker),1.0,0
+Indigenous issues (marker),miller2_ParticipatoryDevelopmentAndGoodGovernance,1.0,0
+Indigenous issues (marker),miller2_TradeDevelopment(marker),1.0,0
+Indigenous issues (marker),miller2_Biodiversity(marker),1.0,0
+Indigenous issues (marker),miller2_UrbanIssues(marker),1.0,0
+Indigenous issues (marker),miller2_ChildrenIssues(marker),1.0,0
+Indigenous issues (marker),miller2_YouthIssues(marker),1.0,0
+Indigenous issues (marker),miller2_IndigenousIssues(marker),1.0,1
+Indigenous issues (marker),miller2_DisabilityIssues(marker),1.0,0
+Indigenous issues (marker),miller2_ICTAsAToolForDevelopment(marker),0.75,0
+Indigenous issues (marker),miller2_KnowledgeForDevelopment(marker),1.0,0
+Indigenous issues (marker),miller2_GenderEquality(marker),1.0,0
+Indigenous issues (marker),miller2_OrganisationID,0.011799410029498525,0
+Indigenous issues (marker),miller2_OrganisationName,0.011799410029498525,0
+Indigenous issues (marker),miller2_OrganisationType,1.0,0
+Indigenous issues (marker),miller2_OrganisationClass,0.6666666666666666,0
+Indigenous issues (marker),miller2_OrganisationSub-class,0.16666666666666666,0
+Indigenous issues (marker),miller2_ContinentID,0.8,0
+Indigenous issues (marker),miller2_ContinentName,0.8,0
+Indigenous issues (marker),miller2_ProjectBrowserCountryID,0.026143790849673203,0
+Indigenous issues (marker),miller2_CountryRegionID,0.028169014084507043,0
+Indigenous issues (marker),miller2_CountryRegionName,0.027586206896551724,0
+Indigenous issues (marker),miller2_CountryRegionPercent,0.009950248756218905,0
+Indigenous issues (marker),miller2_SectorID,0.032520325203252036,0
+Indigenous issues (marker),miller2_SectorName,0.032520325203252036,0
+Indigenous issues (marker),miller2_SectorPercent,0.021621621621621623,0
+Indigenous issues (marker),miller2_AmountSpent,0.0007968127490039841,0
+Disability issues (marker),miller2_FiscalYear,0.25,0
+Disability issues (marker),miller2_ProjectNumber,0.006220839813374806,0
+Disability issues (marker),miller2_Status,0.75,0
+Disability issues (marker),miller2_MaximumCIDAContribution(project-level),0.007782101167315175,0
+Disability issues (marker),miller2_BranchID,0.8,0
+Disability issues (marker),miller2_BranchName,0.8,0
+Disability issues (marker),miller2_DivisionID,0.3076923076923077,0
+Disability issues (marker),miller2_DivisionName,0.3076923076923077,0
+Disability issues (marker),miller2_SectionID,0.16,0
+Disability issues (marker),miller2_SectionName,0.16,0
+Disability issues (marker),miller2_RegionalProgram(marker),0.5,0
+Disability issues (marker),miller2_FundCentreID,0.07692307692307693,0
+Disability issues (marker),miller2_FundCentreName,0.07692307692307693,0
+Disability issues (marker),miller2_UntiedAmount(Project-levelBudget),0.009216589861751152,0
+Disability issues (marker),miller2_FSTCPercent,0.08163265306122448,0
+Disability issues (marker),miller2_IRTCPercent,0.75,0
+Disability issues (marker),miller2_CFLI(marker),0.5,0
+Disability issues (marker),miller2_CIDABusinessDeliveryModel(old),0.75,0
+Disability issues (marker),miller2_ProgrammingProcess(new),0.25,0
+Disability issues (marker),miller2_BilateralAid(internationalMarker),0.5,0
+Disability issues (marker),miller2_PBAType,0.25,0
+Disability issues (marker),miller2_EnviromentalSustainability(marker),0.75,0
+Disability issues (marker),miller2_ClimateChangeAdaptation(marker),0.75,0
+Disability issues (marker),miller2_ClimateChangeMitigation(marker),1.0,0
+Disability issues (marker),miller2_Desertification(marker),1.0,0
+Disability issues (marker),miller2_ParticipatoryDevelopmentAndGoodGovernance,1.0,0
+Disability issues (marker),miller2_TradeDevelopment(marker),1.0,0
+Disability issues (marker),miller2_Biodiversity(marker),1.0,0
+Disability issues (marker),miller2_UrbanIssues(marker),1.0,0
+Disability issues (marker),miller2_ChildrenIssues(marker),1.0,0
+Disability issues (marker),miller2_YouthIssues(marker),1.0,0
+Disability issues (marker),miller2_IndigenousIssues(marker),1.0,0
+Disability issues (marker),miller2_DisabilityIssues(marker),1.0,1
+Disability issues (marker),miller2_ICTAsAToolForDevelopment(marker),0.75,0
+Disability issues (marker),miller2_KnowledgeForDevelopment(marker),1.0,0
+Disability issues (marker),miller2_GenderEquality(marker),1.0,0
+Disability issues (marker),miller2_OrganisationID,0.011799410029498525,0
+Disability issues (marker),miller2_OrganisationName,0.011799410029498525,0
+Disability issues (marker),miller2_OrganisationType,1.0,0
+Disability issues (marker),miller2_OrganisationClass,0.6666666666666666,0
+Disability issues (marker),miller2_OrganisationSub-class,0.16666666666666666,0
+Disability issues (marker),miller2_ContinentID,0.8,0
+Disability issues (marker),miller2_ContinentName,0.8,0
+Disability issues (marker),miller2_ProjectBrowserCountryID,0.026143790849673203,0
+Disability issues (marker),miller2_CountryRegionID,0.028169014084507043,0
+Disability issues (marker),miller2_CountryRegionName,0.027586206896551724,0
+Disability issues (marker),miller2_CountryRegionPercent,0.009950248756218905,0
+Disability issues (marker),miller2_SectorID,0.032520325203252036,0
+Disability issues (marker),miller2_SectorName,0.032520325203252036,0
+Disability issues (marker),miller2_SectorPercent,0.021621621621621623,0
+Disability issues (marker),miller2_AmountSpent,0.0007968127490039841,0
+ICT as a tool for development (marker),miller2_FiscalYear,0.25,0
+ICT as a tool for development (marker),miller2_ProjectNumber,0.006220839813374806,0
+ICT as a tool for development (marker),miller2_Status,0.75,0
+ICT as a tool for development (marker),miller2_MaximumCIDAContribution(project-level),0.007782101167315175,0
+ICT as a tool for development (marker),miller2_BranchID,0.8,0
+ICT as a tool for development (marker),miller2_BranchName,0.8,0
+ICT as a tool for development (marker),miller2_DivisionID,0.3076923076923077,0
+ICT as a tool for development (marker),miller2_DivisionName,0.3076923076923077,0
+ICT as a tool for development (marker),miller2_SectionID,0.16,0
+ICT as a tool for development (marker),miller2_SectionName,0.16,0
+ICT as a tool for development (marker),miller2_RegionalProgram(marker),0.5,0
+ICT as a tool for development (marker),miller2_FundCentreID,0.07692307692307693,0
+ICT as a tool for development (marker),miller2_FundCentreName,0.07692307692307693,0
+ICT as a tool for development (marker),miller2_UntiedAmount(Project-levelBudget),0.009216589861751152,0
+ICT as a tool for development (marker),miller2_FSTCPercent,0.08163265306122448,0
+ICT as a tool for development (marker),miller2_IRTCPercent,0.75,0
+ICT as a tool for development (marker),miller2_CFLI(marker),0.5,0
+ICT as a tool for development (marker),miller2_CIDABusinessDeliveryModel(old),0.75,0
+ICT as a tool for development (marker),miller2_ProgrammingProcess(new),0.25,0
+ICT as a tool for development (marker),miller2_BilateralAid(internationalMarker),0.5,0
+ICT as a tool for development (marker),miller2_PBAType,0.25,0
+ICT as a tool for development (marker),miller2_EnviromentalSustainability(marker),0.75,0
+ICT as a tool for development (marker),miller2_ClimateChangeAdaptation(marker),0.75,0
+ICT as a tool for development (marker),miller2_ClimateChangeMitigation(marker),1.0,0
+ICT as a tool for development (marker),miller2_Desertification(marker),1.0,0
+ICT as a tool for development (marker),miller2_ParticipatoryDevelopmentAndGoodGovernance,1.0,0
+ICT as a tool for development (marker),miller2_TradeDevelopment(marker),1.0,0
+ICT as a tool for development (marker),miller2_Biodiversity(marker),1.0,0
+ICT as a tool for development (marker),miller2_UrbanIssues(marker),1.0,0
+ICT as a tool for development (marker),miller2_ChildrenIssues(marker),1.0,0
+ICT as a tool for development (marker),miller2_YouthIssues(marker),1.0,0
+ICT as a tool for development (marker),miller2_IndigenousIssues(marker),1.0,0
+ICT as a tool for development (marker),miller2_DisabilityIssues(marker),1.0,0
+ICT as a tool for development (marker),miller2_ICTAsAToolForDevelopment(marker),0.75,1
+ICT as a tool for development (marker),miller2_KnowledgeForDevelopment(marker),1.0,0
+ICT as a tool for development (marker),miller2_GenderEquality(marker),1.0,0
+ICT as a tool for development (marker),miller2_OrganisationID,0.011799410029498525,0
+ICT as a tool for development (marker),miller2_OrganisationName,0.011799410029498525,0
+ICT as a tool for development (marker),miller2_OrganisationType,1.0,0
+ICT as a tool for development (marker),miller2_OrganisationClass,0.6666666666666666,0
+ICT as a tool for development (marker),miller2_OrganisationSub-class,0.16666666666666666,0
+ICT as a tool for development (marker),miller2_ContinentID,0.8,0
+ICT as a tool for development (marker),miller2_ContinentName,0.8,0
+ICT as a tool for development (marker),miller2_ProjectBrowserCountryID,0.026143790849673203,0
+ICT as a tool for development (marker),miller2_CountryRegionID,0.028169014084507043,0
+ICT as a tool for development (marker),miller2_CountryRegionName,0.027586206896551724,0
+ICT as a tool for development (marker),miller2_CountryRegionPercent,0.009950248756218905,0
+ICT as a tool for development (marker),miller2_SectorID,0.032520325203252036,0
+ICT as a tool for development (marker),miller2_SectorName,0.032520325203252036,0
+ICT as a tool for development (marker),miller2_SectorPercent,0.021621621621621623,0
+ICT as a tool for development (marker),miller2_AmountSpent,0.0007968127490039841,0
+Knowledge for development (marker),miller2_FiscalYear,0.25,0
+Knowledge for development (marker),miller2_ProjectNumber,0.006220839813374806,0
+Knowledge for development (marker),miller2_Status,0.75,0
+Knowledge for development (marker),miller2_MaximumCIDAContribution(project-level),0.007782101167315175,0
+Knowledge for development (marker),miller2_BranchID,0.8,0
+Knowledge for development (marker),miller2_BranchName,0.8,0
+Knowledge for development (marker),miller2_DivisionID,0.3076923076923077,0
+Knowledge for development (marker),miller2_DivisionName,0.3076923076923077,0
+Knowledge for development (marker),miller2_SectionID,0.16,0
+Knowledge for development (marker),miller2_SectionName,0.16,0
+Knowledge for development (marker),miller2_RegionalProgram(marker),0.5,0
+Knowledge for development (marker),miller2_FundCentreID,0.07692307692307693,0
+Knowledge for development (marker),miller2_FundCentreName,0.07692307692307693,0
+Knowledge for development (marker),miller2_UntiedAmount(Project-levelBudget),0.009216589861751152,0
+Knowledge for development (marker),miller2_FSTCPercent,0.08163265306122448,0
+Knowledge for development (marker),miller2_IRTCPercent,0.75,0
+Knowledge for development (marker),miller2_CFLI(marker),0.5,0
+Knowledge for development (marker),miller2_CIDABusinessDeliveryModel(old),0.75,0
+Knowledge for development (marker),miller2_ProgrammingProcess(new),0.25,0
+Knowledge for development (marker),miller2_BilateralAid(internationalMarker),0.5,0
+Knowledge for development (marker),miller2_PBAType,0.25,0
+Knowledge for development (marker),miller2_EnviromentalSustainability(marker),0.75,0
+Knowledge for development (marker),miller2_ClimateChangeAdaptation(marker),0.75,0
+Knowledge for development (marker),miller2_ClimateChangeMitigation(marker),1.0,0
+Knowledge for development (marker),miller2_Desertification(marker),1.0,0
+Knowledge for development (marker),miller2_ParticipatoryDevelopmentAndGoodGovernance,1.0,0
+Knowledge for development (marker),miller2_TradeDevelopment(marker),1.0,0
+Knowledge for development (marker),miller2_Biodiversity(marker),1.0,0
+Knowledge for development (marker),miller2_UrbanIssues(marker),1.0,0
+Knowledge for development (marker),miller2_ChildrenIssues(marker),1.0,0
+Knowledge for development (marker),miller2_YouthIssues(marker),1.0,0
+Knowledge for development (marker),miller2_IndigenousIssues(marker),1.0,0
+Knowledge for development (marker),miller2_DisabilityIssues(marker),1.0,0
+Knowledge for development (marker),miller2_ICTAsAToolForDevelopment(marker),0.75,0
+Knowledge for development (marker),miller2_KnowledgeForDevelopment(marker),1.0,1
+Knowledge for development (marker),miller2_GenderEquality(marker),1.0,0
+Knowledge for development (marker),miller2_OrganisationID,0.011799410029498525,0
+Knowledge for development (marker),miller2_OrganisationName,0.011799410029498525,0
+Knowledge for development (marker),miller2_OrganisationType,1.0,0
+Knowledge for development (marker),miller2_OrganisationClass,0.6666666666666666,0
+Knowledge for development (marker),miller2_OrganisationSub-class,0.16666666666666666,0
+Knowledge for development (marker),miller2_ContinentID,0.8,0
+Knowledge for development (marker),miller2_ContinentName,0.8,0
+Knowledge for development (marker),miller2_ProjectBrowserCountryID,0.026143790849673203,0
+Knowledge for development (marker),miller2_CountryRegionID,0.028169014084507043,0
+Knowledge for development (marker),miller2_CountryRegionName,0.027586206896551724,0
+Knowledge for development (marker),miller2_CountryRegionPercent,0.009950248756218905,0
+Knowledge for development (marker),miller2_SectorID,0.032520325203252036,0
+Knowledge for development (marker),miller2_SectorName,0.032520325203252036,0
+Knowledge for development (marker),miller2_SectorPercent,0.021621621621621623,0
+Knowledge for development (marker),miller2_AmountSpent,0.0007968127490039841,0
+Gender equality (marker),miller2_FiscalYear,0.25,0
+Gender equality (marker),miller2_ProjectNumber,0.006220839813374806,0
+Gender equality (marker),miller2_Status,0.75,0
+Gender equality (marker),miller2_MaximumCIDAContribution(project-level),0.007782101167315175,0
+Gender equality (marker),miller2_BranchID,0.8,0
+Gender equality (marker),miller2_BranchName,0.8,0
+Gender equality (marker),miller2_DivisionID,0.3076923076923077,0
+Gender equality (marker),miller2_DivisionName,0.3076923076923077,0
+Gender equality (marker),miller2_SectionID,0.16,0
+Gender equality (marker),miller2_SectionName,0.16,0
+Gender equality (marker),miller2_RegionalProgram(marker),0.5,0
+Gender equality (marker),miller2_FundCentreID,0.07692307692307693,0
+Gender equality (marker),miller2_FundCentreName,0.07692307692307693,0
+Gender equality (marker),miller2_UntiedAmount(Project-levelBudget),0.009216589861751152,0
+Gender equality (marker),miller2_FSTCPercent,0.08163265306122448,0
+Gender equality (marker),miller2_IRTCPercent,0.75,0
+Gender equality (marker),miller2_CFLI(marker),0.5,0
+Gender equality (marker),miller2_CIDABusinessDeliveryModel(old),0.75,0
+Gender equality (marker),miller2_ProgrammingProcess(new),0.25,0
+Gender equality (marker),miller2_BilateralAid(internationalMarker),0.5,0
+Gender equality (marker),miller2_PBAType,0.25,0
+Gender equality (marker),miller2_EnviromentalSustainability(marker),0.75,0
+Gender equality (marker),miller2_ClimateChangeAdaptation(marker),0.75,0
+Gender equality (marker),miller2_ClimateChangeMitigation(marker),1.0,0
+Gender equality (marker),miller2_Desertification(marker),1.0,0
+Gender equality (marker),miller2_ParticipatoryDevelopmentAndGoodGovernance,1.0,0
+Gender equality (marker),miller2_TradeDevelopment(marker),1.0,0
+Gender equality (marker),miller2_Biodiversity(marker),1.0,0
+Gender equality (marker),miller2_UrbanIssues(marker),1.0,0
+Gender equality (marker),miller2_ChildrenIssues(marker),1.0,0
+Gender equality (marker),miller2_YouthIssues(marker),1.0,0
+Gender equality (marker),miller2_IndigenousIssues(marker),1.0,0
+Gender equality (marker),miller2_DisabilityIssues(marker),1.0,0
+Gender equality (marker),miller2_ICTAsAToolForDevelopment(marker),0.75,0
+Gender equality (marker),miller2_KnowledgeForDevelopment(marker),1.0,0
+Gender equality (marker),miller2_GenderEquality(marker),1.0,1
+Gender equality (marker),miller2_OrganisationID,0.011799410029498525,0
+Gender equality (marker),miller2_OrganisationName,0.011799410029498525,0
+Gender equality (marker),miller2_OrganisationType,1.0,0
+Gender equality (marker),miller2_OrganisationClass,0.6666666666666666,0
+Gender equality (marker),miller2_OrganisationSub-class,0.16666666666666666,0
+Gender equality (marker),miller2_ContinentID,0.8,0
+Gender equality (marker),miller2_ContinentName,0.8,0
+Gender equality (marker),miller2_ProjectBrowserCountryID,0.026143790849673203,0
+Gender equality (marker),miller2_CountryRegionID,0.028169014084507043,0
+Gender equality (marker),miller2_CountryRegionName,0.027586206896551724,0
+Gender equality (marker),miller2_CountryRegionPercent,0.009950248756218905,0
+Gender equality (marker),miller2_SectorID,0.032520325203252036,0
+Gender equality (marker),miller2_SectorName,0.032520325203252036,0
+Gender equality (marker),miller2_SectorPercent,0.021621621621621623,0
+Gender equality (marker),miller2_AmountSpent,0.0007968127490039841,0
+Organisation ID,miller2_FiscalYear,0.0014124293785310734,0
+Organisation ID,miller2_ProjectNumber,0.9081920903954802,0
+Organisation ID,miller2_Status,0.00423728813559322,0
+Organisation ID,miller2_MaximumCIDAContribution(project-level),0.7259887005649718,0
+Organisation ID,miller2_BranchID,0.007062146892655367,0
+Organisation ID,miller2_BranchName,0.007062146892655367,0
+Organisation ID,miller2_DivisionID,0.018361581920903956,0
+Organisation ID,miller2_DivisionName,0.018361581920903956,0
+Organisation ID,miller2_SectionID,0.03531073446327684,0
+Organisation ID,miller2_SectionName,0.03531073446327684,0
+Organisation ID,miller2_RegionalProgram(marker),0.002824858757062147,0
+Organisation ID,miller2_FundCentreID,0.07344632768361582,0
+Organisation ID,miller2_FundCentreName,0.07344632768361582,0
+Organisation ID,miller2_UntiedAmount(Project-levelBudget),0.6129943502824858,0
+Organisation ID,miller2_FSTCPercent,0.0692090395480226,0
+Organisation ID,miller2_IRTCPercent,0.00423728813559322,0
+Organisation ID,miller2_CFLI(marker),0.002824858757062147,0
+Organisation ID,miller2_CIDABusinessDeliveryModel(old),0.00423728813559322,0
+Organisation ID,miller2_ProgrammingProcess(new),0.0014124293785310734,0
+Organisation ID,miller2_BilateralAid(internationalMarker),0.002824858757062147,0
+Organisation ID,miller2_PBAType,0.0014124293785310734,0
+Organisation ID,miller2_EnviromentalSustainability(marker),0.00423728813559322,0
+Organisation ID,miller2_ClimateChangeAdaptation(marker),0.00423728813559322,0
+Organisation ID,miller2_ClimateChangeMitigation(marker),0.005649717514124294,0
+Organisation ID,miller2_Desertification(marker),0.005649717514124294,0
+Organisation ID,miller2_ParticipatoryDevelopmentAndGoodGovernance,0.005649717514124294,0
+Organisation ID,miller2_TradeDevelopment(marker),0.005649717514124294,0
+Organisation ID,miller2_Biodiversity(marker),0.005649717514124294,0
+Organisation ID,miller2_UrbanIssues(marker),0.005649717514124294,0
+Organisation ID,miller2_ChildrenIssues(marker),0.005649717514124294,0
+Organisation ID,miller2_YouthIssues(marker),0.005649717514124294,0
+Organisation ID,miller2_IndigenousIssues(marker),0.005649717514124294,0
+Organisation ID,miller2_DisabilityIssues(marker),0.005649717514124294,0
+Organisation ID,miller2_ICTAsAToolForDevelopment(marker),0.00423728813559322,0
+Organisation ID,miller2_KnowledgeForDevelopment(marker),0.005649717514124294,0
+Organisation ID,miller2_GenderEquality(marker),0.005649717514124294,0
+Organisation ID,miller2_OrganisationID,0.4788135593220339,1
+Organisation ID,miller2_OrganisationName,0.4788135593220339,0
+Organisation ID,miller2_OrganisationType,0.005649717514124294,0
+Organisation ID,miller2_OrganisationClass,0.00847457627118644,0
+Organisation ID,miller2_OrganisationSub-class,0.03389830508474576,0
+Organisation ID,miller2_ContinentID,0.007062146892655367,0
+Organisation ID,miller2_ContinentName,0.007062146892655367,0
+Organisation ID,miller2_ProjectBrowserCountryID,0.21610169491525424,0
+Organisation ID,miller2_CountryRegionID,0.20056497175141244,0
+Organisation ID,miller2_CountryRegionName,0.20480225988700565,0
+Organisation ID,miller2_CountryRegionPercent,0.5677966101694916,0
+Organisation ID,miller2_SectorID,0.17372881355932204,0
+Organisation ID,miller2_SectorName,0.17372881355932204,0
+Organisation ID,miller2_SectorPercent,0.2612994350282486,0
+Organisation ID,miller2_AmountSpent,0.14103585657370518,0
+Organisation name,miller2_FiscalYear,0.0001678133915086424,0
+Organisation name,miller2_ProjectNumber,0.10790401074005705,0
+Organisation name,miller2_Status,0.0005034401745259272,0
+Organisation name,miller2_MaximumCIDAContribution(project-level),0.08625608323544219,0
+Organisation name,miller2_BranchID,0.0008390669575432119,0
+Organisation name,miller2_BranchName,0.0008390669575432119,0
+Organisation name,miller2_DivisionID,0.002181574089612351,0
+Organisation name,miller2_DivisionName,0.002181574089612351,0
+Organisation name,miller2_SectionID,0.00419533478771606,0
+Organisation name,miller2_SectionName,0.00419533478771606,0
+Organisation name,miller2_RegionalProgram(marker),0.0003356267830172848,0
+Organisation name,miller2_FundCentreID,0.008726296358449404,0
+Organisation name,miller2_FundCentreName,0.008726296358449404,0
+Organisation name,miller2_UntiedAmount(Project-levelBudget),0.0728310119147508,0
+Organisation name,miller2_FSTCPercent,0.008222856183923478,0
+Organisation name,miller2_IRTCPercent,0.0005034401745259272,0
+Organisation name,miller2_CFLI(marker),0.0003356267830172848,0
+Organisation name,miller2_CIDABusinessDeliveryModel(old),0.0005034401745259272,0
+Organisation name,miller2_ProgrammingProcess(new),0.0001678133915086424,0
+Organisation name,miller2_BilateralAid(internationalMarker),0.0003356267830172848,0
+Organisation name,miller2_PBAType,0.0001678133915086424,0
+Organisation name,miller2_EnviromentalSustainability(marker),0.0005034401745259272,0
+Organisation name,miller2_ClimateChangeAdaptation(marker),0.0005034401745259272,0
+Organisation name,miller2_ClimateChangeMitigation(marker),0.0006712535660345696,0
+Organisation name,miller2_Desertification(marker),0.0006712535660345696,0
+Organisation name,miller2_ParticipatoryDevelopmentAndGoodGovernance,0.0006712535660345696,0
+Organisation name,miller2_TradeDevelopment(marker),0.0006712535660345696,0
+Organisation name,miller2_Biodiversity(marker),0.0006712535660345696,0
+Organisation name,miller2_UrbanIssues(marker),0.0006712535660345696,0
+Organisation name,miller2_ChildrenIssues(marker),0.0006712535660345696,0
+Organisation name,miller2_YouthIssues(marker),0.0006712535660345696,0
+Organisation name,miller2_IndigenousIssues(marker),0.0006712535660345696,0
+Organisation name,miller2_DisabilityIssues(marker),0.0006712535660345696,0
+Organisation name,miller2_ICTAsAToolForDevelopment(marker),0.0005034401745259272,0
+Organisation name,miller2_KnowledgeForDevelopment(marker),0.0006712535660345696,0
+Organisation name,miller2_GenderEquality(marker),0.0006712535660345696,0
+Organisation name,miller2_OrganisationID,0.05688873972142977,0
+Organisation name,miller2_OrganisationName,0.05688873972142977,1
+Organisation name,miller2_OrganisationType,0.0006712535660345696,0
+Organisation name,miller2_OrganisationClass,0.0010068803490518544,0
+Organisation name,miller2_OrganisationSub-class,0.004027521396207418,0
+Organisation name,miller2_ContinentID,0.0008390669575432119,0
+Organisation name,miller2_ContinentName,0.0008390669575432119,0
+Organisation name,miller2_ProjectBrowserCountryID,0.025675448900822285,0
+Organisation name,miller2_CountryRegionID,0.02382950159422722,0
+Organisation name,miller2_CountryRegionName,0.024332941768753145,0
+Organisation name,miller2_CountryRegionPercent,0.06746098338647424,0
+Organisation name,miller2_SectorID,0.020641047155563013,0
+Organisation name,miller2_SectorName,0.020641047155563013,0
+Organisation name,miller2_SectorPercent,0.03104547742909884,0
+Organisation name,miller2_AmountSpent,0.8424232253733848,0
+Organisation type,miller2_FiscalYear,0.00017220595832615808,0
+Organisation type,miller2_ProjectNumber,0.11072843120371965,0
+Organisation type,miller2_Status,0.0005166178749784743,0
+Organisation type,miller2_MaximumCIDAContribution(project-level),0.08851386257964526,0
+Organisation type,miller2_BranchID,0.0008610297916307905,0
+Organisation type,miller2_BranchName,0.0008610297916307905,0
+Organisation type,miller2_DivisionID,0.002238677458240055,0
+Organisation type,miller2_DivisionName,0.002238677458240055,0
+Organisation type,miller2_SectionID,0.004305148958153952,0
+Organisation type,miller2_SectionName,0.004305148958153952,0
+Organisation type,miller2_RegionalProgram(marker),0.00034441191665231615,0
+Organisation type,miller2_FundCentreID,0.00895470983296022,0
+Organisation type,miller2_FundCentreName,0.00895470983296022,0
+Organisation type,miller2_UntiedAmount(Project-levelBudget),0.07473738591355261,0
+Organisation type,miller2_FSTCPercent,0.008438091957981746,0
+Organisation type,miller2_IRTCPercent,0.0005166178749784743,0
+Organisation type,miller2_CFLI(marker),0.00034441191665231615,0
+Organisation type,miller2_CIDABusinessDeliveryModel(old),0.0005166178749784743,0
+Organisation type,miller2_ProgrammingProcess(new),0.00017220595832615808,0
+Organisation type,miller2_BilateralAid(internationalMarker),0.00034441191665231615,0
+Organisation type,miller2_PBAType,0.00017220595832615808,0
+Organisation type,miller2_EnviromentalSustainability(marker),0.0005166178749784743,0
+Organisation type,miller2_ClimateChangeAdaptation(marker),0.0005166178749784743,0
+Organisation type,miller2_ClimateChangeMitigation(marker),0.0006888238333046323,0
+Organisation type,miller2_Desertification(marker),0.0006888238333046323,0
+Organisation type,miller2_ParticipatoryDevelopmentAndGoodGovernance,0.0006888238333046323,0
+Organisation type,miller2_TradeDevelopment(marker),0.0006888238333046323,0
+Organisation type,miller2_Biodiversity(marker),0.0006888238333046323,0
+Organisation type,miller2_UrbanIssues(marker),0.0006888238333046323,0
+Organisation type,miller2_ChildrenIssues(marker),0.0006888238333046323,0
+Organisation type,miller2_YouthIssues(marker),0.0006888238333046323,0
+Organisation type,miller2_IndigenousIssues(marker),0.0006888238333046323,0
+Organisation type,miller2_DisabilityIssues(marker),0.0006888238333046323,0
+Organisation type,miller2_ICTAsAToolForDevelopment(marker),0.0005166178749784743,0
+Organisation type,miller2_KnowledgeForDevelopment(marker),0.0006888238333046323,0
+Organisation type,miller2_GenderEquality(marker),0.0006888238333046323,0
+Organisation type,miller2_OrganisationID,0.05837781987256759,0
+Organisation type,miller2_OrganisationName,0.05837781987256759,0
+Organisation type,miller2_OrganisationType,0.0006888238333046323,1
+Organisation type,miller2_OrganisationClass,0.0010332357499569485,0
+Organisation type,miller2_OrganisationSub-class,0.004132942999827794,0
+Organisation type,miller2_ContinentID,0.0008610297916307905,0
+Organisation type,miller2_ContinentName,0.0008610297916307905,0
+Organisation type,miller2_ProjectBrowserCountryID,0.026347511623902187,0
+Organisation type,miller2_CountryRegionID,0.02445324608231445,0
+Organisation type,miller2_CountryRegionName,0.024969863957292924,0
+Organisation type,miller2_CountryRegionPercent,0.06922679524711554,0
+Organisation type,miller2_SectorID,0.021181332874117446,0
+Organisation type,miller2_SectorName,0.021181332874117446,0
+Organisation type,miller2_SectorPercent,0.031858102290339245,0
+Organisation type,miller2_AmountSpent,0.8644739107973136,0
+Organisation class,miller2_FiscalYear,0.00028793550244745177,0
+Organisation class,miller2_ProjectNumber,0.18514252807371148,0
+Organisation class,miller2_Status,0.0008638065073423554,0
+Organisation class,miller2_MaximumCIDAContribution(project-level),0.1479988482579902,0
+Organisation class,miller2_BranchID,0.0014396775122372588,0
+Organisation class,miller2_BranchName,0.0014396775122372588,0
+Organisation class,miller2_DivisionID,0.003743161531816873,0
+Organisation class,miller2_DivisionName,0.003743161531816873,0
+Organisation class,miller2_SectionID,0.007198387561186294,0
+Organisation class,miller2_SectionName,0.007198387561186294,0
+Organisation class,miller2_RegionalProgram(marker),0.0005758710048949035,0
+Organisation class,miller2_FundCentreID,0.014972646127267493,0
+Organisation class,miller2_FundCentreName,0.014972646127267493,0
+Organisation class,miller2_UntiedAmount(Project-levelBudget),0.12496400806219407,0
+Organisation class,miller2_FSTCPercent,0.014108839619925137,0
+Organisation class,miller2_IRTCPercent,0.0008638065073423554,0
+Organisation class,miller2_CFLI(marker),0.0005758710048949035,0
+Organisation class,miller2_CIDABusinessDeliveryModel(old),0.0008638065073423554,0
+Organisation class,miller2_ProgrammingProcess(new),0.00028793550244745177,0
+Organisation class,miller2_BilateralAid(internationalMarker),0.0005758710048949035,0
+Organisation class,miller2_PBAType,0.00028793550244745177,0
+Organisation class,miller2_EnviromentalSustainability(marker),0.0008638065073423554,0
+Organisation class,miller2_ClimateChangeAdaptation(marker),0.0008638065073423554,0
+Organisation class,miller2_ClimateChangeMitigation(marker),0.001151742009789807,0
+Organisation class,miller2_Desertification(marker),0.001151742009789807,0
+Organisation class,miller2_ParticipatoryDevelopmentAndGoodGovernance,0.001151742009789807,0
+Organisation class,miller2_TradeDevelopment(marker),0.001151742009789807,0
+Organisation class,miller2_Biodiversity(marker),0.001151742009789807,0
+Organisation class,miller2_UrbanIssues(marker),0.001151742009789807,0
+Organisation class,miller2_ChildrenIssues(marker),0.001151742009789807,0
+Organisation class,miller2_YouthIssues(marker),0.001151742009789807,0
+Organisation class,miller2_IndigenousIssues(marker),0.001151742009789807,0
+Organisation class,miller2_DisabilityIssues(marker),0.001151742009789807,0
+Organisation class,miller2_ICTAsAToolForDevelopment(marker),0.0008638065073423554,0
+Organisation class,miller2_KnowledgeForDevelopment(marker),0.001151742009789807,0
+Organisation class,miller2_GenderEquality(marker),0.001151742009789807,0
+Organisation class,miller2_OrganisationID,0.09761013532968615,0
+Organisation class,miller2_OrganisationName,0.09761013532968615,0
+Organisation class,miller2_OrganisationType,0.001151742009789807,0
+Organisation class,miller2_OrganisationClass,0.0017276130146847107,1
+Organisation class,miller2_OrganisationSub-class,0.006910452058738843,0
+Organisation class,miller2_ContinentID,0.0014396775122372588,0
+Organisation class,miller2_ContinentName,0.0014396775122372588,0
+Organisation class,miller2_ProjectBrowserCountryID,0.04405413187446012,0
+Organisation class,miller2_CountryRegionID,0.04088684134753815,0
+Organisation class,miller2_CountryRegionName,0.04175064785488051,0
+Organisation class,miller2_CountryRegionPercent,0.11575007198387562,0
+Organisation class,miller2_SectorID,0.035416066801036566,0
+Organisation class,miller2_SectorName,0.035416066801036566,0
+Organisation class,miller2_SectorPercent,0.05326806795277858,0
+Organisation class,miller2_AmountSpent,0.6918326693227091,0
+Organisation sub-class,miller2_FiscalYear,0.00030193236714975844,0
+Organisation sub-class,miller2_ProjectNumber,0.1941425120772947,0
+Organisation sub-class,miller2_Status,0.0009057971014492754,0
+Organisation sub-class,miller2_MaximumCIDAContribution(project-level),0.15519323671497584,0
+Organisation sub-class,miller2_BranchID,0.0015096618357487923,0
+Organisation sub-class,miller2_BranchName,0.0015096618357487923,0
+Organisation sub-class,miller2_DivisionID,0.00392512077294686,0
+Organisation sub-class,miller2_DivisionName,0.00392512077294686,0
+Organisation sub-class,miller2_SectionID,0.007548309178743961,0
+Organisation sub-class,miller2_SectionName,0.007548309178743961,0
+Organisation sub-class,miller2_RegionalProgram(marker),0.0006038647342995169,0
+Organisation sub-class,miller2_FundCentreID,0.01570048309178744,0
+Organisation sub-class,miller2_FundCentreName,0.01570048309178744,0
+Organisation sub-class,miller2_UntiedAmount(Project-levelBudget),0.13103864734299517,0
+Organisation sub-class,miller2_FSTCPercent,0.014794685990338164,0
+Organisation sub-class,miller2_IRTCPercent,0.0009057971014492754,0
+Organisation sub-class,miller2_CFLI(marker),0.0006038647342995169,0
+Organisation sub-class,miller2_CIDABusinessDeliveryModel(old),0.0009057971014492754,0
+Organisation sub-class,miller2_ProgrammingProcess(new),0.00030193236714975844,0
+Organisation sub-class,miller2_BilateralAid(internationalMarker),0.0006038647342995169,0
+Organisation sub-class,miller2_PBAType,0.00030193236714975844,0
+Organisation sub-class,miller2_EnviromentalSustainability(marker),0.0009057971014492754,0
+Organisation sub-class,miller2_ClimateChangeAdaptation(marker),0.0009057971014492754,0
+Organisation sub-class,miller2_ClimateChangeMitigation(marker),0.0012077294685990338,0
+Organisation sub-class,miller2_Desertification(marker),0.0012077294685990338,0
+Organisation sub-class,miller2_ParticipatoryDevelopmentAndGoodGovernance,0.0012077294685990338,0
+Organisation sub-class,miller2_TradeDevelopment(marker),0.0012077294685990338,0
+Organisation sub-class,miller2_Biodiversity(marker),0.0012077294685990338,0
+Organisation sub-class,miller2_UrbanIssues(marker),0.0012077294685990338,0
+Organisation sub-class,miller2_ChildrenIssues(marker),0.0012077294685990338,0
+Organisation sub-class,miller2_YouthIssues(marker),0.0012077294685990338,0
+Organisation sub-class,miller2_IndigenousIssues(marker),0.0012077294685990338,0
+Organisation sub-class,miller2_DisabilityIssues(marker),0.0012077294685990338,0
+Organisation sub-class,miller2_ICTAsAToolForDevelopment(marker),0.0009057971014492754,0
+Organisation sub-class,miller2_KnowledgeForDevelopment(marker),0.0012077294685990338,0
+Organisation sub-class,miller2_GenderEquality(marker),0.0012077294685990338,0
+Organisation sub-class,miller2_OrganisationID,0.10235507246376811,0
+Organisation sub-class,miller2_OrganisationName,0.10235507246376811,0
+Organisation sub-class,miller2_OrganisationType,0.0012077294685990338,0
+Organisation sub-class,miller2_OrganisationClass,0.0018115942028985507,0
+Organisation sub-class,miller2_OrganisationSub-class,0.007246376811594203,1
+Organisation sub-class,miller2_ContinentID,0.0015096618357487923,0
+Organisation sub-class,miller2_ContinentName,0.0015096618357487923,0
+Organisation sub-class,miller2_ProjectBrowserCountryID,0.04619565217391304,0
+Organisation sub-class,miller2_CountryRegionID,0.042874396135265704,0
+Organisation sub-class,miller2_CountryRegionName,0.043780193236714976,0
+Organisation sub-class,miller2_CountryRegionPercent,0.1213768115942029,0
+Organisation sub-class,miller2_SectorID,0.03713768115942029,0
+Organisation sub-class,miller2_SectorName,0.03713768115942029,0
+Organisation sub-class,miller2_SectorPercent,0.05585748792270531,0
+Organisation sub-class,miller2_AmountSpent,0.6597609561752988,0
+Continent ID,miller2_FiscalYear,0.2,0
+Continent ID,miller2_ProjectNumber,0.007776049766718507,0
+Continent ID,miller2_Status,0.6,0
+Continent ID,miller2_MaximumCIDAContribution(project-level),0.009727626459143969,0
+Continent ID,miller2_BranchID,1.0,0
+Continent ID,miller2_BranchName,1.0,0
+Continent ID,miller2_DivisionID,0.38461538461538464,0
+Continent ID,miller2_DivisionName,0.38461538461538464,0
+Continent ID,miller2_SectionID,0.2,0
+Continent ID,miller2_SectionName,0.2,0
+Continent ID,miller2_RegionalProgram(marker),0.4,0
+Continent ID,miller2_FundCentreID,0.09615384615384616,0
+Continent ID,miller2_FundCentreName,0.09615384615384616,0
+Continent ID,miller2_UntiedAmount(Project-levelBudget),0.01152073732718894,0
+Continent ID,miller2_FSTCPercent,0.10204081632653061,0
+Continent ID,miller2_IRTCPercent,0.6,0
+Continent ID,miller2_CFLI(marker),0.4,0
+Continent ID,miller2_CIDABusinessDeliveryModel(old),0.6,0
+Continent ID,miller2_ProgrammingProcess(new),0.2,0
+Continent ID,miller2_BilateralAid(internationalMarker),0.4,0
+Continent ID,miller2_PBAType,0.2,0
+Continent ID,miller2_EnviromentalSustainability(marker),0.6,0
+Continent ID,miller2_ClimateChangeAdaptation(marker),0.6,0
+Continent ID,miller2_ClimateChangeMitigation(marker),0.8,0
+Continent ID,miller2_Desertification(marker),0.8,0
+Continent ID,miller2_ParticipatoryDevelopmentAndGoodGovernance,0.8,0
+Continent ID,miller2_TradeDevelopment(marker),0.8,0
+Continent ID,miller2_Biodiversity(marker),0.8,0
+Continent ID,miller2_UrbanIssues(marker),0.8,0
+Continent ID,miller2_ChildrenIssues(marker),0.8,0
+Continent ID,miller2_YouthIssues(marker),0.8,0
+Continent ID,miller2_IndigenousIssues(marker),0.8,0
+Continent ID,miller2_DisabilityIssues(marker),0.8,0
+Continent ID,miller2_ICTAsAToolForDevelopment(marker),0.6,0
+Continent ID,miller2_KnowledgeForDevelopment(marker),0.8,0
+Continent ID,miller2_GenderEquality(marker),0.8,0
+Continent ID,miller2_OrganisationID,0.014749262536873156,0
+Continent ID,miller2_OrganisationName,0.014749262536873156,0
+Continent ID,miller2_OrganisationType,0.8,0
+Continent ID,miller2_OrganisationClass,0.8333333333333334,0
+Continent ID,miller2_OrganisationSub-class,0.20833333333333334,0
+Continent ID,miller2_ContinentID,1.0,1
+Continent ID,miller2_ContinentName,1.0,0
+Continent ID,miller2_ProjectBrowserCountryID,0.032679738562091505,0
+Continent ID,miller2_CountryRegionID,0.035211267605633804,0
+Continent ID,miller2_CountryRegionName,0.034482758620689655,0
+Continent ID,miller2_CountryRegionPercent,0.012437810945273632,0
+Continent ID,miller2_SectorID,0.04065040650406504,0
+Continent ID,miller2_SectorName,0.04065040650406504,0
+Continent ID,miller2_SectorPercent,0.02702702702702703,0
+Continent ID,miller2_AmountSpent,0.00099601593625498,0
+Continent name,miller2_FiscalYear,0.005988023952095809,0
+Continent name,miller2_ProjectNumber,0.25972006220839816,0
+Continent name,miller2_Status,0.017964071856287425,0
+Continent name,miller2_MaximumCIDAContribution(project-level),0.32490272373540857,0
+Continent name,miller2_BranchID,0.029940119760479042,0
+Continent name,miller2_BranchName,0.029940119760479042,0
+Continent name,miller2_DivisionID,0.07784431137724551,0
+Continent name,miller2_DivisionName,0.07784431137724551,0
+Continent name,miller2_SectionID,0.1497005988023952,0
+Continent name,miller2_SectionName,0.1497005988023952,0
+Continent name,miller2_RegionalProgram(marker),0.011976047904191617,0
+Continent name,miller2_FundCentreID,0.31137724550898205,0
+Continent name,miller2_FundCentreName,0.31137724550898205,0
+Continent name,miller2_UntiedAmount(Project-levelBudget),0.3847926267281106,0
+Continent name,miller2_FSTCPercent,0.2934131736526946,0
+Continent name,miller2_IRTCPercent,0.017964071856287425,0
+Continent name,miller2_CFLI(marker),0.011976047904191617,0
+Continent name,miller2_CIDABusinessDeliveryModel(old),0.017964071856287425,0
+Continent name,miller2_ProgrammingProcess(new),0.005988023952095809,0
+Continent name,miller2_BilateralAid(internationalMarker),0.011976047904191617,0
+Continent name,miller2_PBAType,0.005988023952095809,0
+Continent name,miller2_EnviromentalSustainability(marker),0.017964071856287425,0
+Continent name,miller2_ClimateChangeAdaptation(marker),0.017964071856287425,0
+Continent name,miller2_ClimateChangeMitigation(marker),0.023952095808383235,0
+Continent name,miller2_Desertification(marker),0.023952095808383235,0
+Continent name,miller2_ParticipatoryDevelopmentAndGoodGovernance,0.023952095808383235,0
+Continent name,miller2_TradeDevelopment(marker),0.023952095808383235,0
+Continent name,miller2_Biodiversity(marker),0.023952095808383235,0
+Continent name,miller2_UrbanIssues(marker),0.023952095808383235,0
+Continent name,miller2_ChildrenIssues(marker),0.023952095808383235,0
+Continent name,miller2_YouthIssues(marker),0.023952095808383235,0
+Continent name,miller2_IndigenousIssues(marker),0.023952095808383235,0
+Continent name,miller2_DisabilityIssues(marker),0.023952095808383235,0
+Continent name,miller2_ICTAsAToolForDevelopment(marker),0.017964071856287425,0
+Continent name,miller2_KnowledgeForDevelopment(marker),0.023952095808383235,0
+Continent name,miller2_GenderEquality(marker),0.023952095808383235,0
+Continent name,miller2_OrganisationID,0.49262536873156343,0
+Continent name,miller2_OrganisationName,0.49262536873156343,0
+Continent name,miller2_OrganisationType,0.023952095808383235,0
+Continent name,miller2_OrganisationClass,0.03592814371257485,0
+Continent name,miller2_OrganisationSub-class,0.1437125748502994,0
+Continent name,miller2_ContinentID,0.029940119760479042,0
+Continent name,miller2_ContinentName,0.029940119760479042,1
+Continent name,miller2_ProjectBrowserCountryID,0.9161676646706587,0
+Continent name,miller2_CountryRegionID,0.8502994011976048,0
+Continent name,miller2_CountryRegionName,0.8682634730538922,0
+Continent name,miller2_CountryRegionPercent,0.4154228855721393,0
+Continent name,miller2_SectorID,0.7365269461077845,0
+Continent name,miller2_SectorName,0.7365269461077845,0
+Continent name,miller2_SectorPercent,0.9027027027027027,0
+Continent name,miller2_AmountSpent,0.03326693227091634,0
+Project Browser country ID,miller2_FiscalYear,0.006060606060606061,0
+Project Browser country ID,miller2_ProjectNumber,0.25660964230171074,0
+Project Browser country ID,miller2_Status,0.01818181818181818,0
+Project Browser country ID,miller2_MaximumCIDAContribution(project-level),0.321011673151751,0
+Project Browser country ID,miller2_BranchID,0.030303030303030304,0
+Project Browser country ID,miller2_BranchName,0.030303030303030304,0
+Project Browser country ID,miller2_DivisionID,0.07878787878787878,0
+Project Browser country ID,miller2_DivisionName,0.07878787878787878,0
+Project Browser country ID,miller2_SectionID,0.15151515151515152,0
+Project Browser country ID,miller2_SectionName,0.15151515151515152,0
+Project Browser country ID,miller2_RegionalProgram(marker),0.012121212121212121,0
+Project Browser country ID,miller2_FundCentreID,0.3151515151515151,0
+Project Browser country ID,miller2_FundCentreName,0.3151515151515151,0
+Project Browser country ID,miller2_UntiedAmount(Project-levelBudget),0.38018433179723504,0
+Project Browser country ID,miller2_FSTCPercent,0.296969696969697,0
+Project Browser country ID,miller2_IRTCPercent,0.01818181818181818,0
+Project Browser country ID,miller2_CFLI(marker),0.012121212121212121,0
+Project Browser country ID,miller2_CIDABusinessDeliveryModel(old),0.01818181818181818,0
+Project Browser country ID,miller2_ProgrammingProcess(new),0.006060606060606061,0
+Project Browser country ID,miller2_BilateralAid(internationalMarker),0.012121212121212121,0
+Project Browser country ID,miller2_PBAType,0.006060606060606061,0
+Project Browser country ID,miller2_EnviromentalSustainability(marker),0.01818181818181818,0
+Project Browser country ID,miller2_ClimateChangeAdaptation(marker),0.01818181818181818,0
+Project Browser country ID,miller2_ClimateChangeMitigation(marker),0.024242424242424242,0
+Project Browser country ID,miller2_Desertification(marker),0.024242424242424242,0
+Project Browser country ID,miller2_ParticipatoryDevelopmentAndGoodGovernance,0.024242424242424242,0
+Project Browser country ID,miller2_TradeDevelopment(marker),0.024242424242424242,0
+Project Browser country ID,miller2_Biodiversity(marker),0.024242424242424242,0
+Project Browser country ID,miller2_UrbanIssues(marker),0.024242424242424242,0
+Project Browser country ID,miller2_ChildrenIssues(marker),0.024242424242424242,0
+Project Browser country ID,miller2_YouthIssues(marker),0.024242424242424242,0
+Project Browser country ID,miller2_IndigenousIssues(marker),0.024242424242424242,0
+Project Browser country ID,miller2_DisabilityIssues(marker),0.024242424242424242,0
+Project Browser country ID,miller2_ICTAsAToolForDevelopment(marker),0.01818181818181818,0
+Project Browser country ID,miller2_KnowledgeForDevelopment(marker),0.024242424242424242,0
+Project Browser country ID,miller2_GenderEquality(marker),0.024242424242424242,0
+Project Browser country ID,miller2_OrganisationID,0.48672566371681414,0
+Project Browser country ID,miller2_OrganisationName,0.48672566371681414,0
+Project Browser country ID,miller2_OrganisationType,0.024242424242424242,0
+Project Browser country ID,miller2_OrganisationClass,0.03636363636363636,0
+Project Browser country ID,miller2_OrganisationSub-class,0.14545454545454545,0
+Project Browser country ID,miller2_ContinentID,0.030303030303030304,0
+Project Browser country ID,miller2_ContinentName,0.030303030303030304,0
+Project Browser country ID,miller2_ProjectBrowserCountryID,0.9272727272727272,1
+Project Browser country ID,miller2_CountryRegionID,0.8606060606060606,0
+Project Browser country ID,miller2_CountryRegionName,0.8787878787878788,0
+Project Browser country ID,miller2_CountryRegionPercent,0.41044776119402987,0
+Project Browser country ID,miller2_SectorID,0.7454545454545455,0
+Project Browser country ID,miller2_SectorName,0.7454545454545455,0
+Project Browser country ID,miller2_SectorPercent,0.8918918918918919,0
+Project Browser country ID,miller2_AmountSpent,0.03286852589641434,0
+CountryRegion ID,miller2_FiscalYear,0.005714285714285714,0
+CountryRegion ID,miller2_ProjectNumber,0.27216174183514774,0
+CountryRegion ID,miller2_Status,0.017142857142857144,0
+CountryRegion ID,miller2_MaximumCIDAContribution(project-level),0.3404669260700389,0
+CountryRegion ID,miller2_BranchID,0.02857142857142857,0
+CountryRegion ID,miller2_BranchName,0.02857142857142857,0
+CountryRegion ID,miller2_DivisionID,0.07428571428571429,0
+CountryRegion ID,miller2_DivisionName,0.07428571428571429,0
+CountryRegion ID,miller2_SectionID,0.14285714285714285,0
+CountryRegion ID,miller2_SectionName,0.14285714285714285,0
+CountryRegion ID,miller2_RegionalProgram(marker),0.011428571428571429,0
+CountryRegion ID,miller2_FundCentreID,0.29714285714285715,0
+CountryRegion ID,miller2_FundCentreName,0.29714285714285715,0
+CountryRegion ID,miller2_UntiedAmount(Project-levelBudget),0.4032258064516129,0
+CountryRegion ID,miller2_FSTCPercent,0.28,0
+CountryRegion ID,miller2_IRTCPercent,0.017142857142857144,0
+CountryRegion ID,miller2_CFLI(marker),0.011428571428571429,0
+CountryRegion ID,miller2_CIDABusinessDeliveryModel(old),0.017142857142857144,0
+CountryRegion ID,miller2_ProgrammingProcess(new),0.005714285714285714,0
+CountryRegion ID,miller2_BilateralAid(internationalMarker),0.011428571428571429,0
+CountryRegion ID,miller2_PBAType,0.005714285714285714,0
+CountryRegion ID,miller2_EnviromentalSustainability(marker),0.017142857142857144,0
+CountryRegion ID,miller2_ClimateChangeAdaptation(marker),0.017142857142857144,0
+CountryRegion ID,miller2_ClimateChangeMitigation(marker),0.022857142857142857,0
+CountryRegion ID,miller2_Desertification(marker),0.022857142857142857,0
+CountryRegion ID,miller2_ParticipatoryDevelopmentAndGoodGovernance,0.022857142857142857,0
+CountryRegion ID,miller2_TradeDevelopment(marker),0.022857142857142857,0
+CountryRegion ID,miller2_Biodiversity(marker),0.022857142857142857,0
+CountryRegion ID,miller2_UrbanIssues(marker),0.022857142857142857,0
+CountryRegion ID,miller2_ChildrenIssues(marker),0.022857142857142857,0
+CountryRegion ID,miller2_YouthIssues(marker),0.022857142857142857,0
+CountryRegion ID,miller2_IndigenousIssues(marker),0.022857142857142857,0
+CountryRegion ID,miller2_DisabilityIssues(marker),0.022857142857142857,0
+CountryRegion ID,miller2_ICTAsAToolForDevelopment(marker),0.017142857142857144,0
+CountryRegion ID,miller2_KnowledgeForDevelopment(marker),0.022857142857142857,0
+CountryRegion ID,miller2_GenderEquality(marker),0.022857142857142857,0
+CountryRegion ID,miller2_OrganisationID,0.5162241887905604,0
+CountryRegion ID,miller2_OrganisationName,0.5162241887905604,0
+CountryRegion ID,miller2_OrganisationType,0.022857142857142857,0
+CountryRegion ID,miller2_OrganisationClass,0.03428571428571429,0
+CountryRegion ID,miller2_OrganisationSub-class,0.13714285714285715,0
+CountryRegion ID,miller2_ContinentID,0.02857142857142857,0
+CountryRegion ID,miller2_ContinentName,0.02857142857142857,0
+CountryRegion ID,miller2_ProjectBrowserCountryID,0.8742857142857143,0
+CountryRegion ID,miller2_CountryRegionID,0.8114285714285714,1
+CountryRegion ID,miller2_CountryRegionName,0.8285714285714286,0
+CountryRegion ID,miller2_CountryRegionPercent,0.43532338308457713,0
+CountryRegion ID,miller2_SectorID,0.7028571428571428,0
+CountryRegion ID,miller2_SectorName,0.7028571428571428,0
+CountryRegion ID,miller2_SectorPercent,0.9459459459459459,0
+CountryRegion ID,miller2_AmountSpent,0.0348605577689243,0
+CountryRegion name,miller2_FiscalYear,0.00024551927326295114,0
+CountryRegion name,miller2_ProjectNumber,0.15786889270807758,0
+CountryRegion name,miller2_Status,0.0007365578197888534,0
+CountryRegion name,miller2_MaximumCIDAContribution(project-level),0.1261969064571569,0
+CountryRegion name,miller2_BranchID,0.0012275963663147557,0
+CountryRegion name,miller2_BranchName,0.0012275963663147557,0
+CountryRegion name,miller2_DivisionID,0.0031917505524183647,0
+CountryRegion name,miller2_DivisionName,0.0031917505524183647,0
+CountryRegion name,miller2_SectionID,0.006137981831573778,0
+CountryRegion name,miller2_SectionName,0.006137981831573778,0
+CountryRegion name,miller2_RegionalProgram(marker),0.0004910385465259023,0
+CountryRegion name,miller2_FundCentreID,0.012767002209673459,0
+CountryRegion name,miller2_FundCentreName,0.012767002209673459,0
+CountryRegion name,miller2_UntiedAmount(Project-levelBudget),0.10655536459612079,0
+CountryRegion name,miller2_FSTCPercent,0.012030444389884607,0
+CountryRegion name,miller2_IRTCPercent,0.0007365578197888534,0
+CountryRegion name,miller2_CFLI(marker),0.0004910385465259023,0
+CountryRegion name,miller2_CIDABusinessDeliveryModel(old),0.0007365578197888534,0
+CountryRegion name,miller2_ProgrammingProcess(new),0.00024551927326295114,0
+CountryRegion name,miller2_BilateralAid(internationalMarker),0.0004910385465259023,0
+CountryRegion name,miller2_PBAType,0.00024551927326295114,0
+CountryRegion name,miller2_EnviromentalSustainability(marker),0.0007365578197888534,0
+CountryRegion name,miller2_ClimateChangeAdaptation(marker),0.0007365578197888534,0
+CountryRegion name,miller2_ClimateChangeMitigation(marker),0.0009820770930518046,0
+CountryRegion name,miller2_Desertification(marker),0.0009820770930518046,0
+CountryRegion name,miller2_ParticipatoryDevelopmentAndGoodGovernance,0.0009820770930518046,0
+CountryRegion name,miller2_TradeDevelopment(marker),0.0009820770930518046,0
+CountryRegion name,miller2_Biodiversity(marker),0.0009820770930518046,0
+CountryRegion name,miller2_UrbanIssues(marker),0.0009820770930518046,0
+CountryRegion name,miller2_ChildrenIssues(marker),0.0009820770930518046,0
+CountryRegion name,miller2_YouthIssues(marker),0.0009820770930518046,0
+CountryRegion name,miller2_IndigenousIssues(marker),0.0009820770930518046,0
+CountryRegion name,miller2_DisabilityIssues(marker),0.0009820770930518046,0
+CountryRegion name,miller2_ICTAsAToolForDevelopment(marker),0.0007365578197888534,0
+CountryRegion name,miller2_KnowledgeForDevelopment(marker),0.0009820770930518046,0
+CountryRegion name,miller2_GenderEquality(marker),0.0009820770930518046,0
+CountryRegion name,miller2_OrganisationID,0.08323103363614044,0
+CountryRegion name,miller2_OrganisationName,0.08323103363614044,0
+CountryRegion name,miller2_OrganisationType,0.0009820770930518046,0
+CountryRegion name,miller2_OrganisationClass,0.0014731156395777069,0
+CountryRegion name,miller2_OrganisationSub-class,0.0058924625583108275,0
+CountryRegion name,miller2_ContinentID,0.0012275963663147557,0
+CountryRegion name,miller2_ContinentName,0.0012275963663147557,0
+CountryRegion name,miller2_ProjectBrowserCountryID,0.03756444880923152,0
+CountryRegion name,miller2_CountryRegionID,0.03486373680333906,0
+CountryRegion name,miller2_CountryRegionName,0.035600294623127915,1
+CountryRegion name,miller2_CountryRegionPercent,0.09869874785170636,0
+CountryRegion name,miller2_SectorID,0.03019887061134299,0
+CountryRegion name,miller2_SectorName,0.03019887061134299,0
+CountryRegion name,miller2_SectorPercent,0.04542106555364596,0
+CountryRegion name,miller2_AmountSpent,0.8113545816733068,0
+CountryRegion percent,miller2_FiscalYear,0.00016377333770062233,0
+CountryRegion percent,miller2_ProjectNumber,0.10530625614150016,0
+CountryRegion percent,miller2_Status,0.000491320013101867,0
+CountryRegion percent,miller2_MaximumCIDAContribution(project-level),0.08417949557811988,0
+CountryRegion percent,miller2_BranchID,0.0008188666885031117,0
+CountryRegion percent,miller2_BranchName,0.0008188666885031117,0
+CountryRegion percent,miller2_DivisionID,0.0021290533901080905,0
+CountryRegion percent,miller2_DivisionName,0.0021290533901080905,0
+CountryRegion percent,miller2_SectionID,0.004094333442515558,0
+CountryRegion percent,miller2_SectionName,0.004094333442515558,0
+CountryRegion percent,miller2_RegionalProgram(marker),0.00032754667540124465,0
+CountryRegion percent,miller2_FundCentreID,0.008516213560432362,0
+CountryRegion percent,miller2_FundCentreName,0.008516213560432362,0
+CountryRegion percent,miller2_UntiedAmount(Project-levelBudget),0.07107762856207009,0
+CountryRegion percent,miller2_FSTCPercent,0.008024893547330495,0
+CountryRegion percent,miller2_IRTCPercent,0.000491320013101867,0
+CountryRegion percent,miller2_CFLI(marker),0.00032754667540124465,0
+CountryRegion percent,miller2_CIDABusinessDeliveryModel(old),0.000491320013101867,0
+CountryRegion percent,miller2_ProgrammingProcess(new),0.00016377333770062233,0
+CountryRegion percent,miller2_BilateralAid(internationalMarker),0.00032754667540124465,0
+CountryRegion percent,miller2_PBAType,0.00016377333770062233,0
+CountryRegion percent,miller2_EnviromentalSustainability(marker),0.000491320013101867,0
+CountryRegion percent,miller2_ClimateChangeAdaptation(marker),0.000491320013101867,0
+CountryRegion percent,miller2_ClimateChangeMitigation(marker),0.0006550933508024893,0
+CountryRegion percent,miller2_Desertification(marker),0.0006550933508024893,0
+CountryRegion percent,miller2_ParticipatoryDevelopmentAndGoodGovernance,0.0006550933508024893,0
+CountryRegion percent,miller2_TradeDevelopment(marker),0.0006550933508024893,0
+CountryRegion percent,miller2_Biodiversity(marker),0.0006550933508024893,0
+CountryRegion percent,miller2_UrbanIssues(marker),0.0006550933508024893,0
+CountryRegion percent,miller2_ChildrenIssues(marker),0.0006550933508024893,0
+CountryRegion percent,miller2_YouthIssues(marker),0.0006550933508024893,0
+CountryRegion percent,miller2_IndigenousIssues(marker),0.0006550933508024893,0
+CountryRegion percent,miller2_DisabilityIssues(marker),0.0006550933508024893,0
+CountryRegion percent,miller2_ICTAsAToolForDevelopment(marker),0.000491320013101867,0
+CountryRegion percent,miller2_KnowledgeForDevelopment(marker),0.0006550933508024893,0
+CountryRegion percent,miller2_GenderEquality(marker),0.0006550933508024893,0
+CountryRegion percent,miller2_OrganisationID,0.055519161480510976,0
+CountryRegion percent,miller2_OrganisationName,0.055519161480510976,0
+CountryRegion percent,miller2_OrganisationType,0.0006550933508024893,0
+CountryRegion percent,miller2_OrganisationClass,0.000982640026203734,0
+CountryRegion percent,miller2_OrganisationSub-class,0.003930560104814936,0
+CountryRegion percent,miller2_ContinentID,0.0008188666885031117,0
+CountryRegion percent,miller2_ContinentName,0.0008188666885031117,0
+CountryRegion percent,miller2_ProjectBrowserCountryID,0.02505732066819522,0
+CountryRegion percent,miller2_CountryRegionID,0.023255813953488372,0
+CountryRegion percent,miller2_CountryRegionName,0.02374713396659024,0
+CountryRegion percent,miller2_CountryRegionPercent,0.06583688175565018,1
+CountryRegion percent,miller2_SectorID,0.020144120537176548,0
+CountryRegion percent,miller2_SectorName,0.020144120537176548,0
+CountryRegion percent,miller2_SectorPercent,0.030298067474615133,0
+CountryRegion percent,miller2_AmountSpent,0.8221421552571241,0
+Sector ID,miller2_FiscalYear,0.00641025641025641,0
+Sector ID,miller2_ProjectNumber,0.24261275272161742,0
+Sector ID,miller2_Status,0.019230769230769232,0
+Sector ID,miller2_MaximumCIDAContribution(project-level),0.3035019455252918,0
+Sector ID,miller2_BranchID,0.03205128205128205,0
+Sector ID,miller2_BranchName,0.03205128205128205,0
+Sector ID,miller2_DivisionID,0.08333333333333333,0
+Sector ID,miller2_DivisionName,0.08333333333333333,0
+Sector ID,miller2_SectionID,0.16025641025641027,0
+Sector ID,miller2_SectionName,0.16025641025641027,0
+Sector ID,miller2_RegionalProgram(marker),0.01282051282051282,0
+Sector ID,miller2_FundCentreID,0.3333333333333333,0
+Sector ID,miller2_FundCentreName,0.3333333333333333,0
+Sector ID,miller2_UntiedAmount(Project-levelBudget),0.35944700460829493,0
+Sector ID,miller2_FSTCPercent,0.3141025641025641,0
+Sector ID,miller2_IRTCPercent,0.019230769230769232,0
+Sector ID,miller2_CFLI(marker),0.01282051282051282,0
+Sector ID,miller2_CIDABusinessDeliveryModel(old),0.019230769230769232,0
+Sector ID,miller2_ProgrammingProcess(new),0.00641025641025641,0
+Sector ID,miller2_BilateralAid(internationalMarker),0.01282051282051282,0
+Sector ID,miller2_PBAType,0.00641025641025641,0
+Sector ID,miller2_EnviromentalSustainability(marker),0.019230769230769232,0
+Sector ID,miller2_ClimateChangeAdaptation(marker),0.019230769230769232,0
+Sector ID,miller2_ClimateChangeMitigation(marker),0.02564102564102564,0
+Sector ID,miller2_Desertification(marker),0.02564102564102564,0
+Sector ID,miller2_ParticipatoryDevelopmentAndGoodGovernance,0.02564102564102564,0
+Sector ID,miller2_TradeDevelopment(marker),0.02564102564102564,0
+Sector ID,miller2_Biodiversity(marker),0.02564102564102564,0
+Sector ID,miller2_UrbanIssues(marker),0.02564102564102564,0
+Sector ID,miller2_ChildrenIssues(marker),0.02564102564102564,0
+Sector ID,miller2_YouthIssues(marker),0.02564102564102564,0
+Sector ID,miller2_IndigenousIssues(marker),0.02564102564102564,0
+Sector ID,miller2_DisabilityIssues(marker),0.02564102564102564,0
+Sector ID,miller2_ICTAsAToolForDevelopment(marker),0.019230769230769232,0
+Sector ID,miller2_KnowledgeForDevelopment(marker),0.02564102564102564,0
+Sector ID,miller2_GenderEquality(marker),0.02564102564102564,0
+Sector ID,miller2_OrganisationID,0.46017699115044247,0
+Sector ID,miller2_OrganisationName,0.46017699115044247,0
+Sector ID,miller2_OrganisationType,0.02564102564102564,0
+Sector ID,miller2_OrganisationClass,0.038461538461538464,0
+Sector ID,miller2_OrganisationSub-class,0.15384615384615385,0
+Sector ID,miller2_ContinentID,0.03205128205128205,0
+Sector ID,miller2_ContinentName,0.03205128205128205,0
+Sector ID,miller2_ProjectBrowserCountryID,0.9807692307692307,0
+Sector ID,miller2_CountryRegionID,0.9102564102564102,0
+Sector ID,miller2_CountryRegionName,0.9294871794871795,0
+Sector ID,miller2_CountryRegionPercent,0.3880597014925373,0
+Sector ID,miller2_SectorID,0.7884615384615384,1
+Sector ID,miller2_SectorName,0.7884615384615384,0
+Sector ID,miller2_SectorPercent,0.8432432432432433,0
+Sector ID,miller2_AmountSpent,0.031075697211155377,0
+Sector name,miller2_FiscalYear,0.0001677008217340265,0
+Sector name,miller2_ProjectNumber,0.10783162837497903,0
+Sector name,miller2_Status,0.0005031024652020795,0
+Sector name,miller2_MaximumCIDAContribution(project-level),0.08619822237128962,0
+Sector name,miller2_BranchID,0.0008385041086701325,0
+Sector name,miller2_BranchName,0.0008385041086701325,0
+Sector name,miller2_DivisionID,0.0021801106825423446,0
+Sector name,miller2_DivisionName,0.0021801106825423446,0
+Sector name,miller2_SectionID,0.004192520543350662,0
+Sector name,miller2_SectionName,0.004192520543350662,0
+Sector name,miller2_RegionalProgram(marker),0.000335401643468053,0
+Sector name,miller2_FundCentreID,0.008720442730169378,0
+Sector name,miller2_FundCentreName,0.008720442730169378,0
+Sector name,miller2_UntiedAmount(Project-levelBudget),0.0727821566325675,0
+Sector name,miller2_FSTCPercent,0.008217340264967298,0
+Sector name,miller2_IRTCPercent,0.0005031024652020795,0
+Sector name,miller2_CFLI(marker),0.000335401643468053,0
+Sector name,miller2_CIDABusinessDeliveryModel(old),0.0005031024652020795,0
+Sector name,miller2_ProgrammingProcess(new),0.0001677008217340265,0
+Sector name,miller2_BilateralAid(internationalMarker),0.000335401643468053,0
+Sector name,miller2_PBAType,0.0001677008217340265,0
+Sector name,miller2_EnviromentalSustainability(marker),0.0005031024652020795,0
+Sector name,miller2_ClimateChangeAdaptation(marker),0.0005031024652020795,0
+Sector name,miller2_ClimateChangeMitigation(marker),0.000670803286936106,0
+Sector name,miller2_Desertification(marker),0.000670803286936106,0
+Sector name,miller2_ParticipatoryDevelopmentAndGoodGovernance,0.000670803286936106,0
+Sector name,miller2_TradeDevelopment(marker),0.000670803286936106,0
+Sector name,miller2_Biodiversity(marker),0.000670803286936106,0
+Sector name,miller2_UrbanIssues(marker),0.000670803286936106,0
+Sector name,miller2_ChildrenIssues(marker),0.000670803286936106,0
+Sector name,miller2_YouthIssues(marker),0.000670803286936106,0
+Sector name,miller2_IndigenousIssues(marker),0.000670803286936106,0
+Sector name,miller2_DisabilityIssues(marker),0.000670803286936106,0
+Sector name,miller2_ICTAsAToolForDevelopment(marker),0.0005031024652020795,0
+Sector name,miller2_KnowledgeForDevelopment(marker),0.000670803286936106,0
+Sector name,miller2_GenderEquality(marker),0.000670803286936106,0
+Sector name,miller2_OrganisationID,0.05685057856783498,0
+Sector name,miller2_OrganisationName,0.05685057856783498,0
+Sector name,miller2_OrganisationType,0.000670803286936106,0
+Sector name,miller2_OrganisationClass,0.001006204930404159,0
+Sector name,miller2_OrganisationSub-class,0.004024819721616636,0
+Sector name,miller2_ContinentID,0.0008385041086701325,0
+Sector name,miller2_ContinentName,0.0008385041086701325,0
+Sector name,miller2_ProjectBrowserCountryID,0.025658225725306055,0
+Sector name,miller2_CountryRegionID,0.023813516686231762,0
+Sector name,miller2_CountryRegionName,0.024316619151433842,0
+Sector name,miller2_CountryRegionPercent,0.06741573033707865,0
+Sector name,miller2_SectorID,0.020627201073285258,0
+Sector name,miller2_SectorName,0.020627201073285258,1
+Sector name,miller2_SectorPercent,0.0310246520207949,0
+Sector name,miller2_AmountSpent,0.8418581251048131,0
+Sector percent,miller2_FiscalYear,0.00016937669376693767,0
+Sector percent,miller2_ProjectNumber,0.10890921409214092,0
+Sector percent,miller2_Status,0.0005081300813008131,0
+Sector percent,miller2_MaximumCIDAContribution(project-level),0.08705962059620596,0
+Sector percent,miller2_BranchID,0.0008468834688346884,0
+Sector percent,miller2_BranchName,0.0008468834688346884,0
+Sector percent,miller2_DivisionID,0.0022018970189701895,0
+Sector percent,miller2_DivisionName,0.0022018970189701895,0
+Sector percent,miller2_SectionID,0.004234417344173441,0
+Sector percent,miller2_SectionName,0.004234417344173441,0
+Sector percent,miller2_RegionalProgram(marker),0.00033875338753387534,0
+Sector percent,miller2_FundCentreID,0.008807588075880758,0
+Sector percent,miller2_FundCentreName,0.008807588075880758,0
+Sector percent,miller2_UntiedAmount(Project-levelBudget),0.07350948509485095,0
+Sector percent,miller2_FSTCPercent,0.008299457994579946,0
+Sector percent,miller2_IRTCPercent,0.0005081300813008131,0
+Sector percent,miller2_CFLI(marker),0.00033875338753387534,0
+Sector percent,miller2_CIDABusinessDeliveryModel(old),0.0005081300813008131,0
+Sector percent,miller2_ProgrammingProcess(new),0.00016937669376693767,0
+Sector percent,miller2_BilateralAid(internationalMarker),0.00033875338753387534,0
+Sector percent,miller2_PBAType,0.00016937669376693767,0
+Sector percent,miller2_EnviromentalSustainability(marker),0.0005081300813008131,0
+Sector percent,miller2_ClimateChangeAdaptation(marker),0.0005081300813008131,0
+Sector percent,miller2_ClimateChangeMitigation(marker),0.0006775067750677507,0
+Sector percent,miller2_Desertification(marker),0.0006775067750677507,0
+Sector percent,miller2_ParticipatoryDevelopmentAndGoodGovernance,0.0006775067750677507,0
+Sector percent,miller2_TradeDevelopment(marker),0.0006775067750677507,0
+Sector percent,miller2_Biodiversity(marker),0.0006775067750677507,0
+Sector percent,miller2_UrbanIssues(marker),0.0006775067750677507,0
+Sector percent,miller2_ChildrenIssues(marker),0.0006775067750677507,0
+Sector percent,miller2_YouthIssues(marker),0.0006775067750677507,0
+Sector percent,miller2_IndigenousIssues(marker),0.0006775067750677507,0
+Sector percent,miller2_DisabilityIssues(marker),0.0006775067750677507,0
+Sector percent,miller2_ICTAsAToolForDevelopment(marker),0.0005081300813008131,0
+Sector percent,miller2_KnowledgeForDevelopment(marker),0.0006775067750677507,0
+Sector percent,miller2_GenderEquality(marker),0.0006775067750677507,0
+Sector percent,miller2_OrganisationID,0.05741869918699187,0
+Sector percent,miller2_OrganisationName,0.05741869918699187,0
+Sector percent,miller2_OrganisationType,0.0006775067750677507,0
+Sector percent,miller2_OrganisationClass,0.0010162601626016261,0
+Sector percent,miller2_OrganisationSub-class,0.0040650406504065045,0
+Sector percent,miller2_ContinentID,0.0008468834688346884,0
+Sector percent,miller2_ContinentName,0.0008468834688346884,0
+Sector percent,miller2_ProjectBrowserCountryID,0.025914634146341462,0
+Sector percent,miller2_CountryRegionID,0.024051490514905148,0
+Sector percent,miller2_CountryRegionName,0.02455962059620596,0
+Sector percent,miller2_CountryRegionPercent,0.06808943089430894,0
+Sector percent,miller2_SectorID,0.020833333333333332,0
+Sector percent,miller2_SectorName,0.020833333333333332,0
+Sector percent,miller2_SectorPercent,0.031334688346883466,1
+Sector percent,miller2_AmountSpent,0.8502710027100271,0
+Amount spent,miller2_FiscalYear,0.00010022048506714773,0
+Amount spent,miller2_ProjectNumber,0.06444177189817599,0
+Amount spent,miller2_Status,0.0003006614552014432,0
+Amount spent,miller2_MaximumCIDAContribution(project-level),0.05151332932451393,0
+Amount spent,miller2_BranchID,0.0005011024253357386,0
+Amount spent,miller2_BranchName,0.0005011024253357386,0
+Amount spent,miller2_DivisionID,0.0013028663058729205,0
+Amount spent,miller2_DivisionName,0.0013028663058729205,0
+Amount spent,miller2_SectionID,0.0025055121266786932,0
+Amount spent,miller2_SectionName,0.0025055121266786932,0
+Amount spent,miller2_RegionalProgram(marker),0.00020044097013429546,0
+Amount spent,miller2_FundCentreID,0.005211465223491682,0
+Amount spent,miller2_FundCentreName,0.005211465223491682,0
+Amount spent,miller2_UntiedAmount(Project-levelBudget),0.043495690519142115,0
+Amount spent,miller2_FSTCPercent,0.004910803768290239,0
+Amount spent,miller2_IRTCPercent,0.0003006614552014432,0
+Amount spent,miller2_CFLI(marker),0.00020044097013429546,0
+Amount spent,miller2_CIDABusinessDeliveryModel(old),0.0003006614552014432,0
+Amount spent,miller2_ProgrammingProcess(new),0.00010022048506714773,0
+Amount spent,miller2_BilateralAid(internationalMarker),0.00020044097013429546,0
+Amount spent,miller2_PBAType,0.00010022048506714773,0
+Amount spent,miller2_EnviromentalSustainability(marker),0.0003006614552014432,0
+Amount spent,miller2_ClimateChangeAdaptation(marker),0.0003006614552014432,0
+Amount spent,miller2_ClimateChangeMitigation(marker),0.0004008819402685909,0
+Amount spent,miller2_Desertification(marker),0.0004008819402685909,0
+Amount spent,miller2_ParticipatoryDevelopmentAndGoodGovernance,0.0004008819402685909,0
+Amount spent,miller2_TradeDevelopment(marker),0.0004008819402685909,0
+Amount spent,miller2_Biodiversity(marker),0.0004008819402685909,0
+Amount spent,miller2_UrbanIssues(marker),0.0004008819402685909,0
+Amount spent,miller2_ChildrenIssues(marker),0.0004008819402685909,0
+Amount spent,miller2_YouthIssues(marker),0.0004008819402685909,0
+Amount spent,miller2_IndigenousIssues(marker),0.0004008819402685909,0
+Amount spent,miller2_DisabilityIssues(marker),0.0004008819402685909,0
+Amount spent,miller2_ICTAsAToolForDevelopment(marker),0.0003006614552014432,0
+Amount spent,miller2_KnowledgeForDevelopment(marker),0.0004008819402685909,0
+Amount spent,miller2_GenderEquality(marker),0.0004008819402685909,0
+Amount spent,miller2_OrganisationID,0.03397474443776308,0
+Amount spent,miller2_OrganisationName,0.03397474443776308,0
+Amount spent,miller2_OrganisationType,0.0004008819402685909,0
+Amount spent,miller2_OrganisationClass,0.0006013229104028864,0
+Amount spent,miller2_OrganisationSub-class,0.0024052916416115455,0
+Amount spent,miller2_ContinentID,0.0005011024253357386,0
+Amount spent,miller2_ContinentName,0.0005011024253357386,0
+Amount spent,miller2_ProjectBrowserCountryID,0.015333734215273603,0
+Amount spent,miller2_CountryRegionID,0.014231308879534978,0
+Amount spent,miller2_CountryRegionName,0.01453197033473642,0
+Amount spent,miller2_CountryRegionPercent,0.04028863499699339,0
+Amount spent,miller2_SectorID,0.01232711966325917,0
+Amount spent,miller2_SectorName,0.01232711966325917,0
+Amount spent,miller2_SectorPercent,0.01854078973742233,0
+Amount spent,miller2_AmountSpent,0.5031068350370815,1

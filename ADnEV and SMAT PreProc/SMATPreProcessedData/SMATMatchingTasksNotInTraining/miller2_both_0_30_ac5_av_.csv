@@ -1,0 +1,1090 @@
+source,target,des1,des2,label
+Fiscal year,miller2_fsclr,The fiscal year during which the project was active.,The financial year in which the project was conducted.,1
+Fiscal year,miller2_brnchd,The fiscal year during which the project was active.,The code identifying the branch overseeing the project.,0
+Fiscal year,miller2_rgnstnsb-clss,The fiscal year during which the project was active.,A more specific classification within the organization class.,0
+Fiscal year,miller2_cntnntd,The fiscal year during which the project was active.,The unique code for the continent associated with the project.,0
+Fiscal year,miller2_sctrprcnt,The fiscal year during which the project was active.,The percentage of the project linked to the sector.,0
+Fiscal year,miller2_sctrnm,The fiscal year during which the project was active.,The name of the sector associated with the project,0
+Fiscal year,miller2_stts,The fiscal year during which the project was active.,The current state or phase of the project.,0
+Fiscal year,miller2_prjctnmbr,The fiscal year during which the project was active.,A distinct identifier assigned to each project for reference.,0
+Fiscal year,miller2_clmtchngmtgtn(mrkr),The fiscal year during which the project was active.,A marker signifying the project's contribution to climate change mitigation.,0
+Fiscal year,miller2_gndrqlt(mrkr),The fiscal year during which the project was active.,A marker indicating the project's commitment to promoting gender equality.,0
+Fiscal year,miller2_prtcptrdvlpmntndgdgvrnnc,The fiscal year during which the project was active.,An indication of the project's emphasis on participatory development and good governance.,0
+Fiscal year,miller2_mxmmcdcntrbtn(prjct-lvl),The fiscal year during which the project was active.,The highest financial support provided by CIDA for the specific project.,0
+Fiscal year,miller2_rgnlprgrm(mrkr),The fiscal year during which the project was active.,An indication of whether the project is part of a regional program.,0
+Fiscal year,miller2_sctnd,The fiscal year during which the project was active.,A specific code assigned to the section managing the project.,0
+Fiscal year,miller2_ntdmnt(prjct-lvlbdgt),The fiscal year during which the project was active.,The non-restricted budget allocated to the project.,0
+Fiscal year,miller2_rbnsss(mrkr),The fiscal year during which the project was active.,A marker representing the project's focus on urban issues.,0
+Fiscal year,miller2_chldrnsss(mrkr),The fiscal year during which the project was active.,A marker indicating the project's concern for children's issues.,0
+Fiscal year,miller2_thsss(mrkr),The fiscal year during which the project was active.,A marker signifying the project's attention to youth-related matters.,0
+Fiscal year,miller2_ndgnssss(mrkr),The fiscal year during which the project was active.,A marker denoting the project's involvement in indigenous issues.,0
+Fiscal year,miller2_dsbltsss(mrkr),The fiscal year during which the project was active.,A marker indicating the project's focus on disability-related concerns.,0
+Fiscal year,miller2_ctstlfrdvlpmnt(mrkr),The fiscal year during which the project was active.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Fiscal year,miller2_knwldgfrdvlpmnt(mrkr),The fiscal year during which the project was active.,A marker representing the project's contribution to knowledge for development.,0
+Fiscal year,miller2_rgnstnd,The fiscal year during which the project was active.,The unique identifier for the organization associated with the project.,0
+Fiscal year,miller2_rgnstnnm,The fiscal year during which the project was active.,The official name of the organization linked to the project.,0
+Fiscal year,miller2_rgnstntp,The fiscal year during which the project was active.,The type of organization involved in the project.,0
+Fiscal year,miller2_rgnstnclss,The fiscal year during which the project was active.,The class to which the organization belongs.,0
+Fiscal year,miller2_cntnntnm,The fiscal year during which the project was active.,The name of the continent linked to the project.,0
+Fiscal year,miller2_prjctbrwsrcntrd,The fiscal year during which the project was active.,The unique identifier for the country associated with the project.,0
+Fiscal year,miller2_cntrrgnd,The fiscal year during which the project was active.,The identification code for the country or region related to the project.,0
+Fiscal year,miller2_cntrrgnnm,The fiscal year during which the project was active.,The name of the country or region connected to the project.,0
+Fiscal year,miller2_cntrrgnprcnt,The fiscal year during which the project was active.,The percentage of the project associated with the country or region.,0
+Fiscal year,miller2_sctrd,The fiscal year during which the project was active.,The unique code for the sector linked to the project.,0
+Fiscal year,miller2_mntspnt,The fiscal year during which the project was active.,The total expenditure incurred on the project.,0
+Branch ID,miller2_fsclr,Identification code for the branch responsible for the project.,The financial year in which the project was conducted.,0
+Branch ID,miller2_brnchd,Identification code for the branch responsible for the project.,The code identifying the branch overseeing the project.,1
+Branch ID,miller2_rgnstnsb-clss,Identification code for the branch responsible for the project.,A more specific classification within the organization class.,0
+Branch ID,miller2_cntnntd,Identification code for the branch responsible for the project.,The unique code for the continent associated with the project.,0
+Branch ID,miller2_sctrprcnt,Identification code for the branch responsible for the project.,The percentage of the project linked to the sector.,0
+Branch ID,miller2_sctrnm,Identification code for the branch responsible for the project.,The name of the sector associated with the project,0
+Branch ID,miller2_stts,Identification code for the branch responsible for the project.,The current state or phase of the project.,0
+Branch ID,miller2_prjctnmbr,Identification code for the branch responsible for the project.,A distinct identifier assigned to each project for reference.,0
+Branch ID,miller2_clmtchngmtgtn(mrkr),Identification code for the branch responsible for the project.,A marker signifying the project's contribution to climate change mitigation.,0
+Branch ID,miller2_gndrqlt(mrkr),Identification code for the branch responsible for the project.,A marker indicating the project's commitment to promoting gender equality.,0
+Branch ID,miller2_prtcptrdvlpmntndgdgvrnnc,Identification code for the branch responsible for the project.,An indication of the project's emphasis on participatory development and good governance.,0
+Branch ID,miller2_mxmmcdcntrbtn(prjct-lvl),Identification code for the branch responsible for the project.,The highest financial support provided by CIDA for the specific project.,0
+Branch ID,miller2_rgnlprgrm(mrkr),Identification code for the branch responsible for the project.,An indication of whether the project is part of a regional program.,0
+Branch ID,miller2_sctnd,Identification code for the branch responsible for the project.,A specific code assigned to the section managing the project.,0
+Branch ID,miller2_ntdmnt(prjct-lvlbdgt),Identification code for the branch responsible for the project.,The non-restricted budget allocated to the project.,0
+Branch ID,miller2_rbnsss(mrkr),Identification code for the branch responsible for the project.,A marker representing the project's focus on urban issues.,0
+Branch ID,miller2_chldrnsss(mrkr),Identification code for the branch responsible for the project.,A marker indicating the project's concern for children's issues.,0
+Branch ID,miller2_thsss(mrkr),Identification code for the branch responsible for the project.,A marker signifying the project's attention to youth-related matters.,0
+Branch ID,miller2_ndgnssss(mrkr),Identification code for the branch responsible for the project.,A marker denoting the project's involvement in indigenous issues.,0
+Branch ID,miller2_dsbltsss(mrkr),Identification code for the branch responsible for the project.,A marker indicating the project's focus on disability-related concerns.,0
+Branch ID,miller2_ctstlfrdvlpmnt(mrkr),Identification code for the branch responsible for the project.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Branch ID,miller2_knwldgfrdvlpmnt(mrkr),Identification code for the branch responsible for the project.,A marker representing the project's contribution to knowledge for development.,0
+Branch ID,miller2_rgnstnd,Identification code for the branch responsible for the project.,The unique identifier for the organization associated with the project.,0
+Branch ID,miller2_rgnstnnm,Identification code for the branch responsible for the project.,The official name of the organization linked to the project.,0
+Branch ID,miller2_rgnstntp,Identification code for the branch responsible for the project.,The type of organization involved in the project.,0
+Branch ID,miller2_rgnstnclss,Identification code for the branch responsible for the project.,The class to which the organization belongs.,0
+Branch ID,miller2_cntnntnm,Identification code for the branch responsible for the project.,The name of the continent linked to the project.,0
+Branch ID,miller2_prjctbrwsrcntrd,Identification code for the branch responsible for the project.,The unique identifier for the country associated with the project.,0
+Branch ID,miller2_cntrrgnd,Identification code for the branch responsible for the project.,The identification code for the country or region related to the project.,0
+Branch ID,miller2_cntrrgnnm,Identification code for the branch responsible for the project.,The name of the country or region connected to the project.,0
+Branch ID,miller2_cntrrgnprcnt,Identification code for the branch responsible for the project.,The percentage of the project associated with the country or region.,0
+Branch ID,miller2_sctrd,Identification code for the branch responsible for the project.,The unique code for the sector linked to the project.,0
+Branch ID,miller2_mntspnt,Identification code for the branch responsible for the project.,The total expenditure incurred on the project.,0
+Organisation sub-class,miller2_fsclr,Sub-class of the organization.,The financial year in which the project was conducted.,0
+Organisation sub-class,miller2_brnchd,Sub-class of the organization.,The code identifying the branch overseeing the project.,0
+Organisation sub-class,miller2_rgnstnsb-clss,Sub-class of the organization.,A more specific classification within the organization class.,1
+Organisation sub-class,miller2_cntnntd,Sub-class of the organization.,The unique code for the continent associated with the project.,0
+Organisation sub-class,miller2_sctrprcnt,Sub-class of the organization.,The percentage of the project linked to the sector.,0
+Organisation sub-class,miller2_sctrnm,Sub-class of the organization.,The name of the sector associated with the project,0
+Organisation sub-class,miller2_stts,Sub-class of the organization.,The current state or phase of the project.,0
+Organisation sub-class,miller2_prjctnmbr,Sub-class of the organization.,A distinct identifier assigned to each project for reference.,0
+Organisation sub-class,miller2_clmtchngmtgtn(mrkr),Sub-class of the organization.,A marker signifying the project's contribution to climate change mitigation.,0
+Organisation sub-class,miller2_gndrqlt(mrkr),Sub-class of the organization.,A marker indicating the project's commitment to promoting gender equality.,0
+Organisation sub-class,miller2_prtcptrdvlpmntndgdgvrnnc,Sub-class of the organization.,An indication of the project's emphasis on participatory development and good governance.,0
+Organisation sub-class,miller2_mxmmcdcntrbtn(prjct-lvl),Sub-class of the organization.,The highest financial support provided by CIDA for the specific project.,0
+Organisation sub-class,miller2_rgnlprgrm(mrkr),Sub-class of the organization.,An indication of whether the project is part of a regional program.,0
+Organisation sub-class,miller2_sctnd,Sub-class of the organization.,A specific code assigned to the section managing the project.,0
+Organisation sub-class,miller2_ntdmnt(prjct-lvlbdgt),Sub-class of the organization.,The non-restricted budget allocated to the project.,0
+Organisation sub-class,miller2_rbnsss(mrkr),Sub-class of the organization.,A marker representing the project's focus on urban issues.,0
+Organisation sub-class,miller2_chldrnsss(mrkr),Sub-class of the organization.,A marker indicating the project's concern for children's issues.,0
+Organisation sub-class,miller2_thsss(mrkr),Sub-class of the organization.,A marker signifying the project's attention to youth-related matters.,0
+Organisation sub-class,miller2_ndgnssss(mrkr),Sub-class of the organization.,A marker denoting the project's involvement in indigenous issues.,0
+Organisation sub-class,miller2_dsbltsss(mrkr),Sub-class of the organization.,A marker indicating the project's focus on disability-related concerns.,0
+Organisation sub-class,miller2_ctstlfrdvlpmnt(mrkr),Sub-class of the organization.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Organisation sub-class,miller2_knwldgfrdvlpmnt(mrkr),Sub-class of the organization.,A marker representing the project's contribution to knowledge for development.,0
+Organisation sub-class,miller2_rgnstnd,Sub-class of the organization.,The unique identifier for the organization associated with the project.,0
+Organisation sub-class,miller2_rgnstnnm,Sub-class of the organization.,The official name of the organization linked to the project.,0
+Organisation sub-class,miller2_rgnstntp,Sub-class of the organization.,The type of organization involved in the project.,0
+Organisation sub-class,miller2_rgnstnclss,Sub-class of the organization.,The class to which the organization belongs.,0
+Organisation sub-class,miller2_cntnntnm,Sub-class of the organization.,The name of the continent linked to the project.,0
+Organisation sub-class,miller2_prjctbrwsrcntrd,Sub-class of the organization.,The unique identifier for the country associated with the project.,0
+Organisation sub-class,miller2_cntrrgnd,Sub-class of the organization.,The identification code for the country or region related to the project.,0
+Organisation sub-class,miller2_cntrrgnnm,Sub-class of the organization.,The name of the country or region connected to the project.,0
+Organisation sub-class,miller2_cntrrgnprcnt,Sub-class of the organization.,The percentage of the project associated with the country or region.,0
+Organisation sub-class,miller2_sctrd,Sub-class of the organization.,The unique code for the sector linked to the project.,0
+Organisation sub-class,miller2_mntspnt,Sub-class of the organization.,The total expenditure incurred on the project.,0
+Continent ID,miller2_fsclr,Identification code for the continent associated with the project.,The financial year in which the project was conducted.,0
+Continent ID,miller2_brnchd,Identification code for the continent associated with the project.,The code identifying the branch overseeing the project.,0
+Continent ID,miller2_rgnstnsb-clss,Identification code for the continent associated with the project.,A more specific classification within the organization class.,0
+Continent ID,miller2_cntnntd,Identification code for the continent associated with the project.,The unique code for the continent associated with the project.,1
+Continent ID,miller2_sctrprcnt,Identification code for the continent associated with the project.,The percentage of the project linked to the sector.,0
+Continent ID,miller2_sctrnm,Identification code for the continent associated with the project.,The name of the sector associated with the project,0
+Continent ID,miller2_stts,Identification code for the continent associated with the project.,The current state or phase of the project.,0
+Continent ID,miller2_prjctnmbr,Identification code for the continent associated with the project.,A distinct identifier assigned to each project for reference.,0
+Continent ID,miller2_clmtchngmtgtn(mrkr),Identification code for the continent associated with the project.,A marker signifying the project's contribution to climate change mitigation.,0
+Continent ID,miller2_gndrqlt(mrkr),Identification code for the continent associated with the project.,A marker indicating the project's commitment to promoting gender equality.,0
+Continent ID,miller2_prtcptrdvlpmntndgdgvrnnc,Identification code for the continent associated with the project.,An indication of the project's emphasis on participatory development and good governance.,0
+Continent ID,miller2_mxmmcdcntrbtn(prjct-lvl),Identification code for the continent associated with the project.,The highest financial support provided by CIDA for the specific project.,0
+Continent ID,miller2_rgnlprgrm(mrkr),Identification code for the continent associated with the project.,An indication of whether the project is part of a regional program.,0
+Continent ID,miller2_sctnd,Identification code for the continent associated with the project.,A specific code assigned to the section managing the project.,0
+Continent ID,miller2_ntdmnt(prjct-lvlbdgt),Identification code for the continent associated with the project.,The non-restricted budget allocated to the project.,0
+Continent ID,miller2_rbnsss(mrkr),Identification code for the continent associated with the project.,A marker representing the project's focus on urban issues.,0
+Continent ID,miller2_chldrnsss(mrkr),Identification code for the continent associated with the project.,A marker indicating the project's concern for children's issues.,0
+Continent ID,miller2_thsss(mrkr),Identification code for the continent associated with the project.,A marker signifying the project's attention to youth-related matters.,0
+Continent ID,miller2_ndgnssss(mrkr),Identification code for the continent associated with the project.,A marker denoting the project's involvement in indigenous issues.,0
+Continent ID,miller2_dsbltsss(mrkr),Identification code for the continent associated with the project.,A marker indicating the project's focus on disability-related concerns.,0
+Continent ID,miller2_ctstlfrdvlpmnt(mrkr),Identification code for the continent associated with the project.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Continent ID,miller2_knwldgfrdvlpmnt(mrkr),Identification code for the continent associated with the project.,A marker representing the project's contribution to knowledge for development.,0
+Continent ID,miller2_rgnstnd,Identification code for the continent associated with the project.,The unique identifier for the organization associated with the project.,0
+Continent ID,miller2_rgnstnnm,Identification code for the continent associated with the project.,The official name of the organization linked to the project.,0
+Continent ID,miller2_rgnstntp,Identification code for the continent associated with the project.,The type of organization involved in the project.,0
+Continent ID,miller2_rgnstnclss,Identification code for the continent associated with the project.,The class to which the organization belongs.,0
+Continent ID,miller2_cntnntnm,Identification code for the continent associated with the project.,The name of the continent linked to the project.,0
+Continent ID,miller2_prjctbrwsrcntrd,Identification code for the continent associated with the project.,The unique identifier for the country associated with the project.,0
+Continent ID,miller2_cntrrgnd,Identification code for the continent associated with the project.,The identification code for the country or region related to the project.,0
+Continent ID,miller2_cntrrgnnm,Identification code for the continent associated with the project.,The name of the country or region connected to the project.,0
+Continent ID,miller2_cntrrgnprcnt,Identification code for the continent associated with the project.,The percentage of the project associated with the country or region.,0
+Continent ID,miller2_sctrd,Identification code for the continent associated with the project.,The unique code for the sector linked to the project.,0
+Continent ID,miller2_mntspnt,Identification code for the continent associated with the project.,The total expenditure incurred on the project.,0
+Sector percent,miller2_fsclr,The percentage of the project associated with the sector.,The financial year in which the project was conducted.,0
+Sector percent,miller2_brnchd,The percentage of the project associated with the sector.,The code identifying the branch overseeing the project.,0
+Sector percent,miller2_rgnstnsb-clss,The percentage of the project associated with the sector.,A more specific classification within the organization class.,0
+Sector percent,miller2_cntnntd,The percentage of the project associated with the sector.,The unique code for the continent associated with the project.,0
+Sector percent,miller2_sctrprcnt,The percentage of the project associated with the sector.,The percentage of the project linked to the sector.,1
+Sector percent,miller2_sctrnm,The percentage of the project associated with the sector.,The name of the sector associated with the project,0
+Sector percent,miller2_stts,The percentage of the project associated with the sector.,The current state or phase of the project.,0
+Sector percent,miller2_prjctnmbr,The percentage of the project associated with the sector.,A distinct identifier assigned to each project for reference.,0
+Sector percent,miller2_clmtchngmtgtn(mrkr),The percentage of the project associated with the sector.,A marker signifying the project's contribution to climate change mitigation.,0
+Sector percent,miller2_gndrqlt(mrkr),The percentage of the project associated with the sector.,A marker indicating the project's commitment to promoting gender equality.,0
+Sector percent,miller2_prtcptrdvlpmntndgdgvrnnc,The percentage of the project associated with the sector.,An indication of the project's emphasis on participatory development and good governance.,0
+Sector percent,miller2_mxmmcdcntrbtn(prjct-lvl),The percentage of the project associated with the sector.,The highest financial support provided by CIDA for the specific project.,0
+Sector percent,miller2_rgnlprgrm(mrkr),The percentage of the project associated with the sector.,An indication of whether the project is part of a regional program.,0
+Sector percent,miller2_sctnd,The percentage of the project associated with the sector.,A specific code assigned to the section managing the project.,0
+Sector percent,miller2_ntdmnt(prjct-lvlbdgt),The percentage of the project associated with the sector.,The non-restricted budget allocated to the project.,0
+Sector percent,miller2_rbnsss(mrkr),The percentage of the project associated with the sector.,A marker representing the project's focus on urban issues.,0
+Sector percent,miller2_chldrnsss(mrkr),The percentage of the project associated with the sector.,A marker indicating the project's concern for children's issues.,0
+Sector percent,miller2_thsss(mrkr),The percentage of the project associated with the sector.,A marker signifying the project's attention to youth-related matters.,0
+Sector percent,miller2_ndgnssss(mrkr),The percentage of the project associated with the sector.,A marker denoting the project's involvement in indigenous issues.,0
+Sector percent,miller2_dsbltsss(mrkr),The percentage of the project associated with the sector.,A marker indicating the project's focus on disability-related concerns.,0
+Sector percent,miller2_ctstlfrdvlpmnt(mrkr),The percentage of the project associated with the sector.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Sector percent,miller2_knwldgfrdvlpmnt(mrkr),The percentage of the project associated with the sector.,A marker representing the project's contribution to knowledge for development.,0
+Sector percent,miller2_rgnstnd,The percentage of the project associated with the sector.,The unique identifier for the organization associated with the project.,0
+Sector percent,miller2_rgnstnnm,The percentage of the project associated with the sector.,The official name of the organization linked to the project.,0
+Sector percent,miller2_rgnstntp,The percentage of the project associated with the sector.,The type of organization involved in the project.,0
+Sector percent,miller2_rgnstnclss,The percentage of the project associated with the sector.,The class to which the organization belongs.,0
+Sector percent,miller2_cntnntnm,The percentage of the project associated with the sector.,The name of the continent linked to the project.,0
+Sector percent,miller2_prjctbrwsrcntrd,The percentage of the project associated with the sector.,The unique identifier for the country associated with the project.,0
+Sector percent,miller2_cntrrgnd,The percentage of the project associated with the sector.,The identification code for the country or region related to the project.,0
+Sector percent,miller2_cntrrgnnm,The percentage of the project associated with the sector.,The name of the country or region connected to the project.,0
+Sector percent,miller2_cntrrgnprcnt,The percentage of the project associated with the sector.,The percentage of the project associated with the country or region.,0
+Sector percent,miller2_sctrd,The percentage of the project associated with the sector.,The unique code for the sector linked to the project.,0
+Sector percent,miller2_mntspnt,The percentage of the project associated with the sector.,The total expenditure incurred on the project.,0
+Sector name,miller2_fsclr,The name of the sector associated with the project.,The financial year in which the project was conducted.,0
+Sector name,miller2_brnchd,The name of the sector associated with the project.,The code identifying the branch overseeing the project.,0
+Sector name,miller2_rgnstnsb-clss,The name of the sector associated with the project.,A more specific classification within the organization class.,0
+Sector name,miller2_cntnntd,The name of the sector associated with the project.,The unique code for the continent associated with the project.,0
+Sector name,miller2_sctrprcnt,The name of the sector associated with the project.,The percentage of the project linked to the sector.,0
+Sector name,miller2_sctrnm,The name of the sector associated with the project.,The name of the sector associated with the project,1
+Sector name,miller2_stts,The name of the sector associated with the project.,The current state or phase of the project.,0
+Sector name,miller2_prjctnmbr,The name of the sector associated with the project.,A distinct identifier assigned to each project for reference.,0
+Sector name,miller2_clmtchngmtgtn(mrkr),The name of the sector associated with the project.,A marker signifying the project's contribution to climate change mitigation.,0
+Sector name,miller2_gndrqlt(mrkr),The name of the sector associated with the project.,A marker indicating the project's commitment to promoting gender equality.,0
+Sector name,miller2_prtcptrdvlpmntndgdgvrnnc,The name of the sector associated with the project.,An indication of the project's emphasis on participatory development and good governance.,0
+Sector name,miller2_mxmmcdcntrbtn(prjct-lvl),The name of the sector associated with the project.,The highest financial support provided by CIDA for the specific project.,0
+Sector name,miller2_rgnlprgrm(mrkr),The name of the sector associated with the project.,An indication of whether the project is part of a regional program.,0
+Sector name,miller2_sctnd,The name of the sector associated with the project.,A specific code assigned to the section managing the project.,0
+Sector name,miller2_ntdmnt(prjct-lvlbdgt),The name of the sector associated with the project.,The non-restricted budget allocated to the project.,0
+Sector name,miller2_rbnsss(mrkr),The name of the sector associated with the project.,A marker representing the project's focus on urban issues.,0
+Sector name,miller2_chldrnsss(mrkr),The name of the sector associated with the project.,A marker indicating the project's concern for children's issues.,0
+Sector name,miller2_thsss(mrkr),The name of the sector associated with the project.,A marker signifying the project's attention to youth-related matters.,0
+Sector name,miller2_ndgnssss(mrkr),The name of the sector associated with the project.,A marker denoting the project's involvement in indigenous issues.,0
+Sector name,miller2_dsbltsss(mrkr),The name of the sector associated with the project.,A marker indicating the project's focus on disability-related concerns.,0
+Sector name,miller2_ctstlfrdvlpmnt(mrkr),The name of the sector associated with the project.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Sector name,miller2_knwldgfrdvlpmnt(mrkr),The name of the sector associated with the project.,A marker representing the project's contribution to knowledge for development.,0
+Sector name,miller2_rgnstnd,The name of the sector associated with the project.,The unique identifier for the organization associated with the project.,0
+Sector name,miller2_rgnstnnm,The name of the sector associated with the project.,The official name of the organization linked to the project.,0
+Sector name,miller2_rgnstntp,The name of the sector associated with the project.,The type of organization involved in the project.,0
+Sector name,miller2_rgnstnclss,The name of the sector associated with the project.,The class to which the organization belongs.,0
+Sector name,miller2_cntnntnm,The name of the sector associated with the project.,The name of the continent linked to the project.,0
+Sector name,miller2_prjctbrwsrcntrd,The name of the sector associated with the project.,The unique identifier for the country associated with the project.,0
+Sector name,miller2_cntrrgnd,The name of the sector associated with the project.,The identification code for the country or region related to the project.,0
+Sector name,miller2_cntrrgnnm,The name of the sector associated with the project.,The name of the country or region connected to the project.,0
+Sector name,miller2_cntrrgnprcnt,The name of the sector associated with the project.,The percentage of the project associated with the country or region.,0
+Sector name,miller2_sctrd,The name of the sector associated with the project.,The unique code for the sector linked to the project.,0
+Sector name,miller2_mntspnt,The name of the sector associated with the project.,The total expenditure incurred on the project.,0
+Status,miller2_fsclr,Indicates the current status of the project,The financial year in which the project was conducted.,0
+Status,miller2_brnchd,Indicates the current status of the project,The code identifying the branch overseeing the project.,0
+Status,miller2_rgnstnsb-clss,Indicates the current status of the project,A more specific classification within the organization class.,0
+Status,miller2_cntnntd,Indicates the current status of the project,The unique code for the continent associated with the project.,0
+Status,miller2_sctrprcnt,Indicates the current status of the project,The percentage of the project linked to the sector.,0
+Status,miller2_sctrnm,Indicates the current status of the project,The name of the sector associated with the project,0
+Status,miller2_stts,Indicates the current status of the project,The current state or phase of the project.,1
+Status,miller2_prjctnmbr,Indicates the current status of the project,A distinct identifier assigned to each project for reference.,0
+Status,miller2_clmtchngmtgtn(mrkr),Indicates the current status of the project,A marker signifying the project's contribution to climate change mitigation.,0
+Status,miller2_gndrqlt(mrkr),Indicates the current status of the project,A marker indicating the project's commitment to promoting gender equality.,0
+Status,miller2_prtcptrdvlpmntndgdgvrnnc,Indicates the current status of the project,An indication of the project's emphasis on participatory development and good governance.,0
+Status,miller2_mxmmcdcntrbtn(prjct-lvl),Indicates the current status of the project,The highest financial support provided by CIDA for the specific project.,0
+Status,miller2_rgnlprgrm(mrkr),Indicates the current status of the project,An indication of whether the project is part of a regional program.,0
+Status,miller2_sctnd,Indicates the current status of the project,A specific code assigned to the section managing the project.,0
+Status,miller2_ntdmnt(prjct-lvlbdgt),Indicates the current status of the project,The non-restricted budget allocated to the project.,0
+Status,miller2_rbnsss(mrkr),Indicates the current status of the project,A marker representing the project's focus on urban issues.,0
+Status,miller2_chldrnsss(mrkr),Indicates the current status of the project,A marker indicating the project's concern for children's issues.,0
+Status,miller2_thsss(mrkr),Indicates the current status of the project,A marker signifying the project's attention to youth-related matters.,0
+Status,miller2_ndgnssss(mrkr),Indicates the current status of the project,A marker denoting the project's involvement in indigenous issues.,0
+Status,miller2_dsbltsss(mrkr),Indicates the current status of the project,A marker indicating the project's focus on disability-related concerns.,0
+Status,miller2_ctstlfrdvlpmnt(mrkr),Indicates the current status of the project,A marker signifying the project's use of Information and Communication Technology for development.,0
+Status,miller2_knwldgfrdvlpmnt(mrkr),Indicates the current status of the project,A marker representing the project's contribution to knowledge for development.,0
+Status,miller2_rgnstnd,Indicates the current status of the project,The unique identifier for the organization associated with the project.,0
+Status,miller2_rgnstnnm,Indicates the current status of the project,The official name of the organization linked to the project.,0
+Status,miller2_rgnstntp,Indicates the current status of the project,The type of organization involved in the project.,0
+Status,miller2_rgnstnclss,Indicates the current status of the project,The class to which the organization belongs.,0
+Status,miller2_cntnntnm,Indicates the current status of the project,The name of the continent linked to the project.,0
+Status,miller2_prjctbrwsrcntrd,Indicates the current status of the project,The unique identifier for the country associated with the project.,0
+Status,miller2_cntrrgnd,Indicates the current status of the project,The identification code for the country or region related to the project.,0
+Status,miller2_cntrrgnnm,Indicates the current status of the project,The name of the country or region connected to the project.,0
+Status,miller2_cntrrgnprcnt,Indicates the current status of the project,The percentage of the project associated with the country or region.,0
+Status,miller2_sctrd,Indicates the current status of the project,The unique code for the sector linked to the project.,0
+Status,miller2_mntspnt,Indicates the current status of the project,The total expenditure incurred on the project.,0
+Project number,miller2_fsclr,A unique identifier for each project.,The financial year in which the project was conducted.,0
+Project number,miller2_brnchd,A unique identifier for each project.,The code identifying the branch overseeing the project.,0
+Project number,miller2_rgnstnsb-clss,A unique identifier for each project.,A more specific classification within the organization class.,0
+Project number,miller2_cntnntd,A unique identifier for each project.,The unique code for the continent associated with the project.,0
+Project number,miller2_sctrprcnt,A unique identifier for each project.,The percentage of the project linked to the sector.,0
+Project number,miller2_sctrnm,A unique identifier for each project.,The name of the sector associated with the project,0
+Project number,miller2_stts,A unique identifier for each project.,The current state or phase of the project.,0
+Project number,miller2_prjctnmbr,A unique identifier for each project.,A distinct identifier assigned to each project for reference.,1
+Project number,miller2_clmtchngmtgtn(mrkr),A unique identifier for each project.,A marker signifying the project's contribution to climate change mitigation.,0
+Project number,miller2_gndrqlt(mrkr),A unique identifier for each project.,A marker indicating the project's commitment to promoting gender equality.,0
+Project number,miller2_prtcptrdvlpmntndgdgvrnnc,A unique identifier for each project.,An indication of the project's emphasis on participatory development and good governance.,0
+Project number,miller2_mxmmcdcntrbtn(prjct-lvl),A unique identifier for each project.,The highest financial support provided by CIDA for the specific project.,0
+Project number,miller2_rgnlprgrm(mrkr),A unique identifier for each project.,An indication of whether the project is part of a regional program.,0
+Project number,miller2_sctnd,A unique identifier for each project.,A specific code assigned to the section managing the project.,0
+Project number,miller2_ntdmnt(prjct-lvlbdgt),A unique identifier for each project.,The non-restricted budget allocated to the project.,0
+Project number,miller2_rbnsss(mrkr),A unique identifier for each project.,A marker representing the project's focus on urban issues.,0
+Project number,miller2_chldrnsss(mrkr),A unique identifier for each project.,A marker indicating the project's concern for children's issues.,0
+Project number,miller2_thsss(mrkr),A unique identifier for each project.,A marker signifying the project's attention to youth-related matters.,0
+Project number,miller2_ndgnssss(mrkr),A unique identifier for each project.,A marker denoting the project's involvement in indigenous issues.,0
+Project number,miller2_dsbltsss(mrkr),A unique identifier for each project.,A marker indicating the project's focus on disability-related concerns.,0
+Project number,miller2_ctstlfrdvlpmnt(mrkr),A unique identifier for each project.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Project number,miller2_knwldgfrdvlpmnt(mrkr),A unique identifier for each project.,A marker representing the project's contribution to knowledge for development.,0
+Project number,miller2_rgnstnd,A unique identifier for each project.,The unique identifier for the organization associated with the project.,0
+Project number,miller2_rgnstnnm,A unique identifier for each project.,The official name of the organization linked to the project.,0
+Project number,miller2_rgnstntp,A unique identifier for each project.,The type of organization involved in the project.,0
+Project number,miller2_rgnstnclss,A unique identifier for each project.,The class to which the organization belongs.,0
+Project number,miller2_cntnntnm,A unique identifier for each project.,The name of the continent linked to the project.,0
+Project number,miller2_prjctbrwsrcntrd,A unique identifier for each project.,The unique identifier for the country associated with the project.,0
+Project number,miller2_cntrrgnd,A unique identifier for each project.,The identification code for the country or region related to the project.,0
+Project number,miller2_cntrrgnnm,A unique identifier for each project.,The name of the country or region connected to the project.,0
+Project number,miller2_cntrrgnprcnt,A unique identifier for each project.,The percentage of the project associated with the country or region.,0
+Project number,miller2_sctrd,A unique identifier for each project.,The unique code for the sector linked to the project.,0
+Project number,miller2_mntspnt,A unique identifier for each project.,The total expenditure incurred on the project.,0
+Climate change mitigation (marker),miller2_fsclr,Indicates if the project addresses climate change mitigation.,The financial year in which the project was conducted.,0
+Climate change mitigation (marker),miller2_brnchd,Indicates if the project addresses climate change mitigation.,The code identifying the branch overseeing the project.,0
+Climate change mitigation (marker),miller2_rgnstnsb-clss,Indicates if the project addresses climate change mitigation.,A more specific classification within the organization class.,0
+Climate change mitigation (marker),miller2_cntnntd,Indicates if the project addresses climate change mitigation.,The unique code for the continent associated with the project.,0
+Climate change mitigation (marker),miller2_sctrprcnt,Indicates if the project addresses climate change mitigation.,The percentage of the project linked to the sector.,0
+Climate change mitigation (marker),miller2_sctrnm,Indicates if the project addresses climate change mitigation.,The name of the sector associated with the project,0
+Climate change mitigation (marker),miller2_stts,Indicates if the project addresses climate change mitigation.,The current state or phase of the project.,0
+Climate change mitigation (marker),miller2_prjctnmbr,Indicates if the project addresses climate change mitigation.,A distinct identifier assigned to each project for reference.,0
+Climate change mitigation (marker),miller2_clmtchngmtgtn(mrkr),Indicates if the project addresses climate change mitigation.,A marker signifying the project's contribution to climate change mitigation.,1
+Climate change mitigation (marker),miller2_gndrqlt(mrkr),Indicates if the project addresses climate change mitigation.,A marker indicating the project's commitment to promoting gender equality.,0
+Climate change mitigation (marker),miller2_prtcptrdvlpmntndgdgvrnnc,Indicates if the project addresses climate change mitigation.,An indication of the project's emphasis on participatory development and good governance.,0
+Climate change mitigation (marker),miller2_mxmmcdcntrbtn(prjct-lvl),Indicates if the project addresses climate change mitigation.,The highest financial support provided by CIDA for the specific project.,0
+Climate change mitigation (marker),miller2_rgnlprgrm(mrkr),Indicates if the project addresses climate change mitigation.,An indication of whether the project is part of a regional program.,0
+Climate change mitigation (marker),miller2_sctnd,Indicates if the project addresses climate change mitigation.,A specific code assigned to the section managing the project.,0
+Climate change mitigation (marker),miller2_ntdmnt(prjct-lvlbdgt),Indicates if the project addresses climate change mitigation.,The non-restricted budget allocated to the project.,0
+Climate change mitigation (marker),miller2_rbnsss(mrkr),Indicates if the project addresses climate change mitigation.,A marker representing the project's focus on urban issues.,0
+Climate change mitigation (marker),miller2_chldrnsss(mrkr),Indicates if the project addresses climate change mitigation.,A marker indicating the project's concern for children's issues.,0
+Climate change mitigation (marker),miller2_thsss(mrkr),Indicates if the project addresses climate change mitigation.,A marker signifying the project's attention to youth-related matters.,0
+Climate change mitigation (marker),miller2_ndgnssss(mrkr),Indicates if the project addresses climate change mitigation.,A marker denoting the project's involvement in indigenous issues.,0
+Climate change mitigation (marker),miller2_dsbltsss(mrkr),Indicates if the project addresses climate change mitigation.,A marker indicating the project's focus on disability-related concerns.,0
+Climate change mitigation (marker),miller2_ctstlfrdvlpmnt(mrkr),Indicates if the project addresses climate change mitigation.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Climate change mitigation (marker),miller2_knwldgfrdvlpmnt(mrkr),Indicates if the project addresses climate change mitigation.,A marker representing the project's contribution to knowledge for development.,0
+Climate change mitigation (marker),miller2_rgnstnd,Indicates if the project addresses climate change mitigation.,The unique identifier for the organization associated with the project.,0
+Climate change mitigation (marker),miller2_rgnstnnm,Indicates if the project addresses climate change mitigation.,The official name of the organization linked to the project.,0
+Climate change mitigation (marker),miller2_rgnstntp,Indicates if the project addresses climate change mitigation.,The type of organization involved in the project.,0
+Climate change mitigation (marker),miller2_rgnstnclss,Indicates if the project addresses climate change mitigation.,The class to which the organization belongs.,0
+Climate change mitigation (marker),miller2_cntnntnm,Indicates if the project addresses climate change mitigation.,The name of the continent linked to the project.,0
+Climate change mitigation (marker),miller2_prjctbrwsrcntrd,Indicates if the project addresses climate change mitigation.,The unique identifier for the country associated with the project.,0
+Climate change mitigation (marker),miller2_cntrrgnd,Indicates if the project addresses climate change mitigation.,The identification code for the country or region related to the project.,0
+Climate change mitigation (marker),miller2_cntrrgnnm,Indicates if the project addresses climate change mitigation.,The name of the country or region connected to the project.,0
+Climate change mitigation (marker),miller2_cntrrgnprcnt,Indicates if the project addresses climate change mitigation.,The percentage of the project associated with the country or region.,0
+Climate change mitigation (marker),miller2_sctrd,Indicates if the project addresses climate change mitigation.,The unique code for the sector linked to the project.,0
+Climate change mitigation (marker),miller2_mntspnt,Indicates if the project addresses climate change mitigation.,The total expenditure incurred on the project.,0
+Gender equality (marker),miller2_fsclr,Indicates if the project addresses gender equality.,The financial year in which the project was conducted.,0
+Gender equality (marker),miller2_brnchd,Indicates if the project addresses gender equality.,The code identifying the branch overseeing the project.,0
+Gender equality (marker),miller2_rgnstnsb-clss,Indicates if the project addresses gender equality.,A more specific classification within the organization class.,0
+Gender equality (marker),miller2_cntnntd,Indicates if the project addresses gender equality.,The unique code for the continent associated with the project.,0
+Gender equality (marker),miller2_sctrprcnt,Indicates if the project addresses gender equality.,The percentage of the project linked to the sector.,0
+Gender equality (marker),miller2_sctrnm,Indicates if the project addresses gender equality.,The name of the sector associated with the project,0
+Gender equality (marker),miller2_stts,Indicates if the project addresses gender equality.,The current state or phase of the project.,0
+Gender equality (marker),miller2_prjctnmbr,Indicates if the project addresses gender equality.,A distinct identifier assigned to each project for reference.,0
+Gender equality (marker),miller2_clmtchngmtgtn(mrkr),Indicates if the project addresses gender equality.,A marker signifying the project's contribution to climate change mitigation.,0
+Gender equality (marker),miller2_gndrqlt(mrkr),Indicates if the project addresses gender equality.,A marker indicating the project's commitment to promoting gender equality.,1
+Gender equality (marker),miller2_prtcptrdvlpmntndgdgvrnnc,Indicates if the project addresses gender equality.,An indication of the project's emphasis on participatory development and good governance.,0
+Gender equality (marker),miller2_mxmmcdcntrbtn(prjct-lvl),Indicates if the project addresses gender equality.,The highest financial support provided by CIDA for the specific project.,0
+Gender equality (marker),miller2_rgnlprgrm(mrkr),Indicates if the project addresses gender equality.,An indication of whether the project is part of a regional program.,0
+Gender equality (marker),miller2_sctnd,Indicates if the project addresses gender equality.,A specific code assigned to the section managing the project.,0
+Gender equality (marker),miller2_ntdmnt(prjct-lvlbdgt),Indicates if the project addresses gender equality.,The non-restricted budget allocated to the project.,0
+Gender equality (marker),miller2_rbnsss(mrkr),Indicates if the project addresses gender equality.,A marker representing the project's focus on urban issues.,0
+Gender equality (marker),miller2_chldrnsss(mrkr),Indicates if the project addresses gender equality.,A marker indicating the project's concern for children's issues.,0
+Gender equality (marker),miller2_thsss(mrkr),Indicates if the project addresses gender equality.,A marker signifying the project's attention to youth-related matters.,0
+Gender equality (marker),miller2_ndgnssss(mrkr),Indicates if the project addresses gender equality.,A marker denoting the project's involvement in indigenous issues.,0
+Gender equality (marker),miller2_dsbltsss(mrkr),Indicates if the project addresses gender equality.,A marker indicating the project's focus on disability-related concerns.,0
+Gender equality (marker),miller2_ctstlfrdvlpmnt(mrkr),Indicates if the project addresses gender equality.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Gender equality (marker),miller2_knwldgfrdvlpmnt(mrkr),Indicates if the project addresses gender equality.,A marker representing the project's contribution to knowledge for development.,0
+Gender equality (marker),miller2_rgnstnd,Indicates if the project addresses gender equality.,The unique identifier for the organization associated with the project.,0
+Gender equality (marker),miller2_rgnstnnm,Indicates if the project addresses gender equality.,The official name of the organization linked to the project.,0
+Gender equality (marker),miller2_rgnstntp,Indicates if the project addresses gender equality.,The type of organization involved in the project.,0
+Gender equality (marker),miller2_rgnstnclss,Indicates if the project addresses gender equality.,The class to which the organization belongs.,0
+Gender equality (marker),miller2_cntnntnm,Indicates if the project addresses gender equality.,The name of the continent linked to the project.,0
+Gender equality (marker),miller2_prjctbrwsrcntrd,Indicates if the project addresses gender equality.,The unique identifier for the country associated with the project.,0
+Gender equality (marker),miller2_cntrrgnd,Indicates if the project addresses gender equality.,The identification code for the country or region related to the project.,0
+Gender equality (marker),miller2_cntrrgnnm,Indicates if the project addresses gender equality.,The name of the country or region connected to the project.,0
+Gender equality (marker),miller2_cntrrgnprcnt,Indicates if the project addresses gender equality.,The percentage of the project associated with the country or region.,0
+Gender equality (marker),miller2_sctrd,Indicates if the project addresses gender equality.,The unique code for the sector linked to the project.,0
+Gender equality (marker),miller2_mntspnt,Indicates if the project addresses gender equality.,The total expenditure incurred on the project.,0
+Participatory development and good governance,miller2_fsclr,Indicates if the project focuses on participatory development and good governance.,The financial year in which the project was conducted.,0
+Participatory development and good governance,miller2_brnchd,Indicates if the project focuses on participatory development and good governance.,The code identifying the branch overseeing the project.,0
+Participatory development and good governance,miller2_rgnstnsb-clss,Indicates if the project focuses on participatory development and good governance.,A more specific classification within the organization class.,0
+Participatory development and good governance,miller2_cntnntd,Indicates if the project focuses on participatory development and good governance.,The unique code for the continent associated with the project.,0
+Participatory development and good governance,miller2_sctrprcnt,Indicates if the project focuses on participatory development and good governance.,The percentage of the project linked to the sector.,0
+Participatory development and good governance,miller2_sctrnm,Indicates if the project focuses on participatory development and good governance.,The name of the sector associated with the project,0
+Participatory development and good governance,miller2_stts,Indicates if the project focuses on participatory development and good governance.,The current state or phase of the project.,0
+Participatory development and good governance,miller2_prjctnmbr,Indicates if the project focuses on participatory development and good governance.,A distinct identifier assigned to each project for reference.,0
+Participatory development and good governance,miller2_clmtchngmtgtn(mrkr),Indicates if the project focuses on participatory development and good governance.,A marker signifying the project's contribution to climate change mitigation.,0
+Participatory development and good governance,miller2_gndrqlt(mrkr),Indicates if the project focuses on participatory development and good governance.,A marker indicating the project's commitment to promoting gender equality.,0
+Participatory development and good governance,miller2_prtcptrdvlpmntndgdgvrnnc,Indicates if the project focuses on participatory development and good governance.,An indication of the project's emphasis on participatory development and good governance.,1
+Participatory development and good governance,miller2_mxmmcdcntrbtn(prjct-lvl),Indicates if the project focuses on participatory development and good governance.,The highest financial support provided by CIDA for the specific project.,0
+Participatory development and good governance,miller2_rgnlprgrm(mrkr),Indicates if the project focuses on participatory development and good governance.,An indication of whether the project is part of a regional program.,0
+Participatory development and good governance,miller2_sctnd,Indicates if the project focuses on participatory development and good governance.,A specific code assigned to the section managing the project.,0
+Participatory development and good governance,miller2_ntdmnt(prjct-lvlbdgt),Indicates if the project focuses on participatory development and good governance.,The non-restricted budget allocated to the project.,0
+Participatory development and good governance,miller2_rbnsss(mrkr),Indicates if the project focuses on participatory development and good governance.,A marker representing the project's focus on urban issues.,0
+Participatory development and good governance,miller2_chldrnsss(mrkr),Indicates if the project focuses on participatory development and good governance.,A marker indicating the project's concern for children's issues.,0
+Participatory development and good governance,miller2_thsss(mrkr),Indicates if the project focuses on participatory development and good governance.,A marker signifying the project's attention to youth-related matters.,0
+Participatory development and good governance,miller2_ndgnssss(mrkr),Indicates if the project focuses on participatory development and good governance.,A marker denoting the project's involvement in indigenous issues.,0
+Participatory development and good governance,miller2_dsbltsss(mrkr),Indicates if the project focuses on participatory development and good governance.,A marker indicating the project's focus on disability-related concerns.,0
+Participatory development and good governance,miller2_ctstlfrdvlpmnt(mrkr),Indicates if the project focuses on participatory development and good governance.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Participatory development and good governance,miller2_knwldgfrdvlpmnt(mrkr),Indicates if the project focuses on participatory development and good governance.,A marker representing the project's contribution to knowledge for development.,0
+Participatory development and good governance,miller2_rgnstnd,Indicates if the project focuses on participatory development and good governance.,The unique identifier for the organization associated with the project.,0
+Participatory development and good governance,miller2_rgnstnnm,Indicates if the project focuses on participatory development and good governance.,The official name of the organization linked to the project.,0
+Participatory development and good governance,miller2_rgnstntp,Indicates if the project focuses on participatory development and good governance.,The type of organization involved in the project.,0
+Participatory development and good governance,miller2_rgnstnclss,Indicates if the project focuses on participatory development and good governance.,The class to which the organization belongs.,0
+Participatory development and good governance,miller2_cntnntnm,Indicates if the project focuses on participatory development and good governance.,The name of the continent linked to the project.,0
+Participatory development and good governance,miller2_prjctbrwsrcntrd,Indicates if the project focuses on participatory development and good governance.,The unique identifier for the country associated with the project.,0
+Participatory development and good governance,miller2_cntrrgnd,Indicates if the project focuses on participatory development and good governance.,The identification code for the country or region related to the project.,0
+Participatory development and good governance,miller2_cntrrgnnm,Indicates if the project focuses on participatory development and good governance.,The name of the country or region connected to the project.,0
+Participatory development and good governance,miller2_cntrrgnprcnt,Indicates if the project focuses on participatory development and good governance.,The percentage of the project associated with the country or region.,0
+Participatory development and good governance,miller2_sctrd,Indicates if the project focuses on participatory development and good governance.,The unique code for the sector linked to the project.,0
+Participatory development and good governance,miller2_mntspnt,Indicates if the project focuses on participatory development and good governance.,The total expenditure incurred on the project.,0
+Maximum CIDA contribution (project-level),miller2_fsclr,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,The financial year in which the project was conducted.,0
+Maximum CIDA contribution (project-level),miller2_brnchd,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,The code identifying the branch overseeing the project.,0
+Maximum CIDA contribution (project-level),miller2_rgnstnsb-clss,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,A more specific classification within the organization class.,0
+Maximum CIDA contribution (project-level),miller2_cntnntd,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,The unique code for the continent associated with the project.,0
+Maximum CIDA contribution (project-level),miller2_sctrprcnt,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,The percentage of the project linked to the sector.,0
+Maximum CIDA contribution (project-level),miller2_sctrnm,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,The name of the sector associated with the project,0
+Maximum CIDA contribution (project-level),miller2_stts,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,The current state or phase of the project.,0
+Maximum CIDA contribution (project-level),miller2_prjctnmbr,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,A distinct identifier assigned to each project for reference.,0
+Maximum CIDA contribution (project-level),miller2_clmtchngmtgtn(mrkr),The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,A marker signifying the project's contribution to climate change mitigation.,0
+Maximum CIDA contribution (project-level),miller2_gndrqlt(mrkr),The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,A marker indicating the project's commitment to promoting gender equality.,0
+Maximum CIDA contribution (project-level),miller2_prtcptrdvlpmntndgdgvrnnc,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,An indication of the project's emphasis on participatory development and good governance.,0
+Maximum CIDA contribution (project-level),miller2_mxmmcdcntrbtn(prjct-lvl),The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,The highest financial support provided by CIDA for the specific project.,1
+Maximum CIDA contribution (project-level),miller2_rgnlprgrm(mrkr),The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,An indication of whether the project is part of a regional program.,0
+Maximum CIDA contribution (project-level),miller2_sctnd,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,A specific code assigned to the section managing the project.,0
+Maximum CIDA contribution (project-level),miller2_ntdmnt(prjct-lvlbdgt),The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,The non-restricted budget allocated to the project.,0
+Maximum CIDA contribution (project-level),miller2_rbnsss(mrkr),The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,A marker representing the project's focus on urban issues.,0
+Maximum CIDA contribution (project-level),miller2_chldrnsss(mrkr),The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,A marker indicating the project's concern for children's issues.,0
+Maximum CIDA contribution (project-level),miller2_thsss(mrkr),The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,A marker signifying the project's attention to youth-related matters.,0
+Maximum CIDA contribution (project-level),miller2_ndgnssss(mrkr),The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,A marker denoting the project's involvement in indigenous issues.,0
+Maximum CIDA contribution (project-level),miller2_dsbltsss(mrkr),The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,A marker indicating the project's focus on disability-related concerns.,0
+Maximum CIDA contribution (project-level),miller2_ctstlfrdvlpmnt(mrkr),The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Maximum CIDA contribution (project-level),miller2_knwldgfrdvlpmnt(mrkr),The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,A marker representing the project's contribution to knowledge for development.,0
+Maximum CIDA contribution (project-level),miller2_rgnstnd,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,The unique identifier for the organization associated with the project.,0
+Maximum CIDA contribution (project-level),miller2_rgnstnnm,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,The official name of the organization linked to the project.,0
+Maximum CIDA contribution (project-level),miller2_rgnstntp,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,The type of organization involved in the project.,0
+Maximum CIDA contribution (project-level),miller2_rgnstnclss,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,The class to which the organization belongs.,0
+Maximum CIDA contribution (project-level),miller2_cntnntnm,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,The name of the continent linked to the project.,0
+Maximum CIDA contribution (project-level),miller2_prjctbrwsrcntrd,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,The unique identifier for the country associated with the project.,0
+Maximum CIDA contribution (project-level),miller2_cntrrgnd,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,The identification code for the country or region related to the project.,0
+Maximum CIDA contribution (project-level),miller2_cntrrgnnm,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,The name of the country or region connected to the project.,0
+Maximum CIDA contribution (project-level),miller2_cntrrgnprcnt,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,The percentage of the project associated with the country or region.,0
+Maximum CIDA contribution (project-level),miller2_sctrd,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,The unique code for the sector linked to the project.,0
+Maximum CIDA contribution (project-level),miller2_mntspnt,The maximum financial contribution from CIDA (Canadian International Development Agency) for the project.,The total expenditure incurred on the project.,0
+Regional program (marker),miller2_fsclr,Indicates if the project is part of a regional program.,The financial year in which the project was conducted.,0
+Regional program (marker),miller2_brnchd,Indicates if the project is part of a regional program.,The code identifying the branch overseeing the project.,0
+Regional program (marker),miller2_rgnstnsb-clss,Indicates if the project is part of a regional program.,A more specific classification within the organization class.,0
+Regional program (marker),miller2_cntnntd,Indicates if the project is part of a regional program.,The unique code for the continent associated with the project.,0
+Regional program (marker),miller2_sctrprcnt,Indicates if the project is part of a regional program.,The percentage of the project linked to the sector.,0
+Regional program (marker),miller2_sctrnm,Indicates if the project is part of a regional program.,The name of the sector associated with the project,0
+Regional program (marker),miller2_stts,Indicates if the project is part of a regional program.,The current state or phase of the project.,0
+Regional program (marker),miller2_prjctnmbr,Indicates if the project is part of a regional program.,A distinct identifier assigned to each project for reference.,0
+Regional program (marker),miller2_clmtchngmtgtn(mrkr),Indicates if the project is part of a regional program.,A marker signifying the project's contribution to climate change mitigation.,0
+Regional program (marker),miller2_gndrqlt(mrkr),Indicates if the project is part of a regional program.,A marker indicating the project's commitment to promoting gender equality.,0
+Regional program (marker),miller2_prtcptrdvlpmntndgdgvrnnc,Indicates if the project is part of a regional program.,An indication of the project's emphasis on participatory development and good governance.,0
+Regional program (marker),miller2_mxmmcdcntrbtn(prjct-lvl),Indicates if the project is part of a regional program.,The highest financial support provided by CIDA for the specific project.,0
+Regional program (marker),miller2_rgnlprgrm(mrkr),Indicates if the project is part of a regional program.,An indication of whether the project is part of a regional program.,1
+Regional program (marker),miller2_sctnd,Indicates if the project is part of a regional program.,A specific code assigned to the section managing the project.,0
+Regional program (marker),miller2_ntdmnt(prjct-lvlbdgt),Indicates if the project is part of a regional program.,The non-restricted budget allocated to the project.,0
+Regional program (marker),miller2_rbnsss(mrkr),Indicates if the project is part of a regional program.,A marker representing the project's focus on urban issues.,0
+Regional program (marker),miller2_chldrnsss(mrkr),Indicates if the project is part of a regional program.,A marker indicating the project's concern for children's issues.,0
+Regional program (marker),miller2_thsss(mrkr),Indicates if the project is part of a regional program.,A marker signifying the project's attention to youth-related matters.,0
+Regional program (marker),miller2_ndgnssss(mrkr),Indicates if the project is part of a regional program.,A marker denoting the project's involvement in indigenous issues.,0
+Regional program (marker),miller2_dsbltsss(mrkr),Indicates if the project is part of a regional program.,A marker indicating the project's focus on disability-related concerns.,0
+Regional program (marker),miller2_ctstlfrdvlpmnt(mrkr),Indicates if the project is part of a regional program.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Regional program (marker),miller2_knwldgfrdvlpmnt(mrkr),Indicates if the project is part of a regional program.,A marker representing the project's contribution to knowledge for development.,0
+Regional program (marker),miller2_rgnstnd,Indicates if the project is part of a regional program.,The unique identifier for the organization associated with the project.,0
+Regional program (marker),miller2_rgnstnnm,Indicates if the project is part of a regional program.,The official name of the organization linked to the project.,0
+Regional program (marker),miller2_rgnstntp,Indicates if the project is part of a regional program.,The type of organization involved in the project.,0
+Regional program (marker),miller2_rgnstnclss,Indicates if the project is part of a regional program.,The class to which the organization belongs.,0
+Regional program (marker),miller2_cntnntnm,Indicates if the project is part of a regional program.,The name of the continent linked to the project.,0
+Regional program (marker),miller2_prjctbrwsrcntrd,Indicates if the project is part of a regional program.,The unique identifier for the country associated with the project.,0
+Regional program (marker),miller2_cntrrgnd,Indicates if the project is part of a regional program.,The identification code for the country or region related to the project.,0
+Regional program (marker),miller2_cntrrgnnm,Indicates if the project is part of a regional program.,The name of the country or region connected to the project.,0
+Regional program (marker),miller2_cntrrgnprcnt,Indicates if the project is part of a regional program.,The percentage of the project associated with the country or region.,0
+Regional program (marker),miller2_sctrd,Indicates if the project is part of a regional program.,The unique code for the sector linked to the project.,0
+Regional program (marker),miller2_mntspnt,Indicates if the project is part of a regional program.,The total expenditure incurred on the project.,0
+Section ID,miller2_fsclr,Identification code for the section responsible for the project.,The financial year in which the project was conducted.,0
+Section ID,miller2_brnchd,Identification code for the section responsible for the project.,The code identifying the branch overseeing the project.,0
+Section ID,miller2_rgnstnsb-clss,Identification code for the section responsible for the project.,A more specific classification within the organization class.,0
+Section ID,miller2_cntnntd,Identification code for the section responsible for the project.,The unique code for the continent associated with the project.,0
+Section ID,miller2_sctrprcnt,Identification code for the section responsible for the project.,The percentage of the project linked to the sector.,0
+Section ID,miller2_sctrnm,Identification code for the section responsible for the project.,The name of the sector associated with the project,0
+Section ID,miller2_stts,Identification code for the section responsible for the project.,The current state or phase of the project.,0
+Section ID,miller2_prjctnmbr,Identification code for the section responsible for the project.,A distinct identifier assigned to each project for reference.,0
+Section ID,miller2_clmtchngmtgtn(mrkr),Identification code for the section responsible for the project.,A marker signifying the project's contribution to climate change mitigation.,0
+Section ID,miller2_gndrqlt(mrkr),Identification code for the section responsible for the project.,A marker indicating the project's commitment to promoting gender equality.,0
+Section ID,miller2_prtcptrdvlpmntndgdgvrnnc,Identification code for the section responsible for the project.,An indication of the project's emphasis on participatory development and good governance.,0
+Section ID,miller2_mxmmcdcntrbtn(prjct-lvl),Identification code for the section responsible for the project.,The highest financial support provided by CIDA for the specific project.,0
+Section ID,miller2_rgnlprgrm(mrkr),Identification code for the section responsible for the project.,An indication of whether the project is part of a regional program.,0
+Section ID,miller2_sctnd,Identification code for the section responsible for the project.,A specific code assigned to the section managing the project.,1
+Section ID,miller2_ntdmnt(prjct-lvlbdgt),Identification code for the section responsible for the project.,The non-restricted budget allocated to the project.,0
+Section ID,miller2_rbnsss(mrkr),Identification code for the section responsible for the project.,A marker representing the project's focus on urban issues.,0
+Section ID,miller2_chldrnsss(mrkr),Identification code for the section responsible for the project.,A marker indicating the project's concern for children's issues.,0
+Section ID,miller2_thsss(mrkr),Identification code for the section responsible for the project.,A marker signifying the project's attention to youth-related matters.,0
+Section ID,miller2_ndgnssss(mrkr),Identification code for the section responsible for the project.,A marker denoting the project's involvement in indigenous issues.,0
+Section ID,miller2_dsbltsss(mrkr),Identification code for the section responsible for the project.,A marker indicating the project's focus on disability-related concerns.,0
+Section ID,miller2_ctstlfrdvlpmnt(mrkr),Identification code for the section responsible for the project.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Section ID,miller2_knwldgfrdvlpmnt(mrkr),Identification code for the section responsible for the project.,A marker representing the project's contribution to knowledge for development.,0
+Section ID,miller2_rgnstnd,Identification code for the section responsible for the project.,The unique identifier for the organization associated with the project.,0
+Section ID,miller2_rgnstnnm,Identification code for the section responsible for the project.,The official name of the organization linked to the project.,0
+Section ID,miller2_rgnstntp,Identification code for the section responsible for the project.,The type of organization involved in the project.,0
+Section ID,miller2_rgnstnclss,Identification code for the section responsible for the project.,The class to which the organization belongs.,0
+Section ID,miller2_cntnntnm,Identification code for the section responsible for the project.,The name of the continent linked to the project.,0
+Section ID,miller2_prjctbrwsrcntrd,Identification code for the section responsible for the project.,The unique identifier for the country associated with the project.,0
+Section ID,miller2_cntrrgnd,Identification code for the section responsible for the project.,The identification code for the country or region related to the project.,0
+Section ID,miller2_cntrrgnnm,Identification code for the section responsible for the project.,The name of the country or region connected to the project.,0
+Section ID,miller2_cntrrgnprcnt,Identification code for the section responsible for the project.,The percentage of the project associated with the country or region.,0
+Section ID,miller2_sctrd,Identification code for the section responsible for the project.,The unique code for the sector linked to the project.,0
+Section ID,miller2_mntspnt,Identification code for the section responsible for the project.,The total expenditure incurred on the project.,0
+Untied amount(Project-level budget),miller2_fsclr,The untied amount for the project-level budget.,The financial year in which the project was conducted.,0
+Untied amount(Project-level budget),miller2_brnchd,The untied amount for the project-level budget.,The code identifying the branch overseeing the project.,0
+Untied amount(Project-level budget),miller2_rgnstnsb-clss,The untied amount for the project-level budget.,A more specific classification within the organization class.,0
+Untied amount(Project-level budget),miller2_cntnntd,The untied amount for the project-level budget.,The unique code for the continent associated with the project.,0
+Untied amount(Project-level budget),miller2_sctrprcnt,The untied amount for the project-level budget.,The percentage of the project linked to the sector.,0
+Untied amount(Project-level budget),miller2_sctrnm,The untied amount for the project-level budget.,The name of the sector associated with the project,0
+Untied amount(Project-level budget),miller2_stts,The untied amount for the project-level budget.,The current state or phase of the project.,0
+Untied amount(Project-level budget),miller2_prjctnmbr,The untied amount for the project-level budget.,A distinct identifier assigned to each project for reference.,0
+Untied amount(Project-level budget),miller2_clmtchngmtgtn(mrkr),The untied amount for the project-level budget.,A marker signifying the project's contribution to climate change mitigation.,0
+Untied amount(Project-level budget),miller2_gndrqlt(mrkr),The untied amount for the project-level budget.,A marker indicating the project's commitment to promoting gender equality.,0
+Untied amount(Project-level budget),miller2_prtcptrdvlpmntndgdgvrnnc,The untied amount for the project-level budget.,An indication of the project's emphasis on participatory development and good governance.,0
+Untied amount(Project-level budget),miller2_mxmmcdcntrbtn(prjct-lvl),The untied amount for the project-level budget.,The highest financial support provided by CIDA for the specific project.,0
+Untied amount(Project-level budget),miller2_rgnlprgrm(mrkr),The untied amount for the project-level budget.,An indication of whether the project is part of a regional program.,0
+Untied amount(Project-level budget),miller2_sctnd,The untied amount for the project-level budget.,A specific code assigned to the section managing the project.,0
+Untied amount(Project-level budget),miller2_ntdmnt(prjct-lvlbdgt),The untied amount for the project-level budget.,The non-restricted budget allocated to the project.,1
+Untied amount(Project-level budget),miller2_rbnsss(mrkr),The untied amount for the project-level budget.,A marker representing the project's focus on urban issues.,0
+Untied amount(Project-level budget),miller2_chldrnsss(mrkr),The untied amount for the project-level budget.,A marker indicating the project's concern for children's issues.,0
+Untied amount(Project-level budget),miller2_thsss(mrkr),The untied amount for the project-level budget.,A marker signifying the project's attention to youth-related matters.,0
+Untied amount(Project-level budget),miller2_ndgnssss(mrkr),The untied amount for the project-level budget.,A marker denoting the project's involvement in indigenous issues.,0
+Untied amount(Project-level budget),miller2_dsbltsss(mrkr),The untied amount for the project-level budget.,A marker indicating the project's focus on disability-related concerns.,0
+Untied amount(Project-level budget),miller2_ctstlfrdvlpmnt(mrkr),The untied amount for the project-level budget.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Untied amount(Project-level budget),miller2_knwldgfrdvlpmnt(mrkr),The untied amount for the project-level budget.,A marker representing the project's contribution to knowledge for development.,0
+Untied amount(Project-level budget),miller2_rgnstnd,The untied amount for the project-level budget.,The unique identifier for the organization associated with the project.,0
+Untied amount(Project-level budget),miller2_rgnstnnm,The untied amount for the project-level budget.,The official name of the organization linked to the project.,0
+Untied amount(Project-level budget),miller2_rgnstntp,The untied amount for the project-level budget.,The type of organization involved in the project.,0
+Untied amount(Project-level budget),miller2_rgnstnclss,The untied amount for the project-level budget.,The class to which the organization belongs.,0
+Untied amount(Project-level budget),miller2_cntnntnm,The untied amount for the project-level budget.,The name of the continent linked to the project.,0
+Untied amount(Project-level budget),miller2_prjctbrwsrcntrd,The untied amount for the project-level budget.,The unique identifier for the country associated with the project.,0
+Untied amount(Project-level budget),miller2_cntrrgnd,The untied amount for the project-level budget.,The identification code for the country or region related to the project.,0
+Untied amount(Project-level budget),miller2_cntrrgnnm,The untied amount for the project-level budget.,The name of the country or region connected to the project.,0
+Untied amount(Project-level budget),miller2_cntrrgnprcnt,The untied amount for the project-level budget.,The percentage of the project associated with the country or region.,0
+Untied amount(Project-level budget),miller2_sctrd,The untied amount for the project-level budget.,The unique code for the sector linked to the project.,0
+Untied amount(Project-level budget),miller2_mntspnt,The untied amount for the project-level budget.,The total expenditure incurred on the project.,0
+Branch name,miller2_fsclr,The name of the branch responsible for the project.,The financial year in which the project was conducted.,0
+Branch name,miller2_brnchd,The name of the branch responsible for the project.,The code identifying the branch overseeing the project.,0
+Branch name,miller2_rgnstnsb-clss,The name of the branch responsible for the project.,A more specific classification within the organization class.,0
+Branch name,miller2_cntnntd,The name of the branch responsible for the project.,The unique code for the continent associated with the project.,0
+Branch name,miller2_sctrprcnt,The name of the branch responsible for the project.,The percentage of the project linked to the sector.,0
+Branch name,miller2_sctrnm,The name of the branch responsible for the project.,The name of the sector associated with the project,0
+Branch name,miller2_stts,The name of the branch responsible for the project.,The current state or phase of the project.,0
+Branch name,miller2_prjctnmbr,The name of the branch responsible for the project.,A distinct identifier assigned to each project for reference.,0
+Branch name,miller2_clmtchngmtgtn(mrkr),The name of the branch responsible for the project.,A marker signifying the project's contribution to climate change mitigation.,0
+Branch name,miller2_gndrqlt(mrkr),The name of the branch responsible for the project.,A marker indicating the project's commitment to promoting gender equality.,0
+Branch name,miller2_prtcptrdvlpmntndgdgvrnnc,The name of the branch responsible for the project.,An indication of the project's emphasis on participatory development and good governance.,0
+Branch name,miller2_mxmmcdcntrbtn(prjct-lvl),The name of the branch responsible for the project.,The highest financial support provided by CIDA for the specific project.,0
+Branch name,miller2_rgnlprgrm(mrkr),The name of the branch responsible for the project.,An indication of whether the project is part of a regional program.,0
+Branch name,miller2_sctnd,The name of the branch responsible for the project.,A specific code assigned to the section managing the project.,0
+Branch name,miller2_ntdmnt(prjct-lvlbdgt),The name of the branch responsible for the project.,The non-restricted budget allocated to the project.,0
+Branch name,miller2_rbnsss(mrkr),The name of the branch responsible for the project.,A marker representing the project's focus on urban issues.,0
+Branch name,miller2_chldrnsss(mrkr),The name of the branch responsible for the project.,A marker indicating the project's concern for children's issues.,0
+Branch name,miller2_thsss(mrkr),The name of the branch responsible for the project.,A marker signifying the project's attention to youth-related matters.,0
+Branch name,miller2_ndgnssss(mrkr),The name of the branch responsible for the project.,A marker denoting the project's involvement in indigenous issues.,0
+Branch name,miller2_dsbltsss(mrkr),The name of the branch responsible for the project.,A marker indicating the project's focus on disability-related concerns.,0
+Branch name,miller2_ctstlfrdvlpmnt(mrkr),The name of the branch responsible for the project.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Branch name,miller2_knwldgfrdvlpmnt(mrkr),The name of the branch responsible for the project.,A marker representing the project's contribution to knowledge for development.,0
+Branch name,miller2_rgnstnd,The name of the branch responsible for the project.,The unique identifier for the organization associated with the project.,0
+Branch name,miller2_rgnstnnm,The name of the branch responsible for the project.,The official name of the organization linked to the project.,0
+Branch name,miller2_rgnstntp,The name of the branch responsible for the project.,The type of organization involved in the project.,0
+Branch name,miller2_rgnstnclss,The name of the branch responsible for the project.,The class to which the organization belongs.,0
+Branch name,miller2_cntnntnm,The name of the branch responsible for the project.,The name of the continent linked to the project.,0
+Branch name,miller2_prjctbrwsrcntrd,The name of the branch responsible for the project.,The unique identifier for the country associated with the project.,0
+Branch name,miller2_cntrrgnd,The name of the branch responsible for the project.,The identification code for the country or region related to the project.,0
+Branch name,miller2_cntrrgnnm,The name of the branch responsible for the project.,The name of the country or region connected to the project.,0
+Branch name,miller2_cntrrgnprcnt,The name of the branch responsible for the project.,The percentage of the project associated with the country or region.,0
+Branch name,miller2_sctrd,The name of the branch responsible for the project.,The unique code for the sector linked to the project.,0
+Branch name,miller2_mntspnt,The name of the branch responsible for the project.,The total expenditure incurred on the project.,0
+Division ID,miller2_fsclr,Identification code for the division responsible for the project.,The financial year in which the project was conducted.,0
+Division ID,miller2_brnchd,Identification code for the division responsible for the project.,The code identifying the branch overseeing the project.,0
+Division ID,miller2_rgnstnsb-clss,Identification code for the division responsible for the project.,A more specific classification within the organization class.,0
+Division ID,miller2_cntnntd,Identification code for the division responsible for the project.,The unique code for the continent associated with the project.,0
+Division ID,miller2_sctrprcnt,Identification code for the division responsible for the project.,The percentage of the project linked to the sector.,0
+Division ID,miller2_sctrnm,Identification code for the division responsible for the project.,The name of the sector associated with the project,0
+Division ID,miller2_stts,Identification code for the division responsible for the project.,The current state or phase of the project.,0
+Division ID,miller2_prjctnmbr,Identification code for the division responsible for the project.,A distinct identifier assigned to each project for reference.,0
+Division ID,miller2_clmtchngmtgtn(mrkr),Identification code for the division responsible for the project.,A marker signifying the project's contribution to climate change mitigation.,0
+Division ID,miller2_gndrqlt(mrkr),Identification code for the division responsible for the project.,A marker indicating the project's commitment to promoting gender equality.,0
+Division ID,miller2_prtcptrdvlpmntndgdgvrnnc,Identification code for the division responsible for the project.,An indication of the project's emphasis on participatory development and good governance.,0
+Division ID,miller2_mxmmcdcntrbtn(prjct-lvl),Identification code for the division responsible for the project.,The highest financial support provided by CIDA for the specific project.,0
+Division ID,miller2_rgnlprgrm(mrkr),Identification code for the division responsible for the project.,An indication of whether the project is part of a regional program.,0
+Division ID,miller2_sctnd,Identification code for the division responsible for the project.,A specific code assigned to the section managing the project.,0
+Division ID,miller2_ntdmnt(prjct-lvlbdgt),Identification code for the division responsible for the project.,The non-restricted budget allocated to the project.,0
+Division ID,miller2_rbnsss(mrkr),Identification code for the division responsible for the project.,A marker representing the project's focus on urban issues.,0
+Division ID,miller2_chldrnsss(mrkr),Identification code for the division responsible for the project.,A marker indicating the project's concern for children's issues.,0
+Division ID,miller2_thsss(mrkr),Identification code for the division responsible for the project.,A marker signifying the project's attention to youth-related matters.,0
+Division ID,miller2_ndgnssss(mrkr),Identification code for the division responsible for the project.,A marker denoting the project's involvement in indigenous issues.,0
+Division ID,miller2_dsbltsss(mrkr),Identification code for the division responsible for the project.,A marker indicating the project's focus on disability-related concerns.,0
+Division ID,miller2_ctstlfrdvlpmnt(mrkr),Identification code for the division responsible for the project.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Division ID,miller2_knwldgfrdvlpmnt(mrkr),Identification code for the division responsible for the project.,A marker representing the project's contribution to knowledge for development.,0
+Division ID,miller2_rgnstnd,Identification code for the division responsible for the project.,The unique identifier for the organization associated with the project.,0
+Division ID,miller2_rgnstnnm,Identification code for the division responsible for the project.,The official name of the organization linked to the project.,0
+Division ID,miller2_rgnstntp,Identification code for the division responsible for the project.,The type of organization involved in the project.,0
+Division ID,miller2_rgnstnclss,Identification code for the division responsible for the project.,The class to which the organization belongs.,0
+Division ID,miller2_cntnntnm,Identification code for the division responsible for the project.,The name of the continent linked to the project.,0
+Division ID,miller2_prjctbrwsrcntrd,Identification code for the division responsible for the project.,The unique identifier for the country associated with the project.,0
+Division ID,miller2_cntrrgnd,Identification code for the division responsible for the project.,The identification code for the country or region related to the project.,0
+Division ID,miller2_cntrrgnnm,Identification code for the division responsible for the project.,The name of the country or region connected to the project.,0
+Division ID,miller2_cntrrgnprcnt,Identification code for the division responsible for the project.,The percentage of the project associated with the country or region.,0
+Division ID,miller2_sctrd,Identification code for the division responsible for the project.,The unique code for the sector linked to the project.,0
+Division ID,miller2_mntspnt,Identification code for the division responsible for the project.,The total expenditure incurred on the project.,0
+Division name,miller2_fsclr,The name of the division responsible for the project.,The financial year in which the project was conducted.,0
+Division name,miller2_brnchd,The name of the division responsible for the project.,The code identifying the branch overseeing the project.,0
+Division name,miller2_rgnstnsb-clss,The name of the division responsible for the project.,A more specific classification within the organization class.,0
+Division name,miller2_cntnntd,The name of the division responsible for the project.,The unique code for the continent associated with the project.,0
+Division name,miller2_sctrprcnt,The name of the division responsible for the project.,The percentage of the project linked to the sector.,0
+Division name,miller2_sctrnm,The name of the division responsible for the project.,The name of the sector associated with the project,0
+Division name,miller2_stts,The name of the division responsible for the project.,The current state or phase of the project.,0
+Division name,miller2_prjctnmbr,The name of the division responsible for the project.,A distinct identifier assigned to each project for reference.,0
+Division name,miller2_clmtchngmtgtn(mrkr),The name of the division responsible for the project.,A marker signifying the project's contribution to climate change mitigation.,0
+Division name,miller2_gndrqlt(mrkr),The name of the division responsible for the project.,A marker indicating the project's commitment to promoting gender equality.,0
+Division name,miller2_prtcptrdvlpmntndgdgvrnnc,The name of the division responsible for the project.,An indication of the project's emphasis on participatory development and good governance.,0
+Division name,miller2_mxmmcdcntrbtn(prjct-lvl),The name of the division responsible for the project.,The highest financial support provided by CIDA for the specific project.,0
+Division name,miller2_rgnlprgrm(mrkr),The name of the division responsible for the project.,An indication of whether the project is part of a regional program.,0
+Division name,miller2_sctnd,The name of the division responsible for the project.,A specific code assigned to the section managing the project.,0
+Division name,miller2_ntdmnt(prjct-lvlbdgt),The name of the division responsible for the project.,The non-restricted budget allocated to the project.,0
+Division name,miller2_rbnsss(mrkr),The name of the division responsible for the project.,A marker representing the project's focus on urban issues.,0
+Division name,miller2_chldrnsss(mrkr),The name of the division responsible for the project.,A marker indicating the project's concern for children's issues.,0
+Division name,miller2_thsss(mrkr),The name of the division responsible for the project.,A marker signifying the project's attention to youth-related matters.,0
+Division name,miller2_ndgnssss(mrkr),The name of the division responsible for the project.,A marker denoting the project's involvement in indigenous issues.,0
+Division name,miller2_dsbltsss(mrkr),The name of the division responsible for the project.,A marker indicating the project's focus on disability-related concerns.,0
+Division name,miller2_ctstlfrdvlpmnt(mrkr),The name of the division responsible for the project.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Division name,miller2_knwldgfrdvlpmnt(mrkr),The name of the division responsible for the project.,A marker representing the project's contribution to knowledge for development.,0
+Division name,miller2_rgnstnd,The name of the division responsible for the project.,The unique identifier for the organization associated with the project.,0
+Division name,miller2_rgnstnnm,The name of the division responsible for the project.,The official name of the organization linked to the project.,0
+Division name,miller2_rgnstntp,The name of the division responsible for the project.,The type of organization involved in the project.,0
+Division name,miller2_rgnstnclss,The name of the division responsible for the project.,The class to which the organization belongs.,0
+Division name,miller2_cntnntnm,The name of the division responsible for the project.,The name of the continent linked to the project.,0
+Division name,miller2_prjctbrwsrcntrd,The name of the division responsible for the project.,The unique identifier for the country associated with the project.,0
+Division name,miller2_cntrrgnd,The name of the division responsible for the project.,The identification code for the country or region related to the project.,0
+Division name,miller2_cntrrgnnm,The name of the division responsible for the project.,The name of the country or region connected to the project.,0
+Division name,miller2_cntrrgnprcnt,The name of the division responsible for the project.,The percentage of the project associated with the country or region.,0
+Division name,miller2_sctrd,The name of the division responsible for the project.,The unique code for the sector linked to the project.,0
+Division name,miller2_mntspnt,The name of the division responsible for the project.,The total expenditure incurred on the project.,0
+Section name,miller2_fsclr,The name of the section responsible for the project.,The financial year in which the project was conducted.,0
+Section name,miller2_brnchd,The name of the section responsible for the project.,The code identifying the branch overseeing the project.,0
+Section name,miller2_rgnstnsb-clss,The name of the section responsible for the project.,A more specific classification within the organization class.,0
+Section name,miller2_cntnntd,The name of the section responsible for the project.,The unique code for the continent associated with the project.,0
+Section name,miller2_sctrprcnt,The name of the section responsible for the project.,The percentage of the project linked to the sector.,0
+Section name,miller2_sctrnm,The name of the section responsible for the project.,The name of the sector associated with the project,0
+Section name,miller2_stts,The name of the section responsible for the project.,The current state or phase of the project.,0
+Section name,miller2_prjctnmbr,The name of the section responsible for the project.,A distinct identifier assigned to each project for reference.,0
+Section name,miller2_clmtchngmtgtn(mrkr),The name of the section responsible for the project.,A marker signifying the project's contribution to climate change mitigation.,0
+Section name,miller2_gndrqlt(mrkr),The name of the section responsible for the project.,A marker indicating the project's commitment to promoting gender equality.,0
+Section name,miller2_prtcptrdvlpmntndgdgvrnnc,The name of the section responsible for the project.,An indication of the project's emphasis on participatory development and good governance.,0
+Section name,miller2_mxmmcdcntrbtn(prjct-lvl),The name of the section responsible for the project.,The highest financial support provided by CIDA for the specific project.,0
+Section name,miller2_rgnlprgrm(mrkr),The name of the section responsible for the project.,An indication of whether the project is part of a regional program.,0
+Section name,miller2_sctnd,The name of the section responsible for the project.,A specific code assigned to the section managing the project.,0
+Section name,miller2_ntdmnt(prjct-lvlbdgt),The name of the section responsible for the project.,The non-restricted budget allocated to the project.,0
+Section name,miller2_rbnsss(mrkr),The name of the section responsible for the project.,A marker representing the project's focus on urban issues.,0
+Section name,miller2_chldrnsss(mrkr),The name of the section responsible for the project.,A marker indicating the project's concern for children's issues.,0
+Section name,miller2_thsss(mrkr),The name of the section responsible for the project.,A marker signifying the project's attention to youth-related matters.,0
+Section name,miller2_ndgnssss(mrkr),The name of the section responsible for the project.,A marker denoting the project's involvement in indigenous issues.,0
+Section name,miller2_dsbltsss(mrkr),The name of the section responsible for the project.,A marker indicating the project's focus on disability-related concerns.,0
+Section name,miller2_ctstlfrdvlpmnt(mrkr),The name of the section responsible for the project.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Section name,miller2_knwldgfrdvlpmnt(mrkr),The name of the section responsible for the project.,A marker representing the project's contribution to knowledge for development.,0
+Section name,miller2_rgnstnd,The name of the section responsible for the project.,The unique identifier for the organization associated with the project.,0
+Section name,miller2_rgnstnnm,The name of the section responsible for the project.,The official name of the organization linked to the project.,0
+Section name,miller2_rgnstntp,The name of the section responsible for the project.,The type of organization involved in the project.,0
+Section name,miller2_rgnstnclss,The name of the section responsible for the project.,The class to which the organization belongs.,0
+Section name,miller2_cntnntnm,The name of the section responsible for the project.,The name of the continent linked to the project.,0
+Section name,miller2_prjctbrwsrcntrd,The name of the section responsible for the project.,The unique identifier for the country associated with the project.,0
+Section name,miller2_cntrrgnd,The name of the section responsible for the project.,The identification code for the country or region related to the project.,0
+Section name,miller2_cntrrgnnm,The name of the section responsible for the project.,The name of the country or region connected to the project.,0
+Section name,miller2_cntrrgnprcnt,The name of the section responsible for the project.,The percentage of the project associated with the country or region.,0
+Section name,miller2_sctrd,The name of the section responsible for the project.,The unique code for the sector linked to the project.,0
+Section name,miller2_mntspnt,The name of the section responsible for the project.,The total expenditure incurred on the project.,0
+Fund centre ID,miller2_fsclr,Identification code for the fund center associated with the project.,The financial year in which the project was conducted.,0
+Fund centre ID,miller2_brnchd,Identification code for the fund center associated with the project.,The code identifying the branch overseeing the project.,0
+Fund centre ID,miller2_rgnstnsb-clss,Identification code for the fund center associated with the project.,A more specific classification within the organization class.,0
+Fund centre ID,miller2_cntnntd,Identification code for the fund center associated with the project.,The unique code for the continent associated with the project.,0
+Fund centre ID,miller2_sctrprcnt,Identification code for the fund center associated with the project.,The percentage of the project linked to the sector.,0
+Fund centre ID,miller2_sctrnm,Identification code for the fund center associated with the project.,The name of the sector associated with the project,0
+Fund centre ID,miller2_stts,Identification code for the fund center associated with the project.,The current state or phase of the project.,0
+Fund centre ID,miller2_prjctnmbr,Identification code for the fund center associated with the project.,A distinct identifier assigned to each project for reference.,0
+Fund centre ID,miller2_clmtchngmtgtn(mrkr),Identification code for the fund center associated with the project.,A marker signifying the project's contribution to climate change mitigation.,0
+Fund centre ID,miller2_gndrqlt(mrkr),Identification code for the fund center associated with the project.,A marker indicating the project's commitment to promoting gender equality.,0
+Fund centre ID,miller2_prtcptrdvlpmntndgdgvrnnc,Identification code for the fund center associated with the project.,An indication of the project's emphasis on participatory development and good governance.,0
+Fund centre ID,miller2_mxmmcdcntrbtn(prjct-lvl),Identification code for the fund center associated with the project.,The highest financial support provided by CIDA for the specific project.,0
+Fund centre ID,miller2_rgnlprgrm(mrkr),Identification code for the fund center associated with the project.,An indication of whether the project is part of a regional program.,0
+Fund centre ID,miller2_sctnd,Identification code for the fund center associated with the project.,A specific code assigned to the section managing the project.,0
+Fund centre ID,miller2_ntdmnt(prjct-lvlbdgt),Identification code for the fund center associated with the project.,The non-restricted budget allocated to the project.,0
+Fund centre ID,miller2_rbnsss(mrkr),Identification code for the fund center associated with the project.,A marker representing the project's focus on urban issues.,0
+Fund centre ID,miller2_chldrnsss(mrkr),Identification code for the fund center associated with the project.,A marker indicating the project's concern for children's issues.,0
+Fund centre ID,miller2_thsss(mrkr),Identification code for the fund center associated with the project.,A marker signifying the project's attention to youth-related matters.,0
+Fund centre ID,miller2_ndgnssss(mrkr),Identification code for the fund center associated with the project.,A marker denoting the project's involvement in indigenous issues.,0
+Fund centre ID,miller2_dsbltsss(mrkr),Identification code for the fund center associated with the project.,A marker indicating the project's focus on disability-related concerns.,0
+Fund centre ID,miller2_ctstlfrdvlpmnt(mrkr),Identification code for the fund center associated with the project.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Fund centre ID,miller2_knwldgfrdvlpmnt(mrkr),Identification code for the fund center associated with the project.,A marker representing the project's contribution to knowledge for development.,0
+Fund centre ID,miller2_rgnstnd,Identification code for the fund center associated with the project.,The unique identifier for the organization associated with the project.,0
+Fund centre ID,miller2_rgnstnnm,Identification code for the fund center associated with the project.,The official name of the organization linked to the project.,0
+Fund centre ID,miller2_rgnstntp,Identification code for the fund center associated with the project.,The type of organization involved in the project.,0
+Fund centre ID,miller2_rgnstnclss,Identification code for the fund center associated with the project.,The class to which the organization belongs.,0
+Fund centre ID,miller2_cntnntnm,Identification code for the fund center associated with the project.,The name of the continent linked to the project.,0
+Fund centre ID,miller2_prjctbrwsrcntrd,Identification code for the fund center associated with the project.,The unique identifier for the country associated with the project.,0
+Fund centre ID,miller2_cntrrgnd,Identification code for the fund center associated with the project.,The identification code for the country or region related to the project.,0
+Fund centre ID,miller2_cntrrgnnm,Identification code for the fund center associated with the project.,The name of the country or region connected to the project.,0
+Fund centre ID,miller2_cntrrgnprcnt,Identification code for the fund center associated with the project.,The percentage of the project associated with the country or region.,0
+Fund centre ID,miller2_sctrd,Identification code for the fund center associated with the project.,The unique code for the sector linked to the project.,0
+Fund centre ID,miller2_mntspnt,Identification code for the fund center associated with the project.,The total expenditure incurred on the project.,0
+Fund centre name,miller2_fsclr,The name of the fund center associated with the project.,The financial year in which the project was conducted.,0
+Fund centre name,miller2_brnchd,The name of the fund center associated with the project.,The code identifying the branch overseeing the project.,0
+Fund centre name,miller2_rgnstnsb-clss,The name of the fund center associated with the project.,A more specific classification within the organization class.,0
+Fund centre name,miller2_cntnntd,The name of the fund center associated with the project.,The unique code for the continent associated with the project.,0
+Fund centre name,miller2_sctrprcnt,The name of the fund center associated with the project.,The percentage of the project linked to the sector.,0
+Fund centre name,miller2_sctrnm,The name of the fund center associated with the project.,The name of the sector associated with the project,0
+Fund centre name,miller2_stts,The name of the fund center associated with the project.,The current state or phase of the project.,0
+Fund centre name,miller2_prjctnmbr,The name of the fund center associated with the project.,A distinct identifier assigned to each project for reference.,0
+Fund centre name,miller2_clmtchngmtgtn(mrkr),The name of the fund center associated with the project.,A marker signifying the project's contribution to climate change mitigation.,0
+Fund centre name,miller2_gndrqlt(mrkr),The name of the fund center associated with the project.,A marker indicating the project's commitment to promoting gender equality.,0
+Fund centre name,miller2_prtcptrdvlpmntndgdgvrnnc,The name of the fund center associated with the project.,An indication of the project's emphasis on participatory development and good governance.,0
+Fund centre name,miller2_mxmmcdcntrbtn(prjct-lvl),The name of the fund center associated with the project.,The highest financial support provided by CIDA for the specific project.,0
+Fund centre name,miller2_rgnlprgrm(mrkr),The name of the fund center associated with the project.,An indication of whether the project is part of a regional program.,0
+Fund centre name,miller2_sctnd,The name of the fund center associated with the project.,A specific code assigned to the section managing the project.,0
+Fund centre name,miller2_ntdmnt(prjct-lvlbdgt),The name of the fund center associated with the project.,The non-restricted budget allocated to the project.,0
+Fund centre name,miller2_rbnsss(mrkr),The name of the fund center associated with the project.,A marker representing the project's focus on urban issues.,0
+Fund centre name,miller2_chldrnsss(mrkr),The name of the fund center associated with the project.,A marker indicating the project's concern for children's issues.,0
+Fund centre name,miller2_thsss(mrkr),The name of the fund center associated with the project.,A marker signifying the project's attention to youth-related matters.,0
+Fund centre name,miller2_ndgnssss(mrkr),The name of the fund center associated with the project.,A marker denoting the project's involvement in indigenous issues.,0
+Fund centre name,miller2_dsbltsss(mrkr),The name of the fund center associated with the project.,A marker indicating the project's focus on disability-related concerns.,0
+Fund centre name,miller2_ctstlfrdvlpmnt(mrkr),The name of the fund center associated with the project.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Fund centre name,miller2_knwldgfrdvlpmnt(mrkr),The name of the fund center associated with the project.,A marker representing the project's contribution to knowledge for development.,0
+Fund centre name,miller2_rgnstnd,The name of the fund center associated with the project.,The unique identifier for the organization associated with the project.,0
+Fund centre name,miller2_rgnstnnm,The name of the fund center associated with the project.,The official name of the organization linked to the project.,0
+Fund centre name,miller2_rgnstntp,The name of the fund center associated with the project.,The type of organization involved in the project.,0
+Fund centre name,miller2_rgnstnclss,The name of the fund center associated with the project.,The class to which the organization belongs.,0
+Fund centre name,miller2_cntnntnm,The name of the fund center associated with the project.,The name of the continent linked to the project.,0
+Fund centre name,miller2_prjctbrwsrcntrd,The name of the fund center associated with the project.,The unique identifier for the country associated with the project.,0
+Fund centre name,miller2_cntrrgnd,The name of the fund center associated with the project.,The identification code for the country or region related to the project.,0
+Fund centre name,miller2_cntrrgnnm,The name of the fund center associated with the project.,The name of the country or region connected to the project.,0
+Fund centre name,miller2_cntrrgnprcnt,The name of the fund center associated with the project.,The percentage of the project associated with the country or region.,0
+Fund centre name,miller2_sctrd,The name of the fund center associated with the project.,The unique code for the sector linked to the project.,0
+Fund centre name,miller2_mntspnt,The name of the fund center associated with the project.,The total expenditure incurred on the project.,0
+FSTC percent,miller2_fsclr,The percentage of the FSTC (Field Support Technology and Communication) for the project.,The financial year in which the project was conducted.,0
+FSTC percent,miller2_brnchd,The percentage of the FSTC (Field Support Technology and Communication) for the project.,The code identifying the branch overseeing the project.,0
+FSTC percent,miller2_rgnstnsb-clss,The percentage of the FSTC (Field Support Technology and Communication) for the project.,A more specific classification within the organization class.,0
+FSTC percent,miller2_cntnntd,The percentage of the FSTC (Field Support Technology and Communication) for the project.,The unique code for the continent associated with the project.,0
+FSTC percent,miller2_sctrprcnt,The percentage of the FSTC (Field Support Technology and Communication) for the project.,The percentage of the project linked to the sector.,0
+FSTC percent,miller2_sctrnm,The percentage of the FSTC (Field Support Technology and Communication) for the project.,The name of the sector associated with the project,0
+FSTC percent,miller2_stts,The percentage of the FSTC (Field Support Technology and Communication) for the project.,The current state or phase of the project.,0
+FSTC percent,miller2_prjctnmbr,The percentage of the FSTC (Field Support Technology and Communication) for the project.,A distinct identifier assigned to each project for reference.,0
+FSTC percent,miller2_clmtchngmtgtn(mrkr),The percentage of the FSTC (Field Support Technology and Communication) for the project.,A marker signifying the project's contribution to climate change mitigation.,0
+FSTC percent,miller2_gndrqlt(mrkr),The percentage of the FSTC (Field Support Technology and Communication) for the project.,A marker indicating the project's commitment to promoting gender equality.,0
+FSTC percent,miller2_prtcptrdvlpmntndgdgvrnnc,The percentage of the FSTC (Field Support Technology and Communication) for the project.,An indication of the project's emphasis on participatory development and good governance.,0
+FSTC percent,miller2_mxmmcdcntrbtn(prjct-lvl),The percentage of the FSTC (Field Support Technology and Communication) for the project.,The highest financial support provided by CIDA for the specific project.,0
+FSTC percent,miller2_rgnlprgrm(mrkr),The percentage of the FSTC (Field Support Technology and Communication) for the project.,An indication of whether the project is part of a regional program.,0
+FSTC percent,miller2_sctnd,The percentage of the FSTC (Field Support Technology and Communication) for the project.,A specific code assigned to the section managing the project.,0
+FSTC percent,miller2_ntdmnt(prjct-lvlbdgt),The percentage of the FSTC (Field Support Technology and Communication) for the project.,The non-restricted budget allocated to the project.,0
+FSTC percent,miller2_rbnsss(mrkr),The percentage of the FSTC (Field Support Technology and Communication) for the project.,A marker representing the project's focus on urban issues.,0
+FSTC percent,miller2_chldrnsss(mrkr),The percentage of the FSTC (Field Support Technology and Communication) for the project.,A marker indicating the project's concern for children's issues.,0
+FSTC percent,miller2_thsss(mrkr),The percentage of the FSTC (Field Support Technology and Communication) for the project.,A marker signifying the project's attention to youth-related matters.,0
+FSTC percent,miller2_ndgnssss(mrkr),The percentage of the FSTC (Field Support Technology and Communication) for the project.,A marker denoting the project's involvement in indigenous issues.,0
+FSTC percent,miller2_dsbltsss(mrkr),The percentage of the FSTC (Field Support Technology and Communication) for the project.,A marker indicating the project's focus on disability-related concerns.,0
+FSTC percent,miller2_ctstlfrdvlpmnt(mrkr),The percentage of the FSTC (Field Support Technology and Communication) for the project.,A marker signifying the project's use of Information and Communication Technology for development.,0
+FSTC percent,miller2_knwldgfrdvlpmnt(mrkr),The percentage of the FSTC (Field Support Technology and Communication) for the project.,A marker representing the project's contribution to knowledge for development.,0
+FSTC percent,miller2_rgnstnd,The percentage of the FSTC (Field Support Technology and Communication) for the project.,The unique identifier for the organization associated with the project.,0
+FSTC percent,miller2_rgnstnnm,The percentage of the FSTC (Field Support Technology and Communication) for the project.,The official name of the organization linked to the project.,0
+FSTC percent,miller2_rgnstntp,The percentage of the FSTC (Field Support Technology and Communication) for the project.,The type of organization involved in the project.,0
+FSTC percent,miller2_rgnstnclss,The percentage of the FSTC (Field Support Technology and Communication) for the project.,The class to which the organization belongs.,0
+FSTC percent,miller2_cntnntnm,The percentage of the FSTC (Field Support Technology and Communication) for the project.,The name of the continent linked to the project.,0
+FSTC percent,miller2_prjctbrwsrcntrd,The percentage of the FSTC (Field Support Technology and Communication) for the project.,The unique identifier for the country associated with the project.,0
+FSTC percent,miller2_cntrrgnd,The percentage of the FSTC (Field Support Technology and Communication) for the project.,The identification code for the country or region related to the project.,0
+FSTC percent,miller2_cntrrgnnm,The percentage of the FSTC (Field Support Technology and Communication) for the project.,The name of the country or region connected to the project.,0
+FSTC percent,miller2_cntrrgnprcnt,The percentage of the FSTC (Field Support Technology and Communication) for the project.,The percentage of the project associated with the country or region.,0
+FSTC percent,miller2_sctrd,The percentage of the FSTC (Field Support Technology and Communication) for the project.,The unique code for the sector linked to the project.,0
+FSTC percent,miller2_mntspnt,The percentage of the FSTC (Field Support Technology and Communication) for the project.,The total expenditure incurred on the project.,0
+IRTC percent,miller2_fsclr,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,The financial year in which the project was conducted.,0
+IRTC percent,miller2_brnchd,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,The code identifying the branch overseeing the project.,0
+IRTC percent,miller2_rgnstnsb-clss,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,A more specific classification within the organization class.,0
+IRTC percent,miller2_cntnntd,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,The unique code for the continent associated with the project.,0
+IRTC percent,miller2_sctrprcnt,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,The percentage of the project linked to the sector.,0
+IRTC percent,miller2_sctrnm,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,The name of the sector associated with the project,0
+IRTC percent,miller2_stts,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,The current state or phase of the project.,0
+IRTC percent,miller2_prjctnmbr,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,A distinct identifier assigned to each project for reference.,0
+IRTC percent,miller2_clmtchngmtgtn(mrkr),The percentage of the IRTC (Information Resource and Technology Centre) for the project.,A marker signifying the project's contribution to climate change mitigation.,0
+IRTC percent,miller2_gndrqlt(mrkr),The percentage of the IRTC (Information Resource and Technology Centre) for the project.,A marker indicating the project's commitment to promoting gender equality.,0
+IRTC percent,miller2_prtcptrdvlpmntndgdgvrnnc,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,An indication of the project's emphasis on participatory development and good governance.,0
+IRTC percent,miller2_mxmmcdcntrbtn(prjct-lvl),The percentage of the IRTC (Information Resource and Technology Centre) for the project.,The highest financial support provided by CIDA for the specific project.,0
+IRTC percent,miller2_rgnlprgrm(mrkr),The percentage of the IRTC (Information Resource and Technology Centre) for the project.,An indication of whether the project is part of a regional program.,0
+IRTC percent,miller2_sctnd,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,A specific code assigned to the section managing the project.,0
+IRTC percent,miller2_ntdmnt(prjct-lvlbdgt),The percentage of the IRTC (Information Resource and Technology Centre) for the project.,The non-restricted budget allocated to the project.,0
+IRTC percent,miller2_rbnsss(mrkr),The percentage of the IRTC (Information Resource and Technology Centre) for the project.,A marker representing the project's focus on urban issues.,0
+IRTC percent,miller2_chldrnsss(mrkr),The percentage of the IRTC (Information Resource and Technology Centre) for the project.,A marker indicating the project's concern for children's issues.,0
+IRTC percent,miller2_thsss(mrkr),The percentage of the IRTC (Information Resource and Technology Centre) for the project.,A marker signifying the project's attention to youth-related matters.,0
+IRTC percent,miller2_ndgnssss(mrkr),The percentage of the IRTC (Information Resource and Technology Centre) for the project.,A marker denoting the project's involvement in indigenous issues.,0
+IRTC percent,miller2_dsbltsss(mrkr),The percentage of the IRTC (Information Resource and Technology Centre) for the project.,A marker indicating the project's focus on disability-related concerns.,0
+IRTC percent,miller2_ctstlfrdvlpmnt(mrkr),The percentage of the IRTC (Information Resource and Technology Centre) for the project.,A marker signifying the project's use of Information and Communication Technology for development.,0
+IRTC percent,miller2_knwldgfrdvlpmnt(mrkr),The percentage of the IRTC (Information Resource and Technology Centre) for the project.,A marker representing the project's contribution to knowledge for development.,0
+IRTC percent,miller2_rgnstnd,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,The unique identifier for the organization associated with the project.,0
+IRTC percent,miller2_rgnstnnm,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,The official name of the organization linked to the project.,0
+IRTC percent,miller2_rgnstntp,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,The type of organization involved in the project.,0
+IRTC percent,miller2_rgnstnclss,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,The class to which the organization belongs.,0
+IRTC percent,miller2_cntnntnm,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,The name of the continent linked to the project.,0
+IRTC percent,miller2_prjctbrwsrcntrd,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,The unique identifier for the country associated with the project.,0
+IRTC percent,miller2_cntrrgnd,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,The identification code for the country or region related to the project.,0
+IRTC percent,miller2_cntrrgnnm,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,The name of the country or region connected to the project.,0
+IRTC percent,miller2_cntrrgnprcnt,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,The percentage of the project associated with the country or region.,0
+IRTC percent,miller2_sctrd,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,The unique code for the sector linked to the project.,0
+IRTC percent,miller2_mntspnt,The percentage of the IRTC (Information Resource and Technology Centre) for the project.,The total expenditure incurred on the project.,0
+CFLI (marker),miller2_fsclr,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,The financial year in which the project was conducted.,0
+CFLI (marker),miller2_brnchd,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,The code identifying the branch overseeing the project.,0
+CFLI (marker),miller2_rgnstnsb-clss,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,A more specific classification within the organization class.,0
+CFLI (marker),miller2_cntnntd,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,The unique code for the continent associated with the project.,0
+CFLI (marker),miller2_sctrprcnt,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,The percentage of the project linked to the sector.,0
+CFLI (marker),miller2_sctrnm,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,The name of the sector associated with the project,0
+CFLI (marker),miller2_stts,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,The current state or phase of the project.,0
+CFLI (marker),miller2_prjctnmbr,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,A distinct identifier assigned to each project for reference.,0
+CFLI (marker),miller2_clmtchngmtgtn(mrkr),Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,A marker signifying the project's contribution to climate change mitigation.,0
+CFLI (marker),miller2_gndrqlt(mrkr),Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,A marker indicating the project's commitment to promoting gender equality.,0
+CFLI (marker),miller2_prtcptrdvlpmntndgdgvrnnc,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,An indication of the project's emphasis on participatory development and good governance.,0
+CFLI (marker),miller2_mxmmcdcntrbtn(prjct-lvl),Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,The highest financial support provided by CIDA for the specific project.,0
+CFLI (marker),miller2_rgnlprgrm(mrkr),Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,An indication of whether the project is part of a regional program.,0
+CFLI (marker),miller2_sctnd,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,A specific code assigned to the section managing the project.,0
+CFLI (marker),miller2_ntdmnt(prjct-lvlbdgt),Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,The non-restricted budget allocated to the project.,0
+CFLI (marker),miller2_rbnsss(mrkr),Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,A marker representing the project's focus on urban issues.,0
+CFLI (marker),miller2_chldrnsss(mrkr),Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,A marker indicating the project's concern for children's issues.,0
+CFLI (marker),miller2_thsss(mrkr),Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,A marker signifying the project's attention to youth-related matters.,0
+CFLI (marker),miller2_ndgnssss(mrkr),Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,A marker denoting the project's involvement in indigenous issues.,0
+CFLI (marker),miller2_dsbltsss(mrkr),Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,A marker indicating the project's focus on disability-related concerns.,0
+CFLI (marker),miller2_ctstlfrdvlpmnt(mrkr),Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,A marker signifying the project's use of Information and Communication Technology for development.,0
+CFLI (marker),miller2_knwldgfrdvlpmnt(mrkr),Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,A marker representing the project's contribution to knowledge for development.,0
+CFLI (marker),miller2_rgnstnd,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,The unique identifier for the organization associated with the project.,0
+CFLI (marker),miller2_rgnstnnm,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,The official name of the organization linked to the project.,0
+CFLI (marker),miller2_rgnstntp,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,The type of organization involved in the project.,0
+CFLI (marker),miller2_rgnstnclss,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,The class to which the organization belongs.,0
+CFLI (marker),miller2_cntnntnm,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,The name of the continent linked to the project.,0
+CFLI (marker),miller2_prjctbrwsrcntrd,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,The unique identifier for the country associated with the project.,0
+CFLI (marker),miller2_cntrrgnd,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,The identification code for the country or region related to the project.,0
+CFLI (marker),miller2_cntrrgnnm,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,The name of the country or region connected to the project.,0
+CFLI (marker),miller2_cntrrgnprcnt,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,The percentage of the project associated with the country or region.,0
+CFLI (marker),miller2_sctrd,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,The unique code for the sector linked to the project.,0
+CFLI (marker),miller2_mntspnt,Indicates if the project is associated with the CFLI (Canada Fund for Local Initiatives).,The total expenditure incurred on the project.,0
+CIDA business delivery model (old),miller2_fsclr,The previous business delivery model used by CIDA.,The financial year in which the project was conducted.,0
+CIDA business delivery model (old),miller2_brnchd,The previous business delivery model used by CIDA.,The code identifying the branch overseeing the project.,0
+CIDA business delivery model (old),miller2_rgnstnsb-clss,The previous business delivery model used by CIDA.,A more specific classification within the organization class.,0
+CIDA business delivery model (old),miller2_cntnntd,The previous business delivery model used by CIDA.,The unique code for the continent associated with the project.,0
+CIDA business delivery model (old),miller2_sctrprcnt,The previous business delivery model used by CIDA.,The percentage of the project linked to the sector.,0
+CIDA business delivery model (old),miller2_sctrnm,The previous business delivery model used by CIDA.,The name of the sector associated with the project,0
+CIDA business delivery model (old),miller2_stts,The previous business delivery model used by CIDA.,The current state or phase of the project.,0
+CIDA business delivery model (old),miller2_prjctnmbr,The previous business delivery model used by CIDA.,A distinct identifier assigned to each project for reference.,0
+CIDA business delivery model (old),miller2_clmtchngmtgtn(mrkr),The previous business delivery model used by CIDA.,A marker signifying the project's contribution to climate change mitigation.,0
+CIDA business delivery model (old),miller2_gndrqlt(mrkr),The previous business delivery model used by CIDA.,A marker indicating the project's commitment to promoting gender equality.,0
+CIDA business delivery model (old),miller2_prtcptrdvlpmntndgdgvrnnc,The previous business delivery model used by CIDA.,An indication of the project's emphasis on participatory development and good governance.,0
+CIDA business delivery model (old),miller2_mxmmcdcntrbtn(prjct-lvl),The previous business delivery model used by CIDA.,The highest financial support provided by CIDA for the specific project.,0
+CIDA business delivery model (old),miller2_rgnlprgrm(mrkr),The previous business delivery model used by CIDA.,An indication of whether the project is part of a regional program.,0
+CIDA business delivery model (old),miller2_sctnd,The previous business delivery model used by CIDA.,A specific code assigned to the section managing the project.,0
+CIDA business delivery model (old),miller2_ntdmnt(prjct-lvlbdgt),The previous business delivery model used by CIDA.,The non-restricted budget allocated to the project.,0
+CIDA business delivery model (old),miller2_rbnsss(mrkr),The previous business delivery model used by CIDA.,A marker representing the project's focus on urban issues.,0
+CIDA business delivery model (old),miller2_chldrnsss(mrkr),The previous business delivery model used by CIDA.,A marker indicating the project's concern for children's issues.,0
+CIDA business delivery model (old),miller2_thsss(mrkr),The previous business delivery model used by CIDA.,A marker signifying the project's attention to youth-related matters.,0
+CIDA business delivery model (old),miller2_ndgnssss(mrkr),The previous business delivery model used by CIDA.,A marker denoting the project's involvement in indigenous issues.,0
+CIDA business delivery model (old),miller2_dsbltsss(mrkr),The previous business delivery model used by CIDA.,A marker indicating the project's focus on disability-related concerns.,0
+CIDA business delivery model (old),miller2_ctstlfrdvlpmnt(mrkr),The previous business delivery model used by CIDA.,A marker signifying the project's use of Information and Communication Technology for development.,0
+CIDA business delivery model (old),miller2_knwldgfrdvlpmnt(mrkr),The previous business delivery model used by CIDA.,A marker representing the project's contribution to knowledge for development.,0
+CIDA business delivery model (old),miller2_rgnstnd,The previous business delivery model used by CIDA.,The unique identifier for the organization associated with the project.,0
+CIDA business delivery model (old),miller2_rgnstnnm,The previous business delivery model used by CIDA.,The official name of the organization linked to the project.,0
+CIDA business delivery model (old),miller2_rgnstntp,The previous business delivery model used by CIDA.,The type of organization involved in the project.,0
+CIDA business delivery model (old),miller2_rgnstnclss,The previous business delivery model used by CIDA.,The class to which the organization belongs.,0
+CIDA business delivery model (old),miller2_cntnntnm,The previous business delivery model used by CIDA.,The name of the continent linked to the project.,0
+CIDA business delivery model (old),miller2_prjctbrwsrcntrd,The previous business delivery model used by CIDA.,The unique identifier for the country associated with the project.,0
+CIDA business delivery model (old),miller2_cntrrgnd,The previous business delivery model used by CIDA.,The identification code for the country or region related to the project.,0
+CIDA business delivery model (old),miller2_cntrrgnnm,The previous business delivery model used by CIDA.,The name of the country or region connected to the project.,0
+CIDA business delivery model (old),miller2_cntrrgnprcnt,The previous business delivery model used by CIDA.,The percentage of the project associated with the country or region.,0
+CIDA business delivery model (old),miller2_sctrd,The previous business delivery model used by CIDA.,The unique code for the sector linked to the project.,0
+CIDA business delivery model (old),miller2_mntspnt,The previous business delivery model used by CIDA.,The total expenditure incurred on the project.,0
+Programming process (new),miller2_fsclr,The current programming process used.,The financial year in which the project was conducted.,0
+Programming process (new),miller2_brnchd,The current programming process used.,The code identifying the branch overseeing the project.,0
+Programming process (new),miller2_rgnstnsb-clss,The current programming process used.,A more specific classification within the organization class.,0
+Programming process (new),miller2_cntnntd,The current programming process used.,The unique code for the continent associated with the project.,0
+Programming process (new),miller2_sctrprcnt,The current programming process used.,The percentage of the project linked to the sector.,0
+Programming process (new),miller2_sctrnm,The current programming process used.,The name of the sector associated with the project,0
+Programming process (new),miller2_stts,The current programming process used.,The current state or phase of the project.,0
+Programming process (new),miller2_prjctnmbr,The current programming process used.,A distinct identifier assigned to each project for reference.,0
+Programming process (new),miller2_clmtchngmtgtn(mrkr),The current programming process used.,A marker signifying the project's contribution to climate change mitigation.,0
+Programming process (new),miller2_gndrqlt(mrkr),The current programming process used.,A marker indicating the project's commitment to promoting gender equality.,0
+Programming process (new),miller2_prtcptrdvlpmntndgdgvrnnc,The current programming process used.,An indication of the project's emphasis on participatory development and good governance.,0
+Programming process (new),miller2_mxmmcdcntrbtn(prjct-lvl),The current programming process used.,The highest financial support provided by CIDA for the specific project.,0
+Programming process (new),miller2_rgnlprgrm(mrkr),The current programming process used.,An indication of whether the project is part of a regional program.,0
+Programming process (new),miller2_sctnd,The current programming process used.,A specific code assigned to the section managing the project.,0
+Programming process (new),miller2_ntdmnt(prjct-lvlbdgt),The current programming process used.,The non-restricted budget allocated to the project.,0
+Programming process (new),miller2_rbnsss(mrkr),The current programming process used.,A marker representing the project's focus on urban issues.,0
+Programming process (new),miller2_chldrnsss(mrkr),The current programming process used.,A marker indicating the project's concern for children's issues.,0
+Programming process (new),miller2_thsss(mrkr),The current programming process used.,A marker signifying the project's attention to youth-related matters.,0
+Programming process (new),miller2_ndgnssss(mrkr),The current programming process used.,A marker denoting the project's involvement in indigenous issues.,0
+Programming process (new),miller2_dsbltsss(mrkr),The current programming process used.,A marker indicating the project's focus on disability-related concerns.,0
+Programming process (new),miller2_ctstlfrdvlpmnt(mrkr),The current programming process used.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Programming process (new),miller2_knwldgfrdvlpmnt(mrkr),The current programming process used.,A marker representing the project's contribution to knowledge for development.,0
+Programming process (new),miller2_rgnstnd,The current programming process used.,The unique identifier for the organization associated with the project.,0
+Programming process (new),miller2_rgnstnnm,The current programming process used.,The official name of the organization linked to the project.,0
+Programming process (new),miller2_rgnstntp,The current programming process used.,The type of organization involved in the project.,0
+Programming process (new),miller2_rgnstnclss,The current programming process used.,The class to which the organization belongs.,0
+Programming process (new),miller2_cntnntnm,The current programming process used.,The name of the continent linked to the project.,0
+Programming process (new),miller2_prjctbrwsrcntrd,The current programming process used.,The unique identifier for the country associated with the project.,0
+Programming process (new),miller2_cntrrgnd,The current programming process used.,The identification code for the country or region related to the project.,0
+Programming process (new),miller2_cntrrgnnm,The current programming process used.,The name of the country or region connected to the project.,0
+Programming process (new),miller2_cntrrgnprcnt,The current programming process used.,The percentage of the project associated with the country or region.,0
+Programming process (new),miller2_sctrd,The current programming process used.,The unique code for the sector linked to the project.,0
+Programming process (new),miller2_mntspnt,The current programming process used.,The total expenditure incurred on the project.,0
+Bilateral aid (international marker),miller2_fsclr,Indicates if the project involves bilateral aid.,The financial year in which the project was conducted.,0
+Bilateral aid (international marker),miller2_brnchd,Indicates if the project involves bilateral aid.,The code identifying the branch overseeing the project.,0
+Bilateral aid (international marker),miller2_rgnstnsb-clss,Indicates if the project involves bilateral aid.,A more specific classification within the organization class.,0
+Bilateral aid (international marker),miller2_cntnntd,Indicates if the project involves bilateral aid.,The unique code for the continent associated with the project.,0
+Bilateral aid (international marker),miller2_sctrprcnt,Indicates if the project involves bilateral aid.,The percentage of the project linked to the sector.,0
+Bilateral aid (international marker),miller2_sctrnm,Indicates if the project involves bilateral aid.,The name of the sector associated with the project,0
+Bilateral aid (international marker),miller2_stts,Indicates if the project involves bilateral aid.,The current state or phase of the project.,0
+Bilateral aid (international marker),miller2_prjctnmbr,Indicates if the project involves bilateral aid.,A distinct identifier assigned to each project for reference.,0
+Bilateral aid (international marker),miller2_clmtchngmtgtn(mrkr),Indicates if the project involves bilateral aid.,A marker signifying the project's contribution to climate change mitigation.,0
+Bilateral aid (international marker),miller2_gndrqlt(mrkr),Indicates if the project involves bilateral aid.,A marker indicating the project's commitment to promoting gender equality.,0
+Bilateral aid (international marker),miller2_prtcptrdvlpmntndgdgvrnnc,Indicates if the project involves bilateral aid.,An indication of the project's emphasis on participatory development and good governance.,0
+Bilateral aid (international marker),miller2_mxmmcdcntrbtn(prjct-lvl),Indicates if the project involves bilateral aid.,The highest financial support provided by CIDA for the specific project.,0
+Bilateral aid (international marker),miller2_rgnlprgrm(mrkr),Indicates if the project involves bilateral aid.,An indication of whether the project is part of a regional program.,0
+Bilateral aid (international marker),miller2_sctnd,Indicates if the project involves bilateral aid.,A specific code assigned to the section managing the project.,0
+Bilateral aid (international marker),miller2_ntdmnt(prjct-lvlbdgt),Indicates if the project involves bilateral aid.,The non-restricted budget allocated to the project.,0
+Bilateral aid (international marker),miller2_rbnsss(mrkr),Indicates if the project involves bilateral aid.,A marker representing the project's focus on urban issues.,0
+Bilateral aid (international marker),miller2_chldrnsss(mrkr),Indicates if the project involves bilateral aid.,A marker indicating the project's concern for children's issues.,0
+Bilateral aid (international marker),miller2_thsss(mrkr),Indicates if the project involves bilateral aid.,A marker signifying the project's attention to youth-related matters.,0
+Bilateral aid (international marker),miller2_ndgnssss(mrkr),Indicates if the project involves bilateral aid.,A marker denoting the project's involvement in indigenous issues.,0
+Bilateral aid (international marker),miller2_dsbltsss(mrkr),Indicates if the project involves bilateral aid.,A marker indicating the project's focus on disability-related concerns.,0
+Bilateral aid (international marker),miller2_ctstlfrdvlpmnt(mrkr),Indicates if the project involves bilateral aid.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Bilateral aid (international marker),miller2_knwldgfrdvlpmnt(mrkr),Indicates if the project involves bilateral aid.,A marker representing the project's contribution to knowledge for development.,0
+Bilateral aid (international marker),miller2_rgnstnd,Indicates if the project involves bilateral aid.,The unique identifier for the organization associated with the project.,0
+Bilateral aid (international marker),miller2_rgnstnnm,Indicates if the project involves bilateral aid.,The official name of the organization linked to the project.,0
+Bilateral aid (international marker),miller2_rgnstntp,Indicates if the project involves bilateral aid.,The type of organization involved in the project.,0
+Bilateral aid (international marker),miller2_rgnstnclss,Indicates if the project involves bilateral aid.,The class to which the organization belongs.,0
+Bilateral aid (international marker),miller2_cntnntnm,Indicates if the project involves bilateral aid.,The name of the continent linked to the project.,0
+Bilateral aid (international marker),miller2_prjctbrwsrcntrd,Indicates if the project involves bilateral aid.,The unique identifier for the country associated with the project.,0
+Bilateral aid (international marker),miller2_cntrrgnd,Indicates if the project involves bilateral aid.,The identification code for the country or region related to the project.,0
+Bilateral aid (international marker),miller2_cntrrgnnm,Indicates if the project involves bilateral aid.,The name of the country or region connected to the project.,0
+Bilateral aid (international marker),miller2_cntrrgnprcnt,Indicates if the project involves bilateral aid.,The percentage of the project associated with the country or region.,0
+Bilateral aid (international marker),miller2_sctrd,Indicates if the project involves bilateral aid.,The unique code for the sector linked to the project.,0
+Bilateral aid (international marker),miller2_mntspnt,Indicates if the project involves bilateral aid.,The total expenditure incurred on the project.,0
+PBA type,miller2_fsclr,Type of Project-Based Agreement.,The financial year in which the project was conducted.,0
+PBA type,miller2_brnchd,Type of Project-Based Agreement.,The code identifying the branch overseeing the project.,0
+PBA type,miller2_rgnstnsb-clss,Type of Project-Based Agreement.,A more specific classification within the organization class.,0
+PBA type,miller2_cntnntd,Type of Project-Based Agreement.,The unique code for the continent associated with the project.,0
+PBA type,miller2_sctrprcnt,Type of Project-Based Agreement.,The percentage of the project linked to the sector.,0
+PBA type,miller2_sctrnm,Type of Project-Based Agreement.,The name of the sector associated with the project,0
+PBA type,miller2_stts,Type of Project-Based Agreement.,The current state or phase of the project.,0
+PBA type,miller2_prjctnmbr,Type of Project-Based Agreement.,A distinct identifier assigned to each project for reference.,0
+PBA type,miller2_clmtchngmtgtn(mrkr),Type of Project-Based Agreement.,A marker signifying the project's contribution to climate change mitigation.,0
+PBA type,miller2_gndrqlt(mrkr),Type of Project-Based Agreement.,A marker indicating the project's commitment to promoting gender equality.,0
+PBA type,miller2_prtcptrdvlpmntndgdgvrnnc,Type of Project-Based Agreement.,An indication of the project's emphasis on participatory development and good governance.,0
+PBA type,miller2_mxmmcdcntrbtn(prjct-lvl),Type of Project-Based Agreement.,The highest financial support provided by CIDA for the specific project.,0
+PBA type,miller2_rgnlprgrm(mrkr),Type of Project-Based Agreement.,An indication of whether the project is part of a regional program.,0
+PBA type,miller2_sctnd,Type of Project-Based Agreement.,A specific code assigned to the section managing the project.,0
+PBA type,miller2_ntdmnt(prjct-lvlbdgt),Type of Project-Based Agreement.,The non-restricted budget allocated to the project.,0
+PBA type,miller2_rbnsss(mrkr),Type of Project-Based Agreement.,A marker representing the project's focus on urban issues.,0
+PBA type,miller2_chldrnsss(mrkr),Type of Project-Based Agreement.,A marker indicating the project's concern for children's issues.,0
+PBA type,miller2_thsss(mrkr),Type of Project-Based Agreement.,A marker signifying the project's attention to youth-related matters.,0
+PBA type,miller2_ndgnssss(mrkr),Type of Project-Based Agreement.,A marker denoting the project's involvement in indigenous issues.,0
+PBA type,miller2_dsbltsss(mrkr),Type of Project-Based Agreement.,A marker indicating the project's focus on disability-related concerns.,0
+PBA type,miller2_ctstlfrdvlpmnt(mrkr),Type of Project-Based Agreement.,A marker signifying the project's use of Information and Communication Technology for development.,0
+PBA type,miller2_knwldgfrdvlpmnt(mrkr),Type of Project-Based Agreement.,A marker representing the project's contribution to knowledge for development.,0
+PBA type,miller2_rgnstnd,Type of Project-Based Agreement.,The unique identifier for the organization associated with the project.,0
+PBA type,miller2_rgnstnnm,Type of Project-Based Agreement.,The official name of the organization linked to the project.,0
+PBA type,miller2_rgnstntp,Type of Project-Based Agreement.,The type of organization involved in the project.,0
+PBA type,miller2_rgnstnclss,Type of Project-Based Agreement.,The class to which the organization belongs.,0
+PBA type,miller2_cntnntnm,Type of Project-Based Agreement.,The name of the continent linked to the project.,0
+PBA type,miller2_prjctbrwsrcntrd,Type of Project-Based Agreement.,The unique identifier for the country associated with the project.,0
+PBA type,miller2_cntrrgnd,Type of Project-Based Agreement.,The identification code for the country or region related to the project.,0
+PBA type,miller2_cntrrgnnm,Type of Project-Based Agreement.,The name of the country or region connected to the project.,0
+PBA type,miller2_cntrrgnprcnt,Type of Project-Based Agreement.,The percentage of the project associated with the country or region.,0
+PBA type,miller2_sctrd,Type of Project-Based Agreement.,The unique code for the sector linked to the project.,0
+PBA type,miller2_mntspnt,Type of Project-Based Agreement.,The total expenditure incurred on the project.,0
+Enviromental sustainability (marker),miller2_fsclr,Indicates if the project addresses environmental sustainability.,The financial year in which the project was conducted.,0
+Enviromental sustainability (marker),miller2_brnchd,Indicates if the project addresses environmental sustainability.,The code identifying the branch overseeing the project.,0
+Enviromental sustainability (marker),miller2_rgnstnsb-clss,Indicates if the project addresses environmental sustainability.,A more specific classification within the organization class.,0
+Enviromental sustainability (marker),miller2_cntnntd,Indicates if the project addresses environmental sustainability.,The unique code for the continent associated with the project.,0
+Enviromental sustainability (marker),miller2_sctrprcnt,Indicates if the project addresses environmental sustainability.,The percentage of the project linked to the sector.,0
+Enviromental sustainability (marker),miller2_sctrnm,Indicates if the project addresses environmental sustainability.,The name of the sector associated with the project,0
+Enviromental sustainability (marker),miller2_stts,Indicates if the project addresses environmental sustainability.,The current state or phase of the project.,0
+Enviromental sustainability (marker),miller2_prjctnmbr,Indicates if the project addresses environmental sustainability.,A distinct identifier assigned to each project for reference.,0
+Enviromental sustainability (marker),miller2_clmtchngmtgtn(mrkr),Indicates if the project addresses environmental sustainability.,A marker signifying the project's contribution to climate change mitigation.,0
+Enviromental sustainability (marker),miller2_gndrqlt(mrkr),Indicates if the project addresses environmental sustainability.,A marker indicating the project's commitment to promoting gender equality.,0
+Enviromental sustainability (marker),miller2_prtcptrdvlpmntndgdgvrnnc,Indicates if the project addresses environmental sustainability.,An indication of the project's emphasis on participatory development and good governance.,0
+Enviromental sustainability (marker),miller2_mxmmcdcntrbtn(prjct-lvl),Indicates if the project addresses environmental sustainability.,The highest financial support provided by CIDA for the specific project.,0
+Enviromental sustainability (marker),miller2_rgnlprgrm(mrkr),Indicates if the project addresses environmental sustainability.,An indication of whether the project is part of a regional program.,0
+Enviromental sustainability (marker),miller2_sctnd,Indicates if the project addresses environmental sustainability.,A specific code assigned to the section managing the project.,0
+Enviromental sustainability (marker),miller2_ntdmnt(prjct-lvlbdgt),Indicates if the project addresses environmental sustainability.,The non-restricted budget allocated to the project.,0
+Enviromental sustainability (marker),miller2_rbnsss(mrkr),Indicates if the project addresses environmental sustainability.,A marker representing the project's focus on urban issues.,0
+Enviromental sustainability (marker),miller2_chldrnsss(mrkr),Indicates if the project addresses environmental sustainability.,A marker indicating the project's concern for children's issues.,0
+Enviromental sustainability (marker),miller2_thsss(mrkr),Indicates if the project addresses environmental sustainability.,A marker signifying the project's attention to youth-related matters.,0
+Enviromental sustainability (marker),miller2_ndgnssss(mrkr),Indicates if the project addresses environmental sustainability.,A marker denoting the project's involvement in indigenous issues.,0
+Enviromental sustainability (marker),miller2_dsbltsss(mrkr),Indicates if the project addresses environmental sustainability.,A marker indicating the project's focus on disability-related concerns.,0
+Enviromental sustainability (marker),miller2_ctstlfrdvlpmnt(mrkr),Indicates if the project addresses environmental sustainability.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Enviromental sustainability (marker),miller2_knwldgfrdvlpmnt(mrkr),Indicates if the project addresses environmental sustainability.,A marker representing the project's contribution to knowledge for development.,0
+Enviromental sustainability (marker),miller2_rgnstnd,Indicates if the project addresses environmental sustainability.,The unique identifier for the organization associated with the project.,0
+Enviromental sustainability (marker),miller2_rgnstnnm,Indicates if the project addresses environmental sustainability.,The official name of the organization linked to the project.,0
+Enviromental sustainability (marker),miller2_rgnstntp,Indicates if the project addresses environmental sustainability.,The type of organization involved in the project.,0
+Enviromental sustainability (marker),miller2_rgnstnclss,Indicates if the project addresses environmental sustainability.,The class to which the organization belongs.,0
+Enviromental sustainability (marker),miller2_cntnntnm,Indicates if the project addresses environmental sustainability.,The name of the continent linked to the project.,0
+Enviromental sustainability (marker),miller2_prjctbrwsrcntrd,Indicates if the project addresses environmental sustainability.,The unique identifier for the country associated with the project.,0
+Enviromental sustainability (marker),miller2_cntrrgnd,Indicates if the project addresses environmental sustainability.,The identification code for the country or region related to the project.,0
+Enviromental sustainability (marker),miller2_cntrrgnnm,Indicates if the project addresses environmental sustainability.,The name of the country or region connected to the project.,0
+Enviromental sustainability (marker),miller2_cntrrgnprcnt,Indicates if the project addresses environmental sustainability.,The percentage of the project associated with the country or region.,0
+Enviromental sustainability (marker),miller2_sctrd,Indicates if the project addresses environmental sustainability.,The unique code for the sector linked to the project.,0
+Enviromental sustainability (marker),miller2_mntspnt,Indicates if the project addresses environmental sustainability.,The total expenditure incurred on the project.,0
+Climate change adaptation (marker),miller2_fsclr,Indicates if the project addresses climate change adaptation.,The financial year in which the project was conducted.,0
+Climate change adaptation (marker),miller2_brnchd,Indicates if the project addresses climate change adaptation.,The code identifying the branch overseeing the project.,0
+Climate change adaptation (marker),miller2_rgnstnsb-clss,Indicates if the project addresses climate change adaptation.,A more specific classification within the organization class.,0
+Climate change adaptation (marker),miller2_cntnntd,Indicates if the project addresses climate change adaptation.,The unique code for the continent associated with the project.,0
+Climate change adaptation (marker),miller2_sctrprcnt,Indicates if the project addresses climate change adaptation.,The percentage of the project linked to the sector.,0
+Climate change adaptation (marker),miller2_sctrnm,Indicates if the project addresses climate change adaptation.,The name of the sector associated with the project,0
+Climate change adaptation (marker),miller2_stts,Indicates if the project addresses climate change adaptation.,The current state or phase of the project.,0
+Climate change adaptation (marker),miller2_prjctnmbr,Indicates if the project addresses climate change adaptation.,A distinct identifier assigned to each project for reference.,0
+Climate change adaptation (marker),miller2_clmtchngmtgtn(mrkr),Indicates if the project addresses climate change adaptation.,A marker signifying the project's contribution to climate change mitigation.,0
+Climate change adaptation (marker),miller2_gndrqlt(mrkr),Indicates if the project addresses climate change adaptation.,A marker indicating the project's commitment to promoting gender equality.,0
+Climate change adaptation (marker),miller2_prtcptrdvlpmntndgdgvrnnc,Indicates if the project addresses climate change adaptation.,An indication of the project's emphasis on participatory development and good governance.,0
+Climate change adaptation (marker),miller2_mxmmcdcntrbtn(prjct-lvl),Indicates if the project addresses climate change adaptation.,The highest financial support provided by CIDA for the specific project.,0
+Climate change adaptation (marker),miller2_rgnlprgrm(mrkr),Indicates if the project addresses climate change adaptation.,An indication of whether the project is part of a regional program.,0
+Climate change adaptation (marker),miller2_sctnd,Indicates if the project addresses climate change adaptation.,A specific code assigned to the section managing the project.,0
+Climate change adaptation (marker),miller2_ntdmnt(prjct-lvlbdgt),Indicates if the project addresses climate change adaptation.,The non-restricted budget allocated to the project.,0
+Climate change adaptation (marker),miller2_rbnsss(mrkr),Indicates if the project addresses climate change adaptation.,A marker representing the project's focus on urban issues.,0
+Climate change adaptation (marker),miller2_chldrnsss(mrkr),Indicates if the project addresses climate change adaptation.,A marker indicating the project's concern for children's issues.,0
+Climate change adaptation (marker),miller2_thsss(mrkr),Indicates if the project addresses climate change adaptation.,A marker signifying the project's attention to youth-related matters.,0
+Climate change adaptation (marker),miller2_ndgnssss(mrkr),Indicates if the project addresses climate change adaptation.,A marker denoting the project's involvement in indigenous issues.,0
+Climate change adaptation (marker),miller2_dsbltsss(mrkr),Indicates if the project addresses climate change adaptation.,A marker indicating the project's focus on disability-related concerns.,0
+Climate change adaptation (marker),miller2_ctstlfrdvlpmnt(mrkr),Indicates if the project addresses climate change adaptation.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Climate change adaptation (marker),miller2_knwldgfrdvlpmnt(mrkr),Indicates if the project addresses climate change adaptation.,A marker representing the project's contribution to knowledge for development.,0
+Climate change adaptation (marker),miller2_rgnstnd,Indicates if the project addresses climate change adaptation.,The unique identifier for the organization associated with the project.,0
+Climate change adaptation (marker),miller2_rgnstnnm,Indicates if the project addresses climate change adaptation.,The official name of the organization linked to the project.,0
+Climate change adaptation (marker),miller2_rgnstntp,Indicates if the project addresses climate change adaptation.,The type of organization involved in the project.,0
+Climate change adaptation (marker),miller2_rgnstnclss,Indicates if the project addresses climate change adaptation.,The class to which the organization belongs.,0
+Climate change adaptation (marker),miller2_cntnntnm,Indicates if the project addresses climate change adaptation.,The name of the continent linked to the project.,0
+Climate change adaptation (marker),miller2_prjctbrwsrcntrd,Indicates if the project addresses climate change adaptation.,The unique identifier for the country associated with the project.,0
+Climate change adaptation (marker),miller2_cntrrgnd,Indicates if the project addresses climate change adaptation.,The identification code for the country or region related to the project.,0
+Climate change adaptation (marker),miller2_cntrrgnnm,Indicates if the project addresses climate change adaptation.,The name of the country or region connected to the project.,0
+Climate change adaptation (marker),miller2_cntrrgnprcnt,Indicates if the project addresses climate change adaptation.,The percentage of the project associated with the country or region.,0
+Climate change adaptation (marker),miller2_sctrd,Indicates if the project addresses climate change adaptation.,The unique code for the sector linked to the project.,0
+Climate change adaptation (marker),miller2_mntspnt,Indicates if the project addresses climate change adaptation.,The total expenditure incurred on the project.,0
+Desertification (marker),miller2_fsclr,Indicates if the project addresses desertification.,The financial year in which the project was conducted.,0
+Desertification (marker),miller2_brnchd,Indicates if the project addresses desertification.,The code identifying the branch overseeing the project.,0
+Desertification (marker),miller2_rgnstnsb-clss,Indicates if the project addresses desertification.,A more specific classification within the organization class.,0
+Desertification (marker),miller2_cntnntd,Indicates if the project addresses desertification.,The unique code for the continent associated with the project.,0
+Desertification (marker),miller2_sctrprcnt,Indicates if the project addresses desertification.,The percentage of the project linked to the sector.,0
+Desertification (marker),miller2_sctrnm,Indicates if the project addresses desertification.,The name of the sector associated with the project,0
+Desertification (marker),miller2_stts,Indicates if the project addresses desertification.,The current state or phase of the project.,0
+Desertification (marker),miller2_prjctnmbr,Indicates if the project addresses desertification.,A distinct identifier assigned to each project for reference.,0
+Desertification (marker),miller2_clmtchngmtgtn(mrkr),Indicates if the project addresses desertification.,A marker signifying the project's contribution to climate change mitigation.,0
+Desertification (marker),miller2_gndrqlt(mrkr),Indicates if the project addresses desertification.,A marker indicating the project's commitment to promoting gender equality.,0
+Desertification (marker),miller2_prtcptrdvlpmntndgdgvrnnc,Indicates if the project addresses desertification.,An indication of the project's emphasis on participatory development and good governance.,0
+Desertification (marker),miller2_mxmmcdcntrbtn(prjct-lvl),Indicates if the project addresses desertification.,The highest financial support provided by CIDA for the specific project.,0
+Desertification (marker),miller2_rgnlprgrm(mrkr),Indicates if the project addresses desertification.,An indication of whether the project is part of a regional program.,0
+Desertification (marker),miller2_sctnd,Indicates if the project addresses desertification.,A specific code assigned to the section managing the project.,0
+Desertification (marker),miller2_ntdmnt(prjct-lvlbdgt),Indicates if the project addresses desertification.,The non-restricted budget allocated to the project.,0
+Desertification (marker),miller2_rbnsss(mrkr),Indicates if the project addresses desertification.,A marker representing the project's focus on urban issues.,0
+Desertification (marker),miller2_chldrnsss(mrkr),Indicates if the project addresses desertification.,A marker indicating the project's concern for children's issues.,0
+Desertification (marker),miller2_thsss(mrkr),Indicates if the project addresses desertification.,A marker signifying the project's attention to youth-related matters.,0
+Desertification (marker),miller2_ndgnssss(mrkr),Indicates if the project addresses desertification.,A marker denoting the project's involvement in indigenous issues.,0
+Desertification (marker),miller2_dsbltsss(mrkr),Indicates if the project addresses desertification.,A marker indicating the project's focus on disability-related concerns.,0
+Desertification (marker),miller2_ctstlfrdvlpmnt(mrkr),Indicates if the project addresses desertification.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Desertification (marker),miller2_knwldgfrdvlpmnt(mrkr),Indicates if the project addresses desertification.,A marker representing the project's contribution to knowledge for development.,0
+Desertification (marker),miller2_rgnstnd,Indicates if the project addresses desertification.,The unique identifier for the organization associated with the project.,0
+Desertification (marker),miller2_rgnstnnm,Indicates if the project addresses desertification.,The official name of the organization linked to the project.,0
+Desertification (marker),miller2_rgnstntp,Indicates if the project addresses desertification.,The type of organization involved in the project.,0
+Desertification (marker),miller2_rgnstnclss,Indicates if the project addresses desertification.,The class to which the organization belongs.,0
+Desertification (marker),miller2_cntnntnm,Indicates if the project addresses desertification.,The name of the continent linked to the project.,0
+Desertification (marker),miller2_prjctbrwsrcntrd,Indicates if the project addresses desertification.,The unique identifier for the country associated with the project.,0
+Desertification (marker),miller2_cntrrgnd,Indicates if the project addresses desertification.,The identification code for the country or region related to the project.,0
+Desertification (marker),miller2_cntrrgnnm,Indicates if the project addresses desertification.,The name of the country or region connected to the project.,0
+Desertification (marker),miller2_cntrrgnprcnt,Indicates if the project addresses desertification.,The percentage of the project associated with the country or region.,0
+Desertification (marker),miller2_sctrd,Indicates if the project addresses desertification.,The unique code for the sector linked to the project.,0
+Desertification (marker),miller2_mntspnt,Indicates if the project addresses desertification.,The total expenditure incurred on the project.,0
+Trade development (marker),miller2_fsclr,Indicates if the project addresses trade development.,The financial year in which the project was conducted.,0
+Trade development (marker),miller2_brnchd,Indicates if the project addresses trade development.,The code identifying the branch overseeing the project.,0
+Trade development (marker),miller2_rgnstnsb-clss,Indicates if the project addresses trade development.,A more specific classification within the organization class.,0
+Trade development (marker),miller2_cntnntd,Indicates if the project addresses trade development.,The unique code for the continent associated with the project.,0
+Trade development (marker),miller2_sctrprcnt,Indicates if the project addresses trade development.,The percentage of the project linked to the sector.,0
+Trade development (marker),miller2_sctrnm,Indicates if the project addresses trade development.,The name of the sector associated with the project,0
+Trade development (marker),miller2_stts,Indicates if the project addresses trade development.,The current state or phase of the project.,0
+Trade development (marker),miller2_prjctnmbr,Indicates if the project addresses trade development.,A distinct identifier assigned to each project for reference.,0
+Trade development (marker),miller2_clmtchngmtgtn(mrkr),Indicates if the project addresses trade development.,A marker signifying the project's contribution to climate change mitigation.,0
+Trade development (marker),miller2_gndrqlt(mrkr),Indicates if the project addresses trade development.,A marker indicating the project's commitment to promoting gender equality.,0
+Trade development (marker),miller2_prtcptrdvlpmntndgdgvrnnc,Indicates if the project addresses trade development.,An indication of the project's emphasis on participatory development and good governance.,0
+Trade development (marker),miller2_mxmmcdcntrbtn(prjct-lvl),Indicates if the project addresses trade development.,The highest financial support provided by CIDA for the specific project.,0
+Trade development (marker),miller2_rgnlprgrm(mrkr),Indicates if the project addresses trade development.,An indication of whether the project is part of a regional program.,0
+Trade development (marker),miller2_sctnd,Indicates if the project addresses trade development.,A specific code assigned to the section managing the project.,0
+Trade development (marker),miller2_ntdmnt(prjct-lvlbdgt),Indicates if the project addresses trade development.,The non-restricted budget allocated to the project.,0
+Trade development (marker),miller2_rbnsss(mrkr),Indicates if the project addresses trade development.,A marker representing the project's focus on urban issues.,0
+Trade development (marker),miller2_chldrnsss(mrkr),Indicates if the project addresses trade development.,A marker indicating the project's concern for children's issues.,0
+Trade development (marker),miller2_thsss(mrkr),Indicates if the project addresses trade development.,A marker signifying the project's attention to youth-related matters.,0
+Trade development (marker),miller2_ndgnssss(mrkr),Indicates if the project addresses trade development.,A marker denoting the project's involvement in indigenous issues.,0
+Trade development (marker),miller2_dsbltsss(mrkr),Indicates if the project addresses trade development.,A marker indicating the project's focus on disability-related concerns.,0
+Trade development (marker),miller2_ctstlfrdvlpmnt(mrkr),Indicates if the project addresses trade development.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Trade development (marker),miller2_knwldgfrdvlpmnt(mrkr),Indicates if the project addresses trade development.,A marker representing the project's contribution to knowledge for development.,0
+Trade development (marker),miller2_rgnstnd,Indicates if the project addresses trade development.,The unique identifier for the organization associated with the project.,0
+Trade development (marker),miller2_rgnstnnm,Indicates if the project addresses trade development.,The official name of the organization linked to the project.,0
+Trade development (marker),miller2_rgnstntp,Indicates if the project addresses trade development.,The type of organization involved in the project.,0
+Trade development (marker),miller2_rgnstnclss,Indicates if the project addresses trade development.,The class to which the organization belongs.,0
+Trade development (marker),miller2_cntnntnm,Indicates if the project addresses trade development.,The name of the continent linked to the project.,0
+Trade development (marker),miller2_prjctbrwsrcntrd,Indicates if the project addresses trade development.,The unique identifier for the country associated with the project.,0
+Trade development (marker),miller2_cntrrgnd,Indicates if the project addresses trade development.,The identification code for the country or region related to the project.,0
+Trade development (marker),miller2_cntrrgnnm,Indicates if the project addresses trade development.,The name of the country or region connected to the project.,0
+Trade development (marker),miller2_cntrrgnprcnt,Indicates if the project addresses trade development.,The percentage of the project associated with the country or region.,0
+Trade development (marker),miller2_sctrd,Indicates if the project addresses trade development.,The unique code for the sector linked to the project.,0
+Trade development (marker),miller2_mntspnt,Indicates if the project addresses trade development.,The total expenditure incurred on the project.,0
+Biodiversity (marker),miller2_fsclr,Indicates if the project addresses biodiversity.,The financial year in which the project was conducted.,0
+Biodiversity (marker),miller2_brnchd,Indicates if the project addresses biodiversity.,The code identifying the branch overseeing the project.,0
+Biodiversity (marker),miller2_rgnstnsb-clss,Indicates if the project addresses biodiversity.,A more specific classification within the organization class.,0
+Biodiversity (marker),miller2_cntnntd,Indicates if the project addresses biodiversity.,The unique code for the continent associated with the project.,0
+Biodiversity (marker),miller2_sctrprcnt,Indicates if the project addresses biodiversity.,The percentage of the project linked to the sector.,0
+Biodiversity (marker),miller2_sctrnm,Indicates if the project addresses biodiversity.,The name of the sector associated with the project,0
+Biodiversity (marker),miller2_stts,Indicates if the project addresses biodiversity.,The current state or phase of the project.,0
+Biodiversity (marker),miller2_prjctnmbr,Indicates if the project addresses biodiversity.,A distinct identifier assigned to each project for reference.,0
+Biodiversity (marker),miller2_clmtchngmtgtn(mrkr),Indicates if the project addresses biodiversity.,A marker signifying the project's contribution to climate change mitigation.,0
+Biodiversity (marker),miller2_gndrqlt(mrkr),Indicates if the project addresses biodiversity.,A marker indicating the project's commitment to promoting gender equality.,0
+Biodiversity (marker),miller2_prtcptrdvlpmntndgdgvrnnc,Indicates if the project addresses biodiversity.,An indication of the project's emphasis on participatory development and good governance.,0
+Biodiversity (marker),miller2_mxmmcdcntrbtn(prjct-lvl),Indicates if the project addresses biodiversity.,The highest financial support provided by CIDA for the specific project.,0
+Biodiversity (marker),miller2_rgnlprgrm(mrkr),Indicates if the project addresses biodiversity.,An indication of whether the project is part of a regional program.,0
+Biodiversity (marker),miller2_sctnd,Indicates if the project addresses biodiversity.,A specific code assigned to the section managing the project.,0
+Biodiversity (marker),miller2_ntdmnt(prjct-lvlbdgt),Indicates if the project addresses biodiversity.,The non-restricted budget allocated to the project.,0
+Biodiversity (marker),miller2_rbnsss(mrkr),Indicates if the project addresses biodiversity.,A marker representing the project's focus on urban issues.,0
+Biodiversity (marker),miller2_chldrnsss(mrkr),Indicates if the project addresses biodiversity.,A marker indicating the project's concern for children's issues.,0
+Biodiversity (marker),miller2_thsss(mrkr),Indicates if the project addresses biodiversity.,A marker signifying the project's attention to youth-related matters.,0
+Biodiversity (marker),miller2_ndgnssss(mrkr),Indicates if the project addresses biodiversity.,A marker denoting the project's involvement in indigenous issues.,0
+Biodiversity (marker),miller2_dsbltsss(mrkr),Indicates if the project addresses biodiversity.,A marker indicating the project's focus on disability-related concerns.,0
+Biodiversity (marker),miller2_ctstlfrdvlpmnt(mrkr),Indicates if the project addresses biodiversity.,A marker signifying the project's use of Information and Communication Technology for development.,0
+Biodiversity (marker),miller2_knwldgfrdvlpmnt(mrkr),Indicates if the project addresses biodiversity.,A marker representing the project's contribution to knowledge for development.,0
+Biodiversity (marker),miller2_rgnstnd,Indicates if the project addresses biodiversity.,The unique identifier for the organization associated with the project.,0
+Biodiversity (marker),miller2_rgnstnnm,Indicates if the project addresses biodiversity.,The official name of the organization linked to the project.,0
+Biodiversity (marker),miller2_rgnstntp,Indicates if the project addresses biodiversity.,The type of organization involved in the project.,0
+Biodiversity (marker),miller2_rgnstnclss,Indicates if the project addresses biodiversity.,The class to which the organization belongs.,0
+Biodiversity (marker),miller2_cntnntnm,Indicates if the project addresses biodiversity.,The name of the continent linked to the project.,0
+Biodiversity (marker),miller2_prjctbrwsrcntrd,Indicates if the project addresses biodiversity.,The unique identifier for the country associated with the project.,0
+Biodiversity (marker),miller2_cntrrgnd,Indicates if the project addresses biodiversity.,The identification code for the country or region related to the project.,0
+Biodiversity (marker),miller2_cntrrgnnm,Indicates if the project addresses biodiversity.,The name of the country or region connected to the project.,0
+Biodiversity (marker),miller2_cntrrgnprcnt,Indicates if the project addresses biodiversity.,The percentage of the project associated with the country or region.,0
+Biodiversity (marker),miller2_sctrd,Indicates if the project addresses biodiversity.,The unique code for the sector linked to the project.,0
+Biodiversity (marker),miller2_mntspnt,Indicates if the project addresses biodiversity.,The total expenditure incurred on the project.,0

@@ -1,0 +1,2602 @@
+source,target,conf,realConf
+Fiscal year,miller2_fsclr,0.03225806451612903,1
+Fiscal year,miller2_prjctnmbr,0.04821150855365474,0
+Fiscal year,miller2_stts,0.0967741935483871,0
+Fiscal year,miller2_mxmmcdcntrbtn(prjct-lvl),0.06031128404669261,0
+Fiscal year,miller2_brnchd,0.16129032258064516,0
+Fiscal year,miller2_brnchnm,0.16129032258064516,0
+Fiscal year,miller2_dvsnd,0.41935483870967744,0
+Fiscal year,miller2_dvsnnm,0.41935483870967744,0
+Fiscal year,miller2_sctnd,0.8064516129032258,0
+Fiscal year,miller2_sctnnm,0.8064516129032258,0
+Fiscal year,miller2_rgnlprgrm(mrkr),0.06451612903225806,0
+Fiscal year,miller2_fndcntrd,0.5961538461538461,0
+Fiscal year,miller2_fndcntrnm,0.5961538461538461,0
+Fiscal year,miller2_ntdmnt(prjct-lvlbdgt),0.07142857142857142,0
+Fiscal year,miller2_fstcprcnt,0.6326530612244898,0
+Fiscal year,miller2_rtcprcnt,0.0967741935483871,0
+Fiscal year,miller2_cfl(mrkr),0.06451612903225806,0
+Fiscal year,miller2_cdbsnssdlvrmdl(ld),0.0967741935483871,0
+Fiscal year,miller2_prgrmmngprcss(nw),0.03225806451612903,0
+Fiscal year,miller2_bltrld(ntrntnlmrkr),0.06451612903225806,0
+Fiscal year,miller2_pbtp,0.03225806451612903,0
+Fiscal year,miller2_nvrmntlsstnblt(mrkr),0.0967741935483871,0
+Fiscal year,miller2_clmtchngdpttn(mrkr),0.0967741935483871,0
+Fiscal year,miller2_clmtchngmtgtn(mrkr),0.12903225806451613,0
+Fiscal year,miller2_dsrtfctn(mrkr),0.12903225806451613,0
+Fiscal year,miller2_prtcptrdvlpmntndgdgvrnnc,0.12903225806451613,0
+Fiscal year,miller2_trddvlpmnt(mrkr),0.12903225806451613,0
+Fiscal year,miller2_bdvrst(mrkr),0.12903225806451613,0
+Fiscal year,miller2_rbnsss(mrkr),0.12903225806451613,0
+Fiscal year,miller2_chldrnsss(mrkr),0.12903225806451613,0
+Fiscal year,miller2_thsss(mrkr),0.12903225806451613,0
+Fiscal year,miller2_ndgnssss(mrkr),0.12903225806451613,0
+Fiscal year,miller2_dsbltsss(mrkr),0.12903225806451613,0
+Fiscal year,miller2_ctstlfrdvlpmnt(mrkr),0.0967741935483871,0
+Fiscal year,miller2_knwldgfrdvlpmnt(mrkr),0.12903225806451613,0
+Fiscal year,miller2_gndrqlt(mrkr),0.12903225806451613,0
+Fiscal year,miller2_rgnstnd,0.09144542772861357,0
+Fiscal year,miller2_rgnstnnm,0.09144542772861357,0
+Fiscal year,miller2_rgnstntp,0.12903225806451613,0
+Fiscal year,miller2_rgnstnclss,0.1935483870967742,0
+Fiscal year,miller2_rgnstnsb-clss,0.7741935483870968,0
+Fiscal year,miller2_cntnntd,0.16129032258064516,0
+Fiscal year,miller2_cntnntnm,0.16129032258064516,0
+Fiscal year,miller2_prjctbrwsrcntrd,0.20261437908496732,0
+Fiscal year,miller2_cntrrgnd,0.21830985915492956,0
+Fiscal year,miller2_cntrrgnnm,0.21379310344827587,0
+Fiscal year,miller2_cntrrgnprcnt,0.07711442786069651,0
+Fiscal year,miller2_sctrd,0.25203252032520324,0
+Fiscal year,miller2_sctrnm,0.25203252032520324,0
+Fiscal year,miller2_sctrprcnt,0.16756756756756758,0
+Fiscal year,miller2_mntspnt,0.0061752988047808766,0
+Project number,miller2_fsclr,0.00015691197238349287,0
+Project number,miller2_prjctnmbr,0.1008943982425859,1
+Project number,miller2_stts,0.00047073591715047857,0
+Project number,miller2_mxmmcdcntrbtn(prjct-lvl),0.08065275380511533,0
+Project number,miller2_brnchd,0.0007845598619174643,0
+Project number,miller2_brnchnm,0.0007845598619174643,0
+Project number,miller2_dvsnd,0.0020398556409854073,0
+Project number,miller2_dvsnnm,0.0020398556409854073,0
+Project number,miller2_sctnd,0.003922799309587321,0
+Project number,miller2_sctnnm,0.003922799309587321,0
+Project number,miller2_rgnlprgrm(mrkr),0.00031382394476698575,0
+Project number,miller2_fndcntrd,0.008159422563941629,0
+Project number,miller2_fndcntrnm,0.008159422563941629,0
+Project number,miller2_ntdmnt(prjct-lvlbdgt),0.0680997960144359,0
+Project number,miller2_fstcprcnt,0.00768868664679115,0
+Project number,miller2_rtcprcnt,0.00047073591715047857,0
+Project number,miller2_cfl(mrkr),0.00031382394476698575,0
+Project number,miller2_cdbsnssdlvrmdl(ld),0.00047073591715047857,0
+Project number,miller2_prgrmmngprcss(nw),0.00015691197238349287,0
+Project number,miller2_bltrld(ntrntnlmrkr),0.00031382394476698575,0
+Project number,miller2_pbtp,0.00015691197238349287,0
+Project number,miller2_nvrmntlsstnblt(mrkr),0.00047073591715047857,0
+Project number,miller2_clmtchngdpttn(mrkr),0.00047073591715047857,0
+Project number,miller2_clmtchngmtgtn(mrkr),0.0006276478895339715,0
+Project number,miller2_dsrtfctn(mrkr),0.0006276478895339715,0
+Project number,miller2_prtcptrdvlpmntndgdgvrnnc,0.0006276478895339715,0
+Project number,miller2_trddvlpmnt(mrkr),0.0006276478895339715,0
+Project number,miller2_bdvrst(mrkr),0.0006276478895339715,0
+Project number,miller2_rbnsss(mrkr),0.0006276478895339715,0
+Project number,miller2_chldrnsss(mrkr),0.0006276478895339715,0
+Project number,miller2_thsss(mrkr),0.0006276478895339715,0
+Project number,miller2_ndgnssss(mrkr),0.0006276478895339715,0
+Project number,miller2_dsbltsss(mrkr),0.0006276478895339715,0
+Project number,miller2_ctstlfrdvlpmnt(mrkr),0.00047073591715047857,0
+Project number,miller2_knwldgfrdvlpmnt(mrkr),0.0006276478895339715,0
+Project number,miller2_gndrqlt(mrkr),0.0006276478895339715,0
+Project number,miller2_rgnstnd,0.05319315863800408,0
+Project number,miller2_rgnstnnm,0.05319315863800408,0
+Project number,miller2_rgnstntp,0.0006276478895339715,0
+Project number,miller2_rgnstnclss,0.0009414718343009571,0
+Project number,miller2_rgnstnsb-clss,0.0037658873372038285,0
+Project number,miller2_cntnntd,0.0007845598619174643,0
+Project number,miller2_cntnntnm,0.0007845598619174643,0
+Project number,miller2_prjctbrwsrcntrd,0.024007531774674407,0
+Project number,miller2_cntrrgnd,0.022281500078455987,0
+Project number,miller2_cntrrgnnm,0.022752235995606464,0
+Project number,miller2_cntrrgnprcnt,0.06307861289816413,0
+Project number,miller2_sctrd,0.019300172603169623,0
+Project number,miller2_sctrnm,0.019300172603169623,0
+Project number,miller2_sctrprcnt,0.02902871489094618,0
+Project number,miller2_mntspnt,0.7876981013651342,0
+Status,miller2_fsclr,0.0010384215991692627,0
+Status,miller2_prjctnmbr,0.667705088265836,0
+Status,miller2_stts,0.003115264797507788,1
+Status,miller2_mxmmcdcntrbtn(prjct-lvl),0.5337487019730011,0
+Status,miller2_brnchd,0.005192107995846314,0
+Status,miller2_brnchnm,0.005192107995846314,0
+Status,miller2_dvsnd,0.013499480789200415,0
+Status,miller2_dvsnnm,0.013499480789200415,0
+Status,miller2_sctnd,0.02596053997923157,0
+Status,miller2_sctnnm,0.02596053997923157,0
+Status,miller2_rgnlprgrm(mrkr),0.0020768431983385254,0
+Status,miller2_fndcntrd,0.05399792315680166,0
+Status,miller2_fndcntrnm,0.05399792315680166,0
+Status,miller2_ntdmnt(prjct-lvlbdgt),0.45067497403946,0
+Status,miller2_fstcprcnt,0.05088265835929388,0
+Status,miller2_rtcprcnt,0.003115264797507788,0
+Status,miller2_cfl(mrkr),0.0020768431983385254,0
+Status,miller2_cdbsnssdlvrmdl(ld),0.003115264797507788,0
+Status,miller2_prgrmmngprcss(nw),0.0010384215991692627,0
+Status,miller2_bltrld(ntrntnlmrkr),0.0020768431983385254,0
+Status,miller2_pbtp,0.0010384215991692627,0
+Status,miller2_nvrmntlsstnblt(mrkr),0.003115264797507788,0
+Status,miller2_clmtchngdpttn(mrkr),0.003115264797507788,0
+Status,miller2_clmtchngmtgtn(mrkr),0.004153686396677051,0
+Status,miller2_dsrtfctn(mrkr),0.004153686396677051,0
+Status,miller2_prtcptrdvlpmntndgdgvrnnc,0.004153686396677051,0
+Status,miller2_trddvlpmnt(mrkr),0.004153686396677051,0
+Status,miller2_bdvrst(mrkr),0.004153686396677051,0
+Status,miller2_rbnsss(mrkr),0.004153686396677051,0
+Status,miller2_chldrnsss(mrkr),0.004153686396677051,0
+Status,miller2_thsss(mrkr),0.004153686396677051,0
+Status,miller2_ndgnssss(mrkr),0.004153686396677051,0
+Status,miller2_dsbltsss(mrkr),0.004153686396677051,0
+Status,miller2_ctstlfrdvlpmnt(mrkr),0.003115264797507788,0
+Status,miller2_knwldgfrdvlpmnt(mrkr),0.004153686396677051,0
+Status,miller2_gndrqlt(mrkr),0.004153686396677051,0
+Status,miller2_rgnstnd,0.35202492211838005,0
+Status,miller2_rgnstnnm,0.35202492211838005,0
+Status,miller2_rgnstntp,0.004153686396677051,0
+Status,miller2_rgnstnclss,0.006230529595015576,0
+Status,miller2_rgnstnsb-clss,0.024922118380062305,0
+Status,miller2_cntnntd,0.005192107995846314,0
+Status,miller2_cntnntnm,0.005192107995846314,0
+Status,miller2_prjctbrwsrcntrd,0.1588785046728972,0
+Status,miller2_cntrrgnd,0.1474558670820353,0
+Status,miller2_cntrrgnnm,0.1505711318795431,0
+Status,miller2_cntrrgnprcnt,0.4174454828660436,0
+Status,miller2_sctrd,0.1277258566978193,0
+Status,miller2_sctrnm,0.1277258566978193,0
+Status,miller2_sctrprcnt,0.1921079958463136,0
+Status,miller2_mntspnt,0.19183266932270918,0
+Maximum CIDA contribution (project-level),miller2_fsclr,0.00014475969889982628,0
+Maximum CIDA contribution (project-level),miller2_prjctnmbr,0.0930804863925883,0
+Maximum CIDA contribution (project-level),miller2_stts,0.00043427909669947886,0
+Maximum CIDA contribution (project-level),miller2_mxmmcdcntrbtn(prjct-lvl),0.07440648523451071,1
+Maximum CIDA contribution (project-level),miller2_brnchd,0.0007237984944991314,0
+Maximum CIDA contribution (project-level),miller2_brnchnm,0.0007237984944991314,0
+Maximum CIDA contribution (project-level),miller2_dvsnd,0.0018818760856977416,0
+Maximum CIDA contribution (project-level),miller2_dvsnnm,0.0018818760856977416,0
+Maximum CIDA contribution (project-level),miller2_sctnd,0.0036189924724956573,0
+Maximum CIDA contribution (project-level),miller2_sctnnm,0.0036189924724956573,0
+Maximum CIDA contribution (project-level),miller2_rgnlprgrm(mrkr),0.00028951939779965256,0
+Maximum CIDA contribution (project-level),miller2_fndcntrd,0.007527504342790967,0
+Maximum CIDA contribution (project-level),miller2_fndcntrnm,0.007527504342790967,0
+Maximum CIDA contribution (project-level),miller2_ntdmnt(prjct-lvlbdgt),0.06282570932252461,0
+Maximum CIDA contribution (project-level),miller2_fstcprcnt,0.007093225246091488,0
+Maximum CIDA contribution (project-level),miller2_rtcprcnt,0.00043427909669947886,0
+Maximum CIDA contribution (project-level),miller2_cfl(mrkr),0.00028951939779965256,0
+Maximum CIDA contribution (project-level),miller2_cdbsnssdlvrmdl(ld),0.00043427909669947886,0
+Maximum CIDA contribution (project-level),miller2_prgrmmngprcss(nw),0.00014475969889982628,0
+Maximum CIDA contribution (project-level),miller2_bltrld(ntrntnlmrkr),0.00028951939779965256,0
+Maximum CIDA contribution (project-level),miller2_pbtp,0.00014475969889982628,0
+Maximum CIDA contribution (project-level),miller2_nvrmntlsstnblt(mrkr),0.00043427909669947886,0
+Maximum CIDA contribution (project-level),miller2_clmtchngdpttn(mrkr),0.00043427909669947886,0
+Maximum CIDA contribution (project-level),miller2_clmtchngmtgtn(mrkr),0.0005790387955993051,0
+Maximum CIDA contribution (project-level),miller2_dsrtfctn(mrkr),0.0005790387955993051,0
+Maximum CIDA contribution (project-level),miller2_prtcptrdvlpmntndgdgvrnnc,0.0005790387955993051,0
+Maximum CIDA contribution (project-level),miller2_trddvlpmnt(mrkr),0.0005790387955993051,0
+Maximum CIDA contribution (project-level),miller2_bdvrst(mrkr),0.0005790387955993051,0
+Maximum CIDA contribution (project-level),miller2_rbnsss(mrkr),0.0005790387955993051,0
+Maximum CIDA contribution (project-level),miller2_chldrnsss(mrkr),0.0005790387955993051,0
+Maximum CIDA contribution (project-level),miller2_thsss(mrkr),0.0005790387955993051,0
+Maximum CIDA contribution (project-level),miller2_ndgnssss(mrkr),0.0005790387955993051,0
+Maximum CIDA contribution (project-level),miller2_dsbltsss(mrkr),0.0005790387955993051,0
+Maximum CIDA contribution (project-level),miller2_ctstlfrdvlpmnt(mrkr),0.00043427909669947886,0
+Maximum CIDA contribution (project-level),miller2_knwldgfrdvlpmnt(mrkr),0.0005790387955993051,0
+Maximum CIDA contribution (project-level),miller2_gndrqlt(mrkr),0.0005790387955993051,0
+Maximum CIDA contribution (project-level),miller2_rgnstnd,0.04907353792704111,0
+Maximum CIDA contribution (project-level),miller2_rgnstnnm,0.04907353792704111,0
+Maximum CIDA contribution (project-level),miller2_rgnstntp,0.0005790387955993051,0
+Maximum CIDA contribution (project-level),miller2_rgnstnclss,0.0008685581933989577,0
+Maximum CIDA contribution (project-level),miller2_rgnstnsb-clss,0.003474232773595831,0
+Maximum CIDA contribution (project-level),miller2_cntnntd,0.0007237984944991314,0
+Maximum CIDA contribution (project-level),miller2_cntnntnm,0.0007237984944991314,0
+Maximum CIDA contribution (project-level),miller2_prjctbrwsrcntrd,0.022148233931673422,0
+Maximum CIDA contribution (project-level),miller2_cntrrgnd,0.020555877243775333,0
+Maximum CIDA contribution (project-level),miller2_cntrrgnnm,0.02099015634047481,0
+Maximum CIDA contribution (project-level),miller2_cntrrgnprcnt,0.058193398957730166,0
+Maximum CIDA contribution (project-level),miller2_sctrd,0.017805442964678633,0
+Maximum CIDA contribution (project-level),miller2_sctrnm,0.017805442964678633,0
+Maximum CIDA contribution (project-level),miller2_sctrprcnt,0.026780544296467864,0
+Maximum CIDA contribution (project-level),miller2_mntspnt,0.726693688477128,0
+Branch ID,miller2_fsclr,0.022727272727272728,0
+Branch ID,miller2_prjctnmbr,0.06842923794712286,0
+Branch ID,miller2_stts,0.06818181818181818,0
+Branch ID,miller2_mxmmcdcntrbtn(prjct-lvl),0.08560311284046693,0
+Branch ID,miller2_brnchd,0.11363636363636363,1
+Branch ID,miller2_brnchnm,0.11363636363636363,0
+Branch ID,miller2_dvsnd,0.29545454545454547,0
+Branch ID,miller2_dvsnnm,0.29545454545454547,0
+Branch ID,miller2_sctnd,0.5681818181818182,0
+Branch ID,miller2_sctnnm,0.5681818181818182,0
+Branch ID,miller2_rgnlprgrm(mrkr),0.045454545454545456,0
+Branch ID,miller2_fndcntrd,0.8461538461538461,0
+Branch ID,miller2_fndcntrnm,0.8461538461538461,0
+Branch ID,miller2_ntdmnt(prjct-lvlbdgt),0.10138248847926268,0
+Branch ID,miller2_fstcprcnt,0.8979591836734694,0
+Branch ID,miller2_rtcprcnt,0.06818181818181818,0
+Branch ID,miller2_cfl(mrkr),0.045454545454545456,0
+Branch ID,miller2_cdbsnssdlvrmdl(ld),0.06818181818181818,0
+Branch ID,miller2_prgrmmngprcss(nw),0.022727272727272728,0
+Branch ID,miller2_bltrld(ntrntnlmrkr),0.045454545454545456,0
+Branch ID,miller2_pbtp,0.022727272727272728,0
+Branch ID,miller2_nvrmntlsstnblt(mrkr),0.06818181818181818,0
+Branch ID,miller2_clmtchngdpttn(mrkr),0.06818181818181818,0
+Branch ID,miller2_clmtchngmtgtn(mrkr),0.09090909090909091,0
+Branch ID,miller2_dsrtfctn(mrkr),0.09090909090909091,0
+Branch ID,miller2_prtcptrdvlpmntndgdgvrnnc,0.09090909090909091,0
+Branch ID,miller2_trddvlpmnt(mrkr),0.09090909090909091,0
+Branch ID,miller2_bdvrst(mrkr),0.09090909090909091,0
+Branch ID,miller2_rbnsss(mrkr),0.09090909090909091,0
+Branch ID,miller2_chldrnsss(mrkr),0.09090909090909091,0
+Branch ID,miller2_thsss(mrkr),0.09090909090909091,0
+Branch ID,miller2_ndgnssss(mrkr),0.09090909090909091,0
+Branch ID,miller2_dsbltsss(mrkr),0.09090909090909091,0
+Branch ID,miller2_ctstlfrdvlpmnt(mrkr),0.06818181818181818,0
+Branch ID,miller2_knwldgfrdvlpmnt(mrkr),0.09090909090909091,0
+Branch ID,miller2_gndrqlt(mrkr),0.09090909090909091,0
+Branch ID,miller2_rgnstnd,0.12979351032448377,0
+Branch ID,miller2_rgnstnnm,0.12979351032448377,0
+Branch ID,miller2_rgnstntp,0.09090909090909091,0
+Branch ID,miller2_rgnstnclss,0.13636363636363635,0
+Branch ID,miller2_rgnstnsb-clss,0.5454545454545454,0
+Branch ID,miller2_cntnntd,0.11363636363636363,0
+Branch ID,miller2_cntnntnm,0.11363636363636363,0
+Branch ID,miller2_prjctbrwsrcntrd,0.2875816993464052,0
+Branch ID,miller2_cntrrgnd,0.30985915492957744,0
+Branch ID,miller2_cntrrgnnm,0.30344827586206896,0
+Branch ID,miller2_cntrrgnprcnt,0.10945273631840796,0
+Branch ID,miller2_sctrd,0.35772357723577236,0
+Branch ID,miller2_sctrnm,0.35772357723577236,0
+Branch ID,miller2_sctrprcnt,0.23783783783783785,0
+Branch ID,miller2_mntspnt,0.008764940239043825,0
+Branch name,miller2_fsclr,0.0001718213058419244,0
+Branch name,miller2_prjctnmbr,0.11048109965635738,0
+Branch name,miller2_stts,0.0005154639175257732,0
+Branch name,miller2_mxmmcdcntrbtn(prjct-lvl),0.08831615120274915,0
+Branch name,miller2_brnchd,0.000859106529209622,0
+Branch name,miller2_brnchnm,0.000859106529209622,1
+Branch name,miller2_dvsnd,0.002233676975945017,0
+Branch name,miller2_dvsnnm,0.002233676975945017,0
+Branch name,miller2_sctnd,0.00429553264604811,0
+Branch name,miller2_sctnnm,0.00429553264604811,0
+Branch name,miller2_rgnlprgrm(mrkr),0.0003436426116838488,0
+Branch name,miller2_fndcntrd,0.008934707903780068,0
+Branch name,miller2_fndcntrnm,0.008934707903780068,0
+Branch name,miller2_ntdmnt(prjct-lvlbdgt),0.07457044673539519,0
+Branch name,miller2_fstcprcnt,0.008419243986254295,0
+Branch name,miller2_rtcprcnt,0.0005154639175257732,0
+Branch name,miller2_cfl(mrkr),0.0003436426116838488,0
+Branch name,miller2_cdbsnssdlvrmdl(ld),0.0005154639175257732,0
+Branch name,miller2_prgrmmngprcss(nw),0.0001718213058419244,0
+Branch name,miller2_bltrld(ntrntnlmrkr),0.0003436426116838488,0
+Branch name,miller2_pbtp,0.0001718213058419244,0
+Branch name,miller2_nvrmntlsstnblt(mrkr),0.0005154639175257732,0
+Branch name,miller2_clmtchngdpttn(mrkr),0.0005154639175257732,0
+Branch name,miller2_clmtchngmtgtn(mrkr),0.0006872852233676976,0
+Branch name,miller2_dsrtfctn(mrkr),0.0006872852233676976,0
+Branch name,miller2_prtcptrdvlpmntndgdgvrnnc,0.0006872852233676976,0
+Branch name,miller2_trddvlpmnt(mrkr),0.0006872852233676976,0
+Branch name,miller2_bdvrst(mrkr),0.0006872852233676976,0
+Branch name,miller2_rbnsss(mrkr),0.0006872852233676976,0
+Branch name,miller2_chldrnsss(mrkr),0.0006872852233676976,0
+Branch name,miller2_thsss(mrkr),0.0006872852233676976,0
+Branch name,miller2_ndgnssss(mrkr),0.0006872852233676976,0
+Branch name,miller2_dsbltsss(mrkr),0.0006872852233676976,0
+Branch name,miller2_ctstlfrdvlpmnt(mrkr),0.0005154639175257732,0
+Branch name,miller2_knwldgfrdvlpmnt(mrkr),0.0006872852233676976,0
+Branch name,miller2_gndrqlt(mrkr),0.0006872852233676976,0
+Branch name,miller2_rgnstnd,0.05824742268041237,0
+Branch name,miller2_rgnstnnm,0.05824742268041237,0
+Branch name,miller2_rgnstntp,0.0006872852233676976,0
+Branch name,miller2_rgnstnclss,0.0010309278350515464,0
+Branch name,miller2_rgnstnsb-clss,0.004123711340206186,0
+Branch name,miller2_cntnntd,0.000859106529209622,0
+Branch name,miller2_cntnntnm,0.000859106529209622,0
+Branch name,miller2_prjctbrwsrcntrd,0.026288659793814433,0
+Branch name,miller2_cntrrgnd,0.024398625429553265,0
+Branch name,miller2_cntrrgnnm,0.02491408934707904,0
+Branch name,miller2_cntrrgnprcnt,0.06907216494845361,0
+Branch name,miller2_sctrd,0.021134020618556702,0
+Branch name,miller2_sctrnm,0.021134020618556702,0
+Branch name,miller2_sctrprcnt,0.03178694158075601,0
+Branch name,miller2_mntspnt,0.8625429553264605,0
+Division ID,miller2_fsclr,0.004149377593360996,0
+Division ID,miller2_prjctnmbr,0.374805598755832,0
+Division ID,miller2_stts,0.012448132780082987,0
+Division ID,miller2_mxmmcdcntrbtn(prjct-lvl),0.4688715953307393,0
+Division ID,miller2_brnchd,0.02074688796680498,0
+Division ID,miller2_brnchnm,0.02074688796680498,0
+Division ID,miller2_dvsnd,0.05394190871369295,1
+Division ID,miller2_dvsnnm,0.05394190871369295,0
+Division ID,miller2_sctnd,0.1037344398340249,0
+Division ID,miller2_sctnnm,0.1037344398340249,0
+Division ID,miller2_rgnlprgrm(mrkr),0.008298755186721992,0
+Division ID,miller2_fndcntrd,0.2157676348547718,0
+Division ID,miller2_fndcntrnm,0.2157676348547718,0
+Division ID,miller2_ntdmnt(prjct-lvlbdgt),0.5552995391705069,0
+Division ID,miller2_fstcprcnt,0.2033195020746888,0
+Division ID,miller2_rtcprcnt,0.012448132780082987,0
+Division ID,miller2_cfl(mrkr),0.008298755186721992,0
+Division ID,miller2_cdbsnssdlvrmdl(ld),0.012448132780082987,0
+Division ID,miller2_prgrmmngprcss(nw),0.004149377593360996,0
+Division ID,miller2_bltrld(ntrntnlmrkr),0.008298755186721992,0
+Division ID,miller2_pbtp,0.004149377593360996,0
+Division ID,miller2_nvrmntlsstnblt(mrkr),0.012448132780082987,0
+Division ID,miller2_clmtchngdpttn(mrkr),0.012448132780082987,0
+Division ID,miller2_clmtchngmtgtn(mrkr),0.016597510373443983,0
+Division ID,miller2_dsrtfctn(mrkr),0.016597510373443983,0
+Division ID,miller2_prtcptrdvlpmntndgdgvrnnc,0.016597510373443983,0
+Division ID,miller2_trddvlpmnt(mrkr),0.016597510373443983,0
+Division ID,miller2_bdvrst(mrkr),0.016597510373443983,0
+Division ID,miller2_rbnsss(mrkr),0.016597510373443983,0
+Division ID,miller2_chldrnsss(mrkr),0.016597510373443983,0
+Division ID,miller2_thsss(mrkr),0.016597510373443983,0
+Division ID,miller2_ndgnssss(mrkr),0.016597510373443983,0
+Division ID,miller2_dsbltsss(mrkr),0.016597510373443983,0
+Division ID,miller2_ctstlfrdvlpmnt(mrkr),0.012448132780082987,0
+Division ID,miller2_knwldgfrdvlpmnt(mrkr),0.016597510373443983,0
+Division ID,miller2_gndrqlt(mrkr),0.016597510373443983,0
+Division ID,miller2_rgnstnd,0.7109144542772862,0
+Division ID,miller2_rgnstnnm,0.7109144542772862,0
+Division ID,miller2_rgnstntp,0.016597510373443983,0
+Division ID,miller2_rgnstnclss,0.024896265560165973,0
+Division ID,miller2_rgnstnsb-clss,0.0995850622406639,0
+Division ID,miller2_cntnntd,0.02074688796680498,0
+Division ID,miller2_cntnntnm,0.02074688796680498,0
+Division ID,miller2_prjctbrwsrcntrd,0.6348547717842323,0
+Division ID,miller2_cntrrgnd,0.5892116182572614,0
+Division ID,miller2_cntrrgnnm,0.6016597510373444,0
+Division ID,miller2_cntrrgnprcnt,0.599502487562189,0
+Division ID,miller2_sctrd,0.5103734439834025,0
+Division ID,miller2_sctrnm,0.5103734439834025,0
+Division ID,miller2_sctrprcnt,0.7676348547717843,0
+Division ID,miller2_mntspnt,0.04800796812749004,0
+Division name,miller2_fsclr,0.00017152658662092623,0
+Division name,miller2_prjctnmbr,0.11029159519725558,0
+Division name,miller2_stts,0.0005145797598627787,0
+Division name,miller2_mxmmcdcntrbtn(prjct-lvl),0.08816466552315609,0
+Division name,miller2_brnchd,0.0008576329331046312,0
+Division name,miller2_brnchnm,0.0008576329331046312,0
+Division name,miller2_dvsnd,0.0022298456260720413,0
+Division name,miller2_dvsnnm,0.0022298456260720413,1
+Division name,miller2_sctnd,0.004288164665523156,0
+Division name,miller2_sctnnm,0.004288164665523156,0
+Division name,miller2_rgnlprgrm(mrkr),0.00034305317324185246,0
+Division name,miller2_fndcntrd,0.008919382504288165,0
+Division name,miller2_fndcntrnm,0.008919382504288165,0
+Division name,miller2_ntdmnt(prjct-lvlbdgt),0.07444253859348199,0
+Division name,miller2_fstcprcnt,0.008404802744425385,0
+Division name,miller2_rtcprcnt,0.0005145797598627787,0
+Division name,miller2_cfl(mrkr),0.00034305317324185246,0
+Division name,miller2_cdbsnssdlvrmdl(ld),0.0005145797598627787,0
+Division name,miller2_prgrmmngprcss(nw),0.00017152658662092623,0
+Division name,miller2_bltrld(ntrntnlmrkr),0.00034305317324185246,0
+Division name,miller2_pbtp,0.00017152658662092623,0
+Division name,miller2_nvrmntlsstnblt(mrkr),0.0005145797598627787,0
+Division name,miller2_clmtchngdpttn(mrkr),0.0005145797598627787,0
+Division name,miller2_clmtchngmtgtn(mrkr),0.0006861063464837049,0
+Division name,miller2_dsrtfctn(mrkr),0.0006861063464837049,0
+Division name,miller2_prtcptrdvlpmntndgdgvrnnc,0.0006861063464837049,0
+Division name,miller2_trddvlpmnt(mrkr),0.0006861063464837049,0
+Division name,miller2_bdvrst(mrkr),0.0006861063464837049,0
+Division name,miller2_rbnsss(mrkr),0.0006861063464837049,0
+Division name,miller2_chldrnsss(mrkr),0.0006861063464837049,0
+Division name,miller2_thsss(mrkr),0.0006861063464837049,0
+Division name,miller2_ndgnssss(mrkr),0.0006861063464837049,0
+Division name,miller2_dsbltsss(mrkr),0.0006861063464837049,0
+Division name,miller2_ctstlfrdvlpmnt(mrkr),0.0005145797598627787,0
+Division name,miller2_knwldgfrdvlpmnt(mrkr),0.0006861063464837049,0
+Division name,miller2_gndrqlt(mrkr),0.0006861063464837049,0
+Division name,miller2_rgnstnd,0.058147512864493996,0
+Division name,miller2_rgnstnnm,0.058147512864493996,0
+Division name,miller2_rgnstntp,0.0006861063464837049,0
+Division name,miller2_rgnstnclss,0.0010291595197255575,0
+Division name,miller2_rgnstnsb-clss,0.00411663807890223,0
+Division name,miller2_cntnntd,0.0008576329331046312,0
+Division name,miller2_cntnntnm,0.0008576329331046312,0
+Division name,miller2_prjctbrwsrcntrd,0.026243567753001715,0
+Division name,miller2_cntrrgnd,0.024356775300171527,0
+Division name,miller2_cntrrgnnm,0.024871355060034305,0
+Division name,miller2_cntrrgnprcnt,0.06895368782161235,0
+Division name,miller2_sctrd,0.02109777015437393,0
+Division name,miller2_sctrnm,0.02109777015437393,0
+Division name,miller2_sctrprcnt,0.03173241852487135,0
+Division name,miller2_mntspnt,0.8610634648370498,0
+Section ID,miller2_fsclr,0.0022988505747126436,0
+Section ID,miller2_prjctnmbr,0.6765163297045101,0
+Section ID,miller2_stts,0.006896551724137931,0
+Section ID,miller2_mxmmcdcntrbtn(prjct-lvl),0.8463035019455253,0
+Section ID,miller2_brnchd,0.011494252873563218,0
+Section ID,miller2_brnchnm,0.011494252873563218,0
+Section ID,miller2_dvsnd,0.029885057471264367,0
+Section ID,miller2_dvsnnm,0.029885057471264367,0
+Section ID,miller2_sctnd,0.05747126436781609,1
+Section ID,miller2_sctnnm,0.05747126436781609,0
+Section ID,miller2_rgnlprgrm(mrkr),0.004597701149425287,0
+Section ID,miller2_fndcntrd,0.11954022988505747,0
+Section ID,miller2_fndcntrnm,0.11954022988505747,0
+Section ID,miller2_ntdmnt(prjct-lvlbdgt),0.9977011494252873,0
+Section ID,miller2_fstcprcnt,0.11264367816091954,0
+Section ID,miller2_rtcprcnt,0.006896551724137931,0
+Section ID,miller2_cfl(mrkr),0.004597701149425287,0
+Section ID,miller2_cdbsnssdlvrmdl(ld),0.006896551724137931,0
+Section ID,miller2_prgrmmngprcss(nw),0.0022988505747126436,0
+Section ID,miller2_bltrld(ntrntnlmrkr),0.004597701149425287,0
+Section ID,miller2_pbtp,0.0022988505747126436,0
+Section ID,miller2_nvrmntlsstnblt(mrkr),0.006896551724137931,0
+Section ID,miller2_clmtchngdpttn(mrkr),0.006896551724137931,0
+Section ID,miller2_clmtchngmtgtn(mrkr),0.009195402298850575,0
+Section ID,miller2_dsrtfctn(mrkr),0.009195402298850575,0
+Section ID,miller2_prtcptrdvlpmntndgdgvrnnc,0.009195402298850575,0
+Section ID,miller2_trddvlpmnt(mrkr),0.009195402298850575,0
+Section ID,miller2_bdvrst(mrkr),0.009195402298850575,0
+Section ID,miller2_rbnsss(mrkr),0.009195402298850575,0
+Section ID,miller2_chldrnsss(mrkr),0.009195402298850575,0
+Section ID,miller2_thsss(mrkr),0.009195402298850575,0
+Section ID,miller2_ndgnssss(mrkr),0.009195402298850575,0
+Section ID,miller2_dsbltsss(mrkr),0.009195402298850575,0
+Section ID,miller2_ctstlfrdvlpmnt(mrkr),0.006896551724137931,0
+Section ID,miller2_knwldgfrdvlpmnt(mrkr),0.009195402298850575,0
+Section ID,miller2_gndrqlt(mrkr),0.009195402298850575,0
+Section ID,miller2_rgnstnd,0.7793103448275862,0
+Section ID,miller2_rgnstnnm,0.7793103448275862,0
+Section ID,miller2_rgnstntp,0.009195402298850575,0
+Section ID,miller2_rgnstnclss,0.013793103448275862,0
+Section ID,miller2_rgnstnsb-clss,0.05517241379310345,0
+Section ID,miller2_cntnntd,0.011494252873563218,0
+Section ID,miller2_cntnntnm,0.011494252873563218,0
+Section ID,miller2_prjctbrwsrcntrd,0.35172413793103446,0
+Section ID,miller2_cntrrgnd,0.3264367816091954,0
+Section ID,miller2_cntrrgnnm,0.3333333333333333,0
+Section ID,miller2_cntrrgnprcnt,0.9241379310344827,0
+Section ID,miller2_sctrd,0.2827586206896552,0
+Section ID,miller2_sctrnm,0.2827586206896552,0
+Section ID,miller2_sctrprcnt,0.42528735632183906,0
+Section ID,miller2_mntspnt,0.08665338645418327,0
+Section name,miller2_fsclr,0.00021181952976064393,0
+Section name,miller2_prjctnmbr,0.13619995763609405,0
+Section name,miller2_stts,0.0006354585892819318,0
+Section name,miller2_mxmmcdcntrbtn(prjct-lvl),0.10887523829697097,0
+Section name,miller2_brnchd,0.0010590976488032196,0
+Section name,miller2_brnchnm,0.0010590976488032196,0
+Section name,miller2_dvsnd,0.002753653886888371,0
+Section name,miller2_dvsnnm,0.002753653886888371,0
+Section name,miller2_sctnd,0.005295488244016098,0
+Section name,miller2_sctnnm,0.005295488244016098,1
+Section name,miller2_rgnlprgrm(mrkr),0.00042363905952128787,0
+Section name,miller2_fndcntrd,0.011014615547553484,0
+Section name,miller2_fndcntrnm,0.011014615547553484,0
+Section name,miller2_ntdmnt(prjct-lvlbdgt),0.09192967591611946,0
+Section name,miller2_fstcprcnt,0.010379156958271553,0
+Section name,miller2_rtcprcnt,0.0006354585892819318,0
+Section name,miller2_cfl(mrkr),0.00042363905952128787,0
+Section name,miller2_cdbsnssdlvrmdl(ld),0.0006354585892819318,0
+Section name,miller2_prgrmmngprcss(nw),0.00021181952976064393,0
+Section name,miller2_bltrld(ntrntnlmrkr),0.00042363905952128787,0
+Section name,miller2_pbtp,0.00021181952976064393,0
+Section name,miller2_nvrmntlsstnblt(mrkr),0.0006354585892819318,0
+Section name,miller2_clmtchngdpttn(mrkr),0.0006354585892819318,0
+Section name,miller2_clmtchngmtgtn(mrkr),0.0008472781190425757,0
+Section name,miller2_dsrtfctn(mrkr),0.0008472781190425757,0
+Section name,miller2_prtcptrdvlpmntndgdgvrnnc,0.0008472781190425757,0
+Section name,miller2_trddvlpmnt(mrkr),0.0008472781190425757,0
+Section name,miller2_bdvrst(mrkr),0.0008472781190425757,0
+Section name,miller2_rbnsss(mrkr),0.0008472781190425757,0
+Section name,miller2_chldrnsss(mrkr),0.0008472781190425757,0
+Section name,miller2_thsss(mrkr),0.0008472781190425757,0
+Section name,miller2_ndgnssss(mrkr),0.0008472781190425757,0
+Section name,miller2_dsbltsss(mrkr),0.0008472781190425757,0
+Section name,miller2_ctstlfrdvlpmnt(mrkr),0.0006354585892819318,0
+Section name,miller2_knwldgfrdvlpmnt(mrkr),0.0008472781190425757,0
+Section name,miller2_gndrqlt(mrkr),0.0008472781190425757,0
+Section name,miller2_rgnstnd,0.07180682058885829,0
+Section name,miller2_rgnstnnm,0.07180682058885829,0
+Section name,miller2_rgnstntp,0.0008472781190425757,0
+Section name,miller2_rgnstnclss,0.0012709171785638637,0
+Section name,miller2_rgnstnsb-clss,0.005083668714255455,0
+Section name,miller2_cntnntd,0.0010590976488032196,0
+Section name,miller2_cntnntnm,0.0010590976488032196,0
+Section name,miller2_prjctbrwsrcntrd,0.03240838805337852,0
+Section name,miller2_cntrrgnd,0.030078373226011437,0
+Section name,miller2_cntrrgnnm,0.03071383181529337,0
+Section name,miller2_cntrrgnprcnt,0.08515145096377887,0
+Section name,miller2_sctrd,0.026053802160559202,0
+Section name,miller2_sctrnm,0.026053802160559202,0
+Section name,miller2_sctrprcnt,0.03918661300571913,0
+Section name,miller2_mntspnt,0.9404382470119522,0
+Regional program (marker),miller2_fsclr,0.5,0
+Regional program (marker),miller2_prjctnmbr,0.003110419906687403,0
+Regional program (marker),miller2_stts,0.6666666666666666,0
+Regional program (marker),miller2_mxmmcdcntrbtn(prjct-lvl),0.0038910505836575876,0
+Regional program (marker),miller2_brnchd,0.4,0
+Regional program (marker),miller2_brnchnm,0.4,0
+Regional program (marker),miller2_dvsnd,0.15384615384615385,0
+Regional program (marker),miller2_dvsnnm,0.15384615384615385,0
+Regional program (marker),miller2_sctnd,0.08,0
+Regional program (marker),miller2_sctnnm,0.08,0
+Regional program (marker),miller2_rgnlprgrm(mrkr),1.0,1
+Regional program (marker),miller2_fndcntrd,0.038461538461538464,0
+Regional program (marker),miller2_fndcntrnm,0.038461538461538464,0
+Regional program (marker),miller2_ntdmnt(prjct-lvlbdgt),0.004608294930875576,0
+Regional program (marker),miller2_fstcprcnt,0.04081632653061224,0
+Regional program (marker),miller2_rtcprcnt,0.6666666666666666,0
+Regional program (marker),miller2_cfl(mrkr),1.0,0
+Regional program (marker),miller2_cdbsnssdlvrmdl(ld),0.6666666666666666,0
+Regional program (marker),miller2_prgrmmngprcss(nw),0.5,0
+Regional program (marker),miller2_bltrld(ntrntnlmrkr),1.0,0
+Regional program (marker),miller2_pbtp,0.5,0
+Regional program (marker),miller2_nvrmntlsstnblt(mrkr),0.6666666666666666,0
+Regional program (marker),miller2_clmtchngdpttn(mrkr),0.6666666666666666,0
+Regional program (marker),miller2_clmtchngmtgtn(mrkr),0.5,0
+Regional program (marker),miller2_dsrtfctn(mrkr),0.5,0
+Regional program (marker),miller2_prtcptrdvlpmntndgdgvrnnc,0.5,0
+Regional program (marker),miller2_trddvlpmnt(mrkr),0.5,0
+Regional program (marker),miller2_bdvrst(mrkr),0.5,0
+Regional program (marker),miller2_rbnsss(mrkr),0.5,0
+Regional program (marker),miller2_chldrnsss(mrkr),0.5,0
+Regional program (marker),miller2_thsss(mrkr),0.5,0
+Regional program (marker),miller2_ndgnssss(mrkr),0.5,0
+Regional program (marker),miller2_dsbltsss(mrkr),0.5,0
+Regional program (marker),miller2_ctstlfrdvlpmnt(mrkr),0.6666666666666666,0
+Regional program (marker),miller2_knwldgfrdvlpmnt(mrkr),0.5,0
+Regional program (marker),miller2_gndrqlt(mrkr),0.5,0
+Regional program (marker),miller2_rgnstnd,0.0058997050147492625,0
+Regional program (marker),miller2_rgnstnnm,0.0058997050147492625,0
+Regional program (marker),miller2_rgnstntp,0.5,0
+Regional program (marker),miller2_rgnstnclss,0.3333333333333333,0
+Regional program (marker),miller2_rgnstnsb-clss,0.08333333333333333,0
+Regional program (marker),miller2_cntnntd,0.4,0
+Regional program (marker),miller2_cntnntnm,0.4,0
+Regional program (marker),miller2_prjctbrwsrcntrd,0.013071895424836602,0
+Regional program (marker),miller2_cntrrgnd,0.014084507042253521,0
+Regional program (marker),miller2_cntrrgnnm,0.013793103448275862,0
+Regional program (marker),miller2_cntrrgnprcnt,0.004975124378109453,0
+Regional program (marker),miller2_sctrd,0.016260162601626018,0
+Regional program (marker),miller2_sctrnm,0.016260162601626018,0
+Regional program (marker),miller2_sctrprcnt,0.010810810810810811,0
+Regional program (marker),miller2_mntspnt,0.00039840637450199205,0
+Fund centre ID,miller2_fsclr,0.005847953216374269,0
+Fund centre ID,miller2_prjctnmbr,0.26594090202177295,0
+Fund centre ID,miller2_stts,0.017543859649122806,0
+Fund centre ID,miller2_mxmmcdcntrbtn(prjct-lvl),0.3326848249027237,0
+Fund centre ID,miller2_brnchd,0.029239766081871343,0
+Fund centre ID,miller2_brnchnm,0.029239766081871343,0
+Fund centre ID,miller2_dvsnd,0.07602339181286549,0
+Fund centre ID,miller2_dvsnnm,0.07602339181286549,0
+Fund centre ID,miller2_sctnd,0.14619883040935672,0
+Fund centre ID,miller2_sctnnm,0.14619883040935672,0
+Fund centre ID,miller2_rgnlprgrm(mrkr),0.011695906432748537,0
+Fund centre ID,miller2_fndcntrd,0.30409356725146197,1
+Fund centre ID,miller2_fndcntrnm,0.30409356725146197,0
+Fund centre ID,miller2_ntdmnt(prjct-lvlbdgt),0.39400921658986177,0
+Fund centre ID,miller2_fstcprcnt,0.28654970760233917,0
+Fund centre ID,miller2_rtcprcnt,0.017543859649122806,0
+Fund centre ID,miller2_cfl(mrkr),0.011695906432748537,0
+Fund centre ID,miller2_cdbsnssdlvrmdl(ld),0.017543859649122806,0
+Fund centre ID,miller2_prgrmmngprcss(nw),0.005847953216374269,0
+Fund centre ID,miller2_bltrld(ntrntnlmrkr),0.011695906432748537,0
+Fund centre ID,miller2_pbtp,0.005847953216374269,0
+Fund centre ID,miller2_nvrmntlsstnblt(mrkr),0.017543859649122806,0
+Fund centre ID,miller2_clmtchngdpttn(mrkr),0.017543859649122806,0
+Fund centre ID,miller2_clmtchngmtgtn(mrkr),0.023391812865497075,0
+Fund centre ID,miller2_dsrtfctn(mrkr),0.023391812865497075,0
+Fund centre ID,miller2_prtcptrdvlpmntndgdgvrnnc,0.023391812865497075,0
+Fund centre ID,miller2_trddvlpmnt(mrkr),0.023391812865497075,0
+Fund centre ID,miller2_bdvrst(mrkr),0.023391812865497075,0
+Fund centre ID,miller2_rbnsss(mrkr),0.023391812865497075,0
+Fund centre ID,miller2_chldrnsss(mrkr),0.023391812865497075,0
+Fund centre ID,miller2_thsss(mrkr),0.023391812865497075,0
+Fund centre ID,miller2_ndgnssss(mrkr),0.023391812865497075,0
+Fund centre ID,miller2_dsbltsss(mrkr),0.023391812865497075,0
+Fund centre ID,miller2_ctstlfrdvlpmnt(mrkr),0.017543859649122806,0
+Fund centre ID,miller2_knwldgfrdvlpmnt(mrkr),0.023391812865497075,0
+Fund centre ID,miller2_gndrqlt(mrkr),0.023391812865497075,0
+Fund centre ID,miller2_rgnstnd,0.504424778761062,0
+Fund centre ID,miller2_rgnstnnm,0.504424778761062,0
+Fund centre ID,miller2_rgnstntp,0.023391812865497075,0
+Fund centre ID,miller2_rgnstnclss,0.03508771929824561,0
+Fund centre ID,miller2_rgnstnsb-clss,0.14035087719298245,0
+Fund centre ID,miller2_cntnntd,0.029239766081871343,0
+Fund centre ID,miller2_cntnntnm,0.029239766081871343,0
+Fund centre ID,miller2_prjctbrwsrcntrd,0.8947368421052632,0
+Fund centre ID,miller2_cntrrgnd,0.8304093567251462,0
+Fund centre ID,miller2_cntrrgnnm,0.847953216374269,0
+Fund centre ID,miller2_cntrrgnprcnt,0.4253731343283582,0
+Fund centre ID,miller2_sctrd,0.7192982456140351,0
+Fund centre ID,miller2_sctrnm,0.7192982456140351,0
+Fund centre ID,miller2_sctrprcnt,0.9243243243243243,0
+Fund centre ID,miller2_mntspnt,0.03406374501992032,0
+Fund centre name,miller2_fsclr,0.00020842017507294707,0
+Fund centre name,miller2_prjctnmbr,0.13401417257190495,0
+Fund centre name,miller2_stts,0.0006252605252188412,0
+Fund centre name,miller2_mxmmcdcntrbtn(prjct-lvl),0.10712796998749478,0
+Fund centre name,miller2_brnchd,0.0010421008753647354,0
+Fund centre name,miller2_brnchnm,0.0010421008753647354,0
+Fund centre name,miller2_dvsnd,0.0027094622759483117,0
+Fund centre name,miller2_dvsnnm,0.0027094622759483117,0
+Fund centre name,miller2_sctnd,0.005210504376823677,0
+Fund centre name,miller2_sctnnm,0.005210504376823677,0
+Fund centre name,miller2_rgnlprgrm(mrkr),0.00041684035014589413,0
+Fund centre name,miller2_fndcntrd,0.010837849103793247,0
+Fund centre name,miller2_fndcntrnm,0.010837849103793247,1
+Fund centre name,miller2_ntdmnt(prjct-lvlbdgt),0.09045435598165902,0
+Fund centre name,miller2_fstcprcnt,0.010212588578574405,0
+Fund centre name,miller2_rtcprcnt,0.0006252605252188412,0
+Fund centre name,miller2_cfl(mrkr),0.00041684035014589413,0
+Fund centre name,miller2_cdbsnssdlvrmdl(ld),0.0006252605252188412,0
+Fund centre name,miller2_prgrmmngprcss(nw),0.00020842017507294707,0
+Fund centre name,miller2_bltrld(ntrntnlmrkr),0.00041684035014589413,0
+Fund centre name,miller2_pbtp,0.00020842017507294707,0
+Fund centre name,miller2_nvrmntlsstnblt(mrkr),0.0006252605252188412,0
+Fund centre name,miller2_clmtchngdpttn(mrkr),0.0006252605252188412,0
+Fund centre name,miller2_clmtchngmtgtn(mrkr),0.0008336807002917883,0
+Fund centre name,miller2_dsrtfctn(mrkr),0.0008336807002917883,0
+Fund centre name,miller2_prtcptrdvlpmntndgdgvrnnc,0.0008336807002917883,0
+Fund centre name,miller2_trddvlpmnt(mrkr),0.0008336807002917883,0
+Fund centre name,miller2_bdvrst(mrkr),0.0008336807002917883,0
+Fund centre name,miller2_rbnsss(mrkr),0.0008336807002917883,0
+Fund centre name,miller2_chldrnsss(mrkr),0.0008336807002917883,0
+Fund centre name,miller2_thsss(mrkr),0.0008336807002917883,0
+Fund centre name,miller2_ndgnssss(mrkr),0.0008336807002917883,0
+Fund centre name,miller2_dsbltsss(mrkr),0.0008336807002917883,0
+Fund centre name,miller2_ctstlfrdvlpmnt(mrkr),0.0006252605252188412,0
+Fund centre name,miller2_knwldgfrdvlpmnt(mrkr),0.0008336807002917883,0
+Fund centre name,miller2_gndrqlt(mrkr),0.0008336807002917883,0
+Fund centre name,miller2_rgnstnd,0.07065443934972905,0
+Fund centre name,miller2_rgnstnnm,0.07065443934972905,0
+Fund centre name,miller2_rgnstntp,0.0008336807002917883,0
+Fund centre name,miller2_rgnstnclss,0.0012505210504376823,0
+Fund centre name,miller2_rgnstnsb-clss,0.005002084201750729,0
+Fund centre name,miller2_cntnntd,0.0010421008753647354,0
+Fund centre name,miller2_cntnntnm,0.0010421008753647354,0
+Fund centre name,miller2_prjctbrwsrcntrd,0.0318882867861609,0
+Fund centre name,miller2_cntrrgnd,0.029595664860358483,0
+Fund centre name,miller2_cntrrgnnm,0.030220925385577323,0
+Fund centre name,miller2_cntrrgnprcnt,0.08378491037932471,0
+Fund centre name,miller2_sctrd,0.025635681533972488,0
+Fund centre name,miller2_sctrnm,0.025635681533972488,0
+Fund centre name,miller2_sctrprcnt,0.038557732388495206,0
+Fund centre name,miller2_mntspnt,0.9557768924302789,0
+Untied amount(Project-level budget),miller2_fsclr,0.00014988009592326138,0
+Untied amount(Project-level budget),miller2_prjctnmbr,0.09637290167865707,0
+Untied amount(Project-level budget),miller2_stts,0.0004496402877697842,0
+Untied amount(Project-level budget),miller2_mxmmcdcntrbtn(prjct-lvl),0.07703836930455636,0
+Untied amount(Project-level budget),miller2_brnchd,0.000749400479616307,0
+Untied amount(Project-level budget),miller2_brnchnm,0.000749400479616307,0
+Untied amount(Project-level budget),miller2_dvsnd,0.0019484412470023981,0
+Untied amount(Project-level budget),miller2_dvsnnm,0.0019484412470023981,0
+Untied amount(Project-level budget),miller2_sctnd,0.003747002398081535,0
+Untied amount(Project-level budget),miller2_sctnnm,0.003747002398081535,0
+Untied amount(Project-level budget),miller2_rgnlprgrm(mrkr),0.00029976019184652276,0
+Untied amount(Project-level budget),miller2_fndcntrd,0.0077937649880095924,0
+Untied amount(Project-level budget),miller2_fndcntrnm,0.0077937649880095924,0
+Untied amount(Project-level budget),miller2_ntdmnt(prjct-lvlbdgt),0.06504796163069544,1
+Untied amount(Project-level budget),miller2_fstcprcnt,0.0073441247002398085,0
+Untied amount(Project-level budget),miller2_rtcprcnt,0.0004496402877697842,0
+Untied amount(Project-level budget),miller2_cfl(mrkr),0.00029976019184652276,0
+Untied amount(Project-level budget),miller2_cdbsnssdlvrmdl(ld),0.0004496402877697842,0
+Untied amount(Project-level budget),miller2_prgrmmngprcss(nw),0.00014988009592326138,0
+Untied amount(Project-level budget),miller2_bltrld(ntrntnlmrkr),0.00029976019184652276,0
+Untied amount(Project-level budget),miller2_pbtp,0.00014988009592326138,0
+Untied amount(Project-level budget),miller2_nvrmntlsstnblt(mrkr),0.0004496402877697842,0
+Untied amount(Project-level budget),miller2_clmtchngdpttn(mrkr),0.0004496402877697842,0
+Untied amount(Project-level budget),miller2_clmtchngmtgtn(mrkr),0.0005995203836930455,0
+Untied amount(Project-level budget),miller2_dsrtfctn(mrkr),0.0005995203836930455,0
+Untied amount(Project-level budget),miller2_prtcptrdvlpmntndgdgvrnnc,0.0005995203836930455,0
+Untied amount(Project-level budget),miller2_trddvlpmnt(mrkr),0.0005995203836930455,0
+Untied amount(Project-level budget),miller2_bdvrst(mrkr),0.0005995203836930455,0
+Untied amount(Project-level budget),miller2_rbnsss(mrkr),0.0005995203836930455,0
+Untied amount(Project-level budget),miller2_chldrnsss(mrkr),0.0005995203836930455,0
+Untied amount(Project-level budget),miller2_thsss(mrkr),0.0005995203836930455,0
+Untied amount(Project-level budget),miller2_ndgnssss(mrkr),0.0005995203836930455,0
+Untied amount(Project-level budget),miller2_dsbltsss(mrkr),0.0005995203836930455,0
+Untied amount(Project-level budget),miller2_ctstlfrdvlpmnt(mrkr),0.0004496402877697842,0
+Untied amount(Project-level budget),miller2_knwldgfrdvlpmnt(mrkr),0.0005995203836930455,0
+Untied amount(Project-level budget),miller2_gndrqlt(mrkr),0.0005995203836930455,0
+Untied amount(Project-level budget),miller2_rgnstnd,0.050809352517985615,0
+Untied amount(Project-level budget),miller2_rgnstnnm,0.050809352517985615,0
+Untied amount(Project-level budget),miller2_rgnstntp,0.0005995203836930455,0
+Untied amount(Project-level budget),miller2_rgnstnclss,0.0008992805755395684,0
+Untied amount(Project-level budget),miller2_rgnstnsb-clss,0.0035971223021582736,0
+Untied amount(Project-level budget),miller2_cntnntd,0.000749400479616307,0
+Untied amount(Project-level budget),miller2_cntnntnm,0.000749400479616307,0
+Untied amount(Project-level budget),miller2_prjctbrwsrcntrd,0.022931654676258992,0
+Untied amount(Project-level budget),miller2_cntrrgnd,0.021282973621103117,0
+Untied amount(Project-level budget),miller2_cntrrgnnm,0.021732613908872902,0
+Untied amount(Project-level budget),miller2_cntrrgnprcnt,0.06025179856115108,0
+Untied amount(Project-level budget),miller2_sctrd,0.01843525179856115,0
+Untied amount(Project-level budget),miller2_sctrnm,0.01843525179856115,0
+Untied amount(Project-level budget),miller2_sctrprcnt,0.02772781774580336,0
+Untied amount(Project-level budget),miller2_mntspnt,0.7523980815347722,0
+FSTC percent,miller2_fsclr,0.000170590242238144,0
+FSTC percent,miller2_prjctnmbr,0.10968952575912658,0
+FSTC percent,miller2_stts,0.0005117707267144319,0
+FSTC percent,miller2_mxmmcdcntrbtn(prjct-lvl),0.087683384510406,0
+FSTC percent,miller2_brnchd,0.0008529512111907199,0
+FSTC percent,miller2_brnchnm,0.0008529512111907199,0
+FSTC percent,miller2_dvsnd,0.002217673149095872,0
+FSTC percent,miller2_dvsnnm,0.002217673149095872,0
+FSTC percent,miller2_sctnd,0.004264756055953599,0
+FSTC percent,miller2_sctnnm,0.004264756055953599,0
+FSTC percent,miller2_rgnlprgrm(mrkr),0.000341180484476288,0
+FSTC percent,miller2_fndcntrd,0.008870692596383487,0
+FSTC percent,miller2_fndcntrnm,0.008870692596383487,0
+FSTC percent,miller2_ntdmnt(prjct-lvlbdgt),0.07403616513135448,0
+FSTC percent,miller2_fstcprcnt,0.008358921869669056,1
+FSTC percent,miller2_rtcprcnt,0.0005117707267144319,0
+FSTC percent,miller2_cfl(mrkr),0.000341180484476288,0
+FSTC percent,miller2_cdbsnssdlvrmdl(ld),0.0005117707267144319,0
+FSTC percent,miller2_prgrmmngprcss(nw),0.000170590242238144,0
+FSTC percent,miller2_bltrld(ntrntnlmrkr),0.000341180484476288,0
+FSTC percent,miller2_pbtp,0.000170590242238144,0
+FSTC percent,miller2_nvrmntlsstnblt(mrkr),0.0005117707267144319,0
+FSTC percent,miller2_clmtchngdpttn(mrkr),0.0005117707267144319,0
+FSTC percent,miller2_clmtchngmtgtn(mrkr),0.000682360968952576,0
+FSTC percent,miller2_dsrtfctn(mrkr),0.000682360968952576,0
+FSTC percent,miller2_prtcptrdvlpmntndgdgvrnnc,0.000682360968952576,0
+FSTC percent,miller2_trddvlpmnt(mrkr),0.000682360968952576,0
+FSTC percent,miller2_bdvrst(mrkr),0.000682360968952576,0
+FSTC percent,miller2_rbnsss(mrkr),0.000682360968952576,0
+FSTC percent,miller2_chldrnsss(mrkr),0.000682360968952576,0
+FSTC percent,miller2_thsss(mrkr),0.000682360968952576,0
+FSTC percent,miller2_ndgnssss(mrkr),0.000682360968952576,0
+FSTC percent,miller2_dsbltsss(mrkr),0.000682360968952576,0
+FSTC percent,miller2_ctstlfrdvlpmnt(mrkr),0.0005117707267144319,0
+FSTC percent,miller2_knwldgfrdvlpmnt(mrkr),0.000682360968952576,0
+FSTC percent,miller2_gndrqlt(mrkr),0.000682360968952576,0
+FSTC percent,miller2_rgnstnd,0.05783009211873081,0
+FSTC percent,miller2_rgnstnnm,0.05783009211873081,0
+FSTC percent,miller2_rgnstntp,0.000682360968952576,0
+FSTC percent,miller2_rgnstnclss,0.0010235414534288639,0
+FSTC percent,miller2_rgnstnsb-clss,0.0040941658137154556,0
+FSTC percent,miller2_cntnntd,0.0008529512111907199,0
+FSTC percent,miller2_cntnntnm,0.0008529512111907199,0
+FSTC percent,miller2_prjctbrwsrcntrd,0.026100307062436028,0
+FSTC percent,miller2_cntrrgnd,0.024223814397816446,0
+FSTC percent,miller2_cntrrgnnm,0.024735585124530876,0
+FSTC percent,miller2_cntrrgnprcnt,0.06857727737973388,0
+FSTC percent,miller2_sctrd,0.02098259979529171,0
+FSTC percent,miller2_sctrnm,0.02098259979529171,0
+FSTC percent,miller2_sctrprcnt,0.03155919481405663,0
+FSTC percent,miller2_mntspnt,0.8563630160354828,0
+IRTC percent,miller2_fsclr,0.25,0
+IRTC percent,miller2_prjctnmbr,0.006220839813374806,0
+IRTC percent,miller2_stts,0.75,0
+IRTC percent,miller2_mxmmcdcntrbtn(prjct-lvl),0.007782101167315175,0
+IRTC percent,miller2_brnchd,0.8,0
+IRTC percent,miller2_brnchnm,0.8,0
+IRTC percent,miller2_dvsnd,0.3076923076923077,0
+IRTC percent,miller2_dvsnnm,0.3076923076923077,0
+IRTC percent,miller2_sctnd,0.16,0
+IRTC percent,miller2_sctnnm,0.16,0
+IRTC percent,miller2_rgnlprgrm(mrkr),0.5,0
+IRTC percent,miller2_fndcntrd,0.07692307692307693,0
+IRTC percent,miller2_fndcntrnm,0.07692307692307693,0
+IRTC percent,miller2_ntdmnt(prjct-lvlbdgt),0.009216589861751152,0
+IRTC percent,miller2_fstcprcnt,0.08163265306122448,0
+IRTC percent,miller2_rtcprcnt,0.75,1
+IRTC percent,miller2_cfl(mrkr),0.5,0
+IRTC percent,miller2_cdbsnssdlvrmdl(ld),0.75,0
+IRTC percent,miller2_prgrmmngprcss(nw),0.25,0
+IRTC percent,miller2_bltrld(ntrntnlmrkr),0.5,0
+IRTC percent,miller2_pbtp,0.25,0
+IRTC percent,miller2_nvrmntlsstnblt(mrkr),0.75,0
+IRTC percent,miller2_clmtchngdpttn(mrkr),0.75,0
+IRTC percent,miller2_clmtchngmtgtn(mrkr),1.0,0
+IRTC percent,miller2_dsrtfctn(mrkr),1.0,0
+IRTC percent,miller2_prtcptrdvlpmntndgdgvrnnc,1.0,0
+IRTC percent,miller2_trddvlpmnt(mrkr),1.0,0
+IRTC percent,miller2_bdvrst(mrkr),1.0,0
+IRTC percent,miller2_rbnsss(mrkr),1.0,0
+IRTC percent,miller2_chldrnsss(mrkr),1.0,0
+IRTC percent,miller2_thsss(mrkr),1.0,0
+IRTC percent,miller2_ndgnssss(mrkr),1.0,0
+IRTC percent,miller2_dsbltsss(mrkr),1.0,0
+IRTC percent,miller2_ctstlfrdvlpmnt(mrkr),0.75,0
+IRTC percent,miller2_knwldgfrdvlpmnt(mrkr),1.0,0
+IRTC percent,miller2_gndrqlt(mrkr),1.0,0
+IRTC percent,miller2_rgnstnd,0.011799410029498525,0
+IRTC percent,miller2_rgnstnnm,0.011799410029498525,0
+IRTC percent,miller2_rgnstntp,1.0,0
+IRTC percent,miller2_rgnstnclss,0.6666666666666666,0
+IRTC percent,miller2_rgnstnsb-clss,0.16666666666666666,0
+IRTC percent,miller2_cntnntd,0.8,0
+IRTC percent,miller2_cntnntnm,0.8,0
+IRTC percent,miller2_prjctbrwsrcntrd,0.026143790849673203,0
+IRTC percent,miller2_cntrrgnd,0.028169014084507043,0
+IRTC percent,miller2_cntrrgnnm,0.027586206896551724,0
+IRTC percent,miller2_cntrrgnprcnt,0.009950248756218905,0
+IRTC percent,miller2_sctrd,0.032520325203252036,0
+IRTC percent,miller2_sctrnm,0.032520325203252036,0
+IRTC percent,miller2_sctrprcnt,0.021621621621621623,0
+IRTC percent,miller2_mntspnt,0.0007968127490039841,0
+CFLI (marker),miller2_fsclr,0.5,0
+CFLI (marker),miller2_prjctnmbr,0.003110419906687403,0
+CFLI (marker),miller2_stts,0.6666666666666666,0
+CFLI (marker),miller2_mxmmcdcntrbtn(prjct-lvl),0.0038910505836575876,0
+CFLI (marker),miller2_brnchd,0.4,0
+CFLI (marker),miller2_brnchnm,0.4,0
+CFLI (marker),miller2_dvsnd,0.15384615384615385,0
+CFLI (marker),miller2_dvsnnm,0.15384615384615385,0
+CFLI (marker),miller2_sctnd,0.08,0
+CFLI (marker),miller2_sctnnm,0.08,0
+CFLI (marker),miller2_rgnlprgrm(mrkr),1.0,0
+CFLI (marker),miller2_fndcntrd,0.038461538461538464,0
+CFLI (marker),miller2_fndcntrnm,0.038461538461538464,0
+CFLI (marker),miller2_ntdmnt(prjct-lvlbdgt),0.004608294930875576,0
+CFLI (marker),miller2_fstcprcnt,0.04081632653061224,0
+CFLI (marker),miller2_rtcprcnt,0.6666666666666666,0
+CFLI (marker),miller2_cfl(mrkr),1.0,1
+CFLI (marker),miller2_cdbsnssdlvrmdl(ld),0.6666666666666666,0
+CFLI (marker),miller2_prgrmmngprcss(nw),0.5,0
+CFLI (marker),miller2_bltrld(ntrntnlmrkr),1.0,0
+CFLI (marker),miller2_pbtp,0.5,0
+CFLI (marker),miller2_nvrmntlsstnblt(mrkr),0.6666666666666666,0
+CFLI (marker),miller2_clmtchngdpttn(mrkr),0.6666666666666666,0
+CFLI (marker),miller2_clmtchngmtgtn(mrkr),0.5,0
+CFLI (marker),miller2_dsrtfctn(mrkr),0.5,0
+CFLI (marker),miller2_prtcptrdvlpmntndgdgvrnnc,0.5,0
+CFLI (marker),miller2_trddvlpmnt(mrkr),0.5,0
+CFLI (marker),miller2_bdvrst(mrkr),0.5,0
+CFLI (marker),miller2_rbnsss(mrkr),0.5,0
+CFLI (marker),miller2_chldrnsss(mrkr),0.5,0
+CFLI (marker),miller2_thsss(mrkr),0.5,0
+CFLI (marker),miller2_ndgnssss(mrkr),0.5,0
+CFLI (marker),miller2_dsbltsss(mrkr),0.5,0
+CFLI (marker),miller2_ctstlfrdvlpmnt(mrkr),0.6666666666666666,0
+CFLI (marker),miller2_knwldgfrdvlpmnt(mrkr),0.5,0
+CFLI (marker),miller2_gndrqlt(mrkr),0.5,0
+CFLI (marker),miller2_rgnstnd,0.0058997050147492625,0
+CFLI (marker),miller2_rgnstnnm,0.0058997050147492625,0
+CFLI (marker),miller2_rgnstntp,0.5,0
+CFLI (marker),miller2_rgnstnclss,0.3333333333333333,0
+CFLI (marker),miller2_rgnstnsb-clss,0.08333333333333333,0
+CFLI (marker),miller2_cntnntd,0.4,0
+CFLI (marker),miller2_cntnntnm,0.4,0
+CFLI (marker),miller2_prjctbrwsrcntrd,0.013071895424836602,0
+CFLI (marker),miller2_cntrrgnd,0.014084507042253521,0
+CFLI (marker),miller2_cntrrgnnm,0.013793103448275862,0
+CFLI (marker),miller2_cntrrgnprcnt,0.004975124378109453,0
+CFLI (marker),miller2_sctrd,0.016260162601626018,0
+CFLI (marker),miller2_sctrnm,0.016260162601626018,0
+CFLI (marker),miller2_sctrprcnt,0.010810810810810811,0
+CFLI (marker),miller2_mntspnt,0.00039840637450199205,0
+CIDA business delivery model (old),miller2_fsclr,0.00034083162917518747,0
+CIDA business delivery model (old),miller2_prjctnmbr,0.21915473755964554,0
+CIDA business delivery model (old),miller2_stts,0.0010224948875255625,0
+CIDA business delivery model (old),miller2_mxmmcdcntrbtn(prjct-lvl),0.17518745739604635,0
+CIDA business delivery model (old),miller2_brnchd,0.0017041581458759373,0
+CIDA business delivery model (old),miller2_brnchnm,0.0017041581458759373,0
+CIDA business delivery model (old),miller2_dvsnd,0.004430811179277437,0
+CIDA business delivery model (old),miller2_dvsnnm,0.004430811179277437,0
+CIDA business delivery model (old),miller2_sctnd,0.008520790729379687,0
+CIDA business delivery model (old),miller2_sctnnm,0.008520790729379687,0
+CIDA business delivery model (old),miller2_rgnlprgrm(mrkr),0.0006816632583503749,0
+CIDA business delivery model (old),miller2_fndcntrd,0.01772324471710975,0
+CIDA business delivery model (old),miller2_fndcntrnm,0.01772324471710975,0
+CIDA business delivery model (old),miller2_ntdmnt(prjct-lvlbdgt),0.14792092706203136,0
+CIDA business delivery model (old),miller2_fstcprcnt,0.016700749829584187,0
+CIDA business delivery model (old),miller2_rtcprcnt,0.0010224948875255625,0
+CIDA business delivery model (old),miller2_cfl(mrkr),0.0006816632583503749,0
+CIDA business delivery model (old),miller2_cdbsnssdlvrmdl(ld),0.0010224948875255625,1
+CIDA business delivery model (old),miller2_prgrmmngprcss(nw),0.00034083162917518747,0
+CIDA business delivery model (old),miller2_bltrld(ntrntnlmrkr),0.0006816632583503749,0
+CIDA business delivery model (old),miller2_pbtp,0.00034083162917518747,0
+CIDA business delivery model (old),miller2_nvrmntlsstnblt(mrkr),0.0010224948875255625,0
+CIDA business delivery model (old),miller2_clmtchngdpttn(mrkr),0.0010224948875255625,0
+CIDA business delivery model (old),miller2_clmtchngmtgtn(mrkr),0.0013633265167007499,0
+CIDA business delivery model (old),miller2_dsrtfctn(mrkr),0.0013633265167007499,0
+CIDA business delivery model (old),miller2_prtcptrdvlpmntndgdgvrnnc,0.0013633265167007499,0
+CIDA business delivery model (old),miller2_trddvlpmnt(mrkr),0.0013633265167007499,0
+CIDA business delivery model (old),miller2_bdvrst(mrkr),0.0013633265167007499,0
+CIDA business delivery model (old),miller2_rbnsss(mrkr),0.0013633265167007499,0
+CIDA business delivery model (old),miller2_chldrnsss(mrkr),0.0013633265167007499,0
+CIDA business delivery model (old),miller2_thsss(mrkr),0.0013633265167007499,0
+CIDA business delivery model (old),miller2_ndgnssss(mrkr),0.0013633265167007499,0
+CIDA business delivery model (old),miller2_dsbltsss(mrkr),0.0013633265167007499,0
+CIDA business delivery model (old),miller2_ctstlfrdvlpmnt(mrkr),0.0010224948875255625,0
+CIDA business delivery model (old),miller2_knwldgfrdvlpmnt(mrkr),0.0013633265167007499,0
+CIDA business delivery model (old),miller2_gndrqlt(mrkr),0.0013633265167007499,0
+CIDA business delivery model (old),miller2_rgnstnd,0.11554192229038855,0
+CIDA business delivery model (old),miller2_rgnstnnm,0.11554192229038855,0
+CIDA business delivery model (old),miller2_rgnstntp,0.0013633265167007499,0
+CIDA business delivery model (old),miller2_rgnstnclss,0.002044989775051125,0
+CIDA business delivery model (old),miller2_rgnstnsb-clss,0.0081799591002045,0
+CIDA business delivery model (old),miller2_cntnntd,0.0017041581458759373,0
+CIDA business delivery model (old),miller2_cntnntnm,0.0017041581458759373,0
+CIDA business delivery model (old),miller2_prjctbrwsrcntrd,0.05214723926380368,0
+CIDA business delivery model (old),miller2_cntrrgnd,0.04839809134287662,0
+CIDA business delivery model (old),miller2_cntrrgnnm,0.04942058623040218,0
+CIDA business delivery model (old),miller2_cntrrgnprcnt,0.13701431492842536,0
+CIDA business delivery model (old),miller2_sctrd,0.041922290388548056,0
+CIDA business delivery model (old),miller2_sctrnm,0.041922290388548056,0
+CIDA business delivery model (old),miller2_sctrprcnt,0.06305385139740968,0
+CIDA business delivery model (old),miller2_mntspnt,0.5844621513944223,0
+Programming process (new),miller2_fsclr,0.0003965107057890563,0
+Programming process (new),miller2_prjctnmbr,0.2549563838223632,0
+Programming process (new),miller2_stts,0.0011895321173671688,0
+Programming process (new),miller2_mxmmcdcntrbtn(prjct-lvl),0.20380650277557494,0
+Programming process (new),miller2_brnchd,0.0019825535289452814,0
+Programming process (new),miller2_brnchnm,0.0019825535289452814,0
+Programming process (new),miller2_dvsnd,0.005154639175257732,0
+Programming process (new),miller2_dvsnnm,0.005154639175257732,0
+Programming process (new),miller2_sctnd,0.009912767644726407,0
+Programming process (new),miller2_sctnnm,0.009912767644726407,0
+Programming process (new),miller2_rgnlprgrm(mrkr),0.0007930214115781126,0
+Programming process (new),miller2_fndcntrd,0.020618556701030927,0
+Programming process (new),miller2_fndcntrnm,0.020618556701030927,0
+Programming process (new),miller2_ntdmnt(prjct-lvlbdgt),0.17208564631245044,0
+Programming process (new),miller2_fstcprcnt,0.01942902458366376,0
+Programming process (new),miller2_rtcprcnt,0.0011895321173671688,0
+Programming process (new),miller2_cfl(mrkr),0.0007930214115781126,0
+Programming process (new),miller2_cdbsnssdlvrmdl(ld),0.0011895321173671688,0
+Programming process (new),miller2_prgrmmngprcss(nw),0.0003965107057890563,1
+Programming process (new),miller2_bltrld(ntrntnlmrkr),0.0007930214115781126,0
+Programming process (new),miller2_pbtp,0.0003965107057890563,0
+Programming process (new),miller2_nvrmntlsstnblt(mrkr),0.0011895321173671688,0
+Programming process (new),miller2_clmtchngdpttn(mrkr),0.0011895321173671688,0
+Programming process (new),miller2_clmtchngmtgtn(mrkr),0.0015860428231562252,0
+Programming process (new),miller2_dsrtfctn(mrkr),0.0015860428231562252,0
+Programming process (new),miller2_prtcptrdvlpmntndgdgvrnnc,0.0015860428231562252,0
+Programming process (new),miller2_trddvlpmnt(mrkr),0.0015860428231562252,0
+Programming process (new),miller2_bdvrst(mrkr),0.0015860428231562252,0
+Programming process (new),miller2_rbnsss(mrkr),0.0015860428231562252,0
+Programming process (new),miller2_chldrnsss(mrkr),0.0015860428231562252,0
+Programming process (new),miller2_thsss(mrkr),0.0015860428231562252,0
+Programming process (new),miller2_ndgnssss(mrkr),0.0015860428231562252,0
+Programming process (new),miller2_dsbltsss(mrkr),0.0015860428231562252,0
+Programming process (new),miller2_ctstlfrdvlpmnt(mrkr),0.0011895321173671688,0
+Programming process (new),miller2_knwldgfrdvlpmnt(mrkr),0.0015860428231562252,0
+Programming process (new),miller2_gndrqlt(mrkr),0.0015860428231562252,0
+Programming process (new),miller2_rgnstnd,0.13441712926249008,0
+Programming process (new),miller2_rgnstnnm,0.13441712926249008,0
+Programming process (new),miller2_rgnstntp,0.0015860428231562252,0
+Programming process (new),miller2_rgnstnclss,0.0023790642347343376,0
+Programming process (new),miller2_rgnstnsb-clss,0.00951625693893735,0
+Programming process (new),miller2_cntnntd,0.0019825535289452814,0
+Programming process (new),miller2_cntnntnm,0.0019825535289452814,0
+Programming process (new),miller2_prjctbrwsrcntrd,0.060666137985725614,0
+Programming process (new),miller2_cntrrgnd,0.056304520222045996,0
+Programming process (new),miller2_cntrrgnnm,0.05749405233941316,0
+Programming process (new),miller2_cntrrgnprcnt,0.15939730372720062,0
+Programming process (new),miller2_sctrd,0.048770816812053926,0
+Programming process (new),miller2_sctrnm,0.048770816812053926,0
+Programming process (new),miller2_sctrprcnt,0.07335448057097542,0
+Programming process (new),miller2_mntspnt,0.5023904382470119,0
+Bilateral aid (international marker),miller2_fsclr,0.5,0
+Bilateral aid (international marker),miller2_prjctnmbr,0.003110419906687403,0
+Bilateral aid (international marker),miller2_stts,0.6666666666666666,0
+Bilateral aid (international marker),miller2_mxmmcdcntrbtn(prjct-lvl),0.0038910505836575876,0
+Bilateral aid (international marker),miller2_brnchd,0.4,0
+Bilateral aid (international marker),miller2_brnchnm,0.4,0
+Bilateral aid (international marker),miller2_dvsnd,0.15384615384615385,0
+Bilateral aid (international marker),miller2_dvsnnm,0.15384615384615385,0
+Bilateral aid (international marker),miller2_sctnd,0.08,0
+Bilateral aid (international marker),miller2_sctnnm,0.08,0
+Bilateral aid (international marker),miller2_rgnlprgrm(mrkr),1.0,0
+Bilateral aid (international marker),miller2_fndcntrd,0.038461538461538464,0
+Bilateral aid (international marker),miller2_fndcntrnm,0.038461538461538464,0
+Bilateral aid (international marker),miller2_ntdmnt(prjct-lvlbdgt),0.004608294930875576,0
+Bilateral aid (international marker),miller2_fstcprcnt,0.04081632653061224,0
+Bilateral aid (international marker),miller2_rtcprcnt,0.6666666666666666,0
+Bilateral aid (international marker),miller2_cfl(mrkr),1.0,0
+Bilateral aid (international marker),miller2_cdbsnssdlvrmdl(ld),0.6666666666666666,0
+Bilateral aid (international marker),miller2_prgrmmngprcss(nw),0.5,0
+Bilateral aid (international marker),miller2_bltrld(ntrntnlmrkr),1.0,1
+Bilateral aid (international marker),miller2_pbtp,0.5,0
+Bilateral aid (international marker),miller2_nvrmntlsstnblt(mrkr),0.6666666666666666,0
+Bilateral aid (international marker),miller2_clmtchngdpttn(mrkr),0.6666666666666666,0
+Bilateral aid (international marker),miller2_clmtchngmtgtn(mrkr),0.5,0
+Bilateral aid (international marker),miller2_dsrtfctn(mrkr),0.5,0
+Bilateral aid (international marker),miller2_prtcptrdvlpmntndgdgvrnnc,0.5,0
+Bilateral aid (international marker),miller2_trddvlpmnt(mrkr),0.5,0
+Bilateral aid (international marker),miller2_bdvrst(mrkr),0.5,0
+Bilateral aid (international marker),miller2_rbnsss(mrkr),0.5,0
+Bilateral aid (international marker),miller2_chldrnsss(mrkr),0.5,0
+Bilateral aid (international marker),miller2_thsss(mrkr),0.5,0
+Bilateral aid (international marker),miller2_ndgnssss(mrkr),0.5,0
+Bilateral aid (international marker),miller2_dsbltsss(mrkr),0.5,0
+Bilateral aid (international marker),miller2_ctstlfrdvlpmnt(mrkr),0.6666666666666666,0
+Bilateral aid (international marker),miller2_knwldgfrdvlpmnt(mrkr),0.5,0
+Bilateral aid (international marker),miller2_gndrqlt(mrkr),0.5,0
+Bilateral aid (international marker),miller2_rgnstnd,0.0058997050147492625,0
+Bilateral aid (international marker),miller2_rgnstnnm,0.0058997050147492625,0
+Bilateral aid (international marker),miller2_rgnstntp,0.5,0
+Bilateral aid (international marker),miller2_rgnstnclss,0.3333333333333333,0
+Bilateral aid (international marker),miller2_rgnstnsb-clss,0.08333333333333333,0
+Bilateral aid (international marker),miller2_cntnntd,0.4,0
+Bilateral aid (international marker),miller2_cntnntnm,0.4,0
+Bilateral aid (international marker),miller2_prjctbrwsrcntrd,0.013071895424836602,0
+Bilateral aid (international marker),miller2_cntrrgnd,0.014084507042253521,0
+Bilateral aid (international marker),miller2_cntrrgnnm,0.013793103448275862,0
+Bilateral aid (international marker),miller2_cntrrgnprcnt,0.004975124378109453,0
+Bilateral aid (international marker),miller2_sctrd,0.016260162601626018,0
+Bilateral aid (international marker),miller2_sctrnm,0.016260162601626018,0
+Bilateral aid (international marker),miller2_sctrprcnt,0.010810810810810811,0
+Bilateral aid (international marker),miller2_mntspnt,0.00039840637450199205,0
+PBA type,miller2_fsclr,0.02564102564102564,0
+PBA type,miller2_prjctnmbr,0.060653188180404355,0
+PBA type,miller2_stts,0.07692307692307693,0
+PBA type,miller2_mxmmcdcntrbtn(prjct-lvl),0.07587548638132295,0
+PBA type,miller2_brnchd,0.1282051282051282,0
+PBA type,miller2_brnchnm,0.1282051282051282,0
+PBA type,miller2_dvsnd,0.3333333333333333,0
+PBA type,miller2_dvsnnm,0.3333333333333333,0
+PBA type,miller2_sctnd,0.6410256410256411,0
+PBA type,miller2_sctnnm,0.6410256410256411,0
+PBA type,miller2_rgnlprgrm(mrkr),0.05128205128205128,0
+PBA type,miller2_fndcntrd,0.75,0
+PBA type,miller2_fndcntrnm,0.75,0
+PBA type,miller2_ntdmnt(prjct-lvlbdgt),0.08986175115207373,0
+PBA type,miller2_fstcprcnt,0.7959183673469388,0
+PBA type,miller2_rtcprcnt,0.07692307692307693,0
+PBA type,miller2_cfl(mrkr),0.05128205128205128,0
+PBA type,miller2_cdbsnssdlvrmdl(ld),0.07692307692307693,0
+PBA type,miller2_prgrmmngprcss(nw),0.02564102564102564,0
+PBA type,miller2_bltrld(ntrntnlmrkr),0.05128205128205128,0
+PBA type,miller2_pbtp,0.02564102564102564,1
+PBA type,miller2_nvrmntlsstnblt(mrkr),0.07692307692307693,0
+PBA type,miller2_clmtchngdpttn(mrkr),0.07692307692307693,0
+PBA type,miller2_clmtchngmtgtn(mrkr),0.10256410256410256,0
+PBA type,miller2_dsrtfctn(mrkr),0.10256410256410256,0
+PBA type,miller2_prtcptrdvlpmntndgdgvrnnc,0.10256410256410256,0
+PBA type,miller2_trddvlpmnt(mrkr),0.10256410256410256,0
+PBA type,miller2_bdvrst(mrkr),0.10256410256410256,0
+PBA type,miller2_rbnsss(mrkr),0.10256410256410256,0
+PBA type,miller2_chldrnsss(mrkr),0.10256410256410256,0
+PBA type,miller2_thsss(mrkr),0.10256410256410256,0
+PBA type,miller2_ndgnssss(mrkr),0.10256410256410256,0
+PBA type,miller2_dsbltsss(mrkr),0.10256410256410256,0
+PBA type,miller2_ctstlfrdvlpmnt(mrkr),0.07692307692307693,0
+PBA type,miller2_knwldgfrdvlpmnt(mrkr),0.10256410256410256,0
+PBA type,miller2_gndrqlt(mrkr),0.10256410256410256,0
+PBA type,miller2_rgnstnd,0.11504424778761062,0
+PBA type,miller2_rgnstnnm,0.11504424778761062,0
+PBA type,miller2_rgnstntp,0.10256410256410256,0
+PBA type,miller2_rgnstnclss,0.15384615384615385,0
+PBA type,miller2_rgnstnsb-clss,0.6153846153846154,0
+PBA type,miller2_cntnntd,0.1282051282051282,0
+PBA type,miller2_cntnntnm,0.1282051282051282,0
+PBA type,miller2_prjctbrwsrcntrd,0.2549019607843137,0
+PBA type,miller2_cntrrgnd,0.2746478873239437,0
+PBA type,miller2_cntrrgnnm,0.2689655172413793,0
+PBA type,miller2_cntrrgnprcnt,0.09701492537313433,0
+PBA type,miller2_sctrd,0.3170731707317073,0
+PBA type,miller2_sctrnm,0.3170731707317073,0
+PBA type,miller2_sctrprcnt,0.21081081081081082,0
+PBA type,miller2_mntspnt,0.007768924302788844,0
+Enviromental sustainability (marker),miller2_fsclr,0.3333333333333333,0
+Enviromental sustainability (marker),miller2_prjctnmbr,0.004665629860031105,0
+Enviromental sustainability (marker),miller2_stts,1.0,0
+Enviromental sustainability (marker),miller2_mxmmcdcntrbtn(prjct-lvl),0.005836575875486381,0
+Enviromental sustainability (marker),miller2_brnchd,0.6,0
+Enviromental sustainability (marker),miller2_brnchnm,0.6,0
+Enviromental sustainability (marker),miller2_dvsnd,0.23076923076923078,0
+Enviromental sustainability (marker),miller2_dvsnnm,0.23076923076923078,0
+Enviromental sustainability (marker),miller2_sctnd,0.12,0
+Enviromental sustainability (marker),miller2_sctnnm,0.12,0
+Enviromental sustainability (marker),miller2_rgnlprgrm(mrkr),0.6666666666666666,0
+Enviromental sustainability (marker),miller2_fndcntrd,0.057692307692307696,0
+Enviromental sustainability (marker),miller2_fndcntrnm,0.057692307692307696,0
+Enviromental sustainability (marker),miller2_ntdmnt(prjct-lvlbdgt),0.0069124423963133645,0
+Enviromental sustainability (marker),miller2_fstcprcnt,0.061224489795918366,0
+Enviromental sustainability (marker),miller2_rtcprcnt,1.0,0
+Enviromental sustainability (marker),miller2_cfl(mrkr),0.6666666666666666,0
+Enviromental sustainability (marker),miller2_cdbsnssdlvrmdl(ld),1.0,0
+Enviromental sustainability (marker),miller2_prgrmmngprcss(nw),0.3333333333333333,0
+Enviromental sustainability (marker),miller2_bltrld(ntrntnlmrkr),0.6666666666666666,0
+Enviromental sustainability (marker),miller2_pbtp,0.3333333333333333,0
+Enviromental sustainability (marker),miller2_nvrmntlsstnblt(mrkr),1.0,1
+Enviromental sustainability (marker),miller2_clmtchngdpttn(mrkr),1.0,0
+Enviromental sustainability (marker),miller2_clmtchngmtgtn(mrkr),0.75,0
+Enviromental sustainability (marker),miller2_dsrtfctn(mrkr),0.75,0
+Enviromental sustainability (marker),miller2_prtcptrdvlpmntndgdgvrnnc,0.75,0
+Enviromental sustainability (marker),miller2_trddvlpmnt(mrkr),0.75,0
+Enviromental sustainability (marker),miller2_bdvrst(mrkr),0.75,0
+Enviromental sustainability (marker),miller2_rbnsss(mrkr),0.75,0
+Enviromental sustainability (marker),miller2_chldrnsss(mrkr),0.75,0
+Enviromental sustainability (marker),miller2_thsss(mrkr),0.75,0
+Enviromental sustainability (marker),miller2_ndgnssss(mrkr),0.75,0
+Enviromental sustainability (marker),miller2_dsbltsss(mrkr),0.75,0
+Enviromental sustainability (marker),miller2_ctstlfrdvlpmnt(mrkr),1.0,0
+Enviromental sustainability (marker),miller2_knwldgfrdvlpmnt(mrkr),0.75,0
+Enviromental sustainability (marker),miller2_gndrqlt(mrkr),0.75,0
+Enviromental sustainability (marker),miller2_rgnstnd,0.008849557522123894,0
+Enviromental sustainability (marker),miller2_rgnstnnm,0.008849557522123894,0
+Enviromental sustainability (marker),miller2_rgnstntp,0.75,0
+Enviromental sustainability (marker),miller2_rgnstnclss,0.5,0
+Enviromental sustainability (marker),miller2_rgnstnsb-clss,0.125,0
+Enviromental sustainability (marker),miller2_cntnntd,0.6,0
+Enviromental sustainability (marker),miller2_cntnntnm,0.6,0
+Enviromental sustainability (marker),miller2_prjctbrwsrcntrd,0.0196078431372549,0
+Enviromental sustainability (marker),miller2_cntrrgnd,0.02112676056338028,0
+Enviromental sustainability (marker),miller2_cntrrgnnm,0.020689655172413793,0
+Enviromental sustainability (marker),miller2_cntrrgnprcnt,0.007462686567164179,0
+Enviromental sustainability (marker),miller2_sctrd,0.024390243902439025,0
+Enviromental sustainability (marker),miller2_sctrnm,0.024390243902439025,0
+Enviromental sustainability (marker),miller2_sctrprcnt,0.016216216216216217,0
+Enviromental sustainability (marker),miller2_mntspnt,0.000597609561752988,0
+Climate change adaptation (marker),miller2_fsclr,0.3333333333333333,0
+Climate change adaptation (marker),miller2_prjctnmbr,0.004665629860031105,0
+Climate change adaptation (marker),miller2_stts,1.0,0
+Climate change adaptation (marker),miller2_mxmmcdcntrbtn(prjct-lvl),0.005836575875486381,0
+Climate change adaptation (marker),miller2_brnchd,0.6,0
+Climate change adaptation (marker),miller2_brnchnm,0.6,0
+Climate change adaptation (marker),miller2_dvsnd,0.23076923076923078,0
+Climate change adaptation (marker),miller2_dvsnnm,0.23076923076923078,0
+Climate change adaptation (marker),miller2_sctnd,0.12,0
+Climate change adaptation (marker),miller2_sctnnm,0.12,0
+Climate change adaptation (marker),miller2_rgnlprgrm(mrkr),0.6666666666666666,0
+Climate change adaptation (marker),miller2_fndcntrd,0.057692307692307696,0
+Climate change adaptation (marker),miller2_fndcntrnm,0.057692307692307696,0
+Climate change adaptation (marker),miller2_ntdmnt(prjct-lvlbdgt),0.0069124423963133645,0
+Climate change adaptation (marker),miller2_fstcprcnt,0.061224489795918366,0
+Climate change adaptation (marker),miller2_rtcprcnt,1.0,0
+Climate change adaptation (marker),miller2_cfl(mrkr),0.6666666666666666,0
+Climate change adaptation (marker),miller2_cdbsnssdlvrmdl(ld),1.0,0
+Climate change adaptation (marker),miller2_prgrmmngprcss(nw),0.3333333333333333,0
+Climate change adaptation (marker),miller2_bltrld(ntrntnlmrkr),0.6666666666666666,0
+Climate change adaptation (marker),miller2_pbtp,0.3333333333333333,0
+Climate change adaptation (marker),miller2_nvrmntlsstnblt(mrkr),1.0,0
+Climate change adaptation (marker),miller2_clmtchngdpttn(mrkr),1.0,1
+Climate change adaptation (marker),miller2_clmtchngmtgtn(mrkr),0.75,0
+Climate change adaptation (marker),miller2_dsrtfctn(mrkr),0.75,0
+Climate change adaptation (marker),miller2_prtcptrdvlpmntndgdgvrnnc,0.75,0
+Climate change adaptation (marker),miller2_trddvlpmnt(mrkr),0.75,0
+Climate change adaptation (marker),miller2_bdvrst(mrkr),0.75,0
+Climate change adaptation (marker),miller2_rbnsss(mrkr),0.75,0
+Climate change adaptation (marker),miller2_chldrnsss(mrkr),0.75,0
+Climate change adaptation (marker),miller2_thsss(mrkr),0.75,0
+Climate change adaptation (marker),miller2_ndgnssss(mrkr),0.75,0
+Climate change adaptation (marker),miller2_dsbltsss(mrkr),0.75,0
+Climate change adaptation (marker),miller2_ctstlfrdvlpmnt(mrkr),1.0,0
+Climate change adaptation (marker),miller2_knwldgfrdvlpmnt(mrkr),0.75,0
+Climate change adaptation (marker),miller2_gndrqlt(mrkr),0.75,0
+Climate change adaptation (marker),miller2_rgnstnd,0.008849557522123894,0
+Climate change adaptation (marker),miller2_rgnstnnm,0.008849557522123894,0
+Climate change adaptation (marker),miller2_rgnstntp,0.75,0
+Climate change adaptation (marker),miller2_rgnstnclss,0.5,0
+Climate change adaptation (marker),miller2_rgnstnsb-clss,0.125,0
+Climate change adaptation (marker),miller2_cntnntd,0.6,0
+Climate change adaptation (marker),miller2_cntnntnm,0.6,0
+Climate change adaptation (marker),miller2_prjctbrwsrcntrd,0.0196078431372549,0
+Climate change adaptation (marker),miller2_cntrrgnd,0.02112676056338028,0
+Climate change adaptation (marker),miller2_cntrrgnnm,0.020689655172413793,0
+Climate change adaptation (marker),miller2_cntrrgnprcnt,0.007462686567164179,0
+Climate change adaptation (marker),miller2_sctrd,0.024390243902439025,0
+Climate change adaptation (marker),miller2_sctrnm,0.024390243902439025,0
+Climate change adaptation (marker),miller2_sctrprcnt,0.016216216216216217,0
+Climate change adaptation (marker),miller2_mntspnt,0.000597609561752988,0
+Climate change mitigation (marker),miller2_fsclr,0.25,0
+Climate change mitigation (marker),miller2_prjctnmbr,0.006220839813374806,0
+Climate change mitigation (marker),miller2_stts,0.75,0
+Climate change mitigation (marker),miller2_mxmmcdcntrbtn(prjct-lvl),0.007782101167315175,0
+Climate change mitigation (marker),miller2_brnchd,0.8,0
+Climate change mitigation (marker),miller2_brnchnm,0.8,0
+Climate change mitigation (marker),miller2_dvsnd,0.3076923076923077,0
+Climate change mitigation (marker),miller2_dvsnnm,0.3076923076923077,0
+Climate change mitigation (marker),miller2_sctnd,0.16,0
+Climate change mitigation (marker),miller2_sctnnm,0.16,0
+Climate change mitigation (marker),miller2_rgnlprgrm(mrkr),0.5,0
+Climate change mitigation (marker),miller2_fndcntrd,0.07692307692307693,0
+Climate change mitigation (marker),miller2_fndcntrnm,0.07692307692307693,0
+Climate change mitigation (marker),miller2_ntdmnt(prjct-lvlbdgt),0.009216589861751152,0
+Climate change mitigation (marker),miller2_fstcprcnt,0.08163265306122448,0
+Climate change mitigation (marker),miller2_rtcprcnt,0.75,0
+Climate change mitigation (marker),miller2_cfl(mrkr),0.5,0
+Climate change mitigation (marker),miller2_cdbsnssdlvrmdl(ld),0.75,0
+Climate change mitigation (marker),miller2_prgrmmngprcss(nw),0.25,0
+Climate change mitigation (marker),miller2_bltrld(ntrntnlmrkr),0.5,0
+Climate change mitigation (marker),miller2_pbtp,0.25,0
+Climate change mitigation (marker),miller2_nvrmntlsstnblt(mrkr),0.75,0
+Climate change mitigation (marker),miller2_clmtchngdpttn(mrkr),0.75,0
+Climate change mitigation (marker),miller2_clmtchngmtgtn(mrkr),1.0,1
+Climate change mitigation (marker),miller2_dsrtfctn(mrkr),1.0,0
+Climate change mitigation (marker),miller2_prtcptrdvlpmntndgdgvrnnc,1.0,0
+Climate change mitigation (marker),miller2_trddvlpmnt(mrkr),1.0,0
+Climate change mitigation (marker),miller2_bdvrst(mrkr),1.0,0
+Climate change mitigation (marker),miller2_rbnsss(mrkr),1.0,0
+Climate change mitigation (marker),miller2_chldrnsss(mrkr),1.0,0
+Climate change mitigation (marker),miller2_thsss(mrkr),1.0,0
+Climate change mitigation (marker),miller2_ndgnssss(mrkr),1.0,0
+Climate change mitigation (marker),miller2_dsbltsss(mrkr),1.0,0
+Climate change mitigation (marker),miller2_ctstlfrdvlpmnt(mrkr),0.75,0
+Climate change mitigation (marker),miller2_knwldgfrdvlpmnt(mrkr),1.0,0
+Climate change mitigation (marker),miller2_gndrqlt(mrkr),1.0,0
+Climate change mitigation (marker),miller2_rgnstnd,0.011799410029498525,0
+Climate change mitigation (marker),miller2_rgnstnnm,0.011799410029498525,0
+Climate change mitigation (marker),miller2_rgnstntp,1.0,0
+Climate change mitigation (marker),miller2_rgnstnclss,0.6666666666666666,0
+Climate change mitigation (marker),miller2_rgnstnsb-clss,0.16666666666666666,0
+Climate change mitigation (marker),miller2_cntnntd,0.8,0
+Climate change mitigation (marker),miller2_cntnntnm,0.8,0
+Climate change mitigation (marker),miller2_prjctbrwsrcntrd,0.026143790849673203,0
+Climate change mitigation (marker),miller2_cntrrgnd,0.028169014084507043,0
+Climate change mitigation (marker),miller2_cntrrgnnm,0.027586206896551724,0
+Climate change mitigation (marker),miller2_cntrrgnprcnt,0.009950248756218905,0
+Climate change mitigation (marker),miller2_sctrd,0.032520325203252036,0
+Climate change mitigation (marker),miller2_sctrnm,0.032520325203252036,0
+Climate change mitigation (marker),miller2_sctrprcnt,0.021621621621621623,0
+Climate change mitigation (marker),miller2_mntspnt,0.0007968127490039841,0
+Desertification (marker),miller2_fsclr,0.25,0
+Desertification (marker),miller2_prjctnmbr,0.006220839813374806,0
+Desertification (marker),miller2_stts,0.75,0
+Desertification (marker),miller2_mxmmcdcntrbtn(prjct-lvl),0.007782101167315175,0
+Desertification (marker),miller2_brnchd,0.8,0
+Desertification (marker),miller2_brnchnm,0.8,0
+Desertification (marker),miller2_dvsnd,0.3076923076923077,0
+Desertification (marker),miller2_dvsnnm,0.3076923076923077,0
+Desertification (marker),miller2_sctnd,0.16,0
+Desertification (marker),miller2_sctnnm,0.16,0
+Desertification (marker),miller2_rgnlprgrm(mrkr),0.5,0
+Desertification (marker),miller2_fndcntrd,0.07692307692307693,0
+Desertification (marker),miller2_fndcntrnm,0.07692307692307693,0
+Desertification (marker),miller2_ntdmnt(prjct-lvlbdgt),0.009216589861751152,0
+Desertification (marker),miller2_fstcprcnt,0.08163265306122448,0
+Desertification (marker),miller2_rtcprcnt,0.75,0
+Desertification (marker),miller2_cfl(mrkr),0.5,0
+Desertification (marker),miller2_cdbsnssdlvrmdl(ld),0.75,0
+Desertification (marker),miller2_prgrmmngprcss(nw),0.25,0
+Desertification (marker),miller2_bltrld(ntrntnlmrkr),0.5,0
+Desertification (marker),miller2_pbtp,0.25,0
+Desertification (marker),miller2_nvrmntlsstnblt(mrkr),0.75,0
+Desertification (marker),miller2_clmtchngdpttn(mrkr),0.75,0
+Desertification (marker),miller2_clmtchngmtgtn(mrkr),1.0,0
+Desertification (marker),miller2_dsrtfctn(mrkr),1.0,1
+Desertification (marker),miller2_prtcptrdvlpmntndgdgvrnnc,1.0,0
+Desertification (marker),miller2_trddvlpmnt(mrkr),1.0,0
+Desertification (marker),miller2_bdvrst(mrkr),1.0,0
+Desertification (marker),miller2_rbnsss(mrkr),1.0,0
+Desertification (marker),miller2_chldrnsss(mrkr),1.0,0
+Desertification (marker),miller2_thsss(mrkr),1.0,0
+Desertification (marker),miller2_ndgnssss(mrkr),1.0,0
+Desertification (marker),miller2_dsbltsss(mrkr),1.0,0
+Desertification (marker),miller2_ctstlfrdvlpmnt(mrkr),0.75,0
+Desertification (marker),miller2_knwldgfrdvlpmnt(mrkr),1.0,0
+Desertification (marker),miller2_gndrqlt(mrkr),1.0,0
+Desertification (marker),miller2_rgnstnd,0.011799410029498525,0
+Desertification (marker),miller2_rgnstnnm,0.011799410029498525,0
+Desertification (marker),miller2_rgnstntp,1.0,0
+Desertification (marker),miller2_rgnstnclss,0.6666666666666666,0
+Desertification (marker),miller2_rgnstnsb-clss,0.16666666666666666,0
+Desertification (marker),miller2_cntnntd,0.8,0
+Desertification (marker),miller2_cntnntnm,0.8,0
+Desertification (marker),miller2_prjctbrwsrcntrd,0.026143790849673203,0
+Desertification (marker),miller2_cntrrgnd,0.028169014084507043,0
+Desertification (marker),miller2_cntrrgnnm,0.027586206896551724,0
+Desertification (marker),miller2_cntrrgnprcnt,0.009950248756218905,0
+Desertification (marker),miller2_sctrd,0.032520325203252036,0
+Desertification (marker),miller2_sctrnm,0.032520325203252036,0
+Desertification (marker),miller2_sctrprcnt,0.021621621621621623,0
+Desertification (marker),miller2_mntspnt,0.0007968127490039841,0
+Participatory development and good governance,miller2_fsclr,0.25,0
+Participatory development and good governance,miller2_prjctnmbr,0.006220839813374806,0
+Participatory development and good governance,miller2_stts,0.75,0
+Participatory development and good governance,miller2_mxmmcdcntrbtn(prjct-lvl),0.007782101167315175,0
+Participatory development and good governance,miller2_brnchd,0.8,0
+Participatory development and good governance,miller2_brnchnm,0.8,0
+Participatory development and good governance,miller2_dvsnd,0.3076923076923077,0
+Participatory development and good governance,miller2_dvsnnm,0.3076923076923077,0
+Participatory development and good governance,miller2_sctnd,0.16,0
+Participatory development and good governance,miller2_sctnnm,0.16,0
+Participatory development and good governance,miller2_rgnlprgrm(mrkr),0.5,0
+Participatory development and good governance,miller2_fndcntrd,0.07692307692307693,0
+Participatory development and good governance,miller2_fndcntrnm,0.07692307692307693,0
+Participatory development and good governance,miller2_ntdmnt(prjct-lvlbdgt),0.009216589861751152,0
+Participatory development and good governance,miller2_fstcprcnt,0.08163265306122448,0
+Participatory development and good governance,miller2_rtcprcnt,0.75,0
+Participatory development and good governance,miller2_cfl(mrkr),0.5,0
+Participatory development and good governance,miller2_cdbsnssdlvrmdl(ld),0.75,0
+Participatory development and good governance,miller2_prgrmmngprcss(nw),0.25,0
+Participatory development and good governance,miller2_bltrld(ntrntnlmrkr),0.5,0
+Participatory development and good governance,miller2_pbtp,0.25,0
+Participatory development and good governance,miller2_nvrmntlsstnblt(mrkr),0.75,0
+Participatory development and good governance,miller2_clmtchngdpttn(mrkr),0.75,0
+Participatory development and good governance,miller2_clmtchngmtgtn(mrkr),1.0,0
+Participatory development and good governance,miller2_dsrtfctn(mrkr),1.0,0
+Participatory development and good governance,miller2_prtcptrdvlpmntndgdgvrnnc,1.0,1
+Participatory development and good governance,miller2_trddvlpmnt(mrkr),1.0,0
+Participatory development and good governance,miller2_bdvrst(mrkr),1.0,0
+Participatory development and good governance,miller2_rbnsss(mrkr),1.0,0
+Participatory development and good governance,miller2_chldrnsss(mrkr),1.0,0
+Participatory development and good governance,miller2_thsss(mrkr),1.0,0
+Participatory development and good governance,miller2_ndgnssss(mrkr),1.0,0
+Participatory development and good governance,miller2_dsbltsss(mrkr),1.0,0
+Participatory development and good governance,miller2_ctstlfrdvlpmnt(mrkr),0.75,0
+Participatory development and good governance,miller2_knwldgfrdvlpmnt(mrkr),1.0,0
+Participatory development and good governance,miller2_gndrqlt(mrkr),1.0,0
+Participatory development and good governance,miller2_rgnstnd,0.011799410029498525,0
+Participatory development and good governance,miller2_rgnstnnm,0.011799410029498525,0
+Participatory development and good governance,miller2_rgnstntp,1.0,0
+Participatory development and good governance,miller2_rgnstnclss,0.6666666666666666,0
+Participatory development and good governance,miller2_rgnstnsb-clss,0.16666666666666666,0
+Participatory development and good governance,miller2_cntnntd,0.8,0
+Participatory development and good governance,miller2_cntnntnm,0.8,0
+Participatory development and good governance,miller2_prjctbrwsrcntrd,0.026143790849673203,0
+Participatory development and good governance,miller2_cntrrgnd,0.028169014084507043,0
+Participatory development and good governance,miller2_cntrrgnnm,0.027586206896551724,0
+Participatory development and good governance,miller2_cntrrgnprcnt,0.009950248756218905,0
+Participatory development and good governance,miller2_sctrd,0.032520325203252036,0
+Participatory development and good governance,miller2_sctrnm,0.032520325203252036,0
+Participatory development and good governance,miller2_sctrprcnt,0.021621621621621623,0
+Participatory development and good governance,miller2_mntspnt,0.0007968127490039841,0
+Trade development (marker),miller2_fsclr,0.25,0
+Trade development (marker),miller2_prjctnmbr,0.006220839813374806,0
+Trade development (marker),miller2_stts,0.75,0
+Trade development (marker),miller2_mxmmcdcntrbtn(prjct-lvl),0.007782101167315175,0
+Trade development (marker),miller2_brnchd,0.8,0
+Trade development (marker),miller2_brnchnm,0.8,0
+Trade development (marker),miller2_dvsnd,0.3076923076923077,0
+Trade development (marker),miller2_dvsnnm,0.3076923076923077,0
+Trade development (marker),miller2_sctnd,0.16,0
+Trade development (marker),miller2_sctnnm,0.16,0
+Trade development (marker),miller2_rgnlprgrm(mrkr),0.5,0
+Trade development (marker),miller2_fndcntrd,0.07692307692307693,0
+Trade development (marker),miller2_fndcntrnm,0.07692307692307693,0
+Trade development (marker),miller2_ntdmnt(prjct-lvlbdgt),0.009216589861751152,0
+Trade development (marker),miller2_fstcprcnt,0.08163265306122448,0
+Trade development (marker),miller2_rtcprcnt,0.75,0
+Trade development (marker),miller2_cfl(mrkr),0.5,0
+Trade development (marker),miller2_cdbsnssdlvrmdl(ld),0.75,0
+Trade development (marker),miller2_prgrmmngprcss(nw),0.25,0
+Trade development (marker),miller2_bltrld(ntrntnlmrkr),0.5,0
+Trade development (marker),miller2_pbtp,0.25,0
+Trade development (marker),miller2_nvrmntlsstnblt(mrkr),0.75,0
+Trade development (marker),miller2_clmtchngdpttn(mrkr),0.75,0
+Trade development (marker),miller2_clmtchngmtgtn(mrkr),1.0,0
+Trade development (marker),miller2_dsrtfctn(mrkr),1.0,0
+Trade development (marker),miller2_prtcptrdvlpmntndgdgvrnnc,1.0,0
+Trade development (marker),miller2_trddvlpmnt(mrkr),1.0,1
+Trade development (marker),miller2_bdvrst(mrkr),1.0,0
+Trade development (marker),miller2_rbnsss(mrkr),1.0,0
+Trade development (marker),miller2_chldrnsss(mrkr),1.0,0
+Trade development (marker),miller2_thsss(mrkr),1.0,0
+Trade development (marker),miller2_ndgnssss(mrkr),1.0,0
+Trade development (marker),miller2_dsbltsss(mrkr),1.0,0
+Trade development (marker),miller2_ctstlfrdvlpmnt(mrkr),0.75,0
+Trade development (marker),miller2_knwldgfrdvlpmnt(mrkr),1.0,0
+Trade development (marker),miller2_gndrqlt(mrkr),1.0,0
+Trade development (marker),miller2_rgnstnd,0.011799410029498525,0
+Trade development (marker),miller2_rgnstnnm,0.011799410029498525,0
+Trade development (marker),miller2_rgnstntp,1.0,0
+Trade development (marker),miller2_rgnstnclss,0.6666666666666666,0
+Trade development (marker),miller2_rgnstnsb-clss,0.16666666666666666,0
+Trade development (marker),miller2_cntnntd,0.8,0
+Trade development (marker),miller2_cntnntnm,0.8,0
+Trade development (marker),miller2_prjctbrwsrcntrd,0.026143790849673203,0
+Trade development (marker),miller2_cntrrgnd,0.028169014084507043,0
+Trade development (marker),miller2_cntrrgnnm,0.027586206896551724,0
+Trade development (marker),miller2_cntrrgnprcnt,0.009950248756218905,0
+Trade development (marker),miller2_sctrd,0.032520325203252036,0
+Trade development (marker),miller2_sctrnm,0.032520325203252036,0
+Trade development (marker),miller2_sctrprcnt,0.021621621621621623,0
+Trade development (marker),miller2_mntspnt,0.0007968127490039841,0
+Biodiversity (marker),miller2_fsclr,0.25,0
+Biodiversity (marker),miller2_prjctnmbr,0.006220839813374806,0
+Biodiversity (marker),miller2_stts,0.75,0
+Biodiversity (marker),miller2_mxmmcdcntrbtn(prjct-lvl),0.007782101167315175,0
+Biodiversity (marker),miller2_brnchd,0.8,0
+Biodiversity (marker),miller2_brnchnm,0.8,0
+Biodiversity (marker),miller2_dvsnd,0.3076923076923077,0
+Biodiversity (marker),miller2_dvsnnm,0.3076923076923077,0
+Biodiversity (marker),miller2_sctnd,0.16,0
+Biodiversity (marker),miller2_sctnnm,0.16,0
+Biodiversity (marker),miller2_rgnlprgrm(mrkr),0.5,0
+Biodiversity (marker),miller2_fndcntrd,0.07692307692307693,0
+Biodiversity (marker),miller2_fndcntrnm,0.07692307692307693,0
+Biodiversity (marker),miller2_ntdmnt(prjct-lvlbdgt),0.009216589861751152,0
+Biodiversity (marker),miller2_fstcprcnt,0.08163265306122448,0
+Biodiversity (marker),miller2_rtcprcnt,0.75,0
+Biodiversity (marker),miller2_cfl(mrkr),0.5,0
+Biodiversity (marker),miller2_cdbsnssdlvrmdl(ld),0.75,0
+Biodiversity (marker),miller2_prgrmmngprcss(nw),0.25,0
+Biodiversity (marker),miller2_bltrld(ntrntnlmrkr),0.5,0
+Biodiversity (marker),miller2_pbtp,0.25,0
+Biodiversity (marker),miller2_nvrmntlsstnblt(mrkr),0.75,0
+Biodiversity (marker),miller2_clmtchngdpttn(mrkr),0.75,0
+Biodiversity (marker),miller2_clmtchngmtgtn(mrkr),1.0,0
+Biodiversity (marker),miller2_dsrtfctn(mrkr),1.0,0
+Biodiversity (marker),miller2_prtcptrdvlpmntndgdgvrnnc,1.0,0
+Biodiversity (marker),miller2_trddvlpmnt(mrkr),1.0,0
+Biodiversity (marker),miller2_bdvrst(mrkr),1.0,1
+Biodiversity (marker),miller2_rbnsss(mrkr),1.0,0
+Biodiversity (marker),miller2_chldrnsss(mrkr),1.0,0
+Biodiversity (marker),miller2_thsss(mrkr),1.0,0
+Biodiversity (marker),miller2_ndgnssss(mrkr),1.0,0
+Biodiversity (marker),miller2_dsbltsss(mrkr),1.0,0
+Biodiversity (marker),miller2_ctstlfrdvlpmnt(mrkr),0.75,0
+Biodiversity (marker),miller2_knwldgfrdvlpmnt(mrkr),1.0,0
+Biodiversity (marker),miller2_gndrqlt(mrkr),1.0,0
+Biodiversity (marker),miller2_rgnstnd,0.011799410029498525,0
+Biodiversity (marker),miller2_rgnstnnm,0.011799410029498525,0
+Biodiversity (marker),miller2_rgnstntp,1.0,0
+Biodiversity (marker),miller2_rgnstnclss,0.6666666666666666,0
+Biodiversity (marker),miller2_rgnstnsb-clss,0.16666666666666666,0
+Biodiversity (marker),miller2_cntnntd,0.8,0
+Biodiversity (marker),miller2_cntnntnm,0.8,0
+Biodiversity (marker),miller2_prjctbrwsrcntrd,0.026143790849673203,0
+Biodiversity (marker),miller2_cntrrgnd,0.028169014084507043,0
+Biodiversity (marker),miller2_cntrrgnnm,0.027586206896551724,0
+Biodiversity (marker),miller2_cntrrgnprcnt,0.009950248756218905,0
+Biodiversity (marker),miller2_sctrd,0.032520325203252036,0
+Biodiversity (marker),miller2_sctrnm,0.032520325203252036,0
+Biodiversity (marker),miller2_sctrprcnt,0.021621621621621623,0
+Biodiversity (marker),miller2_mntspnt,0.0007968127490039841,0
+Urban issues (marker),miller2_fsclr,0.3333333333333333,0
+Urban issues (marker),miller2_prjctnmbr,0.004665629860031105,0
+Urban issues (marker),miller2_stts,1.0,0
+Urban issues (marker),miller2_mxmmcdcntrbtn(prjct-lvl),0.005836575875486381,0
+Urban issues (marker),miller2_brnchd,0.6,0
+Urban issues (marker),miller2_brnchnm,0.6,0
+Urban issues (marker),miller2_dvsnd,0.23076923076923078,0
+Urban issues (marker),miller2_dvsnnm,0.23076923076923078,0
+Urban issues (marker),miller2_sctnd,0.12,0
+Urban issues (marker),miller2_sctnnm,0.12,0
+Urban issues (marker),miller2_rgnlprgrm(mrkr),0.6666666666666666,0
+Urban issues (marker),miller2_fndcntrd,0.057692307692307696,0
+Urban issues (marker),miller2_fndcntrnm,0.057692307692307696,0
+Urban issues (marker),miller2_ntdmnt(prjct-lvlbdgt),0.0069124423963133645,0
+Urban issues (marker),miller2_fstcprcnt,0.061224489795918366,0
+Urban issues (marker),miller2_rtcprcnt,1.0,0
+Urban issues (marker),miller2_cfl(mrkr),0.6666666666666666,0
+Urban issues (marker),miller2_cdbsnssdlvrmdl(ld),1.0,0
+Urban issues (marker),miller2_prgrmmngprcss(nw),0.3333333333333333,0
+Urban issues (marker),miller2_bltrld(ntrntnlmrkr),0.6666666666666666,0
+Urban issues (marker),miller2_pbtp,0.3333333333333333,0
+Urban issues (marker),miller2_nvrmntlsstnblt(mrkr),1.0,0
+Urban issues (marker),miller2_clmtchngdpttn(mrkr),1.0,0
+Urban issues (marker),miller2_clmtchngmtgtn(mrkr),0.75,0
+Urban issues (marker),miller2_dsrtfctn(mrkr),0.75,0
+Urban issues (marker),miller2_prtcptrdvlpmntndgdgvrnnc,0.75,0
+Urban issues (marker),miller2_trddvlpmnt(mrkr),0.75,0
+Urban issues (marker),miller2_bdvrst(mrkr),0.75,0
+Urban issues (marker),miller2_rbnsss(mrkr),0.75,1
+Urban issues (marker),miller2_chldrnsss(mrkr),0.75,0
+Urban issues (marker),miller2_thsss(mrkr),0.75,0
+Urban issues (marker),miller2_ndgnssss(mrkr),0.75,0
+Urban issues (marker),miller2_dsbltsss(mrkr),0.75,0
+Urban issues (marker),miller2_ctstlfrdvlpmnt(mrkr),1.0,0
+Urban issues (marker),miller2_knwldgfrdvlpmnt(mrkr),0.75,0
+Urban issues (marker),miller2_gndrqlt(mrkr),0.75,0
+Urban issues (marker),miller2_rgnstnd,0.008849557522123894,0
+Urban issues (marker),miller2_rgnstnnm,0.008849557522123894,0
+Urban issues (marker),miller2_rgnstntp,0.75,0
+Urban issues (marker),miller2_rgnstnclss,0.5,0
+Urban issues (marker),miller2_rgnstnsb-clss,0.125,0
+Urban issues (marker),miller2_cntnntd,0.6,0
+Urban issues (marker),miller2_cntnntnm,0.6,0
+Urban issues (marker),miller2_prjctbrwsrcntrd,0.0196078431372549,0
+Urban issues (marker),miller2_cntrrgnd,0.02112676056338028,0
+Urban issues (marker),miller2_cntrrgnnm,0.020689655172413793,0
+Urban issues (marker),miller2_cntrrgnprcnt,0.007462686567164179,0
+Urban issues (marker),miller2_sctrd,0.024390243902439025,0
+Urban issues (marker),miller2_sctrnm,0.024390243902439025,0
+Urban issues (marker),miller2_sctrprcnt,0.016216216216216217,0
+Urban issues (marker),miller2_mntspnt,0.000597609561752988,0
+Children issues (marker),miller2_fsclr,0.25,0
+Children issues (marker),miller2_prjctnmbr,0.006220839813374806,0
+Children issues (marker),miller2_stts,0.75,0
+Children issues (marker),miller2_mxmmcdcntrbtn(prjct-lvl),0.007782101167315175,0
+Children issues (marker),miller2_brnchd,0.8,0
+Children issues (marker),miller2_brnchnm,0.8,0
+Children issues (marker),miller2_dvsnd,0.3076923076923077,0
+Children issues (marker),miller2_dvsnnm,0.3076923076923077,0
+Children issues (marker),miller2_sctnd,0.16,0
+Children issues (marker),miller2_sctnnm,0.16,0
+Children issues (marker),miller2_rgnlprgrm(mrkr),0.5,0
+Children issues (marker),miller2_fndcntrd,0.07692307692307693,0
+Children issues (marker),miller2_fndcntrnm,0.07692307692307693,0
+Children issues (marker),miller2_ntdmnt(prjct-lvlbdgt),0.009216589861751152,0
+Children issues (marker),miller2_fstcprcnt,0.08163265306122448,0
+Children issues (marker),miller2_rtcprcnt,0.75,0
+Children issues (marker),miller2_cfl(mrkr),0.5,0
+Children issues (marker),miller2_cdbsnssdlvrmdl(ld),0.75,0
+Children issues (marker),miller2_prgrmmngprcss(nw),0.25,0
+Children issues (marker),miller2_bltrld(ntrntnlmrkr),0.5,0
+Children issues (marker),miller2_pbtp,0.25,0
+Children issues (marker),miller2_nvrmntlsstnblt(mrkr),0.75,0
+Children issues (marker),miller2_clmtchngdpttn(mrkr),0.75,0
+Children issues (marker),miller2_clmtchngmtgtn(mrkr),1.0,0
+Children issues (marker),miller2_dsrtfctn(mrkr),1.0,0
+Children issues (marker),miller2_prtcptrdvlpmntndgdgvrnnc,1.0,0
+Children issues (marker),miller2_trddvlpmnt(mrkr),1.0,0
+Children issues (marker),miller2_bdvrst(mrkr),1.0,0
+Children issues (marker),miller2_rbnsss(mrkr),1.0,0
+Children issues (marker),miller2_chldrnsss(mrkr),1.0,1
+Children issues (marker),miller2_thsss(mrkr),1.0,0
+Children issues (marker),miller2_ndgnssss(mrkr),1.0,0
+Children issues (marker),miller2_dsbltsss(mrkr),1.0,0
+Children issues (marker),miller2_ctstlfrdvlpmnt(mrkr),0.75,0
+Children issues (marker),miller2_knwldgfrdvlpmnt(mrkr),1.0,0
+Children issues (marker),miller2_gndrqlt(mrkr),1.0,0
+Children issues (marker),miller2_rgnstnd,0.011799410029498525,0
+Children issues (marker),miller2_rgnstnnm,0.011799410029498525,0
+Children issues (marker),miller2_rgnstntp,1.0,0
+Children issues (marker),miller2_rgnstnclss,0.6666666666666666,0
+Children issues (marker),miller2_rgnstnsb-clss,0.16666666666666666,0
+Children issues (marker),miller2_cntnntd,0.8,0
+Children issues (marker),miller2_cntnntnm,0.8,0
+Children issues (marker),miller2_prjctbrwsrcntrd,0.026143790849673203,0
+Children issues (marker),miller2_cntrrgnd,0.028169014084507043,0
+Children issues (marker),miller2_cntrrgnnm,0.027586206896551724,0
+Children issues (marker),miller2_cntrrgnprcnt,0.009950248756218905,0
+Children issues (marker),miller2_sctrd,0.032520325203252036,0
+Children issues (marker),miller2_sctrnm,0.032520325203252036,0
+Children issues (marker),miller2_sctrprcnt,0.021621621621621623,0
+Children issues (marker),miller2_mntspnt,0.0007968127490039841,0
+Youth issues (marker),miller2_fsclr,0.25,0
+Youth issues (marker),miller2_prjctnmbr,0.006220839813374806,0
+Youth issues (marker),miller2_stts,0.75,0
+Youth issues (marker),miller2_mxmmcdcntrbtn(prjct-lvl),0.007782101167315175,0
+Youth issues (marker),miller2_brnchd,0.8,0
+Youth issues (marker),miller2_brnchnm,0.8,0
+Youth issues (marker),miller2_dvsnd,0.3076923076923077,0
+Youth issues (marker),miller2_dvsnnm,0.3076923076923077,0
+Youth issues (marker),miller2_sctnd,0.16,0
+Youth issues (marker),miller2_sctnnm,0.16,0
+Youth issues (marker),miller2_rgnlprgrm(mrkr),0.5,0
+Youth issues (marker),miller2_fndcntrd,0.07692307692307693,0
+Youth issues (marker),miller2_fndcntrnm,0.07692307692307693,0
+Youth issues (marker),miller2_ntdmnt(prjct-lvlbdgt),0.009216589861751152,0
+Youth issues (marker),miller2_fstcprcnt,0.08163265306122448,0
+Youth issues (marker),miller2_rtcprcnt,0.75,0
+Youth issues (marker),miller2_cfl(mrkr),0.5,0
+Youth issues (marker),miller2_cdbsnssdlvrmdl(ld),0.75,0
+Youth issues (marker),miller2_prgrmmngprcss(nw),0.25,0
+Youth issues (marker),miller2_bltrld(ntrntnlmrkr),0.5,0
+Youth issues (marker),miller2_pbtp,0.25,0
+Youth issues (marker),miller2_nvrmntlsstnblt(mrkr),0.75,0
+Youth issues (marker),miller2_clmtchngdpttn(mrkr),0.75,0
+Youth issues (marker),miller2_clmtchngmtgtn(mrkr),1.0,0
+Youth issues (marker),miller2_dsrtfctn(mrkr),1.0,0
+Youth issues (marker),miller2_prtcptrdvlpmntndgdgvrnnc,1.0,0
+Youth issues (marker),miller2_trddvlpmnt(mrkr),1.0,0
+Youth issues (marker),miller2_bdvrst(mrkr),1.0,0
+Youth issues (marker),miller2_rbnsss(mrkr),1.0,0
+Youth issues (marker),miller2_chldrnsss(mrkr),1.0,0
+Youth issues (marker),miller2_thsss(mrkr),1.0,1
+Youth issues (marker),miller2_ndgnssss(mrkr),1.0,0
+Youth issues (marker),miller2_dsbltsss(mrkr),1.0,0
+Youth issues (marker),miller2_ctstlfrdvlpmnt(mrkr),0.75,0
+Youth issues (marker),miller2_knwldgfrdvlpmnt(mrkr),1.0,0
+Youth issues (marker),miller2_gndrqlt(mrkr),1.0,0
+Youth issues (marker),miller2_rgnstnd,0.011799410029498525,0
+Youth issues (marker),miller2_rgnstnnm,0.011799410029498525,0
+Youth issues (marker),miller2_rgnstntp,1.0,0
+Youth issues (marker),miller2_rgnstnclss,0.6666666666666666,0
+Youth issues (marker),miller2_rgnstnsb-clss,0.16666666666666666,0
+Youth issues (marker),miller2_cntnntd,0.8,0
+Youth issues (marker),miller2_cntnntnm,0.8,0
+Youth issues (marker),miller2_prjctbrwsrcntrd,0.026143790849673203,0
+Youth issues (marker),miller2_cntrrgnd,0.028169014084507043,0
+Youth issues (marker),miller2_cntrrgnnm,0.027586206896551724,0
+Youth issues (marker),miller2_cntrrgnprcnt,0.009950248756218905,0
+Youth issues (marker),miller2_sctrd,0.032520325203252036,0
+Youth issues (marker),miller2_sctrnm,0.032520325203252036,0
+Youth issues (marker),miller2_sctrprcnt,0.021621621621621623,0
+Youth issues (marker),miller2_mntspnt,0.0007968127490039841,0
+Indigenous issues (marker),miller2_fsclr,0.25,0
+Indigenous issues (marker),miller2_prjctnmbr,0.006220839813374806,0
+Indigenous issues (marker),miller2_stts,0.75,0
+Indigenous issues (marker),miller2_mxmmcdcntrbtn(prjct-lvl),0.007782101167315175,0
+Indigenous issues (marker),miller2_brnchd,0.8,0
+Indigenous issues (marker),miller2_brnchnm,0.8,0
+Indigenous issues (marker),miller2_dvsnd,0.3076923076923077,0
+Indigenous issues (marker),miller2_dvsnnm,0.3076923076923077,0
+Indigenous issues (marker),miller2_sctnd,0.16,0
+Indigenous issues (marker),miller2_sctnnm,0.16,0
+Indigenous issues (marker),miller2_rgnlprgrm(mrkr),0.5,0
+Indigenous issues (marker),miller2_fndcntrd,0.07692307692307693,0
+Indigenous issues (marker),miller2_fndcntrnm,0.07692307692307693,0
+Indigenous issues (marker),miller2_ntdmnt(prjct-lvlbdgt),0.009216589861751152,0
+Indigenous issues (marker),miller2_fstcprcnt,0.08163265306122448,0
+Indigenous issues (marker),miller2_rtcprcnt,0.75,0
+Indigenous issues (marker),miller2_cfl(mrkr),0.5,0
+Indigenous issues (marker),miller2_cdbsnssdlvrmdl(ld),0.75,0
+Indigenous issues (marker),miller2_prgrmmngprcss(nw),0.25,0
+Indigenous issues (marker),miller2_bltrld(ntrntnlmrkr),0.5,0
+Indigenous issues (marker),miller2_pbtp,0.25,0
+Indigenous issues (marker),miller2_nvrmntlsstnblt(mrkr),0.75,0
+Indigenous issues (marker),miller2_clmtchngdpttn(mrkr),0.75,0
+Indigenous issues (marker),miller2_clmtchngmtgtn(mrkr),1.0,0
+Indigenous issues (marker),miller2_dsrtfctn(mrkr),1.0,0
+Indigenous issues (marker),miller2_prtcptrdvlpmntndgdgvrnnc,1.0,0
+Indigenous issues (marker),miller2_trddvlpmnt(mrkr),1.0,0
+Indigenous issues (marker),miller2_bdvrst(mrkr),1.0,0
+Indigenous issues (marker),miller2_rbnsss(mrkr),1.0,0
+Indigenous issues (marker),miller2_chldrnsss(mrkr),1.0,0
+Indigenous issues (marker),miller2_thsss(mrkr),1.0,0
+Indigenous issues (marker),miller2_ndgnssss(mrkr),1.0,1
+Indigenous issues (marker),miller2_dsbltsss(mrkr),1.0,0
+Indigenous issues (marker),miller2_ctstlfrdvlpmnt(mrkr),0.75,0
+Indigenous issues (marker),miller2_knwldgfrdvlpmnt(mrkr),1.0,0
+Indigenous issues (marker),miller2_gndrqlt(mrkr),1.0,0
+Indigenous issues (marker),miller2_rgnstnd,0.011799410029498525,0
+Indigenous issues (marker),miller2_rgnstnnm,0.011799410029498525,0
+Indigenous issues (marker),miller2_rgnstntp,1.0,0
+Indigenous issues (marker),miller2_rgnstnclss,0.6666666666666666,0
+Indigenous issues (marker),miller2_rgnstnsb-clss,0.16666666666666666,0
+Indigenous issues (marker),miller2_cntnntd,0.8,0
+Indigenous issues (marker),miller2_cntnntnm,0.8,0
+Indigenous issues (marker),miller2_prjctbrwsrcntrd,0.026143790849673203,0
+Indigenous issues (marker),miller2_cntrrgnd,0.028169014084507043,0
+Indigenous issues (marker),miller2_cntrrgnnm,0.027586206896551724,0
+Indigenous issues (marker),miller2_cntrrgnprcnt,0.009950248756218905,0
+Indigenous issues (marker),miller2_sctrd,0.032520325203252036,0
+Indigenous issues (marker),miller2_sctrnm,0.032520325203252036,0
+Indigenous issues (marker),miller2_sctrprcnt,0.021621621621621623,0
+Indigenous issues (marker),miller2_mntspnt,0.0007968127490039841,0
+Disability issues (marker),miller2_fsclr,0.25,0
+Disability issues (marker),miller2_prjctnmbr,0.006220839813374806,0
+Disability issues (marker),miller2_stts,0.75,0
+Disability issues (marker),miller2_mxmmcdcntrbtn(prjct-lvl),0.007782101167315175,0
+Disability issues (marker),miller2_brnchd,0.8,0
+Disability issues (marker),miller2_brnchnm,0.8,0
+Disability issues (marker),miller2_dvsnd,0.3076923076923077,0
+Disability issues (marker),miller2_dvsnnm,0.3076923076923077,0
+Disability issues (marker),miller2_sctnd,0.16,0
+Disability issues (marker),miller2_sctnnm,0.16,0
+Disability issues (marker),miller2_rgnlprgrm(mrkr),0.5,0
+Disability issues (marker),miller2_fndcntrd,0.07692307692307693,0
+Disability issues (marker),miller2_fndcntrnm,0.07692307692307693,0
+Disability issues (marker),miller2_ntdmnt(prjct-lvlbdgt),0.009216589861751152,0
+Disability issues (marker),miller2_fstcprcnt,0.08163265306122448,0
+Disability issues (marker),miller2_rtcprcnt,0.75,0
+Disability issues (marker),miller2_cfl(mrkr),0.5,0
+Disability issues (marker),miller2_cdbsnssdlvrmdl(ld),0.75,0
+Disability issues (marker),miller2_prgrmmngprcss(nw),0.25,0
+Disability issues (marker),miller2_bltrld(ntrntnlmrkr),0.5,0
+Disability issues (marker),miller2_pbtp,0.25,0
+Disability issues (marker),miller2_nvrmntlsstnblt(mrkr),0.75,0
+Disability issues (marker),miller2_clmtchngdpttn(mrkr),0.75,0
+Disability issues (marker),miller2_clmtchngmtgtn(mrkr),1.0,0
+Disability issues (marker),miller2_dsrtfctn(mrkr),1.0,0
+Disability issues (marker),miller2_prtcptrdvlpmntndgdgvrnnc,1.0,0
+Disability issues (marker),miller2_trddvlpmnt(mrkr),1.0,0
+Disability issues (marker),miller2_bdvrst(mrkr),1.0,0
+Disability issues (marker),miller2_rbnsss(mrkr),1.0,0
+Disability issues (marker),miller2_chldrnsss(mrkr),1.0,0
+Disability issues (marker),miller2_thsss(mrkr),1.0,0
+Disability issues (marker),miller2_ndgnssss(mrkr),1.0,0
+Disability issues (marker),miller2_dsbltsss(mrkr),1.0,1
+Disability issues (marker),miller2_ctstlfrdvlpmnt(mrkr),0.75,0
+Disability issues (marker),miller2_knwldgfrdvlpmnt(mrkr),1.0,0
+Disability issues (marker),miller2_gndrqlt(mrkr),1.0,0
+Disability issues (marker),miller2_rgnstnd,0.011799410029498525,0
+Disability issues (marker),miller2_rgnstnnm,0.011799410029498525,0
+Disability issues (marker),miller2_rgnstntp,1.0,0
+Disability issues (marker),miller2_rgnstnclss,0.6666666666666666,0
+Disability issues (marker),miller2_rgnstnsb-clss,0.16666666666666666,0
+Disability issues (marker),miller2_cntnntd,0.8,0
+Disability issues (marker),miller2_cntnntnm,0.8,0
+Disability issues (marker),miller2_prjctbrwsrcntrd,0.026143790849673203,0
+Disability issues (marker),miller2_cntrrgnd,0.028169014084507043,0
+Disability issues (marker),miller2_cntrrgnnm,0.027586206896551724,0
+Disability issues (marker),miller2_cntrrgnprcnt,0.009950248756218905,0
+Disability issues (marker),miller2_sctrd,0.032520325203252036,0
+Disability issues (marker),miller2_sctrnm,0.032520325203252036,0
+Disability issues (marker),miller2_sctrprcnt,0.021621621621621623,0
+Disability issues (marker),miller2_mntspnt,0.0007968127490039841,0
+ICT as a tool for development (marker),miller2_fsclr,0.25,0
+ICT as a tool for development (marker),miller2_prjctnmbr,0.006220839813374806,0
+ICT as a tool for development (marker),miller2_stts,0.75,0
+ICT as a tool for development (marker),miller2_mxmmcdcntrbtn(prjct-lvl),0.007782101167315175,0
+ICT as a tool for development (marker),miller2_brnchd,0.8,0
+ICT as a tool for development (marker),miller2_brnchnm,0.8,0
+ICT as a tool for development (marker),miller2_dvsnd,0.3076923076923077,0
+ICT as a tool for development (marker),miller2_dvsnnm,0.3076923076923077,0
+ICT as a tool for development (marker),miller2_sctnd,0.16,0
+ICT as a tool for development (marker),miller2_sctnnm,0.16,0
+ICT as a tool for development (marker),miller2_rgnlprgrm(mrkr),0.5,0
+ICT as a tool for development (marker),miller2_fndcntrd,0.07692307692307693,0
+ICT as a tool for development (marker),miller2_fndcntrnm,0.07692307692307693,0
+ICT as a tool for development (marker),miller2_ntdmnt(prjct-lvlbdgt),0.009216589861751152,0
+ICT as a tool for development (marker),miller2_fstcprcnt,0.08163265306122448,0
+ICT as a tool for development (marker),miller2_rtcprcnt,0.75,0
+ICT as a tool for development (marker),miller2_cfl(mrkr),0.5,0
+ICT as a tool for development (marker),miller2_cdbsnssdlvrmdl(ld),0.75,0
+ICT as a tool for development (marker),miller2_prgrmmngprcss(nw),0.25,0
+ICT as a tool for development (marker),miller2_bltrld(ntrntnlmrkr),0.5,0
+ICT as a tool for development (marker),miller2_pbtp,0.25,0
+ICT as a tool for development (marker),miller2_nvrmntlsstnblt(mrkr),0.75,0
+ICT as a tool for development (marker),miller2_clmtchngdpttn(mrkr),0.75,0
+ICT as a tool for development (marker),miller2_clmtchngmtgtn(mrkr),1.0,0
+ICT as a tool for development (marker),miller2_dsrtfctn(mrkr),1.0,0
+ICT as a tool for development (marker),miller2_prtcptrdvlpmntndgdgvrnnc,1.0,0
+ICT as a tool for development (marker),miller2_trddvlpmnt(mrkr),1.0,0
+ICT as a tool for development (marker),miller2_bdvrst(mrkr),1.0,0
+ICT as a tool for development (marker),miller2_rbnsss(mrkr),1.0,0
+ICT as a tool for development (marker),miller2_chldrnsss(mrkr),1.0,0
+ICT as a tool for development (marker),miller2_thsss(mrkr),1.0,0
+ICT as a tool for development (marker),miller2_ndgnssss(mrkr),1.0,0
+ICT as a tool for development (marker),miller2_dsbltsss(mrkr),1.0,0
+ICT as a tool for development (marker),miller2_ctstlfrdvlpmnt(mrkr),0.75,1
+ICT as a tool for development (marker),miller2_knwldgfrdvlpmnt(mrkr),1.0,0
+ICT as a tool for development (marker),miller2_gndrqlt(mrkr),1.0,0
+ICT as a tool for development (marker),miller2_rgnstnd,0.011799410029498525,0
+ICT as a tool for development (marker),miller2_rgnstnnm,0.011799410029498525,0
+ICT as a tool for development (marker),miller2_rgnstntp,1.0,0
+ICT as a tool for development (marker),miller2_rgnstnclss,0.6666666666666666,0
+ICT as a tool for development (marker),miller2_rgnstnsb-clss,0.16666666666666666,0
+ICT as a tool for development (marker),miller2_cntnntd,0.8,0
+ICT as a tool for development (marker),miller2_cntnntnm,0.8,0
+ICT as a tool for development (marker),miller2_prjctbrwsrcntrd,0.026143790849673203,0
+ICT as a tool for development (marker),miller2_cntrrgnd,0.028169014084507043,0
+ICT as a tool for development (marker),miller2_cntrrgnnm,0.027586206896551724,0
+ICT as a tool for development (marker),miller2_cntrrgnprcnt,0.009950248756218905,0
+ICT as a tool for development (marker),miller2_sctrd,0.032520325203252036,0
+ICT as a tool for development (marker),miller2_sctrnm,0.032520325203252036,0
+ICT as a tool for development (marker),miller2_sctrprcnt,0.021621621621621623,0
+ICT as a tool for development (marker),miller2_mntspnt,0.0007968127490039841,0
+Knowledge for development (marker),miller2_fsclr,0.25,0
+Knowledge for development (marker),miller2_prjctnmbr,0.006220839813374806,0
+Knowledge for development (marker),miller2_stts,0.75,0
+Knowledge for development (marker),miller2_mxmmcdcntrbtn(prjct-lvl),0.007782101167315175,0
+Knowledge for development (marker),miller2_brnchd,0.8,0
+Knowledge for development (marker),miller2_brnchnm,0.8,0
+Knowledge for development (marker),miller2_dvsnd,0.3076923076923077,0
+Knowledge for development (marker),miller2_dvsnnm,0.3076923076923077,0
+Knowledge for development (marker),miller2_sctnd,0.16,0
+Knowledge for development (marker),miller2_sctnnm,0.16,0
+Knowledge for development (marker),miller2_rgnlprgrm(mrkr),0.5,0
+Knowledge for development (marker),miller2_fndcntrd,0.07692307692307693,0
+Knowledge for development (marker),miller2_fndcntrnm,0.07692307692307693,0
+Knowledge for development (marker),miller2_ntdmnt(prjct-lvlbdgt),0.009216589861751152,0
+Knowledge for development (marker),miller2_fstcprcnt,0.08163265306122448,0
+Knowledge for development (marker),miller2_rtcprcnt,0.75,0
+Knowledge for development (marker),miller2_cfl(mrkr),0.5,0
+Knowledge for development (marker),miller2_cdbsnssdlvrmdl(ld),0.75,0
+Knowledge for development (marker),miller2_prgrmmngprcss(nw),0.25,0
+Knowledge for development (marker),miller2_bltrld(ntrntnlmrkr),0.5,0
+Knowledge for development (marker),miller2_pbtp,0.25,0
+Knowledge for development (marker),miller2_nvrmntlsstnblt(mrkr),0.75,0
+Knowledge for development (marker),miller2_clmtchngdpttn(mrkr),0.75,0
+Knowledge for development (marker),miller2_clmtchngmtgtn(mrkr),1.0,0
+Knowledge for development (marker),miller2_dsrtfctn(mrkr),1.0,0
+Knowledge for development (marker),miller2_prtcptrdvlpmntndgdgvrnnc,1.0,0
+Knowledge for development (marker),miller2_trddvlpmnt(mrkr),1.0,0
+Knowledge for development (marker),miller2_bdvrst(mrkr),1.0,0
+Knowledge for development (marker),miller2_rbnsss(mrkr),1.0,0
+Knowledge for development (marker),miller2_chldrnsss(mrkr),1.0,0
+Knowledge for development (marker),miller2_thsss(mrkr),1.0,0
+Knowledge for development (marker),miller2_ndgnssss(mrkr),1.0,0
+Knowledge for development (marker),miller2_dsbltsss(mrkr),1.0,0
+Knowledge for development (marker),miller2_ctstlfrdvlpmnt(mrkr),0.75,0
+Knowledge for development (marker),miller2_knwldgfrdvlpmnt(mrkr),1.0,1
+Knowledge for development (marker),miller2_gndrqlt(mrkr),1.0,0
+Knowledge for development (marker),miller2_rgnstnd,0.011799410029498525,0
+Knowledge for development (marker),miller2_rgnstnnm,0.011799410029498525,0
+Knowledge for development (marker),miller2_rgnstntp,1.0,0
+Knowledge for development (marker),miller2_rgnstnclss,0.6666666666666666,0
+Knowledge for development (marker),miller2_rgnstnsb-clss,0.16666666666666666,0
+Knowledge for development (marker),miller2_cntnntd,0.8,0
+Knowledge for development (marker),miller2_cntnntnm,0.8,0
+Knowledge for development (marker),miller2_prjctbrwsrcntrd,0.026143790849673203,0
+Knowledge for development (marker),miller2_cntrrgnd,0.028169014084507043,0
+Knowledge for development (marker),miller2_cntrrgnnm,0.027586206896551724,0
+Knowledge for development (marker),miller2_cntrrgnprcnt,0.009950248756218905,0
+Knowledge for development (marker),miller2_sctrd,0.032520325203252036,0
+Knowledge for development (marker),miller2_sctrnm,0.032520325203252036,0
+Knowledge for development (marker),miller2_sctrprcnt,0.021621621621621623,0
+Knowledge for development (marker),miller2_mntspnt,0.0007968127490039841,0
+Gender equality (marker),miller2_fsclr,0.25,0
+Gender equality (marker),miller2_prjctnmbr,0.006220839813374806,0
+Gender equality (marker),miller2_stts,0.75,0
+Gender equality (marker),miller2_mxmmcdcntrbtn(prjct-lvl),0.007782101167315175,0
+Gender equality (marker),miller2_brnchd,0.8,0
+Gender equality (marker),miller2_brnchnm,0.8,0
+Gender equality (marker),miller2_dvsnd,0.3076923076923077,0
+Gender equality (marker),miller2_dvsnnm,0.3076923076923077,0
+Gender equality (marker),miller2_sctnd,0.16,0
+Gender equality (marker),miller2_sctnnm,0.16,0
+Gender equality (marker),miller2_rgnlprgrm(mrkr),0.5,0
+Gender equality (marker),miller2_fndcntrd,0.07692307692307693,0
+Gender equality (marker),miller2_fndcntrnm,0.07692307692307693,0
+Gender equality (marker),miller2_ntdmnt(prjct-lvlbdgt),0.009216589861751152,0
+Gender equality (marker),miller2_fstcprcnt,0.08163265306122448,0
+Gender equality (marker),miller2_rtcprcnt,0.75,0
+Gender equality (marker),miller2_cfl(mrkr),0.5,0
+Gender equality (marker),miller2_cdbsnssdlvrmdl(ld),0.75,0
+Gender equality (marker),miller2_prgrmmngprcss(nw),0.25,0
+Gender equality (marker),miller2_bltrld(ntrntnlmrkr),0.5,0
+Gender equality (marker),miller2_pbtp,0.25,0
+Gender equality (marker),miller2_nvrmntlsstnblt(mrkr),0.75,0
+Gender equality (marker),miller2_clmtchngdpttn(mrkr),0.75,0
+Gender equality (marker),miller2_clmtchngmtgtn(mrkr),1.0,0
+Gender equality (marker),miller2_dsrtfctn(mrkr),1.0,0
+Gender equality (marker),miller2_prtcptrdvlpmntndgdgvrnnc,1.0,0
+Gender equality (marker),miller2_trddvlpmnt(mrkr),1.0,0
+Gender equality (marker),miller2_bdvrst(mrkr),1.0,0
+Gender equality (marker),miller2_rbnsss(mrkr),1.0,0
+Gender equality (marker),miller2_chldrnsss(mrkr),1.0,0
+Gender equality (marker),miller2_thsss(mrkr),1.0,0
+Gender equality (marker),miller2_ndgnssss(mrkr),1.0,0
+Gender equality (marker),miller2_dsbltsss(mrkr),1.0,0
+Gender equality (marker),miller2_ctstlfrdvlpmnt(mrkr),0.75,0
+Gender equality (marker),miller2_knwldgfrdvlpmnt(mrkr),1.0,0
+Gender equality (marker),miller2_gndrqlt(mrkr),1.0,1
+Gender equality (marker),miller2_rgnstnd,0.011799410029498525,0
+Gender equality (marker),miller2_rgnstnnm,0.011799410029498525,0
+Gender equality (marker),miller2_rgnstntp,1.0,0
+Gender equality (marker),miller2_rgnstnclss,0.6666666666666666,0
+Gender equality (marker),miller2_rgnstnsb-clss,0.16666666666666666,0
+Gender equality (marker),miller2_cntnntd,0.8,0
+Gender equality (marker),miller2_cntnntnm,0.8,0
+Gender equality (marker),miller2_prjctbrwsrcntrd,0.026143790849673203,0
+Gender equality (marker),miller2_cntrrgnd,0.028169014084507043,0
+Gender equality (marker),miller2_cntrrgnnm,0.027586206896551724,0
+Gender equality (marker),miller2_cntrrgnprcnt,0.009950248756218905,0
+Gender equality (marker),miller2_sctrd,0.032520325203252036,0
+Gender equality (marker),miller2_sctrnm,0.032520325203252036,0
+Gender equality (marker),miller2_sctrprcnt,0.021621621621621623,0
+Gender equality (marker),miller2_mntspnt,0.0007968127490039841,0
+Organisation ID,miller2_fsclr,0.0014124293785310734,0
+Organisation ID,miller2_prjctnmbr,0.9081920903954802,0
+Organisation ID,miller2_stts,0.00423728813559322,0
+Organisation ID,miller2_mxmmcdcntrbtn(prjct-lvl),0.7259887005649718,0
+Organisation ID,miller2_brnchd,0.007062146892655367,0
+Organisation ID,miller2_brnchnm,0.007062146892655367,0
+Organisation ID,miller2_dvsnd,0.018361581920903956,0
+Organisation ID,miller2_dvsnnm,0.018361581920903956,0
+Organisation ID,miller2_sctnd,0.03531073446327684,0
+Organisation ID,miller2_sctnnm,0.03531073446327684,0
+Organisation ID,miller2_rgnlprgrm(mrkr),0.002824858757062147,0
+Organisation ID,miller2_fndcntrd,0.07344632768361582,0
+Organisation ID,miller2_fndcntrnm,0.07344632768361582,0
+Organisation ID,miller2_ntdmnt(prjct-lvlbdgt),0.6129943502824858,0
+Organisation ID,miller2_fstcprcnt,0.0692090395480226,0
+Organisation ID,miller2_rtcprcnt,0.00423728813559322,0
+Organisation ID,miller2_cfl(mrkr),0.002824858757062147,0
+Organisation ID,miller2_cdbsnssdlvrmdl(ld),0.00423728813559322,0
+Organisation ID,miller2_prgrmmngprcss(nw),0.0014124293785310734,0
+Organisation ID,miller2_bltrld(ntrntnlmrkr),0.002824858757062147,0
+Organisation ID,miller2_pbtp,0.0014124293785310734,0
+Organisation ID,miller2_nvrmntlsstnblt(mrkr),0.00423728813559322,0
+Organisation ID,miller2_clmtchngdpttn(mrkr),0.00423728813559322,0
+Organisation ID,miller2_clmtchngmtgtn(mrkr),0.005649717514124294,0
+Organisation ID,miller2_dsrtfctn(mrkr),0.005649717514124294,0
+Organisation ID,miller2_prtcptrdvlpmntndgdgvrnnc,0.005649717514124294,0
+Organisation ID,miller2_trddvlpmnt(mrkr),0.005649717514124294,0
+Organisation ID,miller2_bdvrst(mrkr),0.005649717514124294,0
+Organisation ID,miller2_rbnsss(mrkr),0.005649717514124294,0
+Organisation ID,miller2_chldrnsss(mrkr),0.005649717514124294,0
+Organisation ID,miller2_thsss(mrkr),0.005649717514124294,0
+Organisation ID,miller2_ndgnssss(mrkr),0.005649717514124294,0
+Organisation ID,miller2_dsbltsss(mrkr),0.005649717514124294,0
+Organisation ID,miller2_ctstlfrdvlpmnt(mrkr),0.00423728813559322,0
+Organisation ID,miller2_knwldgfrdvlpmnt(mrkr),0.005649717514124294,0
+Organisation ID,miller2_gndrqlt(mrkr),0.005649717514124294,0
+Organisation ID,miller2_rgnstnd,0.4788135593220339,1
+Organisation ID,miller2_rgnstnnm,0.4788135593220339,0
+Organisation ID,miller2_rgnstntp,0.005649717514124294,0
+Organisation ID,miller2_rgnstnclss,0.00847457627118644,0
+Organisation ID,miller2_rgnstnsb-clss,0.03389830508474576,0
+Organisation ID,miller2_cntnntd,0.007062146892655367,0
+Organisation ID,miller2_cntnntnm,0.007062146892655367,0
+Organisation ID,miller2_prjctbrwsrcntrd,0.21610169491525424,0
+Organisation ID,miller2_cntrrgnd,0.20056497175141244,0
+Organisation ID,miller2_cntrrgnnm,0.20480225988700565,0
+Organisation ID,miller2_cntrrgnprcnt,0.5677966101694916,0
+Organisation ID,miller2_sctrd,0.17372881355932204,0
+Organisation ID,miller2_sctrnm,0.17372881355932204,0
+Organisation ID,miller2_sctrprcnt,0.2612994350282486,0
+Organisation ID,miller2_mntspnt,0.14103585657370518,0
+Organisation name,miller2_fsclr,0.00016778523489932885,0
+Organisation name,miller2_prjctnmbr,0.10788590604026846,0
+Organisation name,miller2_stts,0.0005033557046979866,0
+Organisation name,miller2_mxmmcdcntrbtn(prjct-lvl),0.08624161073825504,0
+Organisation name,miller2_brnchd,0.0008389261744966443,0
+Organisation name,miller2_brnchnm,0.0008389261744966443,0
+Organisation name,miller2_dvsnd,0.002181208053691275,0
+Organisation name,miller2_dvsnnm,0.002181208053691275,0
+Organisation name,miller2_sctnd,0.0041946308724832215,0
+Organisation name,miller2_sctnnm,0.0041946308724832215,0
+Organisation name,miller2_rgnlprgrm(mrkr),0.0003355704697986577,0
+Organisation name,miller2_fndcntrd,0.0087248322147651,0
+Organisation name,miller2_fndcntrnm,0.0087248322147651,0
+Organisation name,miller2_ntdmnt(prjct-lvlbdgt),0.07281879194630872,0
+Organisation name,miller2_fstcprcnt,0.008221476510067114,0
+Organisation name,miller2_rtcprcnt,0.0005033557046979866,0
+Organisation name,miller2_cfl(mrkr),0.0003355704697986577,0
+Organisation name,miller2_cdbsnssdlvrmdl(ld),0.0005033557046979866,0
+Organisation name,miller2_prgrmmngprcss(nw),0.00016778523489932885,0
+Organisation name,miller2_bltrld(ntrntnlmrkr),0.0003355704697986577,0
+Organisation name,miller2_pbtp,0.00016778523489932885,0
+Organisation name,miller2_nvrmntlsstnblt(mrkr),0.0005033557046979866,0
+Organisation name,miller2_clmtchngdpttn(mrkr),0.0005033557046979866,0
+Organisation name,miller2_clmtchngmtgtn(mrkr),0.0006711409395973154,0
+Organisation name,miller2_dsrtfctn(mrkr),0.0006711409395973154,0
+Organisation name,miller2_prtcptrdvlpmntndgdgvrnnc,0.0006711409395973154,0
+Organisation name,miller2_trddvlpmnt(mrkr),0.0006711409395973154,0
+Organisation name,miller2_bdvrst(mrkr),0.0006711409395973154,0
+Organisation name,miller2_rbnsss(mrkr),0.0006711409395973154,0
+Organisation name,miller2_chldrnsss(mrkr),0.0006711409395973154,0
+Organisation name,miller2_thsss(mrkr),0.0006711409395973154,0
+Organisation name,miller2_ndgnssss(mrkr),0.0006711409395973154,0
+Organisation name,miller2_dsbltsss(mrkr),0.0006711409395973154,0
+Organisation name,miller2_ctstlfrdvlpmnt(mrkr),0.0005033557046979866,0
+Organisation name,miller2_knwldgfrdvlpmnt(mrkr),0.0006711409395973154,0
+Organisation name,miller2_gndrqlt(mrkr),0.0006711409395973154,0
+Organisation name,miller2_rgnstnd,0.05687919463087248,0
+Organisation name,miller2_rgnstnnm,0.05687919463087248,1
+Organisation name,miller2_rgnstntp,0.0006711409395973154,0
+Organisation name,miller2_rgnstnclss,0.0010067114093959733,0
+Organisation name,miller2_rgnstnsb-clss,0.004026845637583893,0
+Organisation name,miller2_cntnntd,0.0008389261744966443,0
+Organisation name,miller2_cntnntnm,0.0008389261744966443,0
+Organisation name,miller2_prjctbrwsrcntrd,0.025671140939597315,0
+Organisation name,miller2_cntrrgnd,0.0238255033557047,0
+Organisation name,miller2_cntrrgnnm,0.024328859060402684,0
+Organisation name,miller2_cntrrgnprcnt,0.0674496644295302,0
+Organisation name,miller2_sctrd,0.02063758389261745,0
+Organisation name,miller2_sctrnm,0.02063758389261745,0
+Organisation name,miller2_sctrprcnt,0.03104026845637584,0
+Organisation name,miller2_mntspnt,0.8422818791946308,0
+Organisation type,miller2_fsclr,0.00017214666896195557,0
+Organisation type,miller2_prjctnmbr,0.11069030814253744,0
+Organisation type,miller2_stts,0.0005164400068858667,0
+Organisation type,miller2_mxmmcdcntrbtn(prjct-lvl),0.08848338784644517,0
+Organisation type,miller2_brnchd,0.000860733344809778,0
+Organisation type,miller2_brnchnm,0.000860733344809778,0
+Organisation type,miller2_dvsnd,0.002237906696505423,0
+Organisation type,miller2_dvsnnm,0.002237906696505423,0
+Organisation type,miller2_sctnd,0.00430366672404889,0
+Organisation type,miller2_sctnnm,0.00430366672404889,0
+Organisation type,miller2_rgnlprgrm(mrkr),0.00034429333792391115,0
+Organisation type,miller2_fndcntrd,0.008951626786021691,0
+Organisation type,miller2_fndcntrnm,0.008951626786021691,0
+Organisation type,miller2_ntdmnt(prjct-lvlbdgt),0.07471165432948873,0
+Organisation type,miller2_fstcprcnt,0.008435186779135824,0
+Organisation type,miller2_rtcprcnt,0.0005164400068858667,0
+Organisation type,miller2_cfl(mrkr),0.00034429333792391115,0
+Organisation type,miller2_cdbsnssdlvrmdl(ld),0.0005164400068858667,0
+Organisation type,miller2_prgrmmngprcss(nw),0.00017214666896195557,0
+Organisation type,miller2_bltrld(ntrntnlmrkr),0.00034429333792391115,0
+Organisation type,miller2_pbtp,0.00017214666896195557,0
+Organisation type,miller2_nvrmntlsstnblt(mrkr),0.0005164400068858667,0
+Organisation type,miller2_clmtchngdpttn(mrkr),0.0005164400068858667,0
+Organisation type,miller2_clmtchngmtgtn(mrkr),0.0006885866758478223,0
+Organisation type,miller2_dsrtfctn(mrkr),0.0006885866758478223,0
+Organisation type,miller2_prtcptrdvlpmntndgdgvrnnc,0.0006885866758478223,0
+Organisation type,miller2_trddvlpmnt(mrkr),0.0006885866758478223,0
+Organisation type,miller2_bdvrst(mrkr),0.0006885866758478223,0
+Organisation type,miller2_rbnsss(mrkr),0.0006885866758478223,0
+Organisation type,miller2_chldrnsss(mrkr),0.0006885866758478223,0
+Organisation type,miller2_thsss(mrkr),0.0006885866758478223,0
+Organisation type,miller2_ndgnssss(mrkr),0.0006885866758478223,0
+Organisation type,miller2_dsbltsss(mrkr),0.0006885866758478223,0
+Organisation type,miller2_ctstlfrdvlpmnt(mrkr),0.0005164400068858667,0
+Organisation type,miller2_knwldgfrdvlpmnt(mrkr),0.0006885866758478223,0
+Organisation type,miller2_gndrqlt(mrkr),0.0006885866758478223,0
+Organisation type,miller2_rgnstnd,0.058357720778102945,0
+Organisation type,miller2_rgnstnnm,0.058357720778102945,0
+Organisation type,miller2_rgnstntp,0.0006885866758478223,1
+Organisation type,miller2_rgnstnclss,0.0010328800137717334,0
+Organisation type,miller2_rgnstnsb-clss,0.004131520055086934,0
+Organisation type,miller2_cntnntd,0.000860733344809778,0
+Organisation type,miller2_cntnntnm,0.000860733344809778,0
+Organisation type,miller2_prjctbrwsrcntrd,0.026338440351179205,0
+Organisation type,miller2_cntrrgnd,0.024444826992597694,0
+Organisation type,miller2_cntrrgnnm,0.02496126699948356,0
+Organisation type,miller2_cntrrgnprcnt,0.06920296092270614,0
+Organisation type,miller2_sctrd,0.021174040282320537,0
+Organisation type,miller2_sctrnm,0.021174040282320537,0
+Organisation type,miller2_sctrprcnt,0.03184713375796178,0
+Organisation type,miller2_mntspnt,0.864176278189017,0
+Organisation class,miller2_fsclr,0.0002857959416976279,0
+Organisation class,miller2_prjctnmbr,0.18376679051157474,0
+Organisation class,miller2_stts,0.0008573878250928837,0
+Organisation class,miller2_mxmmcdcntrbtn(prjct-lvl),0.14689911403258074,0
+Organisation class,miller2_brnchd,0.0014289797084881394,0
+Organisation class,miller2_brnchnm,0.0014289797084881394,0
+Organisation class,miller2_dvsnd,0.003715347242069163,0
+Organisation class,miller2_dvsnnm,0.003715347242069163,0
+Organisation class,miller2_sctnd,0.007144898542440698,0
+Organisation class,miller2_sctnnm,0.007144898542440698,0
+Organisation class,miller2_rgnlprgrm(mrkr),0.0005715918833952558,0
+Organisation class,miller2_fndcntrd,0.014861388968276651,0
+Organisation class,miller2_fndcntrnm,0.014861388968276651,0
+Organisation class,miller2_ntdmnt(prjct-lvlbdgt),0.1240354386967705,0
+Organisation class,miller2_fstcprcnt,0.014004001143183767,0
+Organisation class,miller2_rtcprcnt,0.0008573878250928837,0
+Organisation class,miller2_cfl(mrkr),0.0005715918833952558,0
+Organisation class,miller2_cdbsnssdlvrmdl(ld),0.0008573878250928837,0
+Organisation class,miller2_prgrmmngprcss(nw),0.0002857959416976279,0
+Organisation class,miller2_bltrld(ntrntnlmrkr),0.0005715918833952558,0
+Organisation class,miller2_pbtp,0.0002857959416976279,0
+Organisation class,miller2_nvrmntlsstnblt(mrkr),0.0008573878250928837,0
+Organisation class,miller2_clmtchngdpttn(mrkr),0.0008573878250928837,0
+Organisation class,miller2_clmtchngmtgtn(mrkr),0.0011431837667905116,0
+Organisation class,miller2_dsrtfctn(mrkr),0.0011431837667905116,0
+Organisation class,miller2_prtcptrdvlpmntndgdgvrnnc,0.0011431837667905116,0
+Organisation class,miller2_trddvlpmnt(mrkr),0.0011431837667905116,0
+Organisation class,miller2_bdvrst(mrkr),0.0011431837667905116,0
+Organisation class,miller2_rbnsss(mrkr),0.0011431837667905116,0
+Organisation class,miller2_chldrnsss(mrkr),0.0011431837667905116,0
+Organisation class,miller2_thsss(mrkr),0.0011431837667905116,0
+Organisation class,miller2_ndgnssss(mrkr),0.0011431837667905116,0
+Organisation class,miller2_dsbltsss(mrkr),0.0011431837667905116,0
+Organisation class,miller2_ctstlfrdvlpmnt(mrkr),0.0008573878250928837,0
+Organisation class,miller2_knwldgfrdvlpmnt(mrkr),0.0011431837667905116,0
+Organisation class,miller2_gndrqlt(mrkr),0.0011431837667905116,0
+Organisation class,miller2_rgnstnd,0.09688482423549585,0
+Organisation class,miller2_rgnstnnm,0.09688482423549585,0
+Organisation class,miller2_rgnstntp,0.0011431837667905116,0
+Organisation class,miller2_rgnstnclss,0.0017147756501857674,1
+Organisation class,miller2_rgnstnsb-clss,0.00685910260074307,0
+Organisation class,miller2_cntnntd,0.0014289797084881394,0
+Organisation class,miller2_cntnntnm,0.0014289797084881394,0
+Organisation class,miller2_prjctbrwsrcntrd,0.043726779079737065,0
+Organisation class,miller2_cntrrgnd,0.04058302372106316,0
+Organisation class,miller2_cntrrgnnm,0.04144041154615605,0
+Organisation class,miller2_cntrrgnprcnt,0.11488996856244642,0
+Organisation class,miller2_sctrd,0.03515290082880823,0
+Organisation class,miller2_sctrnm,0.03515290082880823,0
+Organisation class,miller2_sctrprcnt,0.05287224921406116,0
+Organisation class,miller2_mntspnt,0.697011952191235,0
+Organisation sub-class,miller2_fsclr,0.00030156815440289503,0
+Organisation sub-class,miller2_prjctnmbr,0.19390832328106153,0
+Organisation sub-class,miller2_stts,0.0009047044632086852,0
+Organisation sub-class,miller2_mxmmcdcntrbtn(prjct-lvl),0.15500603136308805,0
+Organisation sub-class,miller2_brnchd,0.0015078407720144752,0
+Organisation sub-class,miller2_brnchnm,0.0015078407720144752,0
+Organisation sub-class,miller2_dvsnd,0.0039203860072376355,0
+Organisation sub-class,miller2_dvsnnm,0.0039203860072376355,0
+Organisation sub-class,miller2_sctnd,0.0075392038600723766,0
+Organisation sub-class,miller2_sctnnm,0.0075392038600723766,0
+Organisation sub-class,miller2_rgnlprgrm(mrkr),0.0006031363088057901,0
+Organisation sub-class,miller2_fndcntrd,0.015681544028950542,0
+Organisation sub-class,miller2_fndcntrnm,0.015681544028950542,0
+Organisation sub-class,miller2_ntdmnt(prjct-lvlbdgt),0.13088057901085645,0
+Organisation sub-class,miller2_fstcprcnt,0.014776839565741858,0
+Organisation sub-class,miller2_rtcprcnt,0.0009047044632086852,0
+Organisation sub-class,miller2_cfl(mrkr),0.0006031363088057901,0
+Organisation sub-class,miller2_cdbsnssdlvrmdl(ld),0.0009047044632086852,0
+Organisation sub-class,miller2_prgrmmngprcss(nw),0.00030156815440289503,0
+Organisation sub-class,miller2_bltrld(ntrntnlmrkr),0.0006031363088057901,0
+Organisation sub-class,miller2_pbtp,0.00030156815440289503,0
+Organisation sub-class,miller2_nvrmntlsstnblt(mrkr),0.0009047044632086852,0
+Organisation sub-class,miller2_clmtchngdpttn(mrkr),0.0009047044632086852,0
+Organisation sub-class,miller2_clmtchngmtgtn(mrkr),0.0012062726176115801,0
+Organisation sub-class,miller2_dsrtfctn(mrkr),0.0012062726176115801,0
+Organisation sub-class,miller2_prtcptrdvlpmntndgdgvrnnc,0.0012062726176115801,0
+Organisation sub-class,miller2_trddvlpmnt(mrkr),0.0012062726176115801,0
+Organisation sub-class,miller2_bdvrst(mrkr),0.0012062726176115801,0
+Organisation sub-class,miller2_rbnsss(mrkr),0.0012062726176115801,0
+Organisation sub-class,miller2_chldrnsss(mrkr),0.0012062726176115801,0
+Organisation sub-class,miller2_thsss(mrkr),0.0012062726176115801,0
+Organisation sub-class,miller2_ndgnssss(mrkr),0.0012062726176115801,0
+Organisation sub-class,miller2_dsbltsss(mrkr),0.0012062726176115801,0
+Organisation sub-class,miller2_ctstlfrdvlpmnt(mrkr),0.0009047044632086852,0
+Organisation sub-class,miller2_knwldgfrdvlpmnt(mrkr),0.0012062726176115801,0
+Organisation sub-class,miller2_gndrqlt(mrkr),0.0012062726176115801,0
+Organisation sub-class,miller2_rgnstnd,0.10223160434258143,0
+Organisation sub-class,miller2_rgnstnnm,0.10223160434258143,0
+Organisation sub-class,miller2_rgnstntp,0.0012062726176115801,0
+Organisation sub-class,miller2_rgnstnclss,0.0018094089264173703,0
+Organisation sub-class,miller2_rgnstnsb-clss,0.007237635705669481,1
+Organisation sub-class,miller2_cntnntd,0.0015078407720144752,0
+Organisation sub-class,miller2_cntnntnm,0.0015078407720144752,0
+Organisation sub-class,miller2_prjctbrwsrcntrd,0.04613992762364294,0
+Organisation sub-class,miller2_cntrrgnd,0.0428226779252111,0
+Organisation sub-class,miller2_cntrrgnnm,0.043727382388419785,0
+Organisation sub-class,miller2_cntrrgnprcnt,0.12123039806996382,0
+Organisation sub-class,miller2_sctrd,0.037092882991556095,0
+Organisation sub-class,miller2_sctrnm,0.037092882991556095,0
+Organisation sub-class,miller2_sctrprcnt,0.05579010856453558,0
+Organisation sub-class,miller2_mntspnt,0.6605577689243027,0
+Continent ID,miller2_fsclr,0.2,0
+Continent ID,miller2_prjctnmbr,0.007776049766718507,0
+Continent ID,miller2_stts,0.6,0
+Continent ID,miller2_mxmmcdcntrbtn(prjct-lvl),0.009727626459143969,0
+Continent ID,miller2_brnchd,1.0,0
+Continent ID,miller2_brnchnm,1.0,0
+Continent ID,miller2_dvsnd,0.38461538461538464,0
+Continent ID,miller2_dvsnnm,0.38461538461538464,0
+Continent ID,miller2_sctnd,0.2,0
+Continent ID,miller2_sctnnm,0.2,0
+Continent ID,miller2_rgnlprgrm(mrkr),0.4,0
+Continent ID,miller2_fndcntrd,0.09615384615384616,0
+Continent ID,miller2_fndcntrnm,0.09615384615384616,0
+Continent ID,miller2_ntdmnt(prjct-lvlbdgt),0.01152073732718894,0
+Continent ID,miller2_fstcprcnt,0.10204081632653061,0
+Continent ID,miller2_rtcprcnt,0.6,0
+Continent ID,miller2_cfl(mrkr),0.4,0
+Continent ID,miller2_cdbsnssdlvrmdl(ld),0.6,0
+Continent ID,miller2_prgrmmngprcss(nw),0.2,0
+Continent ID,miller2_bltrld(ntrntnlmrkr),0.4,0
+Continent ID,miller2_pbtp,0.2,0
+Continent ID,miller2_nvrmntlsstnblt(mrkr),0.6,0
+Continent ID,miller2_clmtchngdpttn(mrkr),0.6,0
+Continent ID,miller2_clmtchngmtgtn(mrkr),0.8,0
+Continent ID,miller2_dsrtfctn(mrkr),0.8,0
+Continent ID,miller2_prtcptrdvlpmntndgdgvrnnc,0.8,0
+Continent ID,miller2_trddvlpmnt(mrkr),0.8,0
+Continent ID,miller2_bdvrst(mrkr),0.8,0
+Continent ID,miller2_rbnsss(mrkr),0.8,0
+Continent ID,miller2_chldrnsss(mrkr),0.8,0
+Continent ID,miller2_thsss(mrkr),0.8,0
+Continent ID,miller2_ndgnssss(mrkr),0.8,0
+Continent ID,miller2_dsbltsss(mrkr),0.8,0
+Continent ID,miller2_ctstlfrdvlpmnt(mrkr),0.6,0
+Continent ID,miller2_knwldgfrdvlpmnt(mrkr),0.8,0
+Continent ID,miller2_gndrqlt(mrkr),0.8,0
+Continent ID,miller2_rgnstnd,0.014749262536873156,0
+Continent ID,miller2_rgnstnnm,0.014749262536873156,0
+Continent ID,miller2_rgnstntp,0.8,0
+Continent ID,miller2_rgnstnclss,0.8333333333333334,0
+Continent ID,miller2_rgnstnsb-clss,0.20833333333333334,0
+Continent ID,miller2_cntnntd,1.0,1
+Continent ID,miller2_cntnntnm,1.0,0
+Continent ID,miller2_prjctbrwsrcntrd,0.032679738562091505,0
+Continent ID,miller2_cntrrgnd,0.035211267605633804,0
+Continent ID,miller2_cntrrgnnm,0.034482758620689655,0
+Continent ID,miller2_cntrrgnprcnt,0.012437810945273632,0
+Continent ID,miller2_sctrd,0.04065040650406504,0
+Continent ID,miller2_sctrnm,0.04065040650406504,0
+Continent ID,miller2_sctrprcnt,0.02702702702702703,0
+Continent ID,miller2_mntspnt,0.00099601593625498,0
+Continent name,miller2_fsclr,0.005813953488372093,0
+Continent name,miller2_prjctnmbr,0.26749611197511663,0
+Continent name,miller2_stts,0.01744186046511628,0
+Continent name,miller2_mxmmcdcntrbtn(prjct-lvl),0.3346303501945525,0
+Continent name,miller2_brnchd,0.029069767441860465,0
+Continent name,miller2_brnchnm,0.029069767441860465,0
+Continent name,miller2_dvsnd,0.0755813953488372,0
+Continent name,miller2_dvsnnm,0.0755813953488372,0
+Continent name,miller2_sctnd,0.14534883720930233,0
+Continent name,miller2_sctnnm,0.14534883720930233,0
+Continent name,miller2_rgnlprgrm(mrkr),0.011627906976744186,0
+Continent name,miller2_fndcntrd,0.3023255813953488,0
+Continent name,miller2_fndcntrnm,0.3023255813953488,0
+Continent name,miller2_ntdmnt(prjct-lvlbdgt),0.39631336405529954,0
+Continent name,miller2_fstcprcnt,0.28488372093023256,0
+Continent name,miller2_rtcprcnt,0.01744186046511628,0
+Continent name,miller2_cfl(mrkr),0.011627906976744186,0
+Continent name,miller2_cdbsnssdlvrmdl(ld),0.01744186046511628,0
+Continent name,miller2_prgrmmngprcss(nw),0.005813953488372093,0
+Continent name,miller2_bltrld(ntrntnlmrkr),0.011627906976744186,0
+Continent name,miller2_pbtp,0.005813953488372093,0
+Continent name,miller2_nvrmntlsstnblt(mrkr),0.01744186046511628,0
+Continent name,miller2_clmtchngdpttn(mrkr),0.01744186046511628,0
+Continent name,miller2_clmtchngmtgtn(mrkr),0.023255813953488372,0
+Continent name,miller2_dsrtfctn(mrkr),0.023255813953488372,0
+Continent name,miller2_prtcptrdvlpmntndgdgvrnnc,0.023255813953488372,0
+Continent name,miller2_trddvlpmnt(mrkr),0.023255813953488372,0
+Continent name,miller2_bdvrst(mrkr),0.023255813953488372,0
+Continent name,miller2_rbnsss(mrkr),0.023255813953488372,0
+Continent name,miller2_chldrnsss(mrkr),0.023255813953488372,0
+Continent name,miller2_thsss(mrkr),0.023255813953488372,0
+Continent name,miller2_ndgnssss(mrkr),0.023255813953488372,0
+Continent name,miller2_dsbltsss(mrkr),0.023255813953488372,0
+Continent name,miller2_ctstlfrdvlpmnt(mrkr),0.01744186046511628,0
+Continent name,miller2_knwldgfrdvlpmnt(mrkr),0.023255813953488372,0
+Continent name,miller2_gndrqlt(mrkr),0.023255813953488372,0
+Continent name,miller2_rgnstnd,0.5073746312684366,0
+Continent name,miller2_rgnstnnm,0.5073746312684366,0
+Continent name,miller2_rgnstntp,0.023255813953488372,0
+Continent name,miller2_rgnstnclss,0.03488372093023256,0
+Continent name,miller2_rgnstnsb-clss,0.13953488372093023,0
+Continent name,miller2_cntnntd,0.029069767441860465,0
+Continent name,miller2_cntnntnm,0.029069767441860465,1
+Continent name,miller2_prjctbrwsrcntrd,0.8895348837209303,0
+Continent name,miller2_cntrrgnd,0.8255813953488372,0
+Continent name,miller2_cntrrgnnm,0.8430232558139535,0
+Continent name,miller2_cntrrgnprcnt,0.42786069651741293,0
+Continent name,miller2_sctrd,0.7151162790697675,0
+Continent name,miller2_sctrnm,0.7151162790697675,0
+Continent name,miller2_sctrprcnt,0.9297297297297298,0
+Continent name,miller2_mntspnt,0.034262948207171316,0
+Project Browser country ID,miller2_fsclr,0.006060606060606061,0
+Project Browser country ID,miller2_prjctnmbr,0.25660964230171074,0
+Project Browser country ID,miller2_stts,0.01818181818181818,0
+Project Browser country ID,miller2_mxmmcdcntrbtn(prjct-lvl),0.321011673151751,0
+Project Browser country ID,miller2_brnchd,0.030303030303030304,0
+Project Browser country ID,miller2_brnchnm,0.030303030303030304,0
+Project Browser country ID,miller2_dvsnd,0.07878787878787878,0
+Project Browser country ID,miller2_dvsnnm,0.07878787878787878,0
+Project Browser country ID,miller2_sctnd,0.15151515151515152,0
+Project Browser country ID,miller2_sctnnm,0.15151515151515152,0
+Project Browser country ID,miller2_rgnlprgrm(mrkr),0.012121212121212121,0
+Project Browser country ID,miller2_fndcntrd,0.3151515151515151,0
+Project Browser country ID,miller2_fndcntrnm,0.3151515151515151,0
+Project Browser country ID,miller2_ntdmnt(prjct-lvlbdgt),0.38018433179723504,0
+Project Browser country ID,miller2_fstcprcnt,0.296969696969697,0
+Project Browser country ID,miller2_rtcprcnt,0.01818181818181818,0
+Project Browser country ID,miller2_cfl(mrkr),0.012121212121212121,0
+Project Browser country ID,miller2_cdbsnssdlvrmdl(ld),0.01818181818181818,0
+Project Browser country ID,miller2_prgrmmngprcss(nw),0.006060606060606061,0
+Project Browser country ID,miller2_bltrld(ntrntnlmrkr),0.012121212121212121,0
+Project Browser country ID,miller2_pbtp,0.006060606060606061,0
+Project Browser country ID,miller2_nvrmntlsstnblt(mrkr),0.01818181818181818,0
+Project Browser country ID,miller2_clmtchngdpttn(mrkr),0.01818181818181818,0
+Project Browser country ID,miller2_clmtchngmtgtn(mrkr),0.024242424242424242,0
+Project Browser country ID,miller2_dsrtfctn(mrkr),0.024242424242424242,0
+Project Browser country ID,miller2_prtcptrdvlpmntndgdgvrnnc,0.024242424242424242,0
+Project Browser country ID,miller2_trddvlpmnt(mrkr),0.024242424242424242,0
+Project Browser country ID,miller2_bdvrst(mrkr),0.024242424242424242,0
+Project Browser country ID,miller2_rbnsss(mrkr),0.024242424242424242,0
+Project Browser country ID,miller2_chldrnsss(mrkr),0.024242424242424242,0
+Project Browser country ID,miller2_thsss(mrkr),0.024242424242424242,0
+Project Browser country ID,miller2_ndgnssss(mrkr),0.024242424242424242,0
+Project Browser country ID,miller2_dsbltsss(mrkr),0.024242424242424242,0
+Project Browser country ID,miller2_ctstlfrdvlpmnt(mrkr),0.01818181818181818,0
+Project Browser country ID,miller2_knwldgfrdvlpmnt(mrkr),0.024242424242424242,0
+Project Browser country ID,miller2_gndrqlt(mrkr),0.024242424242424242,0
+Project Browser country ID,miller2_rgnstnd,0.48672566371681414,0
+Project Browser country ID,miller2_rgnstnnm,0.48672566371681414,0
+Project Browser country ID,miller2_rgnstntp,0.024242424242424242,0
+Project Browser country ID,miller2_rgnstnclss,0.03636363636363636,0
+Project Browser country ID,miller2_rgnstnsb-clss,0.14545454545454545,0
+Project Browser country ID,miller2_cntnntd,0.030303030303030304,0
+Project Browser country ID,miller2_cntnntnm,0.030303030303030304,0
+Project Browser country ID,miller2_prjctbrwsrcntrd,0.9272727272727272,1
+Project Browser country ID,miller2_cntrrgnd,0.8606060606060606,0
+Project Browser country ID,miller2_cntrrgnnm,0.8787878787878788,0
+Project Browser country ID,miller2_cntrrgnprcnt,0.41044776119402987,0
+Project Browser country ID,miller2_sctrd,0.7454545454545455,0
+Project Browser country ID,miller2_sctrnm,0.7454545454545455,0
+Project Browser country ID,miller2_sctrprcnt,0.8918918918918919,0
+Project Browser country ID,miller2_mntspnt,0.03286852589641434,0
+CountryRegion ID,miller2_fsclr,0.005714285714285714,0
+CountryRegion ID,miller2_prjctnmbr,0.27216174183514774,0
+CountryRegion ID,miller2_stts,0.017142857142857144,0
+CountryRegion ID,miller2_mxmmcdcntrbtn(prjct-lvl),0.3404669260700389,0
+CountryRegion ID,miller2_brnchd,0.02857142857142857,0
+CountryRegion ID,miller2_brnchnm,0.02857142857142857,0
+CountryRegion ID,miller2_dvsnd,0.07428571428571429,0
+CountryRegion ID,miller2_dvsnnm,0.07428571428571429,0
+CountryRegion ID,miller2_sctnd,0.14285714285714285,0
+CountryRegion ID,miller2_sctnnm,0.14285714285714285,0
+CountryRegion ID,miller2_rgnlprgrm(mrkr),0.011428571428571429,0
+CountryRegion ID,miller2_fndcntrd,0.29714285714285715,0
+CountryRegion ID,miller2_fndcntrnm,0.29714285714285715,0
+CountryRegion ID,miller2_ntdmnt(prjct-lvlbdgt),0.4032258064516129,0
+CountryRegion ID,miller2_fstcprcnt,0.28,0
+CountryRegion ID,miller2_rtcprcnt,0.017142857142857144,0
+CountryRegion ID,miller2_cfl(mrkr),0.011428571428571429,0
+CountryRegion ID,miller2_cdbsnssdlvrmdl(ld),0.017142857142857144,0
+CountryRegion ID,miller2_prgrmmngprcss(nw),0.005714285714285714,0
+CountryRegion ID,miller2_bltrld(ntrntnlmrkr),0.011428571428571429,0
+CountryRegion ID,miller2_pbtp,0.005714285714285714,0
+CountryRegion ID,miller2_nvrmntlsstnblt(mrkr),0.017142857142857144,0
+CountryRegion ID,miller2_clmtchngdpttn(mrkr),0.017142857142857144,0
+CountryRegion ID,miller2_clmtchngmtgtn(mrkr),0.022857142857142857,0
+CountryRegion ID,miller2_dsrtfctn(mrkr),0.022857142857142857,0
+CountryRegion ID,miller2_prtcptrdvlpmntndgdgvrnnc,0.022857142857142857,0
+CountryRegion ID,miller2_trddvlpmnt(mrkr),0.022857142857142857,0
+CountryRegion ID,miller2_bdvrst(mrkr),0.022857142857142857,0
+CountryRegion ID,miller2_rbnsss(mrkr),0.022857142857142857,0
+CountryRegion ID,miller2_chldrnsss(mrkr),0.022857142857142857,0
+CountryRegion ID,miller2_thsss(mrkr),0.022857142857142857,0
+CountryRegion ID,miller2_ndgnssss(mrkr),0.022857142857142857,0
+CountryRegion ID,miller2_dsbltsss(mrkr),0.022857142857142857,0
+CountryRegion ID,miller2_ctstlfrdvlpmnt(mrkr),0.017142857142857144,0
+CountryRegion ID,miller2_knwldgfrdvlpmnt(mrkr),0.022857142857142857,0
+CountryRegion ID,miller2_gndrqlt(mrkr),0.022857142857142857,0
+CountryRegion ID,miller2_rgnstnd,0.5162241887905604,0
+CountryRegion ID,miller2_rgnstnnm,0.5162241887905604,0
+CountryRegion ID,miller2_rgnstntp,0.022857142857142857,0
+CountryRegion ID,miller2_rgnstnclss,0.03428571428571429,0
+CountryRegion ID,miller2_rgnstnsb-clss,0.13714285714285715,0
+CountryRegion ID,miller2_cntnntd,0.02857142857142857,0
+CountryRegion ID,miller2_cntnntnm,0.02857142857142857,0
+CountryRegion ID,miller2_prjctbrwsrcntrd,0.8742857142857143,0
+CountryRegion ID,miller2_cntrrgnd,0.8114285714285714,1
+CountryRegion ID,miller2_cntrrgnnm,0.8285714285714286,0
+CountryRegion ID,miller2_cntrrgnprcnt,0.43532338308457713,0
+CountryRegion ID,miller2_sctrd,0.7028571428571428,0
+CountryRegion ID,miller2_sctrnm,0.7028571428571428,0
+CountryRegion ID,miller2_sctrprcnt,0.9459459459459459,0
+CountryRegion ID,miller2_mntspnt,0.0348605577689243,0
+CountryRegion name,miller2_fsclr,0.0002443195699975568,0
+CountryRegion name,miller2_prjctnmbr,0.15709748350842903,0
+CountryRegion name,miller2_stts,0.0007329587099926704,0
+CountryRegion name,miller2_mxmmcdcntrbtn(prjct-lvl),0.1255802589787442,0
+CountryRegion name,miller2_brnchd,0.001221597849987784,0
+CountryRegion name,miller2_brnchnm,0.001221597849987784,0
+CountryRegion name,miller2_dvsnd,0.0031761544099682387,0
+CountryRegion name,miller2_dvsnnm,0.0031761544099682387,0
+CountryRegion name,miller2_sctnd,0.00610798924993892,0
+CountryRegion name,miller2_sctnnm,0.00610798924993892,0
+CountryRegion name,miller2_rgnlprgrm(mrkr),0.0004886391399951136,0
+CountryRegion name,miller2_fndcntrd,0.012704617639872955,0
+CountryRegion name,miller2_fndcntrnm,0.012704617639872955,0
+CountryRegion name,miller2_ntdmnt(prjct-lvlbdgt),0.10603469337893966,0
+CountryRegion name,miller2_fstcprcnt,0.011971658929880283,0
+CountryRegion name,miller2_rtcprcnt,0.0007329587099926704,0
+CountryRegion name,miller2_cfl(mrkr),0.0004886391399951136,0
+CountryRegion name,miller2_cdbsnssdlvrmdl(ld),0.0007329587099926704,0
+CountryRegion name,miller2_prgrmmngprcss(nw),0.0002443195699975568,0
+CountryRegion name,miller2_bltrld(ntrntnlmrkr),0.0004886391399951136,0
+CountryRegion name,miller2_pbtp,0.0002443195699975568,0
+CountryRegion name,miller2_nvrmntlsstnblt(mrkr),0.0007329587099926704,0
+CountryRegion name,miller2_clmtchngdpttn(mrkr),0.0007329587099926704,0
+CountryRegion name,miller2_clmtchngmtgtn(mrkr),0.0009772782799902272,0
+CountryRegion name,miller2_dsrtfctn(mrkr),0.0009772782799902272,0
+CountryRegion name,miller2_prtcptrdvlpmntndgdgvrnnc,0.0009772782799902272,0
+CountryRegion name,miller2_trddvlpmnt(mrkr),0.0009772782799902272,0
+CountryRegion name,miller2_bdvrst(mrkr),0.0009772782799902272,0
+CountryRegion name,miller2_rbnsss(mrkr),0.0009772782799902272,0
+CountryRegion name,miller2_chldrnsss(mrkr),0.0009772782799902272,0
+CountryRegion name,miller2_thsss(mrkr),0.0009772782799902272,0
+CountryRegion name,miller2_ndgnssss(mrkr),0.0009772782799902272,0
+CountryRegion name,miller2_dsbltsss(mrkr),0.0009772782799902272,0
+CountryRegion name,miller2_ctstlfrdvlpmnt(mrkr),0.0007329587099926704,0
+CountryRegion name,miller2_knwldgfrdvlpmnt(mrkr),0.0009772782799902272,0
+CountryRegion name,miller2_gndrqlt(mrkr),0.0009772782799902272,0
+CountryRegion name,miller2_rgnstnd,0.08282433422917175,0
+CountryRegion name,miller2_rgnstnnm,0.08282433422917175,0
+CountryRegion name,miller2_rgnstntp,0.0009772782799902272,0
+CountryRegion name,miller2_rgnstnclss,0.0014659174199853407,0
+CountryRegion name,miller2_rgnstnsb-clss,0.005863669679941363,0
+CountryRegion name,miller2_cntnntd,0.001221597849987784,0
+CountryRegion name,miller2_cntnntnm,0.001221597849987784,0
+CountryRegion name,miller2_prjctbrwsrcntrd,0.03738089420962619,0
+CountryRegion name,miller2_cntrrgnd,0.03469337893965307,0
+CountryRegion name,miller2_cntrrgnnm,0.035426337649645735,1
+CountryRegion name,miller2_cntrrgnprcnt,0.09821646713901784,0
+CountryRegion name,miller2_sctrd,0.03005130710969949,0
+CountryRegion name,miller2_sctrnm,0.03005130710969949,0
+CountryRegion name,miller2_sctrprcnt,0.045199120449548005,0
+CountryRegion name,miller2_mntspnt,0.8153386454183267,0
+CountryRegion percent,miller2_fsclr,0.00016377333770062233,0
+CountryRegion percent,miller2_prjctnmbr,0.10530625614150016,0
+CountryRegion percent,miller2_stts,0.000491320013101867,0
+CountryRegion percent,miller2_mxmmcdcntrbtn(prjct-lvl),0.08417949557811988,0
+CountryRegion percent,miller2_brnchd,0.0008188666885031117,0
+CountryRegion percent,miller2_brnchnm,0.0008188666885031117,0
+CountryRegion percent,miller2_dvsnd,0.0021290533901080905,0
+CountryRegion percent,miller2_dvsnnm,0.0021290533901080905,0
+CountryRegion percent,miller2_sctnd,0.004094333442515558,0
+CountryRegion percent,miller2_sctnnm,0.004094333442515558,0
+CountryRegion percent,miller2_rgnlprgrm(mrkr),0.00032754667540124465,0
+CountryRegion percent,miller2_fndcntrd,0.008516213560432362,0
+CountryRegion percent,miller2_fndcntrnm,0.008516213560432362,0
+CountryRegion percent,miller2_ntdmnt(prjct-lvlbdgt),0.07107762856207009,0
+CountryRegion percent,miller2_fstcprcnt,0.008024893547330495,0
+CountryRegion percent,miller2_rtcprcnt,0.000491320013101867,0
+CountryRegion percent,miller2_cfl(mrkr),0.00032754667540124465,0
+CountryRegion percent,miller2_cdbsnssdlvrmdl(ld),0.000491320013101867,0
+CountryRegion percent,miller2_prgrmmngprcss(nw),0.00016377333770062233,0
+CountryRegion percent,miller2_bltrld(ntrntnlmrkr),0.00032754667540124465,0
+CountryRegion percent,miller2_pbtp,0.00016377333770062233,0
+CountryRegion percent,miller2_nvrmntlsstnblt(mrkr),0.000491320013101867,0
+CountryRegion percent,miller2_clmtchngdpttn(mrkr),0.000491320013101867,0
+CountryRegion percent,miller2_clmtchngmtgtn(mrkr),0.0006550933508024893,0
+CountryRegion percent,miller2_dsrtfctn(mrkr),0.0006550933508024893,0
+CountryRegion percent,miller2_prtcptrdvlpmntndgdgvrnnc,0.0006550933508024893,0
+CountryRegion percent,miller2_trddvlpmnt(mrkr),0.0006550933508024893,0
+CountryRegion percent,miller2_bdvrst(mrkr),0.0006550933508024893,0
+CountryRegion percent,miller2_rbnsss(mrkr),0.0006550933508024893,0
+CountryRegion percent,miller2_chldrnsss(mrkr),0.0006550933508024893,0
+CountryRegion percent,miller2_thsss(mrkr),0.0006550933508024893,0
+CountryRegion percent,miller2_ndgnssss(mrkr),0.0006550933508024893,0
+CountryRegion percent,miller2_dsbltsss(mrkr),0.0006550933508024893,0
+CountryRegion percent,miller2_ctstlfrdvlpmnt(mrkr),0.000491320013101867,0
+CountryRegion percent,miller2_knwldgfrdvlpmnt(mrkr),0.0006550933508024893,0
+CountryRegion percent,miller2_gndrqlt(mrkr),0.0006550933508024893,0
+CountryRegion percent,miller2_rgnstnd,0.055519161480510976,0
+CountryRegion percent,miller2_rgnstnnm,0.055519161480510976,0
+CountryRegion percent,miller2_rgnstntp,0.0006550933508024893,0
+CountryRegion percent,miller2_rgnstnclss,0.000982640026203734,0
+CountryRegion percent,miller2_rgnstnsb-clss,0.003930560104814936,0
+CountryRegion percent,miller2_cntnntd,0.0008188666885031117,0
+CountryRegion percent,miller2_cntnntnm,0.0008188666885031117,0
+CountryRegion percent,miller2_prjctbrwsrcntrd,0.02505732066819522,0
+CountryRegion percent,miller2_cntrrgnd,0.023255813953488372,0
+CountryRegion percent,miller2_cntrrgnnm,0.02374713396659024,0
+CountryRegion percent,miller2_cntrrgnprcnt,0.06583688175565018,1
+CountryRegion percent,miller2_sctrd,0.020144120537176548,0
+CountryRegion percent,miller2_sctrnm,0.020144120537176548,0
+CountryRegion percent,miller2_sctrprcnt,0.030298067474615133,0
+CountryRegion percent,miller2_mntspnt,0.8221421552571241,0
+Sector ID,miller2_fsclr,0.00641025641025641,0
+Sector ID,miller2_prjctnmbr,0.24261275272161742,0
+Sector ID,miller2_stts,0.019230769230769232,0
+Sector ID,miller2_mxmmcdcntrbtn(prjct-lvl),0.3035019455252918,0
+Sector ID,miller2_brnchd,0.03205128205128205,0
+Sector ID,miller2_brnchnm,0.03205128205128205,0
+Sector ID,miller2_dvsnd,0.08333333333333333,0
+Sector ID,miller2_dvsnnm,0.08333333333333333,0
+Sector ID,miller2_sctnd,0.16025641025641027,0
+Sector ID,miller2_sctnnm,0.16025641025641027,0
+Sector ID,miller2_rgnlprgrm(mrkr),0.01282051282051282,0
+Sector ID,miller2_fndcntrd,0.3333333333333333,0
+Sector ID,miller2_fndcntrnm,0.3333333333333333,0
+Sector ID,miller2_ntdmnt(prjct-lvlbdgt),0.35944700460829493,0
+Sector ID,miller2_fstcprcnt,0.3141025641025641,0
+Sector ID,miller2_rtcprcnt,0.019230769230769232,0
+Sector ID,miller2_cfl(mrkr),0.01282051282051282,0
+Sector ID,miller2_cdbsnssdlvrmdl(ld),0.019230769230769232,0
+Sector ID,miller2_prgrmmngprcss(nw),0.00641025641025641,0
+Sector ID,miller2_bltrld(ntrntnlmrkr),0.01282051282051282,0
+Sector ID,miller2_pbtp,0.00641025641025641,0
+Sector ID,miller2_nvrmntlsstnblt(mrkr),0.019230769230769232,0
+Sector ID,miller2_clmtchngdpttn(mrkr),0.019230769230769232,0
+Sector ID,miller2_clmtchngmtgtn(mrkr),0.02564102564102564,0
+Sector ID,miller2_dsrtfctn(mrkr),0.02564102564102564,0
+Sector ID,miller2_prtcptrdvlpmntndgdgvrnnc,0.02564102564102564,0
+Sector ID,miller2_trddvlpmnt(mrkr),0.02564102564102564,0
+Sector ID,miller2_bdvrst(mrkr),0.02564102564102564,0
+Sector ID,miller2_rbnsss(mrkr),0.02564102564102564,0
+Sector ID,miller2_chldrnsss(mrkr),0.02564102564102564,0
+Sector ID,miller2_thsss(mrkr),0.02564102564102564,0
+Sector ID,miller2_ndgnssss(mrkr),0.02564102564102564,0
+Sector ID,miller2_dsbltsss(mrkr),0.02564102564102564,0
+Sector ID,miller2_ctstlfrdvlpmnt(mrkr),0.019230769230769232,0
+Sector ID,miller2_knwldgfrdvlpmnt(mrkr),0.02564102564102564,0
+Sector ID,miller2_gndrqlt(mrkr),0.02564102564102564,0
+Sector ID,miller2_rgnstnd,0.46017699115044247,0
+Sector ID,miller2_rgnstnnm,0.46017699115044247,0
+Sector ID,miller2_rgnstntp,0.02564102564102564,0
+Sector ID,miller2_rgnstnclss,0.038461538461538464,0
+Sector ID,miller2_rgnstnsb-clss,0.15384615384615385,0
+Sector ID,miller2_cntnntd,0.03205128205128205,0
+Sector ID,miller2_cntnntnm,0.03205128205128205,0
+Sector ID,miller2_prjctbrwsrcntrd,0.9807692307692307,0
+Sector ID,miller2_cntrrgnd,0.9102564102564102,0
+Sector ID,miller2_cntrrgnnm,0.9294871794871795,0
+Sector ID,miller2_cntrrgnprcnt,0.3880597014925373,0
+Sector ID,miller2_sctrd,0.7884615384615384,1
+Sector ID,miller2_sctrnm,0.7884615384615384,0
+Sector ID,miller2_sctrprcnt,0.8432432432432433,0
+Sector ID,miller2_mntspnt,0.031075697211155377,0
+Sector name,miller2_fsclr,0.00016778523489932885,0
+Sector name,miller2_prjctnmbr,0.10788590604026846,0
+Sector name,miller2_stts,0.0005033557046979866,0
+Sector name,miller2_mxmmcdcntrbtn(prjct-lvl),0.08624161073825504,0
+Sector name,miller2_brnchd,0.0008389261744966443,0
+Sector name,miller2_brnchnm,0.0008389261744966443,0
+Sector name,miller2_dvsnd,0.002181208053691275,0
+Sector name,miller2_dvsnnm,0.002181208053691275,0
+Sector name,miller2_sctnd,0.0041946308724832215,0
+Sector name,miller2_sctnnm,0.0041946308724832215,0
+Sector name,miller2_rgnlprgrm(mrkr),0.0003355704697986577,0
+Sector name,miller2_fndcntrd,0.0087248322147651,0
+Sector name,miller2_fndcntrnm,0.0087248322147651,0
+Sector name,miller2_ntdmnt(prjct-lvlbdgt),0.07281879194630872,0
+Sector name,miller2_fstcprcnt,0.008221476510067114,0
+Sector name,miller2_rtcprcnt,0.0005033557046979866,0
+Sector name,miller2_cfl(mrkr),0.0003355704697986577,0
+Sector name,miller2_cdbsnssdlvrmdl(ld),0.0005033557046979866,0
+Sector name,miller2_prgrmmngprcss(nw),0.00016778523489932885,0
+Sector name,miller2_bltrld(ntrntnlmrkr),0.0003355704697986577,0
+Sector name,miller2_pbtp,0.00016778523489932885,0
+Sector name,miller2_nvrmntlsstnblt(mrkr),0.0005033557046979866,0
+Sector name,miller2_clmtchngdpttn(mrkr),0.0005033557046979866,0
+Sector name,miller2_clmtchngmtgtn(mrkr),0.0006711409395973154,0
+Sector name,miller2_dsrtfctn(mrkr),0.0006711409395973154,0
+Sector name,miller2_prtcptrdvlpmntndgdgvrnnc,0.0006711409395973154,0
+Sector name,miller2_trddvlpmnt(mrkr),0.0006711409395973154,0
+Sector name,miller2_bdvrst(mrkr),0.0006711409395973154,0
+Sector name,miller2_rbnsss(mrkr),0.0006711409395973154,0
+Sector name,miller2_chldrnsss(mrkr),0.0006711409395973154,0
+Sector name,miller2_thsss(mrkr),0.0006711409395973154,0
+Sector name,miller2_ndgnssss(mrkr),0.0006711409395973154,0
+Sector name,miller2_dsbltsss(mrkr),0.0006711409395973154,0
+Sector name,miller2_ctstlfrdvlpmnt(mrkr),0.0005033557046979866,0
+Sector name,miller2_knwldgfrdvlpmnt(mrkr),0.0006711409395973154,0
+Sector name,miller2_gndrqlt(mrkr),0.0006711409395973154,0
+Sector name,miller2_rgnstnd,0.05687919463087248,0
+Sector name,miller2_rgnstnnm,0.05687919463087248,0
+Sector name,miller2_rgnstntp,0.0006711409395973154,0
+Sector name,miller2_rgnstnclss,0.0010067114093959733,0
+Sector name,miller2_rgnstnsb-clss,0.004026845637583893,0
+Sector name,miller2_cntnntd,0.0008389261744966443,0
+Sector name,miller2_cntnntnm,0.0008389261744966443,0
+Sector name,miller2_prjctbrwsrcntrd,0.025671140939597315,0
+Sector name,miller2_cntrrgnd,0.0238255033557047,0
+Sector name,miller2_cntrrgnnm,0.024328859060402684,0
+Sector name,miller2_cntrrgnprcnt,0.0674496644295302,0
+Sector name,miller2_sctrd,0.02063758389261745,0
+Sector name,miller2_sctrnm,0.02063758389261745,1
+Sector name,miller2_sctrprcnt,0.03104026845637584,0
+Sector name,miller2_mntspnt,0.8422818791946308,0
+Sector percent,miller2_fsclr,0.00016937669376693767,0
+Sector percent,miller2_prjctnmbr,0.10890921409214092,0
+Sector percent,miller2_stts,0.0005081300813008131,0
+Sector percent,miller2_mxmmcdcntrbtn(prjct-lvl),0.08705962059620596,0
+Sector percent,miller2_brnchd,0.0008468834688346884,0
+Sector percent,miller2_brnchnm,0.0008468834688346884,0
+Sector percent,miller2_dvsnd,0.0022018970189701895,0
+Sector percent,miller2_dvsnnm,0.0022018970189701895,0
+Sector percent,miller2_sctnd,0.004234417344173441,0
+Sector percent,miller2_sctnnm,0.004234417344173441,0
+Sector percent,miller2_rgnlprgrm(mrkr),0.00033875338753387534,0
+Sector percent,miller2_fndcntrd,0.008807588075880758,0
+Sector percent,miller2_fndcntrnm,0.008807588075880758,0
+Sector percent,miller2_ntdmnt(prjct-lvlbdgt),0.07350948509485095,0
+Sector percent,miller2_fstcprcnt,0.008299457994579946,0
+Sector percent,miller2_rtcprcnt,0.0005081300813008131,0
+Sector percent,miller2_cfl(mrkr),0.00033875338753387534,0
+Sector percent,miller2_cdbsnssdlvrmdl(ld),0.0005081300813008131,0
+Sector percent,miller2_prgrmmngprcss(nw),0.00016937669376693767,0
+Sector percent,miller2_bltrld(ntrntnlmrkr),0.00033875338753387534,0
+Sector percent,miller2_pbtp,0.00016937669376693767,0
+Sector percent,miller2_nvrmntlsstnblt(mrkr),0.0005081300813008131,0
+Sector percent,miller2_clmtchngdpttn(mrkr),0.0005081300813008131,0
+Sector percent,miller2_clmtchngmtgtn(mrkr),0.0006775067750677507,0
+Sector percent,miller2_dsrtfctn(mrkr),0.0006775067750677507,0
+Sector percent,miller2_prtcptrdvlpmntndgdgvrnnc,0.0006775067750677507,0
+Sector percent,miller2_trddvlpmnt(mrkr),0.0006775067750677507,0
+Sector percent,miller2_bdvrst(mrkr),0.0006775067750677507,0
+Sector percent,miller2_rbnsss(mrkr),0.0006775067750677507,0
+Sector percent,miller2_chldrnsss(mrkr),0.0006775067750677507,0
+Sector percent,miller2_thsss(mrkr),0.0006775067750677507,0
+Sector percent,miller2_ndgnssss(mrkr),0.0006775067750677507,0
+Sector percent,miller2_dsbltsss(mrkr),0.0006775067750677507,0
+Sector percent,miller2_ctstlfrdvlpmnt(mrkr),0.0005081300813008131,0
+Sector percent,miller2_knwldgfrdvlpmnt(mrkr),0.0006775067750677507,0
+Sector percent,miller2_gndrqlt(mrkr),0.0006775067750677507,0
+Sector percent,miller2_rgnstnd,0.05741869918699187,0
+Sector percent,miller2_rgnstnnm,0.05741869918699187,0
+Sector percent,miller2_rgnstntp,0.0006775067750677507,0
+Sector percent,miller2_rgnstnclss,0.0010162601626016261,0
+Sector percent,miller2_rgnstnsb-clss,0.0040650406504065045,0
+Sector percent,miller2_cntnntd,0.0008468834688346884,0
+Sector percent,miller2_cntnntnm,0.0008468834688346884,0
+Sector percent,miller2_prjctbrwsrcntrd,0.025914634146341462,0
+Sector percent,miller2_cntrrgnd,0.024051490514905148,0
+Sector percent,miller2_cntrrgnnm,0.02455962059620596,0
+Sector percent,miller2_cntrrgnprcnt,0.06808943089430894,0
+Sector percent,miller2_sctrd,0.020833333333333332,0
+Sector percent,miller2_sctrnm,0.020833333333333332,0
+Sector percent,miller2_sctrprcnt,0.031334688346883466,1
+Sector percent,miller2_mntspnt,0.8502710027100271,0
+Amount spent,miller2_fsclr,0.00010022048506714773,0
+Amount spent,miller2_prjctnmbr,0.06444177189817599,0
+Amount spent,miller2_stts,0.0003006614552014432,0
+Amount spent,miller2_mxmmcdcntrbtn(prjct-lvl),0.05151332932451393,0
+Amount spent,miller2_brnchd,0.0005011024253357386,0
+Amount spent,miller2_brnchnm,0.0005011024253357386,0
+Amount spent,miller2_dvsnd,0.0013028663058729205,0
+Amount spent,miller2_dvsnnm,0.0013028663058729205,0
+Amount spent,miller2_sctnd,0.0025055121266786932,0
+Amount spent,miller2_sctnnm,0.0025055121266786932,0
+Amount spent,miller2_rgnlprgrm(mrkr),0.00020044097013429546,0
+Amount spent,miller2_fndcntrd,0.005211465223491682,0
+Amount spent,miller2_fndcntrnm,0.005211465223491682,0
+Amount spent,miller2_ntdmnt(prjct-lvlbdgt),0.043495690519142115,0
+Amount spent,miller2_fstcprcnt,0.004910803768290239,0
+Amount spent,miller2_rtcprcnt,0.0003006614552014432,0
+Amount spent,miller2_cfl(mrkr),0.00020044097013429546,0
+Amount spent,miller2_cdbsnssdlvrmdl(ld),0.0003006614552014432,0
+Amount spent,miller2_prgrmmngprcss(nw),0.00010022048506714773,0
+Amount spent,miller2_bltrld(ntrntnlmrkr),0.00020044097013429546,0
+Amount spent,miller2_pbtp,0.00010022048506714773,0
+Amount spent,miller2_nvrmntlsstnblt(mrkr),0.0003006614552014432,0
+Amount spent,miller2_clmtchngdpttn(mrkr),0.0003006614552014432,0
+Amount spent,miller2_clmtchngmtgtn(mrkr),0.0004008819402685909,0
+Amount spent,miller2_dsrtfctn(mrkr),0.0004008819402685909,0
+Amount spent,miller2_prtcptrdvlpmntndgdgvrnnc,0.0004008819402685909,0
+Amount spent,miller2_trddvlpmnt(mrkr),0.0004008819402685909,0
+Amount spent,miller2_bdvrst(mrkr),0.0004008819402685909,0
+Amount spent,miller2_rbnsss(mrkr),0.0004008819402685909,0
+Amount spent,miller2_chldrnsss(mrkr),0.0004008819402685909,0
+Amount spent,miller2_thsss(mrkr),0.0004008819402685909,0
+Amount spent,miller2_ndgnssss(mrkr),0.0004008819402685909,0
+Amount spent,miller2_dsbltsss(mrkr),0.0004008819402685909,0
+Amount spent,miller2_ctstlfrdvlpmnt(mrkr),0.0003006614552014432,0
+Amount spent,miller2_knwldgfrdvlpmnt(mrkr),0.0004008819402685909,0
+Amount spent,miller2_gndrqlt(mrkr),0.0004008819402685909,0
+Amount spent,miller2_rgnstnd,0.03397474443776308,0
+Amount spent,miller2_rgnstnnm,0.03397474443776308,0
+Amount spent,miller2_rgnstntp,0.0004008819402685909,0
+Amount spent,miller2_rgnstnclss,0.0006013229104028864,0
+Amount spent,miller2_rgnstnsb-clss,0.0024052916416115455,0
+Amount spent,miller2_cntnntd,0.0005011024253357386,0
+Amount spent,miller2_cntnntnm,0.0005011024253357386,0
+Amount spent,miller2_prjctbrwsrcntrd,0.015333734215273603,0
+Amount spent,miller2_cntrrgnd,0.014231308879534978,0
+Amount spent,miller2_cntrrgnnm,0.01453197033473642,0
+Amount spent,miller2_cntrrgnprcnt,0.04028863499699339,0
+Amount spent,miller2_sctrd,0.01232711966325917,0
+Amount spent,miller2_sctrnm,0.01232711966325917,0
+Amount spent,miller2_sctrprcnt,0.01854078973742233,0
+Amount spent,miller2_mntspnt,0.5031068350370815,1

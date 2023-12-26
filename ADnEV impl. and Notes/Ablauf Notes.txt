@@ -1,0 +1,20 @@
+für adnev braucht es diese Matching Matrices die auf Schema Matching results anderer Matcher basieren
+
+bisheriges verständniss: trotzdem gespeichert als csv mit x^2 zeilen, quasi alle kombination / untereinander darstellung einer Matrix 
+
+Augmentation only applied in Training phase
+
+
+zum erstellen dieser Matrizen wird OER vorgeschlagen, dieses hat einige der ADnEV test Datasets auch schon integriert 
+herausfinden: 
+- wie daraus Matrizen erstellen/ input daten für ADnEV
+- wie neue Datensätze hinzufügen und aus diesen matrizen erstellen
+- wie sieht der output von ADnEV aus und wie ist er zu verstehen
+- impl. SMAT, input format? output format?
+
+
+ORE generiert mit vectorPrinting job similarity Matrizen basierend auf einigen Matchern 
+aber es Fehlt der Wert "realConf" was ist das und wofür wird es benötigt
+
+
+ADnEV alorithm explanation Paper https://ieeexplore.ieee.org/document/10098128

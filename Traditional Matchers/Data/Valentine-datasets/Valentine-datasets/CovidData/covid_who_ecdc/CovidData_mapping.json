@@ -1,0 +1,34 @@
+{
+    "matches": [
+        {
+            "source_table": "CovidDataSourceWho",
+            "source_column": "COUNTRY",
+            "target_table": "CovidDataTargetECDC",
+            "target_column": "ReportingCountry"
+        },
+ 	{
+            "source_table": "CovidDataSourceWho",
+            "source_column": "WHO_REGION"
+            "target_table": "CovidDataTargetECDC",
+            "target_column": "Region"
+        },
+	{
+            "source_table": "CovidDataSourceWho",
+    	"source_column":"PERSONS_VACCINATED_1PLUS_DOSE"
+            "target_table": "CovidDataTargetECDC",
+            "target_column": "FirstDose"
+        },
+	{
+            "source_table": "CovidDataSourceWho",
+    	"source_column":"PERSONS_VACCINATED_1PLUS_DOSE"
+            "target_table": "CovidDataTargetECDC",
+            "target_column": "SecondDose"
+        },
+	{
+            "source_table": "CovidDataSourceWho",
+    	"source_column":"TOTAL_VACCINATIONS"
+            "target_table": "CovidDataTargetECDC",
+            "target_column": "NumberDosesReceived"
+        },
+ ]
+}

@@ -1,0 +1,677 @@
+source,target,conf,realConf
+Fiscal year,miller2_FisY,0.05365412991269177,1
+Fiscal year,miller2_TrDevel,0.051181896242491885,0
+Fiscal year,miller2_Bio,0.054461621236153966,0
+Fiscal year,miller2_UrIss,0.05268510353125368,0
+Fiscal year,miller2_ChiIss,0.05190343574109754,0
+Fiscal year,miller2_YoIss,0.05268510353125368,0
+Fiscal year,miller2_IndiIs,0.05190343574109754,0
+Fiscal year,miller2_DisabIss,0.05051380411415332,0
+Fiscal year,miller2_ICTAATFDeve,0.04877676458047304,0
+Fiscal year,miller2_KnoFDevel,0.04989343285212464,0
+Fiscal year,miller2_GeEq,0.05353474243359729,0
+Fiscal year,miller2_OrganiID,0.0506331915932478,0
+Fiscal year,miller2_OrgNa,0.052804491010348155,0
+Fiscal year,miller2_OrgaTy,0.05202282322019203,0
+Fiscal year,miller2_OrganiCla,0.05001282033121913,0
+Fiscal year,miller2_OrgS,0.05365412991269177,0
+Fiscal year,miller2_ContiID,0.051181896242491885,0
+Fiscal year,miller2_ContiN,0.05202282322019203,0
+Fiscal year,miller2_ProBroCoID,0.04943523329415795,0
+Fiscal year,miller2_CouRegID,0.0506331915932478,0
+Fiscal year,miller2_CouRegN,0.05130128372158638,0
+Fiscal year,miller2_CounRegPerc,0.04857497456417874,0
+Fiscal year,miller2_SecID,0.05268510353125368,0
+Fiscal year,miller2_SeN,0.054581008715248444,0
+Fiscal year,miller2_SecPerc,0.050980106226197586,0
+Fiscal year,miller2_AmSpe,0.05248331351495938,0
+Project number,miller2_FisY,0.04679166185530101,0
+Project number,miller2_TrDevel,0.04527273655563522,0
+Project number,miller2_Bio,0.047213429000160775,0
+Project number,miller2_UrIss,0.0461712052799526,0
+Project number,miller2_ChiIss,0.0457059268334311,0
+Project number,miller2_YoIss,0.0461712052799526,0
+Project number,miller2_IndiIs,0.0457059268334311,0
+Project number,miller2_DisabIss,0.04486842562969239,0
+Project number,miller2_ICTAATFDeve,0.04380251500675222,0
+Project number,miller2_KnoFDevel,0.048272462780372304,0
+Project number,miller2_GeEq,0.04667227437620653,0
+Project number,miller2_OrganiID,0.04498781310878688,0
+Project number,miller2_OrgNa,0.04629059275904709,0
+Project number,miller2_OrgaTy,0.04582531431252558,0
+Project number,miller2_OrganiCla,0.04460958675871133,0
+Project number,miller2_OrgS,0.04679166185530101,0
+Project number,miller2_ContiID,0.04527273655563522,0
+Project number,miller2_ContiN,0.04582531431252558,0
+Project number,miller2_ProBroCoID,0.04791906732187236,0
+Project number,miller2_CouRegID,0.048896152059567516,0
+Project number,miller2_CouRegN,0.04943523329415795,0
+Project number,miller2_CounRegPerc,0.05070679581005908,0
+Project number,miller2_SecID,0.0461712052799526,0
+Project number,miller2_SeN,0.04733281647925527,0
+Project number,miller2_SecPerc,0.05315716505819742,0
+Project number,miller2_AmSpe,0.0459694152636583,0
+Status,miller2_FisY,0.03977669450774603,0
+Status,miller2_TrDevel,0.03314340877735047,0
+Status,miller2_Bio,0.03314340877735047,0
+Status,miller2_UrIss,0.039314470278583064,0
+Status,miller2_ChiIss,0.03900591720352143,0
+Status,miller2_YoIss,0.039314470278583064,0
+Status,miller2_IndiIs,0.03900591720352143,0
+Status,miller2_DisabIss,0.04380251500675222,0
+Status,miller2_ICTAATFDeve,0.03314340877735047,0
+Status,miller2_KnoFDevel,0.03314340877735047,0
+Status,miller2_GeEq,0.03314340877735047,0
+Status,miller2_OrganiID,0.03859234937114583,0
+Status,miller2_OrgNa,0.03943385775767754,0
+Status,miller2_OrgaTy,0.039125304682615915,0
+Status,miller2_OrganiCla,0.038360629670506664,0
+Status,miller2_OrgS,0.03977669450774603,0
+Status,miller2_ContiID,0.03872675013560853,0
+Status,miller2_ContiN,0.039125304682615915,0
+Status,miller2_ProBroCoID,0.03326279625644496,0
+Status,miller2_CouRegID,0.03859234937114583,0
+Status,miller2_CouRegN,0.038846137614703014,0
+Status,miller2_CounRegPerc,0.037631625501992935,0
+Status,miller2_SecID,0.039314470278583064,0
+Status,miller2_SeN,0.040159864993116676,0
+Status,miller2_SecPerc,0.03852496011931423,0
+Status,miller2_AmSpe,0.039112680262288764,0
+Maximum CIDA contribution (project-level),miller2_FisY,0.041833989344760146,0
+Maximum CIDA contribution (project-level),miller2_TrDevel,0.047654859569915144,0
+Maximum CIDA contribution (project-level),miller2_Bio,0.04201783223705845,0
+Maximum CIDA contribution (project-level),miller2_UrIss,0.04168378617288916,0
+Maximum CIDA contribution (project-level),miller2_ChiIss,0.041525873488009145,0
+Maximum CIDA contribution (project-level),miller2_YoIss,0.04168378617288916,0
+Maximum CIDA contribution (project-level),miller2_IndiIs,0.041525873488009145,0
+Maximum CIDA contribution (project-level),miller2_DisabIss,0.0412266705061312,0
+Maximum CIDA contribution (project-level),miller2_ICTAATFDeve,0.04472360535682966,0
+Maximum CIDA contribution (project-level),miller2_KnoFDevel,0.049171025542200736,0
+Maximum CIDA contribution (project-level),miller2_GeEq,0.04405992515764049,0
+Maximum CIDA contribution (project-level),miller2_OrganiID,0.041213002023881395,0
+Maximum CIDA contribution (project-level),miller2_OrgNa,0.04167011769063937,0
+Maximum CIDA contribution (project-level),miller2_OrgaTy,0.04151220500575935,0
+Maximum CIDA contribution (project-level),miller2_OrganiCla,0.04309269317080856,0
+Maximum CIDA contribution (project-level),miller2_OrgS,0.041833989344760146,0
+Maximum CIDA contribution (project-level),miller2_ContiID,0.04556110656056838,0
+Maximum CIDA contribution (project-level),miller2_ContiN,0.045775847497520034,0
+Maximum CIDA contribution (project-level),miller2_ProBroCoID,0.04292137498184974,0
+Maximum CIDA contribution (project-level),miller2_CouRegID,0.043270022524292254,0
+Maximum CIDA contribution (project-level),miller2_CouRegN,0.043453685068971806,0
+Maximum CIDA contribution (project-level),miller2_CounRegPerc,0.04721214676991859,0
+Maximum CIDA contribution (project-level),miller2_SecID,0.04385508558998953,0
+Maximum CIDA contribution (project-level),miller2_SeN,0.044258974687951334,0
+Maximum CIDA contribution (project-level),miller2_SecPerc,0.04609547849826698,0
+Maximum CIDA contribution (project-level),miller2_AmSpe,0.04438945752768813,0
+Branch ID,miller2_FisY,0.038846137614703014,0
+Branch ID,miller2_TrDevel,0.04291425615430207,0
+Branch ID,miller2_Bio,0.03900591720352143,0
+Branch ID,miller2_UrIss,0.04380251500675222,0
+Branch ID,miller2_ChiIss,0.04843690901953559,0
+Branch ID,miller2_YoIss,0.04380251500675222,0
+Branch ID,miller2_IndiIs,0.04843690901953559,0
+Branch ID,miller2_DisabIss,0.047213429000160775,0
+Branch ID,miller2_ICTAATFDeve,0.0457059268334311,0
+Branch ID,miller2_KnoFDevel,0.04667227437620653,0
+Branch ID,miller2_GeEq,0.03872675013560853,0
+Branch ID,miller2_OrganiID,0.056712829961128794,0
+Branch ID,miller2_OrgNa,0.043921902485846695,0
+Branch ID,miller2_OrgaTy,0.04345846308456837,0
+Branch ID,miller2_OrganiCla,0.04679166185530101,0
+Branch ID,miller2_OrgS,0.038846137614703014,0
+Branch ID,miller2_ContiID,0.05268510353125368,0
+Branch ID,miller2_ContiN,0.04345846308456837,0
+Branch ID,miller2_ProBroCoID,0.0506331915932478,0
+Branch ID,miller2_CouRegID,0.04733281647925527,0
+Branch ID,miller2_CouRegN,0.03814821994492075,0
+Branch ID,miller2_CounRegPerc,0.04550413681713681,0
+Branch ID,miller2_SecID,0.054461621236153966,0
+Branch ID,miller2_SeN,0.039125304682615915,0
+Branch ID,miller2_SecPerc,0.042712466138007776,0
+Branch ID,miller2_AmSpe,0.03827117187575705,0
+Branch name,miller2_FisY,0.04345846308456837,0
+Branch name,miller2_TrDevel,0.04216265250992118,0
+Branch name,miller2_Bio,0.04380251500675222,0
+Branch name,miller2_UrIss,0.04291425615430207,0
+Branch name,miller2_ChiIss,0.042523422259224015,0
+Branch name,miller2_YoIss,0.04291425615430207,0
+Branch name,miller2_IndiIs,0.042523422259224015,0
+Branch name,miller2_DisabIss,0.0418286064457519,0
+Branch name,miller2_ICTAATFDeve,0.040960086678911746,0
+Branch name,miller2_KnoFDevel,0.0457059268334311,0
+Branch name,miller2_GeEq,0.043339075605473884,0
+Branch name,miller2_OrganiID,0.04629059275904709,0
+Branch name,miller2_OrgNa,0.043033643633396554,0
+Branch name,miller2_OrgaTy,0.04264280973831849,0
+Branch name,miller2_OrganiCla,0.05001282033121913,0
+Branch name,miller2_OrgS,0.04345846308456837,0
+Branch name,miller2_ContiID,0.04216265250992118,0
+Branch name,miller2_ContiN,0.04264280973831849,0
+Branch name,miller2_ProBroCoID,0.04134901477530145,0
+Branch name,miller2_CouRegID,0.041947993924846376,0
+Branch name,miller2_CouRegN,0.04228203998901567,0
+Branch name,miller2_CounRegPerc,0.04466663561339809,0
+Branch name,miller2_SecID,0.04291425615430207,0
+Branch name,miller2_SeN,0.043921902485846695,0
+Branch name,miller2_SecPerc,0.04647048435991224,0
+Branch name,miller2_AmSpe,0.04759788982648357,0
+Division ID,miller2_FisY,0.04855629649863007,0
+Division ID,miller2_TrDevel,0.04216265250992118,0
+Division ID,miller2_Bio,0.04913206812145309,0
+Division ID,miller2_UrIss,0.04291425615430207,0
+Division ID,miller2_ChiIss,0.047213429000160775,0
+Division ID,miller2_YoIss,0.04779967984277787,0
+Division ID,miller2_IndiIs,0.047213429000160775,0
+Division ID,miller2_DisabIss,0.050513804114153314,0
+Division ID,miller2_ICTAATFDeve,0.04486842562969239,0
+Division ID,miller2_KnoFDevel,0.0457059268334311,0
+Division ID,miller2_GeEq,0.03824124219141218,0
+Division ID,miller2_OrganiID,0.0506331915932478,0
+Division ID,miller2_OrgNa,0.03814821994492075,0
+Division ID,miller2_OrgaTy,0.03795280299738173,0
+Division ID,miller2_OrganiCla,0.04163780829383204,0
+Division ID,miller2_OrgS,0.038360629670506664,0
+Division ID,miller2_ContiID,0.05569151810877724,0
+Division ID,miller2_ContiN,0.04733281647925527,0
+Division ID,miller2_ProBroCoID,0.04943523329415795,0
+Division ID,miller2_CouRegID,0.0506331915932478,0
+Division ID,miller2_CouRegN,0.04228203998901567,0
+Division ID,miller2_CounRegPerc,0.04466663561339809,0
+Division ID,miller2_SecID,0.04779967984277787,0
+Division ID,miller2_SeN,0.03859234937114583,0
+Division ID,miller2_SecPerc,0.03745124062734153,0
+Division ID,miller2_AmSpe,0.03782704244953198,0
+Division name,miller2_FisY,0.04733281647925527,0
+Division name,miller2_TrDevel,0.0457059268334311,0
+Division name,miller2_Bio,0.04779967984277787,0
+Division name,miller2_UrIss,0.04216265250992118,0
+Division name,miller2_ChiIss,0.0461712052799526,0
+Division name,miller2_YoIss,0.04216265250992118,0
+Division name,miller2_IndiIs,0.0461712052799526,0
+Division name,miller2_DisabIss,0.04931584581506347,0
+Division name,miller2_ICTAATFDeve,0.04413561207642103,0
+Division name,miller2_KnoFDevel,0.04486842562969239,0
+Division name,miller2_GeEq,0.042523422259224015,0
+Division name,miller2_OrganiID,0.04134901477530145,0
+Division name,miller2_OrgNa,0.04228203998901567,0
+Division name,miller2_OrgaTy,0.041947993924846376,0
+Division name,miller2_OrganiCla,0.04498781310878688,0
+Division name,miller2_OrgS,0.04264280973831849,0
+Division name,miller2_ContiID,0.0457059268334311,0
+Division name,miller2_ContiN,0.04629059275904709,0
+Division name,miller2_ProBroCoID,0.04082732325795587,0
+Division name,miller2_CouRegID,0.0453921240347297,0
+Division name,miller2_CouRegN,0.04582531431252558,0
+Division name,miller2_CounRegPerc,0.04759788982648357,0
+Division name,miller2_SecID,0.04216265250992118,0
+Division name,miller2_SeN,0.043033643633396554,0
+Division name,miller2_SecPerc,0.04131663079844326,0
+Division name,miller2_AmSpe,0.04647048435991224,0
+Section ID,miller2_FisY,0.043921902485846695,0
+Section ID,miller2_TrDevel,0.042523422259224015,0
+Section ID,miller2_Bio,0.04989343285212464,0
+Section ID,miller2_UrIss,0.043339075605473884,0
+Section ID,miller2_ChiIss,0.04779967984277787,0
+Section ID,miller2_YoIss,0.04843690901953559,0
+Section ID,miller2_IndiIs,0.04779967984277787,0
+Section ID,miller2_DisabIss,0.04667227437620653,0
+Section ID,miller2_ICTAATFDeve,0.04527273655563522,0
+Section ID,miller2_KnoFDevel,0.0461712052799526,0
+Section ID,miller2_GeEq,0.03847296189205135,0
+Section ID,miller2_OrganiID,0.05130128372158638,0
+Section ID,miller2_OrgNa,0.038360629670506664,0
+Section ID,miller2_OrgaTy,0.03814821994492075,0
+Section ID,miller2_OrganiCla,0.041947993924846376,0
+Section ID,miller2_OrgS,0.03859234937114583,0
+Section ID,miller2_ContiID,0.056593442482034316,0
+Section ID,miller2_ContiN,0.04791906732187236,0
+Section ID,miller2_ProBroCoID,0.05001282033121913,0
+Section ID,miller2_CouRegID,0.05130128372158638,0
+Section ID,miller2_CouRegN,0.04264280973831849,0
+Section ID,miller2_CounRegPerc,0.04507094653934091,0
+Section ID,miller2_SecID,0.058632575847659005,0
+Section ID,miller2_SeN,0.044429478972961074,0
+Section ID,miller2_SecPerc,0.04701163898386648,0
+Section ID,miller2_AmSpe,0.04313728558917958,0
+Section name,miller2_FisY,0.043033643633396554,0
+Section name,miller2_TrDevel,0.0418286064457519,0
+Section name,miller2_Bio,0.04843690901953559,0
+Section name,miller2_UrIss,0.042523422259224015,0
+Section name,miller2_ChiIss,0.04216265250992118,0
+Section name,miller2_YoIss,0.042523422259224015,0
+Section name,miller2_IndiIs,0.04216265250992118,0
+Section name,miller2_DisabIss,0.0457059268334311,0
+Section name,miller2_ICTAATFDeve,0.040707935778861386,0
+Section name,miller2_KnoFDevel,0.04527273655563522,0
+Section name,miller2_GeEq,0.04291425615430207,0
+Section name,miller2_OrganiID,0.04163780829383204,0
+Section name,miller2_OrgNa,0.04264280973831849,0
+Section name,miller2_OrgaTy,0.04228203998901567,0
+Section name,miller2_OrganiCla,0.0453921240347297,0
+Section name,miller2_OrgS,0.043033643633396554,0
+Section name,miller2_ContiID,0.0461712052799526,0
+Section name,miller2_ContiN,0.04679166185530101,0
+Section name,miller2_ProBroCoID,0.04107947415800623,0
+Section name,miller2_CouRegID,0.04582531431252558,0
+Section name,miller2_CouRegN,0.04629059275904709,0
+Section name,miller2_CounRegPerc,0.048070672764078004,0
+Section name,miller2_SecID,0.047213429000160775,0
+Section name,miller2_SeN,0.04345846308456837,0
+Section name,miller2_SecPerc,0.05031201409785902,0
+Section name,miller2_AmSpe,0.04701163898386648,0
+Regional program (marker),miller2_FisY,0.045746274179624784,0
+Regional program (marker),miller2_TrDevel,0.04789945558247268,0
+Regional program (marker),miller2_Bio,0.04627098101964742,0
+Regional program (marker),miller2_UrIss,0.04558530751951047,0
+Regional program (marker),miller2_ChiIss,0.04526884282713957,0
+Regional program (marker),miller2_YoIss,0.04558530751951047,0
+Regional program (marker),miller2_IndiIs,0.04526884282713957,0
+Regional program (marker),miller2_DisabIss,0.04468222534859838,0
+Regional program (marker),miller2_ICTAATFDeve,0.043902290746447026,0
+Regional program (marker),miller2_KnoFDevel,0.04720153791269043,0
+Regional program (marker),miller2_GeEq,0.04591887841146899,0
+Regional program (marker),miller2_OrganiID,0.04736938132464245,0
+Regional program (marker),miller2_OrgNa,0.04849823403828256,0
+Regional program (marker),miller2_OrgaTy,0.04810265317281893,0
+Regional program (marker),miller2_OrganiCla,0.049820604359975255,0
+Regional program (marker),miller2_OrgS,0.045746274179624784,0
+Regional program (marker),miller2_ContiID,0.0449682013693872,0
+Regional program (marker),miller2_ContiN,0.04509623859529536,0
+Regional program (marker),miller2_ProBroCoID,0.04670432081118006,0
+Regional program (marker),miller2_CouRegID,0.04736938132464245,0
+Regional program (marker),miller2_CouRegN,0.047726851350628485,0
+Regional program (marker),miller2_CounRegPerc,0.051670168755047916,0
+Regional program (marker),miller2_SecID,0.04558530751951047,0
+Regional program (marker),miller2_SeN,0.046098376787803215,0
+Regional program (marker),miller2_SecPerc,0.04767300391902226,0
+Regional program (marker),miller2_AmSpe,0.04844438660667633,0
+Fund centre ID,miller2_FisY,0.042089824017771796,0
+Fund centre ID,miller2_TrDevel,0.04537251229533003,0
+Fund centre ID,miller2_Bio,0.042623197998918824,0
+Fund centre ID,miller2_UrIss,0.04627098101964742,0
+Fund centre ID,miller2_ChiIss,0.04580570257312591,0
+Fund centre ID,miller2_YoIss,0.04627098101964742,0
+Fund centre ID,miller2_IndiIs,0.04580570257312591,0
+Fund centre ID,miller2_DisabIss,0.0449682013693872,0
+Fund centre ID,miller2_ICTAATFDeve,0.04745532615624761,0
+Fund centre ID,miller2_KnoFDevel,0.04458997501931166,0
+Fund centre ID,miller2_GeEq,0.04677205011590135,0
+Fund centre ID,miller2_OrganiID,0.04870393608832364,0
+Fund centre ID,miller2_OrgNa,0.0417557779536025,0
+Fund centre ID,miller2_OrgaTy,0.041445592322588175,0
+Fund centre ID,miller2_OrganiCla,0.040635107286712,0
+Fund centre ID,miller2_OrgS,0.042089824017771796,0
+Fund centre ID,miller2_ContiID,0.05345873081418653,0
+Fund centre ID,miller2_ContiN,0.04563309834128171,0
+Fund centre ID,miller2_ProBroCoID,0.04772685135062848,0
+Fund centre ID,miller2_CouRegID,0.05261227503910428,0
+Fund centre ID,miller2_CouRegN,0.045199908063485825,0
+Fund centre ID,miller2_CounRegPerc,0.04722887449279718,0
+Fund centre ID,miller2_SecID,0.054956178688048835,0
+Fund centre ID,miller2_SeN,0.04714060050801139,0
+Fund centre ID,miller2_SecPerc,0.0451460606318796,0
+Fund centre ID,miller2_AmSpe,0.04604452935619699,0
+Fund centre name,miller2_FisY,0.04163780829383204,0
+Fund centre name,miller2_TrDevel,0.048272462780372304,0
+Fund centre name,miller2_Bio,0.0418286064457519,0
+Fund centre name,miller2_UrIss,0.04122962729620697,0
+Fund centre name,miller2_ChiIss,0.040960086678911746,0
+Fund centre name,miller2_YoIss,0.04122962729620697,0
+Fund centre name,miller2_IndiIs,0.04486842562969239,0
+Fund centre name,miller2_DisabIss,0.04413561207642103,0
+Fund centre name,miller2_ICTAATFDeve,0.046543428037169814,0
+Fund centre name,miller2_KnoFDevel,0.0473555504165528,0
+Fund centre name,miller2_GeEq,0.0457059268334311,0
+Fund centre name,miller2_OrganiID,0.044254999555515505,0
+Fund centre name,miller2_OrgNa,0.0453921240347297,0
+Fund centre name,miller2_OrgaTy,0.04498781310878688,0
+Fund centre name,miller2_OrganiCla,0.04747493789564728,0
+Fund centre name,miller2_OrgS,0.04163780829383204,0
+Fund centre name,miller2_ContiID,0.04449019927961685,0
+Fund centre name,miller2_ContiN,0.04498781310878688,0
+Fund centre name,miller2_ProBroCoID,0.040159864993116676,0
+Fund centre name,miller2_CouRegID,0.044254999555515505,0
+Fund centre name,miller2_CouRegN,0.04460958675871133,0
+Fund centre name,miller2_CounRegPerc,0.04634163802087551,0
+Fund centre name,miller2_SecID,0.04527273655563522,0
+Fund centre name,miller2_SeN,0.04629059275904709,0
+Fund centre name,miller2_SecPerc,0.048070672764078004,0
+Fund centre name,miller2_AmSpe,0.04911405579876917,0
+Untied amount(Project-level budget),miller2_FisY,0.042963657768911916,0
+Untied amount(Project-level budget),miller2_TrDevel,0.049413612097766436,0
+Untied amount(Project-level budget),miller2_Bio,0.04319425533261115,0
+Untied amount(Project-level budget),miller2_UrIss,0.04276943588143934,0
+Untied amount(Project-level budget),miller2_ChiIss,0.04257003083293012,0
+Untied amount(Project-level budget),miller2_YoIss,0.04276943588143934,0
+Untied amount(Project-level budget),miller2_IndiIs,0.04257003083293012,0
+Untied amount(Project-level budget),miller2_DisabIss,0.04219468015338336,0
+Untied amount(Project-level budget),miller2_ICTAATFDeve,0.04602638500708988,0
+Untied amount(Project-level budget),miller2_KnoFDevel,0.051037075969629156,0
+Untied amount(Project-level budget),miller2_GeEq,0.04297732625116172,0
+Untied amount(Project-level budget),miller2_OrganiID,0.04218101167113356,0
+Untied amount(Project-level budget),miller2_OrgNa,0.04275576739918954,0
+Untied amount(Project-level budget),miller2_OrgaTy,0.042556362350680325,0
+Untied amount(Project-level budget),miller2_OrganiCla,0.044258974687951334,0
+Untied amount(Project-level budget),miller2_OrgS,0.042963657768911916,0
+Untied amount(Project-level budget),miller2_ContiID,0.04472360535682966,0
+Untied amount(Project-level budget),miller2_ContiN,0.04494922293279092,0
+Untied amount(Project-level budget),miller2_ProBroCoID,0.044046256675390694,0
+Untied amount(Project-level budget),miller2_CouRegID,0.04677905749558139,0
+Untied amount(Project-level budget),miller2_CouRegN,0.04705494024504825,0
+Untied amount(Project-level budget),miller2_CounRegPerc,0.0509033557789892,0
+Untied amount(Project-level budget),miller2_SecID,0.04521214772567725,0
+Untied amount(Project-level budget),miller2_SeN,0.04318058685036135,0
+Untied amount(Project-level budget),miller2_SecPerc,0.04760298066499666,0
+Untied amount(Project-level budget),miller2_AmSpe,0.043303807819137945,0
+FSTC percent,miller2_FisY,0.04275576739918954,0
+FSTC percent,miller2_TrDevel,0.04602638500708988,0
+FSTC percent,miller2_Bio,0.04319425533261115,0
+FSTC percent,miller2_UrIss,0.042378601986361286,0
+FSTC percent,miller2_ChiIss,0.04201783223705845,0
+FSTC percent,miller2_YoIss,0.042378601986361286,0
+FSTC percent,miller2_IndiIs,0.04652745410334381,0
+FSTC percent,miller2_DisabIss,0.04137360054187483,0
+FSTC percent,miller2_ICTAATFDeve,0.04434537900675412,0
+FSTC percent,miller2_KnoFDevel,0.04512791628277249,0
+FSTC percent,miller2_GeEq,0.047654859569915144,0
+FSTC percent,miller2_OrganiID,0.045547438078318576,0
+FSTC percent,miller2_OrgNa,0.04236493350411148,0
+FSTC percent,miller2_OrgaTy,0.04200416375480865,0
+FSTC percent,miller2_OrganiCla,0.045114247800522686,0
+FSTC percent,miller2_OrgS,0.04275576739918954,0
+FSTC percent,miller2_ContiID,0.050368983841290585,0
+FSTC percent,miller2_ContiN,0.051023407487379366,0
+FSTC percent,miller2_ProBroCoID,0.04080159792379922,0
+FSTC percent,miller2_CouRegID,0.045547438078318576,0
+FSTC percent,miller2_CouRegN,0.046012716524840076,0
+FSTC percent,miller2_CounRegPerc,0.048662014445208186,0
+FSTC percent,miller2_SecID,0.047068608727298046,0
+FSTC percent,miller2_SeN,0.04827842026442306,0
+FSTC percent,miller2_SecPerc,0.0509033557789892,0
+FSTC percent,miller2_AmSpe,0.04760298066499666,0
+IRTC percent,miller2_FisY,0.04275576739918954,0
+IRTC percent,miller2_TrDevel,0.04602638500708988,0
+IRTC percent,miller2_Bio,0.04319425533261115,0
+IRTC percent,miller2_UrIss,0.042378601986361286,0
+IRTC percent,miller2_ChiIss,0.04201783223705845,0
+IRTC percent,miller2_YoIss,0.042378601986361286,0
+IRTC percent,miller2_IndiIs,0.04652745410334381,0
+IRTC percent,miller2_DisabIss,0.04137360054187483,0
+IRTC percent,miller2_ICTAATFDeve,0.048127642507509574,0
+IRTC percent,miller2_KnoFDevel,0.04512791628277249,0
+IRTC percent,miller2_GeEq,0.047654859569915144,0
+IRTC percent,miller2_OrganiID,0.045547438078318576,0
+IRTC percent,miller2_OrgNa,0.04236493350411148,0
+IRTC percent,miller2_OrgaTy,0.04200416375480865,0
+IRTC percent,miller2_OrganiCla,0.045114247800522686,0
+IRTC percent,miller2_OrgS,0.04275576739918954,0
+IRTC percent,miller2_ContiID,0.050368983841290585,0
+IRTC percent,miller2_ContiN,0.051023407487379366,0
+IRTC percent,miller2_ProBroCoID,0.04080159792379922,0
+IRTC percent,miller2_CouRegID,0.045547438078318576,0
+IRTC percent,miller2_CouRegN,0.046012716524840076,0
+IRTC percent,miller2_CounRegPerc,0.048662014445208186,0
+IRTC percent,miller2_SecID,0.047068608727298046,0
+IRTC percent,miller2_SeN,0.04827842026442306,0
+IRTC percent,miller2_SecPerc,0.0509033557789892,0
+IRTC percent,miller2_AmSpe,0.04760298066499666,0
+CFLI (marker),miller2_FisY,0.04714060050801139,0
+CFLI (marker),miller2_TrDevel,0.04580570257312591,0
+CFLI (marker),miller2_Bio,0.04789945558247268,0
+CFLI (marker),miller2_UrIss,0.04677205011590135,0
+CFLI (marker),miller2_ChiIss,0.04627098101964742,0
+CFLI (marker),miller2_YoIss,0.04677205011590135,0
+CFLI (marker),miller2_IndiIs,0.04627098101964742,0
+CFLI (marker),miller2_DisabIss,0.04537251229533003,0
+CFLI (marker),miller2_ICTAATFDeve,0.044235387816115836,0
+CFLI (marker),miller2_KnoFDevel,0.0449682013693872,0
+CFLI (marker),miller2_GeEq,0.04731320473985559,0
+CFLI (marker),miller2_OrganiID,0.045199908063485825,0
+CFLI (marker),miller2_OrgNa,0.046599445884057136,0
+CFLI (marker),miller2_OrgaTy,0.04609837678780322,0
+CFLI (marker),miller2_OrganiCla,0.044795597137543,0
+CFLI (marker),miller2_OrgS,0.04714060050801139,0
+CFLI (marker),miller2_ContiID,0.04580570257312591,0
+CFLI (marker),miller2_ContiN,0.04609837678780322,0
+CFLI (marker),miller2_ProBroCoID,0.04441737078746745,0
+CFLI (marker),miller2_CouRegID,0.045199908063485825,0
+CFLI (marker),miller2_CouRegN,0.04563309834128171,0
+CFLI (marker),miller2_CounRegPerc,0.04767300391902226,0
+CFLI (marker),miller2_SecID,0.04677205011590135,0
+CFLI (marker),miller2_SeN,0.04772685135062848,0
+CFLI (marker),miller2_SecPerc,0.04976675692836903,0
+CFLI (marker),miller2_AmSpe,0.04654559845245091,0
+CIDA business delivery model (old),miller2_FisY,0.04345846308456837,0
+CIDA business delivery model (old),miller2_TrDevel,0.04750057227001405,0
+CIDA business delivery model (old),miller2_Bio,0.0461712052799526,0
+CIDA business delivery model (old),miller2_UrIss,0.04312214652402445,0
+CIDA business delivery model (old),miller2_ChiIss,0.04291425615430207,0
+CIDA business delivery model (old),miller2_YoIss,0.04561683096069294,0
+CIDA business delivery model (old),miller2_IndiIs,0.04535696799853998,0
+CIDA business delivery model (old),miller2_DisabIss,0.042523422259224015,0
+CIDA business delivery model (old),miller2_ICTAATFDeve,0.04420474543050323,0
+CIDA business delivery model (old),miller2_KnoFDevel,0.04923656916291782,0
+CIDA business delivery model (old),miller2_GeEq,0.04588799231250473,0
+CIDA business delivery model (old),miller2_OrganiID,0.04264280973831849,0
+CIDA business delivery model (old),miller2_OrgNa,0.043241534003118934,0
+CIDA business delivery model (old),miller2_OrgaTy,0.045476355477634456,0
+CIDA business delivery model (old),miller2_OrganiCla,0.044757910817564486,0
+CIDA business delivery model (old),miller2_OrgS,0.04345846308456837,0
+CIDA business delivery model (old),miller2_ContiID,0.04510771168790345,0
+CIDA business delivery model (old),miller2_ContiN,0.045476355477634456,0
+CIDA business delivery model (old),miller2_ProBroCoID,0.04679166185530101,0
+CIDA business delivery model (old),miller2_CouRegID,0.04733281647925527,0
+CIDA business delivery model (old),miller2_CouRegN,0.04761995974910854,0
+CIDA business delivery model (old),miller2_CounRegPerc,0.04621522274483948,0
+CIDA business delivery model (old),miller2_SecID,0.04561683096069294,0
+CIDA business delivery model (old),miller2_SeN,0.04629059275904709,0
+CIDA business delivery model (old),miller2_SecPerc,0.04490592167160916,0
+CIDA business delivery model (old),miller2_AmSpe,0.04790972538106714,0
+Programming process (new),miller2_FisY,0.045938490150868656,0
+Programming process (new),miller2_TrDevel,0.04779967984277787,0
+Programming process (new),miller2_Bio,0.0461712052799526,0
+Programming process (new),miller2_UrIss,0.04857106253043195,0
+Programming process (new),miller2_ChiIss,0.048175481664968316,0
+Programming process (new),miller2_YoIss,0.05165659328104824,0
+Programming process (new),miller2_IndiIs,0.04516906708744476,0
+Programming process (new),miller2_DisabIss,0.047442209816791835,0
+Programming process (new),miller2_ICTAATFDeve,0.046467291564102654,0
+Programming process (new),miller2_KnoFDevel,0.04989343285212464,0
+Programming process (new),miller2_GeEq,0.04581910267177417,0
+Programming process (new),miller2_OrganiID,0.04470183708799804,0
+Programming process (new),miller2_OrgNa,0.04251938850829384,0
+Programming process (new),miller2_OrgaTy,0.04228203998901567,0
+Programming process (new),miller2_OrganiCla,0.044429478972961074,0
+Programming process (new),miller2_OrgS,0.04276956667726273,0
+Programming process (new),miller2_ContiID,0.04779967984277787,0
+Programming process (new),miller2_ContiN,0.0482948691440628,0
+Programming process (new),miller2_ProBroCoID,0.046896536782423934,0
+Programming process (new),miller2_CouRegID,0.04756159729588632,0
+Programming process (new),miller2_CouRegN,0.04791906732187236,0
+Programming process (new),miller2_CounRegPerc,0.04893027810515879,0
+Programming process (new),miller2_SecID,0.04548553177981565,0
+Programming process (new),miller2_SeN,0.04629059275904709,0
+Programming process (new),miller2_SecPerc,0.04759788982648357,0
+Programming process (new),miller2_AmSpe,0.04528374176352135,0
+Bilateral aid (international marker),miller2_FisY,0.04772685135062848,0
+Bilateral aid (international marker),miller2_TrDevel,0.04933634490261263,0
+Bilateral aid (international marker),miller2_Bio,0.05070597557372474,0
+Bilateral aid (international marker),miller2_UrIss,0.047600348009708866,0
+Bilateral aid (international marker),miller2_ChiIss,0.04731320473985559,0
+Bilateral aid (international marker),miller2_YoIss,0.047600348009708866,0
+Bilateral aid (international marker),miller2_IndiIs,0.049658208110323974,0
+Bilateral aid (international marker),miller2_DisabIss,0.04902686104904403,0
+Bilateral aid (international marker),miller2_ICTAATFDeve,0.046034111992327376,0
+Bilateral aid (international marker),miller2_KnoFDevel,0.05094132316208969,0
+Bilateral aid (international marker),miller2_GeEq,0.04789945558247268,0
+Bilateral aid (international marker),miller2_OrganiID,0.04885425681719983,0
+Bilateral aid (international marker),miller2_OrgNa,0.047427743777864656,0
+Bilateral aid (international marker),miller2_OrgaTy,0.04714060050801139,0
+Bilateral aid (international marker),miller2_OrganiCla,0.05298098626087604,0
+Bilateral aid (international marker),miller2_OrgS,0.04772685135062848,0
+Bilateral aid (international marker),miller2_ContiID,0.051635367814836526,0
+Bilateral aid (international marker),miller2_ContiN,0.05183060724894815,0
+Bilateral aid (international marker),miller2_ProBroCoID,0.04826967620490358,0
+Bilateral aid (international marker),miller2_CouRegID,0.04885425681719983,0
+Bilateral aid (international marker),miller2_CouRegN,0.049163740670768424,0
+Bilateral aid (international marker),miller2_CounRegPerc,0.052203124066517996,0
+Bilateral aid (international marker),miller2_SecID,0.047600348009708866,0
+Bilateral aid (international marker),miller2_SeN,0.04803868690521204,0
+Bilateral aid (international marker),miller2_SecPerc,0.0491098932391622,0
+Bilateral aid (international marker),miller2_AmSpe,0.04976675692836903,0
+PBA type,miller2_FisY,0.039125304682615915,0
+PBA type,miller2_TrDevel,0.03824124219141218,0
+PBA type,miller2_Bio,0.039314470278583064,0
+PBA type,miller2_UrIss,0.03872675013560853,0
+PBA type,miller2_ChiIss,0.03847296189205135,0
+PBA type,miller2_YoIss,0.03872675013560853,0
+PBA type,miller2_IndiIs,0.03847296189205135,0
+PBA type,miller2_DisabIss,0.03802883246582628,0
+PBA type,miller2_ICTAATFDeve,0.0418286064457519,0
+PBA type,miller2_KnoFDevel,0.037833415518287235,0
+PBA type,miller2_GeEq,0.03900591720352143,0
+PBA type,miller2_OrganiID,0.03814821994492075,0
+PBA type,miller2_OrgNa,0.038846137614703014,0
+PBA type,miller2_OrgaTy,0.03859234937114583,0
+PBA type,miller2_OrganiCla,0.03795280299738173,0
+PBA type,miller2_OrgS,0.039125304682615915,0
+PBA type,miller2_ContiID,0.03824124219141218,0
+PBA type,miller2_ContiN,0.03859234937114583,0
+PBA type,miller2_ProBroCoID,0.04228203998901567,0
+PBA type,miller2_CouRegID,0.03814821994492075,0
+PBA type,miller2_CouRegN,0.038360629670506664,0
+PBA type,miller2_CounRegPerc,0.0416268164294576,0
+PBA type,miller2_SecID,0.03872675013560853,0
+PBA type,miller2_SeN,0.03943385775767754,0
+PBA type,miller2_SecPerc,0.04313728558917958,0
+PBA type,miller2_AmSpe,0.049691642835830344,0
+Enviromental sustainability (marker),miller2_FisY,0.04528413950639058,0
+Enviromental sustainability (marker),miller2_TrDevel,0.04473829907816482,0
+Enviromental sustainability (marker),miller2_Bio,0.04571660670038775,0
+Enviromental sustainability (marker),miller2_UrIss,0.04520748742759827,0
+Enviromental sustainability (marker),miller2_ChiIss,0.0449682013693872,0
+Enviromental sustainability (marker),miller2_YoIss,0.04520748742759827,0
+Enviromental sustainability (marker),miller2_IndiIs,0.0449682013693872,0
+Enviromental sustainability (marker),miller2_DisabIss,0.04451723918275867,0
+Enviromental sustainability (marker),miller2_ICTAATFDeve,0.043902290746447026,0
+Enviromental sustainability (marker),miller2_KnoFDevel,0.04430452117019804,0
+Enviromental sustainability (marker),miller2_GeEq,0.04545674373823479,0
+Enviromental sustainability (marker),miller2_OrganiID,0.044344634950914466,0
+Enviromental sustainability (marker),miller2_OrgNa,0.04503488319575406,0
+Enviromental sustainability (marker),miller2_OrgaTy,0.044795597137543,0
+Enviromental sustainability (marker),miller2_OrganiCla,0.048556451599614935,0
+Enviromental sustainability (marker),miller2_OrgS,0.04528413950639058,0
+Enviromental sustainability (marker),miller2_ContiID,0.04703732199038872,0
+Enviromental sustainability (marker),miller2_ContiN,0.04714060050801139,0
+Enviromental sustainability (marker),miller2_ProBroCoID,0.04392707737070286,0
+Enviromental sustainability (marker),miller2_CouRegID,0.044344634950914466,0
+Enviromental sustainability (marker),miller2_CouRegN,0.04456569484632061,0
+Enviromental sustainability (marker),miller2_CounRegPerc,0.047939481574757296,0
+Enviromental sustainability (marker),miller2_SecID,0.04520748742759827,0
+Enviromental sustainability (marker),miller2_SeN,0.045544002468543544,0
+Enviromental sustainability (marker),miller2_SecPerc,0.046810870326938286,0
+Enviromental sustainability (marker),miller2_AmSpe,0.04498103576414784,0
+Climate change adaptation (marker),miller2_FisY,0.04326624711332449,0
+Climate change adaptation (marker),miller2_TrDevel,0.04281462684548767,0
+Climate change adaptation (marker),miller2_Bio,0.04366542171912699,0
+Climate change adaptation (marker),miller2_UrIss,0.043221922263719265,0
+Climate change adaptation (marker),miller2_ChiIss,0.04301403189399688,0
+Climate change adaptation (marker),miller2_YoIss,0.043221922263719265,0
+Climate change adaptation (marker),miller2_IndiIs,0.04545674373823479,0
+Climate change adaptation (marker),miller2_DisabIss,0.042623197998918824,0
+Climate change adaptation (marker),miller2_ICTAATFDeve,0.04209225383956748,0
+Climate change adaptation (marker),miller2_KnoFDevel,0.04473829907816482,0
+Climate change adaptation (marker),miller2_GeEq,0.0434388513451687,0
+Climate change adaptation (marker),miller2_OrganiID,0.044795597137543,0
+Climate change adaptation (marker),miller2_OrgNa,0.043049318031875054,0
+Climate change adaptation (marker),miller2_OrgaTy,0.04284142766215268,0
+Climate change adaptation (marker),miller2_OrganiCla,0.04686471775854452,0
+Climate change adaptation (marker),miller2_OrgS,0.04326624711332449,0
+Climate change adaptation (marker),miller2_ContiID,0.04520748742759827,0
+Climate change adaptation (marker),miller2_ContiN,0.04528413950639058,0
+Climate change adaptation (marker),miller2_ProBroCoID,0.042089824017771796,0
+Climate change adaptation (marker),miller2_CouRegID,0.04245059376707462,0
+Climate change adaptation (marker),miller2_CouRegN,0.042642022613643464,0
+Climate change adaptation (marker),miller2_CounRegPerc,0.04629033683737816,0
+Climate change adaptation (marker),miller2_SecID,0.043221922263719265,0
+Climate change adaptation (marker),miller2_SeN,0.04349281748728279,0
+Climate change adaptation (marker),miller2_SecPerc,0.04498103576414784,0
+Climate change adaptation (marker),miller2_AmSpe,0.04299547060026883,0
+Climate change mitigation (marker),miller2_FisY,0.04326624711332449,0
+Climate change mitigation (marker),miller2_TrDevel,0.04281462684548767,0
+Climate change mitigation (marker),miller2_Bio,0.04366542171912699,0
+Climate change mitigation (marker),miller2_UrIss,0.043221922263719265,0
+Climate change mitigation (marker),miller2_ChiIss,0.04301403189399688,0
+Climate change mitigation (marker),miller2_YoIss,0.043221922263719265,0
+Climate change mitigation (marker),miller2_IndiIs,0.04301403189399688,0
+Climate change mitigation (marker),miller2_DisabIss,0.042623197998918824,0
+Climate change mitigation (marker),miller2_ICTAATFDeve,0.04209225383956748,0
+Climate change mitigation (marker),miller2_KnoFDevel,0.04473829907816482,0
+Climate change mitigation (marker),miller2_GeEq,0.0434388513451687,0
+Climate change mitigation (marker),miller2_OrganiID,0.044795597137543,0
+Climate change mitigation (marker),miller2_OrgNa,0.043049318031875054,0
+Climate change mitigation (marker),miller2_OrgaTy,0.04284142766215268,0
+Climate change mitigation (marker),miller2_OrganiCla,0.04686471775854452,0
+Climate change mitigation (marker),miller2_OrgS,0.04326624711332449,0
+Climate change mitigation (marker),miller2_ContiID,0.04520748742759827,0
+Climate change mitigation (marker),miller2_ContiN,0.04528413950639058,0
+Climate change mitigation (marker),miller2_ProBroCoID,0.042089824017771796,0
+Climate change mitigation (marker),miller2_CouRegID,0.04245059376707462,0
+Climate change mitigation (marker),miller2_CouRegN,0.042642022613643464,0
+Climate change mitigation (marker),miller2_CounRegPerc,0.048502604168008716,0
+Climate change mitigation (marker),miller2_SecID,0.043221922263719265,0
+Climate change mitigation (marker),miller2_SeN,0.04349281748728279,0
+Climate change mitigation (marker),miller2_SecPerc,0.04498103576414784,0
+Climate change mitigation (marker),miller2_AmSpe,0.04299547060026883,0
+Desertification (marker),miller2_FisY,0.04284142766215268,0
+Desertification (marker),miller2_TrDevel,0.04526884282713957,0
+Desertification (marker),miller2_Bio,0.046643203776864615,0
+Desertification (marker),miller2_UrIss,0.04274995493786306,0
+Desertification (marker),miller2_ChiIss,0.04249977676889417,0
+Desertification (marker),miller2_YoIss,0.04274995493786306,0
+Desertification (marker),miller2_IndiIs,0.04249977676889417,0
+Desertification (marker),miller2_DisabIss,0.0449682013693872,0
+Desertification (marker),miller2_ICTAATFDeve,0.041423428832632676,0
+Desertification (marker),miller2_KnoFDevel,0.04468222534859838,0
+Desertification (marker),miller2_GeEq,0.04301403189399688,0
+Desertification (marker),miller2_OrganiID,0.044795597137543,0
+Desertification (marker),miller2_OrgNa,0.04257735070601885,0
+Desertification (marker),miller2_OrgaTy,0.04232717253704996,0
+Desertification (marker),miller2_OrganiCla,0.04736938132464245,0
+Desertification (marker),miller2_OrgS,0.04284142766215268,0
+Desertification (marker),miller2_ContiID,0.04526884282713957,0
+Desertification (marker),miller2_ContiN,0.04541270328766626,0
+Desertification (marker),miller2_ProBroCoID,0.044237263001717195,0
+Desertification (marker),miller2_CouRegID,0.044795597137543,0
+Desertification (marker),miller2_CouRegN,0.04509623859529536,0
+Desertification (marker),miller2_CounRegPerc,0.049377221484769626,0
+Desertification (marker),miller2_SecID,0.04274995493786306,0
+Desertification (marker),miller2_SeN,0.04312059473006558,0
+Desertification (marker),miller2_SecPerc,0.0480488057412127,0
+Desertification (marker),miller2_AmSpe,0.04569242674801855,0
+Participatory development and good governance,miller2_FisY,0.041298662286844534,0
+Participatory development and good governance,miller2_TrDevel,0.0449682013693872,0
+Participatory development and good governance,miller2_Bio,0.04161819655443238,0
+Participatory development and good governance,miller2_UrIss,0.041329403035901775,0
+Participatory development and good governance,miller2_ChiIss,0.04119234848473472,0
+Participatory development and good governance,miller2_YoIss,0.041329403035901775,0
+Participatory development and good governance,miller2_IndiIs,0.04317963947665709,0
+Participatory development and good governance,miller2_DisabIss,0.042853854068145215,0
+Participatory development and good governance,miller2_ICTAATFDeve,0.042403353932937406,0
+Participatory development and good governance,miller2_KnoFDevel,0.04648110676968939,0
+Participatory development and good governance,miller2_GeEq,0.043528287019099596,0
+Participatory development and good governance,miller2_OrganiID,0.044603383746521,0
+Participatory development and good governance,miller2_OrgNa,0.04317835343377171,0
+Participatory development and good governance,miller2_OrgaTy,0.04300703524481287,0
+Participatory development and good governance,miller2_OrganiCla,0.04441737078746745,0
+Participatory development and good governance,miller2_OrgS,0.041298662286844534,0
+Participatory development and good governance,miller2_ContiID,0.04301403189399688,0
+Participatory development and good governance,miller2_ContiN,0.04300703524481287,0
+Participatory development and good governance,miller2_ProBroCoID,0.044237263001717195,0
+Participatory development and good governance,miller2_CouRegID,0.04268124983630101,0
+Participatory development and good governance,miller2_CouRegN,0.04284142766215268,0
+Participatory development and good governance,miller2_CounRegPerc,0.04767300391902226,0
+Participatory development and good governance,miller2_SecID,0.043350957665615905,0
+Participatory development and good governance,miller2_SeN,0.04353934533193494,0
+Participatory development and good governance,miller2_SecPerc,0.04474174970593678,0
+Participatory development and good governance,miller2_AmSpe,0.043124506002165476,0

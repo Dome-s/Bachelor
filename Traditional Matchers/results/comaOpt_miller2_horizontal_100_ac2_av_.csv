@@ -1,0 +1,2602 @@
+source,target,conf,realConf
+Fiscal year,FiYe,0.29118368,1
+Fiscal year,PrNu,0,0
+Fiscal year,St,0,0
+Fiscal year,MaxiCIDACont,0,0
+Fiscal year,BraID,0,0
+Fiscal year,BraN,0,0
+Fiscal year,DiviID,0,0
+Fiscal year,DiNa,0,0
+Fiscal year,SeID,0,0
+Fiscal year,SecN,0,0
+Fiscal year,RePro,0,0
+Fiscal year,FCeID,0,0
+Fiscal year,FuCeN,0,0
+Fiscal year,UntAmPrBud,0,0
+Fiscal year,FSTCPer,0,0
+Fiscal year,IRTCPe,0,0
+Fiscal year,CFLI,0,0
+Fiscal year,CIDABuDeliMo,0,0
+Fiscal year,PrograPro,0,0
+Fiscal year,BilAMar,0,0
+Fiscal year,PBAT,0,0
+Fiscal year,EnvirSustai,0,0
+Fiscal year,CliChAdap,0,0
+Fiscal year,ClChMiti,0,0
+Fiscal year,Desert,0,0
+Fiscal year,ParticDeveloAGoGov,0,0
+Fiscal year,TraDev,0,0
+Fiscal year,Bio,0,0
+Fiscal year,UrbIs,0,0
+Fiscal year,ChiIs,0,0
+Fiscal year,YoIss,0,0
+Fiscal year,IndigIs,0,0
+Fiscal year,DisIss,0,0
+Fiscal year,ICTAAToFDevelo,0,0
+Fiscal year,KnoFDevelo,0,0
+Fiscal year,GenEqu,0,0
+Fiscal year,OrgID,0,0
+Fiscal year,OrganiNa,0,0
+Fiscal year,OrganiT,0,0
+Fiscal year,OrganCl,0,0
+Fiscal year,OrganSu,0,0
+Fiscal year,ContiID,0,0
+Fiscal year,ContNa,0,0
+Fiscal year,PrBrCoID,0,0
+Fiscal year,CounRegID,0,0
+Fiscal year,CouRegNa,0,0
+Fiscal year,CouRePer,0,0
+Fiscal year,Sector ID,0,0
+Fiscal year,SeNa,0,0
+Fiscal year,SePe,0,0
+Fiscal year,AmSpe,0,0
+Project number,FiYe,0,0
+Project number,PrNu,0,1
+Project number,St,0,0
+Project number,MaxiCIDACont,0,0
+Project number,BraID,0,0
+Project number,BraN,0,0
+Project number,DiviID,0,0
+Project number,DiNa,0,0
+Project number,SeID,0,0
+Project number,SecN,0,0
+Project number,RePro,0,0
+Project number,FCeID,0,0
+Project number,FuCeN,0,0
+Project number,UntAmPrBud,0,0
+Project number,FSTCPer,0,0
+Project number,IRTCPe,0,0
+Project number,CFLI,0,0
+Project number,CIDABuDeliMo,0,0
+Project number,PrograPro,0,0
+Project number,BilAMar,0,0
+Project number,PBAT,0,0
+Project number,EnvirSustai,0,0
+Project number,CliChAdap,0,0
+Project number,ClChMiti,0,0
+Project number,Desert,0,0
+Project number,ParticDeveloAGoGov,0,0
+Project number,TraDev,0,0
+Project number,Bio,0,0
+Project number,UrbIs,0,0
+Project number,ChiIs,0,0
+Project number,YoIss,0,0
+Project number,IndigIs,0,0
+Project number,DisIss,0,0
+Project number,ICTAAToFDevelo,0,0
+Project number,KnoFDevelo,0,0
+Project number,GenEqu,0,0
+Project number,OrgID,0,0
+Project number,OrganiNa,0,0
+Project number,OrganiT,0,0
+Project number,OrganCl,0,0
+Project number,OrganSu,0,0
+Project number,ContiID,0,0
+Project number,ContNa,0,0
+Project number,PrBrCoID,0,0
+Project number,CounRegID,0,0
+Project number,CouRegNa,0,0
+Project number,CouRePer,0,0
+Project number,Sector ID,0,0
+Project number,SeNa,0,0
+Project number,SePe,0,0
+Project number,AmSpe,0,0
+Status,FiYe,0,0
+Status,PrNu,0,0
+Status,St,0.41555014,1
+Status,MaxiCIDACont,0,0
+Status,BraID,0,0
+Status,BraN,0,0
+Status,DiviID,0,0
+Status,DiNa,0,0
+Status,SeID,0,0
+Status,SecN,0,0
+Status,RePro,0,0
+Status,FCeID,0,0
+Status,FuCeN,0,0
+Status,UntAmPrBud,0,0
+Status,FSTCPer,0,0
+Status,IRTCPe,0,0
+Status,CFLI,0,0
+Status,CIDABuDeliMo,0,0
+Status,PrograPro,0,0
+Status,BilAMar,0,0
+Status,PBAT,0,0
+Status,EnvirSustai,0,0
+Status,CliChAdap,0,0
+Status,ClChMiti,0,0
+Status,Desert,0,0
+Status,ParticDeveloAGoGov,0,0
+Status,TraDev,0,0
+Status,Bio,0,0
+Status,UrbIs,0,0
+Status,ChiIs,0,0
+Status,YoIss,0,0
+Status,IndigIs,0,0
+Status,DisIss,0,0
+Status,ICTAAToFDevelo,0,0
+Status,KnoFDevelo,0,0
+Status,GenEqu,0,0
+Status,OrgID,0,0
+Status,OrganiNa,0,0
+Status,OrganiT,0,0
+Status,OrganCl,0,0
+Status,OrganSu,0,0
+Status,ContiID,0,0
+Status,ContNa,0,0
+Status,PrBrCoID,0,0
+Status,CounRegID,0,0
+Status,CouRegNa,0,0
+Status,CouRePer,0,0
+Status,Sector ID,0,0
+Status,SeNa,0,0
+Status,SePe,0,0
+Status,AmSpe,0,0
+Maximum CIDA contribution (project-level),FiYe,0,0
+Maximum CIDA contribution (project-level),PrNu,0,0
+Maximum CIDA contribution (project-level),St,0,0
+Maximum CIDA contribution (project-level),MaxiCIDACont,0.31654915,1
+Maximum CIDA contribution (project-level),BraID,0,0
+Maximum CIDA contribution (project-level),BraN,0,0
+Maximum CIDA contribution (project-level),DiviID,0,0
+Maximum CIDA contribution (project-level),DiNa,0,0
+Maximum CIDA contribution (project-level),SeID,0,0
+Maximum CIDA contribution (project-level),SecN,0,0
+Maximum CIDA contribution (project-level),RePro,0,0
+Maximum CIDA contribution (project-level),FCeID,0,0
+Maximum CIDA contribution (project-level),FuCeN,0,0
+Maximum CIDA contribution (project-level),UntAmPrBud,0,0
+Maximum CIDA contribution (project-level),FSTCPer,0,0
+Maximum CIDA contribution (project-level),IRTCPe,0,0
+Maximum CIDA contribution (project-level),CFLI,0,0
+Maximum CIDA contribution (project-level),CIDABuDeliMo,0,0
+Maximum CIDA contribution (project-level),PrograPro,0,0
+Maximum CIDA contribution (project-level),BilAMar,0,0
+Maximum CIDA contribution (project-level),PBAT,0,0
+Maximum CIDA contribution (project-level),EnvirSustai,0,0
+Maximum CIDA contribution (project-level),CliChAdap,0,0
+Maximum CIDA contribution (project-level),ClChMiti,0,0
+Maximum CIDA contribution (project-level),Desert,0,0
+Maximum CIDA contribution (project-level),ParticDeveloAGoGov,0,0
+Maximum CIDA contribution (project-level),TraDev,0,0
+Maximum CIDA contribution (project-level),Bio,0,0
+Maximum CIDA contribution (project-level),UrbIs,0,0
+Maximum CIDA contribution (project-level),ChiIs,0,0
+Maximum CIDA contribution (project-level),YoIss,0,0
+Maximum CIDA contribution (project-level),IndigIs,0,0
+Maximum CIDA contribution (project-level),DisIss,0,0
+Maximum CIDA contribution (project-level),ICTAAToFDevelo,0,0
+Maximum CIDA contribution (project-level),KnoFDevelo,0,0
+Maximum CIDA contribution (project-level),GenEqu,0,0
+Maximum CIDA contribution (project-level),OrgID,0,0
+Maximum CIDA contribution (project-level),OrganiNa,0,0
+Maximum CIDA contribution (project-level),OrganiT,0,0
+Maximum CIDA contribution (project-level),OrganCl,0,0
+Maximum CIDA contribution (project-level),OrganSu,0,0
+Maximum CIDA contribution (project-level),ContiID,0,0
+Maximum CIDA contribution (project-level),ContNa,0,0
+Maximum CIDA contribution (project-level),PrBrCoID,0,0
+Maximum CIDA contribution (project-level),CounRegID,0,0
+Maximum CIDA contribution (project-level),CouRegNa,0,0
+Maximum CIDA contribution (project-level),CouRePer,0,0
+Maximum CIDA contribution (project-level),Sector ID,0,0
+Maximum CIDA contribution (project-level),SeNa,0,0
+Maximum CIDA contribution (project-level),SePe,0,0
+Maximum CIDA contribution (project-level),AmSpe,0,0
+Branch ID,FiYe,0,0
+Branch ID,PrNu,0,0
+Branch ID,St,0,0
+Branch ID,MaxiCIDACont,0,0
+Branch ID,BraID,0.51075715,1
+Branch ID,BraN,0,0
+Branch ID,DiviID,0,0
+Branch ID,DiNa,0,0
+Branch ID,SeID,0,0
+Branch ID,SecN,0,0
+Branch ID,RePro,0,0
+Branch ID,FCeID,0,0
+Branch ID,FuCeN,0,0
+Branch ID,UntAmPrBud,0,0
+Branch ID,FSTCPer,0,0
+Branch ID,IRTCPe,0,0
+Branch ID,CFLI,0,0
+Branch ID,CIDABuDeliMo,0,0
+Branch ID,PrograPro,0,0
+Branch ID,BilAMar,0,0
+Branch ID,PBAT,0,0
+Branch ID,EnvirSustai,0,0
+Branch ID,CliChAdap,0,0
+Branch ID,ClChMiti,0,0
+Branch ID,Desert,0,0
+Branch ID,ParticDeveloAGoGov,0,0
+Branch ID,TraDev,0,0
+Branch ID,Bio,0,0
+Branch ID,UrbIs,0,0
+Branch ID,ChiIs,0,0
+Branch ID,YoIss,0,0
+Branch ID,IndigIs,0,0
+Branch ID,DisIss,0,0
+Branch ID,ICTAAToFDevelo,0,0
+Branch ID,KnoFDevelo,0,0
+Branch ID,GenEqu,0,0
+Branch ID,OrgID,0,0
+Branch ID,OrganiNa,0,0
+Branch ID,OrganiT,0,0
+Branch ID,OrganCl,0,0
+Branch ID,OrganSu,0,0
+Branch ID,ContiID,0,0
+Branch ID,ContNa,0,0
+Branch ID,PrBrCoID,0,0
+Branch ID,CounRegID,0,0
+Branch ID,CouRegNa,0,0
+Branch ID,CouRePer,0,0
+Branch ID,Sector ID,0,0
+Branch ID,SeNa,0,0
+Branch ID,SePe,0,0
+Branch ID,AmSpe,0,0
+Branch name,FiYe,0,0
+Branch name,PrNu,0,0
+Branch name,St,0,0
+Branch name,MaxiCIDACont,0,0
+Branch name,BraID,0,0
+Branch name,BraN,0,1
+Branch name,DiviID,0,0
+Branch name,DiNa,0,0
+Branch name,SeID,0,0
+Branch name,SecN,0,0
+Branch name,RePro,0,0
+Branch name,FCeID,0,0
+Branch name,FuCeN,0,0
+Branch name,UntAmPrBud,0,0
+Branch name,FSTCPer,0,0
+Branch name,IRTCPe,0,0
+Branch name,CFLI,0,0
+Branch name,CIDABuDeliMo,0,0
+Branch name,PrograPro,0,0
+Branch name,BilAMar,0,0
+Branch name,PBAT,0,0
+Branch name,EnvirSustai,0,0
+Branch name,CliChAdap,0,0
+Branch name,ClChMiti,0,0
+Branch name,Desert,0,0
+Branch name,ParticDeveloAGoGov,0,0
+Branch name,TraDev,0,0
+Branch name,Bio,0,0
+Branch name,UrbIs,0,0
+Branch name,ChiIs,0,0
+Branch name,YoIss,0,0
+Branch name,IndigIs,0,0
+Branch name,DisIss,0,0
+Branch name,ICTAAToFDevelo,0,0
+Branch name,KnoFDevelo,0,0
+Branch name,GenEqu,0,0
+Branch name,OrgID,0,0
+Branch name,OrganiNa,0,0
+Branch name,OrganiT,0,0
+Branch name,OrganCl,0,0
+Branch name,OrganSu,0,0
+Branch name,ContiID,0,0
+Branch name,ContNa,0,0
+Branch name,PrBrCoID,0,0
+Branch name,CounRegID,0,0
+Branch name,CouRegNa,0,0
+Branch name,CouRePer,0,0
+Branch name,Sector ID,0,0
+Branch name,SeNa,0,0
+Branch name,SePe,0,0
+Branch name,AmSpe,0,0
+Division ID,FiYe,0,0
+Division ID,PrNu,0,0
+Division ID,St,0,0
+Division ID,MaxiCIDACont,0,0
+Division ID,BraID,0,0
+Division ID,BraN,0,0
+Division ID,DiviID,0.49772707,1
+Division ID,DiNa,0,0
+Division ID,SeID,0,0
+Division ID,SecN,0,0
+Division ID,RePro,0,0
+Division ID,FCeID,0,0
+Division ID,FuCeN,0,0
+Division ID,UntAmPrBud,0,0
+Division ID,FSTCPer,0,0
+Division ID,IRTCPe,0,0
+Division ID,CFLI,0,0
+Division ID,CIDABuDeliMo,0,0
+Division ID,PrograPro,0,0
+Division ID,BilAMar,0,0
+Division ID,PBAT,0,0
+Division ID,EnvirSustai,0,0
+Division ID,CliChAdap,0,0
+Division ID,ClChMiti,0,0
+Division ID,Desert,0,0
+Division ID,ParticDeveloAGoGov,0,0
+Division ID,TraDev,0,0
+Division ID,Bio,0,0
+Division ID,UrbIs,0,0
+Division ID,ChiIs,0,0
+Division ID,YoIss,0,0
+Division ID,IndigIs,0,0
+Division ID,DisIss,0,0
+Division ID,ICTAAToFDevelo,0,0
+Division ID,KnoFDevelo,0,0
+Division ID,GenEqu,0,0
+Division ID,OrgID,0,0
+Division ID,OrganiNa,0,0
+Division ID,OrganiT,0,0
+Division ID,OrganCl,0,0
+Division ID,OrganSu,0,0
+Division ID,ContiID,0,0
+Division ID,ContNa,0,0
+Division ID,PrBrCoID,0,0
+Division ID,CounRegID,0,0
+Division ID,CouRegNa,0,0
+Division ID,CouRePer,0,0
+Division ID,Sector ID,0,0
+Division ID,SeNa,0,0
+Division ID,SePe,0,0
+Division ID,AmSpe,0,0
+Division name,FiYe,0,0
+Division name,PrNu,0,0
+Division name,St,0,0
+Division name,MaxiCIDACont,0,0
+Division name,BraID,0,0
+Division name,BraN,0,0
+Division name,DiviID,0,0
+Division name,DiNa,0,1
+Division name,SeID,0,0
+Division name,SecN,0,0
+Division name,RePro,0,0
+Division name,FCeID,0,0
+Division name,FuCeN,0,0
+Division name,UntAmPrBud,0,0
+Division name,FSTCPer,0,0
+Division name,IRTCPe,0,0
+Division name,CFLI,0,0
+Division name,CIDABuDeliMo,0,0
+Division name,PrograPro,0,0
+Division name,BilAMar,0,0
+Division name,PBAT,0,0
+Division name,EnvirSustai,0,0
+Division name,CliChAdap,0,0
+Division name,ClChMiti,0,0
+Division name,Desert,0,0
+Division name,ParticDeveloAGoGov,0,0
+Division name,TraDev,0,0
+Division name,Bio,0,0
+Division name,UrbIs,0,0
+Division name,ChiIs,0,0
+Division name,YoIss,0,0
+Division name,IndigIs,0,0
+Division name,DisIss,0,0
+Division name,ICTAAToFDevelo,0,0
+Division name,KnoFDevelo,0,0
+Division name,GenEqu,0,0
+Division name,OrgID,0,0
+Division name,OrganiNa,0,0
+Division name,OrganiT,0,0
+Division name,OrganCl,0,0
+Division name,OrganSu,0,0
+Division name,ContiID,0,0
+Division name,ContNa,0,0
+Division name,PrBrCoID,0,0
+Division name,CounRegID,0,0
+Division name,CouRegNa,0,0
+Division name,CouRePer,0,0
+Division name,Sector ID,0,0
+Division name,SeNa,0,0
+Division name,SePe,0,0
+Division name,AmSpe,0,0
+Section ID,FiYe,0,0
+Section ID,PrNu,0,0
+Section ID,St,0,0
+Section ID,MaxiCIDACont,0,0
+Section ID,BraID,0,0
+Section ID,BraN,0,0
+Section ID,DiviID,0,0
+Section ID,DiNa,0,0
+Section ID,SeID,0,1
+Section ID,SecN,0,0
+Section ID,RePro,0,0
+Section ID,FCeID,0,0
+Section ID,FuCeN,0,0
+Section ID,UntAmPrBud,0,0
+Section ID,FSTCPer,0,0
+Section ID,IRTCPe,0,0
+Section ID,CFLI,0,0
+Section ID,CIDABuDeliMo,0,0
+Section ID,PrograPro,0,0
+Section ID,BilAMar,0,0
+Section ID,PBAT,0,0
+Section ID,EnvirSustai,0,0
+Section ID,CliChAdap,0,0
+Section ID,ClChMiti,0,0
+Section ID,Desert,0,0
+Section ID,ParticDeveloAGoGov,0,0
+Section ID,TraDev,0,0
+Section ID,Bio,0,0
+Section ID,UrbIs,0,0
+Section ID,ChiIs,0,0
+Section ID,YoIss,0,0
+Section ID,IndigIs,0,0
+Section ID,DisIss,0,0
+Section ID,ICTAAToFDevelo,0,0
+Section ID,KnoFDevelo,0,0
+Section ID,GenEqu,0,0
+Section ID,OrgID,0,0
+Section ID,OrganiNa,0,0
+Section ID,OrganiT,0,0
+Section ID,OrganCl,0,0
+Section ID,OrganSu,0,0
+Section ID,ContiID,0,0
+Section ID,ContNa,0,0
+Section ID,PrBrCoID,0,0
+Section ID,CounRegID,0,0
+Section ID,CouRegNa,0,0
+Section ID,CouRePer,0,0
+Section ID,Sector ID,0,0
+Section ID,SeNa,0,0
+Section ID,SePe,0,0
+Section ID,AmSpe,0,0
+Section name,FiYe,0,0
+Section name,PrNu,0,0
+Section name,St,0,0
+Section name,MaxiCIDACont,0,0
+Section name,BraID,0,0
+Section name,BraN,0,0
+Section name,DiviID,0,0
+Section name,DiNa,0,0
+Section name,SeID,0,0
+Section name,SecN,0,1
+Section name,RePro,0,0
+Section name,FCeID,0,0
+Section name,FuCeN,0,0
+Section name,UntAmPrBud,0,0
+Section name,FSTCPer,0,0
+Section name,IRTCPe,0,0
+Section name,CFLI,0,0
+Section name,CIDABuDeliMo,0,0
+Section name,PrograPro,0,0
+Section name,BilAMar,0,0
+Section name,PBAT,0,0
+Section name,EnvirSustai,0,0
+Section name,CliChAdap,0,0
+Section name,ClChMiti,0,0
+Section name,Desert,0,0
+Section name,ParticDeveloAGoGov,0,0
+Section name,TraDev,0,0
+Section name,Bio,0,0
+Section name,UrbIs,0,0
+Section name,ChiIs,0,0
+Section name,YoIss,0,0
+Section name,IndigIs,0,0
+Section name,DisIss,0,0
+Section name,ICTAAToFDevelo,0,0
+Section name,KnoFDevelo,0,0
+Section name,GenEqu,0,0
+Section name,OrgID,0,0
+Section name,OrganiNa,0,0
+Section name,OrganiT,0,0
+Section name,OrganCl,0,0
+Section name,OrganSu,0,0
+Section name,ContiID,0,0
+Section name,ContNa,0,0
+Section name,PrBrCoID,0,0
+Section name,CounRegID,0,0
+Section name,CouRegNa,0,0
+Section name,CouRePer,0,0
+Section name,Sector ID,0,0
+Section name,SeNa,0,0
+Section name,SePe,0,0
+Section name,AmSpe,0,0
+Regional program (marker),FiYe,0,0
+Regional program (marker),PrNu,0,0
+Regional program (marker),St,0,0
+Regional program (marker),MaxiCIDACont,0,0
+Regional program (marker),BraID,0,0
+Regional program (marker),BraN,0,0
+Regional program (marker),DiviID,0,0
+Regional program (marker),DiNa,0,0
+Regional program (marker),SeID,0,0
+Regional program (marker),SecN,0,0
+Regional program (marker),RePro,0,1
+Regional program (marker),FCeID,0,0
+Regional program (marker),FuCeN,0,0
+Regional program (marker),UntAmPrBud,0,0
+Regional program (marker),FSTCPer,0,0
+Regional program (marker),IRTCPe,0,0
+Regional program (marker),CFLI,0,0
+Regional program (marker),CIDABuDeliMo,0,0
+Regional program (marker),PrograPro,0,0
+Regional program (marker),BilAMar,0,0
+Regional program (marker),PBAT,0,0
+Regional program (marker),EnvirSustai,0,0
+Regional program (marker),CliChAdap,0,0
+Regional program (marker),ClChMiti,0,0
+Regional program (marker),Desert,0,0
+Regional program (marker),ParticDeveloAGoGov,0,0
+Regional program (marker),TraDev,0,0
+Regional program (marker),Bio,0,0
+Regional program (marker),UrbIs,0,0
+Regional program (marker),ChiIs,0,0
+Regional program (marker),YoIss,0,0
+Regional program (marker),IndigIs,0,0
+Regional program (marker),DisIss,0,0
+Regional program (marker),ICTAAToFDevelo,0,0
+Regional program (marker),KnoFDevelo,0,0
+Regional program (marker),GenEqu,0,0
+Regional program (marker),OrgID,0,0
+Regional program (marker),OrganiNa,0,0
+Regional program (marker),OrganiT,0,0
+Regional program (marker),OrganCl,0,0
+Regional program (marker),OrganSu,0,0
+Regional program (marker),ContiID,0,0
+Regional program (marker),ContNa,0,0
+Regional program (marker),PrBrCoID,0,0
+Regional program (marker),CounRegID,0,0
+Regional program (marker),CouRegNa,0,0
+Regional program (marker),CouRePer,0,0
+Regional program (marker),Sector ID,0,0
+Regional program (marker),SeNa,0,0
+Regional program (marker),SePe,0,0
+Regional program (marker),AmSpe,0,0
+Fund centre ID,FiYe,0,0
+Fund centre ID,PrNu,0,0
+Fund centre ID,St,0,0
+Fund centre ID,MaxiCIDACont,0,0
+Fund centre ID,BraID,0,0
+Fund centre ID,BraN,0,0
+Fund centre ID,DiviID,0,0
+Fund centre ID,DiNa,0,0
+Fund centre ID,SeID,0,0
+Fund centre ID,SecN,0,0
+Fund centre ID,RePro,0,0
+Fund centre ID,FCeID,0.3189194,1
+Fund centre ID,FuCeN,0.3189194,0
+Fund centre ID,UntAmPrBud,0,0
+Fund centre ID,FSTCPer,0,0
+Fund centre ID,IRTCPe,0,0
+Fund centre ID,CFLI,0,0
+Fund centre ID,CIDABuDeliMo,0,0
+Fund centre ID,PrograPro,0,0
+Fund centre ID,BilAMar,0,0
+Fund centre ID,PBAT,0,0
+Fund centre ID,EnvirSustai,0,0
+Fund centre ID,CliChAdap,0,0
+Fund centre ID,ClChMiti,0,0
+Fund centre ID,Desert,0,0
+Fund centre ID,ParticDeveloAGoGov,0,0
+Fund centre ID,TraDev,0,0
+Fund centre ID,Bio,0,0
+Fund centre ID,UrbIs,0,0
+Fund centre ID,ChiIs,0,0
+Fund centre ID,YoIss,0,0
+Fund centre ID,IndigIs,0,0
+Fund centre ID,DisIss,0,0
+Fund centre ID,ICTAAToFDevelo,0,0
+Fund centre ID,KnoFDevelo,0,0
+Fund centre ID,GenEqu,0,0
+Fund centre ID,OrgID,0,0
+Fund centre ID,OrganiNa,0,0
+Fund centre ID,OrganiT,0,0
+Fund centre ID,OrganCl,0,0
+Fund centre ID,OrganSu,0,0
+Fund centre ID,ContiID,0,0
+Fund centre ID,ContNa,0,0
+Fund centre ID,PrBrCoID,0,0
+Fund centre ID,CounRegID,0,0
+Fund centre ID,CouRegNa,0,0
+Fund centre ID,CouRePer,0,0
+Fund centre ID,Sector ID,0,0
+Fund centre ID,SeNa,0,0
+Fund centre ID,SePe,0,0
+Fund centre ID,AmSpe,0,0
+Fund centre name,FiYe,0,0
+Fund centre name,PrNu,0,0
+Fund centre name,St,0,0
+Fund centre name,MaxiCIDACont,0,0
+Fund centre name,BraID,0,0
+Fund centre name,BraN,0,0
+Fund centre name,DiviID,0,0
+Fund centre name,DiNa,0,0
+Fund centre name,SeID,0,0
+Fund centre name,SecN,0,0
+Fund centre name,RePro,0,0
+Fund centre name,FCeID,0,0
+Fund centre name,FuCeN,0,1
+Fund centre name,UntAmPrBud,0,0
+Fund centre name,FSTCPer,0,0
+Fund centre name,IRTCPe,0,0
+Fund centre name,CFLI,0,0
+Fund centre name,CIDABuDeliMo,0,0
+Fund centre name,PrograPro,0,0
+Fund centre name,BilAMar,0,0
+Fund centre name,PBAT,0,0
+Fund centre name,EnvirSustai,0,0
+Fund centre name,CliChAdap,0,0
+Fund centre name,ClChMiti,0,0
+Fund centre name,Desert,0,0
+Fund centre name,ParticDeveloAGoGov,0,0
+Fund centre name,TraDev,0,0
+Fund centre name,Bio,0,0
+Fund centre name,UrbIs,0,0
+Fund centre name,ChiIs,0,0
+Fund centre name,YoIss,0,0
+Fund centre name,IndigIs,0,0
+Fund centre name,DisIss,0,0
+Fund centre name,ICTAAToFDevelo,0,0
+Fund centre name,KnoFDevelo,0,0
+Fund centre name,GenEqu,0,0
+Fund centre name,OrgID,0,0
+Fund centre name,OrganiNa,0,0
+Fund centre name,OrganiT,0,0
+Fund centre name,OrganCl,0,0
+Fund centre name,OrganSu,0,0
+Fund centre name,ContiID,0,0
+Fund centre name,ContNa,0,0
+Fund centre name,PrBrCoID,0,0
+Fund centre name,CounRegID,0,0
+Fund centre name,CouRegNa,0,0
+Fund centre name,CouRePer,0,0
+Fund centre name,Sector ID,0,0
+Fund centre name,SeNa,0,0
+Fund centre name,SePe,0,0
+Fund centre name,AmSpe,0,0
+Untied amount(Project-level budget),FiYe,0,0
+Untied amount(Project-level budget),PrNu,0,0
+Untied amount(Project-level budget),St,0,0
+Untied amount(Project-level budget),MaxiCIDACont,0,0
+Untied amount(Project-level budget),BraID,0,0
+Untied amount(Project-level budget),BraN,0,0
+Untied amount(Project-level budget),DiviID,0,0
+Untied amount(Project-level budget),DiNa,0,0
+Untied amount(Project-level budget),SeID,0,0
+Untied amount(Project-level budget),SecN,0,0
+Untied amount(Project-level budget),RePro,0,0
+Untied amount(Project-level budget),FCeID,0,0
+Untied amount(Project-level budget),FuCeN,0,0
+Untied amount(Project-level budget),UntAmPrBud,0.23956636,1
+Untied amount(Project-level budget),FSTCPer,0,0
+Untied amount(Project-level budget),IRTCPe,0,0
+Untied amount(Project-level budget),CFLI,0,0
+Untied amount(Project-level budget),CIDABuDeliMo,0,0
+Untied amount(Project-level budget),PrograPro,0,0
+Untied amount(Project-level budget),BilAMar,0,0
+Untied amount(Project-level budget),PBAT,0,0
+Untied amount(Project-level budget),EnvirSustai,0,0
+Untied amount(Project-level budget),CliChAdap,0,0
+Untied amount(Project-level budget),ClChMiti,0,0
+Untied amount(Project-level budget),Desert,0,0
+Untied amount(Project-level budget),ParticDeveloAGoGov,0,0
+Untied amount(Project-level budget),TraDev,0,0
+Untied amount(Project-level budget),Bio,0,0
+Untied amount(Project-level budget),UrbIs,0,0
+Untied amount(Project-level budget),ChiIs,0,0
+Untied amount(Project-level budget),YoIss,0,0
+Untied amount(Project-level budget),IndigIs,0,0
+Untied amount(Project-level budget),DisIss,0,0
+Untied amount(Project-level budget),ICTAAToFDevelo,0,0
+Untied amount(Project-level budget),KnoFDevelo,0,0
+Untied amount(Project-level budget),GenEqu,0,0
+Untied amount(Project-level budget),OrgID,0,0
+Untied amount(Project-level budget),OrganiNa,0,0
+Untied amount(Project-level budget),OrganiT,0,0
+Untied amount(Project-level budget),OrganCl,0,0
+Untied amount(Project-level budget),OrganSu,0,0
+Untied amount(Project-level budget),ContiID,0,0
+Untied amount(Project-level budget),ContNa,0,0
+Untied amount(Project-level budget),PrBrCoID,0,0
+Untied amount(Project-level budget),CounRegID,0,0
+Untied amount(Project-level budget),CouRegNa,0,0
+Untied amount(Project-level budget),CouRePer,0,0
+Untied amount(Project-level budget),Sector ID,0,0
+Untied amount(Project-level budget),SeNa,0,0
+Untied amount(Project-level budget),SePe,0,0
+Untied amount(Project-level budget),AmSpe,0,0
+FSTC percent,FiYe,0,0
+FSTC percent,PrNu,0,0
+FSTC percent,St,0,0
+FSTC percent,MaxiCIDACont,0,0
+FSTC percent,BraID,0,0
+FSTC percent,BraN,0,0
+FSTC percent,DiviID,0,0
+FSTC percent,DiNa,0,0
+FSTC percent,SeID,0,0
+FSTC percent,SecN,0,0
+FSTC percent,RePro,0,0
+FSTC percent,FCeID,0,0
+FSTC percent,FuCeN,0,0
+FSTC percent,UntAmPrBud,0,0
+FSTC percent,FSTCPer,0.43489078,1
+FSTC percent,IRTCPe,0,0
+FSTC percent,CFLI,0,0
+FSTC percent,CIDABuDeliMo,0,0
+FSTC percent,PrograPro,0,0
+FSTC percent,BilAMar,0,0
+FSTC percent,PBAT,0,0
+FSTC percent,EnvirSustai,0,0
+FSTC percent,CliChAdap,0,0
+FSTC percent,ClChMiti,0,0
+FSTC percent,Desert,0,0
+FSTC percent,ParticDeveloAGoGov,0,0
+FSTC percent,TraDev,0,0
+FSTC percent,Bio,0,0
+FSTC percent,UrbIs,0,0
+FSTC percent,ChiIs,0,0
+FSTC percent,YoIss,0,0
+FSTC percent,IndigIs,0,0
+FSTC percent,DisIss,0,0
+FSTC percent,ICTAAToFDevelo,0,0
+FSTC percent,KnoFDevelo,0,0
+FSTC percent,GenEqu,0,0
+FSTC percent,OrgID,0,0
+FSTC percent,OrganiNa,0,0
+FSTC percent,OrganiT,0,0
+FSTC percent,OrganCl,0,0
+FSTC percent,OrganSu,0,0
+FSTC percent,ContiID,0,0
+FSTC percent,ContNa,0,0
+FSTC percent,PrBrCoID,0,0
+FSTC percent,CounRegID,0,0
+FSTC percent,CouRegNa,0,0
+FSTC percent,CouRePer,0,0
+FSTC percent,Sector ID,0,0
+FSTC percent,SeNa,0,0
+FSTC percent,SePe,0,0
+FSTC percent,AmSpe,0,0
+IRTC percent,FiYe,0,0
+IRTC percent,PrNu,0,0
+IRTC percent,St,0,0
+IRTC percent,MaxiCIDACont,0,0
+IRTC percent,BraID,0,0
+IRTC percent,BraN,0,0
+IRTC percent,DiviID,0,0
+IRTC percent,DiNa,0,0
+IRTC percent,SeID,0,0
+IRTC percent,SecN,0,0
+IRTC percent,RePro,0,0
+IRTC percent,FCeID,0,0
+IRTC percent,FuCeN,0,0
+IRTC percent,UntAmPrBud,0,0
+IRTC percent,FSTCPer,0,0
+IRTC percent,IRTCPe,0.3893603,1
+IRTC percent,CFLI,0,0
+IRTC percent,CIDABuDeliMo,0,0
+IRTC percent,PrograPro,0,0
+IRTC percent,BilAMar,0,0
+IRTC percent,PBAT,0,0
+IRTC percent,EnvirSustai,0,0
+IRTC percent,CliChAdap,0,0
+IRTC percent,ClChMiti,0,0
+IRTC percent,Desert,0,0
+IRTC percent,ParticDeveloAGoGov,0,0
+IRTC percent,TraDev,0,0
+IRTC percent,Bio,0,0
+IRTC percent,UrbIs,0,0
+IRTC percent,ChiIs,0,0
+IRTC percent,YoIss,0,0
+IRTC percent,IndigIs,0,0
+IRTC percent,DisIss,0,0
+IRTC percent,ICTAAToFDevelo,0,0
+IRTC percent,KnoFDevelo,0,0
+IRTC percent,GenEqu,0,0
+IRTC percent,OrgID,0,0
+IRTC percent,OrganiNa,0,0
+IRTC percent,OrganiT,0,0
+IRTC percent,OrganCl,0,0
+IRTC percent,OrganSu,0,0
+IRTC percent,ContiID,0,0
+IRTC percent,ContNa,0,0
+IRTC percent,PrBrCoID,0,0
+IRTC percent,CounRegID,0,0
+IRTC percent,CouRegNa,0,0
+IRTC percent,CouRePer,0,0
+IRTC percent,Sector ID,0,0
+IRTC percent,SeNa,0,0
+IRTC percent,SePe,0,0
+IRTC percent,AmSpe,0,0
+CFLI (marker),FiYe,0,0
+CFLI (marker),PrNu,0,0
+CFLI (marker),St,0,0
+CFLI (marker),MaxiCIDACont,0,0
+CFLI (marker),BraID,0,0
+CFLI (marker),BraN,0,0
+CFLI (marker),DiviID,0,0
+CFLI (marker),DiNa,0,0
+CFLI (marker),SeID,0,0
+CFLI (marker),SecN,0,0
+CFLI (marker),RePro,0,0
+CFLI (marker),FCeID,0,0
+CFLI (marker),FuCeN,0,0
+CFLI (marker),UntAmPrBud,0,0
+CFLI (marker),FSTCPer,0,0
+CFLI (marker),IRTCPe,0,0
+CFLI (marker),CFLI,0.39801833,1
+CFLI (marker),CIDABuDeliMo,0,0
+CFLI (marker),PrograPro,0,0
+CFLI (marker),BilAMar,0,0
+CFLI (marker),PBAT,0,0
+CFLI (marker),EnvirSustai,0,0
+CFLI (marker),CliChAdap,0,0
+CFLI (marker),ClChMiti,0,0
+CFLI (marker),Desert,0,0
+CFLI (marker),ParticDeveloAGoGov,0,0
+CFLI (marker),TraDev,0,0
+CFLI (marker),Bio,0,0
+CFLI (marker),UrbIs,0,0
+CFLI (marker),ChiIs,0,0
+CFLI (marker),YoIss,0,0
+CFLI (marker),IndigIs,0,0
+CFLI (marker),DisIss,0,0
+CFLI (marker),ICTAAToFDevelo,0,0
+CFLI (marker),KnoFDevelo,0,0
+CFLI (marker),GenEqu,0,0
+CFLI (marker),OrgID,0,0
+CFLI (marker),OrganiNa,0,0
+CFLI (marker),OrganiT,0,0
+CFLI (marker),OrganCl,0,0
+CFLI (marker),OrganSu,0,0
+CFLI (marker),ContiID,0,0
+CFLI (marker),ContNa,0,0
+CFLI (marker),PrBrCoID,0,0
+CFLI (marker),CounRegID,0,0
+CFLI (marker),CouRegNa,0,0
+CFLI (marker),CouRePer,0,0
+CFLI (marker),Sector ID,0,0
+CFLI (marker),SeNa,0,0
+CFLI (marker),SePe,0,0
+CFLI (marker),AmSpe,0,0
+CIDA business delivery model (old),FiYe,0,0
+CIDA business delivery model (old),PrNu,0,0
+CIDA business delivery model (old),St,0,0
+CIDA business delivery model (old),MaxiCIDACont,0,0
+CIDA business delivery model (old),BraID,0,0
+CIDA business delivery model (old),BraN,0,0
+CIDA business delivery model (old),DiviID,0,0
+CIDA business delivery model (old),DiNa,0,0
+CIDA business delivery model (old),SeID,0,0
+CIDA business delivery model (old),SecN,0,0
+CIDA business delivery model (old),RePro,0,0
+CIDA business delivery model (old),FCeID,0,0
+CIDA business delivery model (old),FuCeN,0,0
+CIDA business delivery model (old),UntAmPrBud,0,0
+CIDA business delivery model (old),FSTCPer,0,0
+CIDA business delivery model (old),IRTCPe,0,0
+CIDA business delivery model (old),CFLI,0,0
+CIDA business delivery model (old),CIDABuDeliMo,0.29298487,1
+CIDA business delivery model (old),PrograPro,0,0
+CIDA business delivery model (old),BilAMar,0,0
+CIDA business delivery model (old),PBAT,0,0
+CIDA business delivery model (old),EnvirSustai,0,0
+CIDA business delivery model (old),CliChAdap,0,0
+CIDA business delivery model (old),ClChMiti,0,0
+CIDA business delivery model (old),Desert,0,0
+CIDA business delivery model (old),ParticDeveloAGoGov,0,0
+CIDA business delivery model (old),TraDev,0,0
+CIDA business delivery model (old),Bio,0,0
+CIDA business delivery model (old),UrbIs,0,0
+CIDA business delivery model (old),ChiIs,0,0
+CIDA business delivery model (old),YoIss,0,0
+CIDA business delivery model (old),IndigIs,0,0
+CIDA business delivery model (old),DisIss,0,0
+CIDA business delivery model (old),ICTAAToFDevelo,0,0
+CIDA business delivery model (old),KnoFDevelo,0,0
+CIDA business delivery model (old),GenEqu,0,0
+CIDA business delivery model (old),OrgID,0,0
+CIDA business delivery model (old),OrganiNa,0,0
+CIDA business delivery model (old),OrganiT,0,0
+CIDA business delivery model (old),OrganCl,0,0
+CIDA business delivery model (old),OrganSu,0,0
+CIDA business delivery model (old),ContiID,0,0
+CIDA business delivery model (old),ContNa,0,0
+CIDA business delivery model (old),PrBrCoID,0,0
+CIDA business delivery model (old),CounRegID,0,0
+CIDA business delivery model (old),CouRegNa,0,0
+CIDA business delivery model (old),CouRePer,0,0
+CIDA business delivery model (old),Sector ID,0,0
+CIDA business delivery model (old),SeNa,0,0
+CIDA business delivery model (old),SePe,0,0
+CIDA business delivery model (old),AmSpe,0,0
+Programming process (new),FiYe,0,0
+Programming process (new),PrNu,0,0
+Programming process (new),St,0,0
+Programming process (new),MaxiCIDACont,0,0
+Programming process (new),BraID,0,0
+Programming process (new),BraN,0,0
+Programming process (new),DiviID,0,0
+Programming process (new),DiNa,0,0
+Programming process (new),SeID,0,0
+Programming process (new),SecN,0,0
+Programming process (new),RePro,0,0
+Programming process (new),FCeID,0,0
+Programming process (new),FuCeN,0,0
+Programming process (new),UntAmPrBud,0,0
+Programming process (new),FSTCPer,0,0
+Programming process (new),IRTCPe,0,0
+Programming process (new),CFLI,0,0
+Programming process (new),CIDABuDeliMo,0,0
+Programming process (new),PrograPro,0.36043033,1
+Programming process (new),BilAMar,0,0
+Programming process (new),PBAT,0,0
+Programming process (new),EnvirSustai,0,0
+Programming process (new),CliChAdap,0,0
+Programming process (new),ClChMiti,0,0
+Programming process (new),Desert,0,0
+Programming process (new),ParticDeveloAGoGov,0,0
+Programming process (new),TraDev,0,0
+Programming process (new),Bio,0,0
+Programming process (new),UrbIs,0,0
+Programming process (new),ChiIs,0,0
+Programming process (new),YoIss,0,0
+Programming process (new),IndigIs,0,0
+Programming process (new),DisIss,0,0
+Programming process (new),ICTAAToFDevelo,0,0
+Programming process (new),KnoFDevelo,0,0
+Programming process (new),GenEqu,0,0
+Programming process (new),OrgID,0,0
+Programming process (new),OrganiNa,0,0
+Programming process (new),OrganiT,0,0
+Programming process (new),OrganCl,0,0
+Programming process (new),OrganSu,0,0
+Programming process (new),ContiID,0,0
+Programming process (new),ContNa,0,0
+Programming process (new),PrBrCoID,0,0
+Programming process (new),CounRegID,0,0
+Programming process (new),CouRegNa,0,0
+Programming process (new),CouRePer,0,0
+Programming process (new),Sector ID,0,0
+Programming process (new),SeNa,0,0
+Programming process (new),SePe,0,0
+Programming process (new),AmSpe,0,0
+Bilateral aid (international marker),FiYe,0,0
+Bilateral aid (international marker),PrNu,0,0
+Bilateral aid (international marker),St,0,0
+Bilateral aid (international marker),MaxiCIDACont,0,0
+Bilateral aid (international marker),BraID,0,0
+Bilateral aid (international marker),BraN,0,0
+Bilateral aid (international marker),DiviID,0,0
+Bilateral aid (international marker),DiNa,0,0
+Bilateral aid (international marker),SeID,0,0
+Bilateral aid (international marker),SecN,0,0
+Bilateral aid (international marker),RePro,0,0
+Bilateral aid (international marker),FCeID,0,0
+Bilateral aid (international marker),FuCeN,0,0
+Bilateral aid (international marker),UntAmPrBud,0,0
+Bilateral aid (international marker),FSTCPer,0,0
+Bilateral aid (international marker),IRTCPe,0,0
+Bilateral aid (international marker),CFLI,0,0
+Bilateral aid (international marker),CIDABuDeliMo,0,0
+Bilateral aid (international marker),PrograPro,0,0
+Bilateral aid (international marker),BilAMar,0,1
+Bilateral aid (international marker),PBAT,0,0
+Bilateral aid (international marker),EnvirSustai,0,0
+Bilateral aid (international marker),CliChAdap,0,0
+Bilateral aid (international marker),ClChMiti,0,0
+Bilateral aid (international marker),Desert,0,0
+Bilateral aid (international marker),ParticDeveloAGoGov,0,0
+Bilateral aid (international marker),TraDev,0,0
+Bilateral aid (international marker),Bio,0,0
+Bilateral aid (international marker),UrbIs,0,0
+Bilateral aid (international marker),ChiIs,0,0
+Bilateral aid (international marker),YoIss,0,0
+Bilateral aid (international marker),IndigIs,0,0
+Bilateral aid (international marker),DisIss,0,0
+Bilateral aid (international marker),ICTAAToFDevelo,0,0
+Bilateral aid (international marker),KnoFDevelo,0,0
+Bilateral aid (international marker),GenEqu,0,0
+Bilateral aid (international marker),OrgID,0,0
+Bilateral aid (international marker),OrganiNa,0,0
+Bilateral aid (international marker),OrganiT,0,0
+Bilateral aid (international marker),OrganCl,0,0
+Bilateral aid (international marker),OrganSu,0,0
+Bilateral aid (international marker),ContiID,0,0
+Bilateral aid (international marker),ContNa,0,0
+Bilateral aid (international marker),PrBrCoID,0,0
+Bilateral aid (international marker),CounRegID,0,0
+Bilateral aid (international marker),CouRegNa,0,0
+Bilateral aid (international marker),CouRePer,0,0
+Bilateral aid (international marker),Sector ID,0,0
+Bilateral aid (international marker),SeNa,0,0
+Bilateral aid (international marker),SePe,0,0
+Bilateral aid (international marker),AmSpe,0,0
+PBA type,FiYe,0,0
+PBA type,PrNu,0,0
+PBA type,St,0,0
+PBA type,MaxiCIDACont,0,0
+PBA type,BraID,0,0
+PBA type,BraN,0,0
+PBA type,DiviID,0,0
+PBA type,DiNa,0,0
+PBA type,SeID,0,0
+PBA type,SecN,0,0
+PBA type,RePro,0,0
+PBA type,FCeID,0,0
+PBA type,FuCeN,0,0
+PBA type,UntAmPrBud,0,0
+PBA type,FSTCPer,0,0
+PBA type,IRTCPe,0,0
+PBA type,CFLI,0,0
+PBA type,CIDABuDeliMo,0,0
+PBA type,PrograPro,0,0
+PBA type,BilAMar,0,0
+PBA type,PBAT,0.40245277,1
+PBA type,EnvirSustai,0,0
+PBA type,CliChAdap,0,0
+PBA type,ClChMiti,0,0
+PBA type,Desert,0,0
+PBA type,ParticDeveloAGoGov,0,0
+PBA type,TraDev,0,0
+PBA type,Bio,0,0
+PBA type,UrbIs,0,0
+PBA type,ChiIs,0,0
+PBA type,YoIss,0,0
+PBA type,IndigIs,0,0
+PBA type,DisIss,0,0
+PBA type,ICTAAToFDevelo,0,0
+PBA type,KnoFDevelo,0,0
+PBA type,GenEqu,0,0
+PBA type,OrgID,0,0
+PBA type,OrganiNa,0,0
+PBA type,OrganiT,0,0
+PBA type,OrganCl,0,0
+PBA type,OrganSu,0,0
+PBA type,ContiID,0,0
+PBA type,ContNa,0,0
+PBA type,PrBrCoID,0,0
+PBA type,CounRegID,0,0
+PBA type,CouRegNa,0,0
+PBA type,CouRePer,0,0
+PBA type,Sector ID,0,0
+PBA type,SeNa,0,0
+PBA type,SePe,0,0
+PBA type,AmSpe,0,0
+Enviromental sustainability (marker),FiYe,0,0
+Enviromental sustainability (marker),PrNu,0,0
+Enviromental sustainability (marker),St,0,0
+Enviromental sustainability (marker),MaxiCIDACont,0,0
+Enviromental sustainability (marker),BraID,0,0
+Enviromental sustainability (marker),BraN,0,0
+Enviromental sustainability (marker),DiviID,0,0
+Enviromental sustainability (marker),DiNa,0,0
+Enviromental sustainability (marker),SeID,0,0
+Enviromental sustainability (marker),SecN,0,0
+Enviromental sustainability (marker),RePro,0,0
+Enviromental sustainability (marker),FCeID,0,0
+Enviromental sustainability (marker),FuCeN,0,0
+Enviromental sustainability (marker),UntAmPrBud,0,0
+Enviromental sustainability (marker),FSTCPer,0,0
+Enviromental sustainability (marker),IRTCPe,0,0
+Enviromental sustainability (marker),CFLI,0,0
+Enviromental sustainability (marker),CIDABuDeliMo,0,0
+Enviromental sustainability (marker),PrograPro,0,0
+Enviromental sustainability (marker),BilAMar,0,0
+Enviromental sustainability (marker),PBAT,0,0
+Enviromental sustainability (marker),EnvirSustai,0.3668687,1
+Enviromental sustainability (marker),CliChAdap,0,0
+Enviromental sustainability (marker),ClChMiti,0,0
+Enviromental sustainability (marker),Desert,0,0
+Enviromental sustainability (marker),ParticDeveloAGoGov,0,0
+Enviromental sustainability (marker),TraDev,0,0
+Enviromental sustainability (marker),Bio,0,0
+Enviromental sustainability (marker),UrbIs,0,0
+Enviromental sustainability (marker),ChiIs,0,0
+Enviromental sustainability (marker),YoIss,0,0
+Enviromental sustainability (marker),IndigIs,0,0
+Enviromental sustainability (marker),DisIss,0,0
+Enviromental sustainability (marker),ICTAAToFDevelo,0,0
+Enviromental sustainability (marker),KnoFDevelo,0,0
+Enviromental sustainability (marker),GenEqu,0,0
+Enviromental sustainability (marker),OrgID,0,0
+Enviromental sustainability (marker),OrganiNa,0,0
+Enviromental sustainability (marker),OrganiT,0,0
+Enviromental sustainability (marker),OrganCl,0,0
+Enviromental sustainability (marker),OrganSu,0,0
+Enviromental sustainability (marker),ContiID,0,0
+Enviromental sustainability (marker),ContNa,0,0
+Enviromental sustainability (marker),PrBrCoID,0,0
+Enviromental sustainability (marker),CounRegID,0,0
+Enviromental sustainability (marker),CouRegNa,0,0
+Enviromental sustainability (marker),CouRePer,0,0
+Enviromental sustainability (marker),Sector ID,0,0
+Enviromental sustainability (marker),SeNa,0,0
+Enviromental sustainability (marker),SePe,0,0
+Enviromental sustainability (marker),AmSpe,0,0
+Climate change adaptation (marker),FiYe,0,0
+Climate change adaptation (marker),PrNu,0,0
+Climate change adaptation (marker),St,0,0
+Climate change adaptation (marker),MaxiCIDACont,0,0
+Climate change adaptation (marker),BraID,0,0
+Climate change adaptation (marker),BraN,0,0
+Climate change adaptation (marker),DiviID,0,0
+Climate change adaptation (marker),DiNa,0,0
+Climate change adaptation (marker),SeID,0,0
+Climate change adaptation (marker),SecN,0,0
+Climate change adaptation (marker),RePro,0,0
+Climate change adaptation (marker),FCeID,0,0
+Climate change adaptation (marker),FuCeN,0,0
+Climate change adaptation (marker),UntAmPrBud,0,0
+Climate change adaptation (marker),FSTCPer,0,0
+Climate change adaptation (marker),IRTCPe,0,0
+Climate change adaptation (marker),CFLI,0,0
+Climate change adaptation (marker),CIDABuDeliMo,0,0
+Climate change adaptation (marker),PrograPro,0,0
+Climate change adaptation (marker),BilAMar,0,0
+Climate change adaptation (marker),PBAT,0,0
+Climate change adaptation (marker),EnvirSustai,0,0
+Climate change adaptation (marker),CliChAdap,0.30088168,1
+Climate change adaptation (marker),ClChMiti,0,0
+Climate change adaptation (marker),Desert,0,0
+Climate change adaptation (marker),ParticDeveloAGoGov,0,0
+Climate change adaptation (marker),TraDev,0,0
+Climate change adaptation (marker),Bio,0,0
+Climate change adaptation (marker),UrbIs,0,0
+Climate change adaptation (marker),ChiIs,0,0
+Climate change adaptation (marker),YoIss,0,0
+Climate change adaptation (marker),IndigIs,0,0
+Climate change adaptation (marker),DisIss,0,0
+Climate change adaptation (marker),ICTAAToFDevelo,0,0
+Climate change adaptation (marker),KnoFDevelo,0,0
+Climate change adaptation (marker),GenEqu,0,0
+Climate change adaptation (marker),OrgID,0,0
+Climate change adaptation (marker),OrganiNa,0,0
+Climate change adaptation (marker),OrganiT,0,0
+Climate change adaptation (marker),OrganCl,0,0
+Climate change adaptation (marker),OrganSu,0,0
+Climate change adaptation (marker),ContiID,0,0
+Climate change adaptation (marker),ContNa,0,0
+Climate change adaptation (marker),PrBrCoID,0,0
+Climate change adaptation (marker),CounRegID,0,0
+Climate change adaptation (marker),CouRegNa,0,0
+Climate change adaptation (marker),CouRePer,0,0
+Climate change adaptation (marker),Sector ID,0,0
+Climate change adaptation (marker),SeNa,0,0
+Climate change adaptation (marker),SePe,0,0
+Climate change adaptation (marker),AmSpe,0,0
+Climate change mitigation (marker),FiYe,0,0
+Climate change mitigation (marker),PrNu,0,0
+Climate change mitigation (marker),St,0,0
+Climate change mitigation (marker),MaxiCIDACont,0,0
+Climate change mitigation (marker),BraID,0,0
+Climate change mitigation (marker),BraN,0,0
+Climate change mitigation (marker),DiviID,0,0
+Climate change mitigation (marker),DiNa,0,0
+Climate change mitigation (marker),SeID,0,0
+Climate change mitigation (marker),SecN,0,0
+Climate change mitigation (marker),RePro,0,0
+Climate change mitigation (marker),FCeID,0,0
+Climate change mitigation (marker),FuCeN,0,0
+Climate change mitigation (marker),UntAmPrBud,0,0
+Climate change mitigation (marker),FSTCPer,0,0
+Climate change mitigation (marker),IRTCPe,0,0
+Climate change mitigation (marker),CFLI,0,0
+Climate change mitigation (marker),CIDABuDeliMo,0,0
+Climate change mitigation (marker),PrograPro,0,0
+Climate change mitigation (marker),BilAMar,0,0
+Climate change mitigation (marker),PBAT,0,0
+Climate change mitigation (marker),EnvirSustai,0,0
+Climate change mitigation (marker),CliChAdap,0,0
+Climate change mitigation (marker),ClChMiti,0.24545768,1
+Climate change mitigation (marker),Desert,0,0
+Climate change mitigation (marker),ParticDeveloAGoGov,0,0
+Climate change mitigation (marker),TraDev,0,0
+Climate change mitigation (marker),Bio,0,0
+Climate change mitigation (marker),UrbIs,0,0
+Climate change mitigation (marker),ChiIs,0,0
+Climate change mitigation (marker),YoIss,0,0
+Climate change mitigation (marker),IndigIs,0,0
+Climate change mitigation (marker),DisIss,0,0
+Climate change mitigation (marker),ICTAAToFDevelo,0,0
+Climate change mitigation (marker),KnoFDevelo,0,0
+Climate change mitigation (marker),GenEqu,0,0
+Climate change mitigation (marker),OrgID,0,0
+Climate change mitigation (marker),OrganiNa,0,0
+Climate change mitigation (marker),OrganiT,0,0
+Climate change mitigation (marker),OrganCl,0,0
+Climate change mitigation (marker),OrganSu,0,0
+Climate change mitigation (marker),ContiID,0,0
+Climate change mitigation (marker),ContNa,0,0
+Climate change mitigation (marker),PrBrCoID,0,0
+Climate change mitigation (marker),CounRegID,0,0
+Climate change mitigation (marker),CouRegNa,0,0
+Climate change mitigation (marker),CouRePer,0,0
+Climate change mitigation (marker),Sector ID,0,0
+Climate change mitigation (marker),SeNa,0,0
+Climate change mitigation (marker),SePe,0,0
+Climate change mitigation (marker),AmSpe,0,0
+Desertification (marker),FiYe,0,0
+Desertification (marker),PrNu,0,0
+Desertification (marker),St,0,0
+Desertification (marker),MaxiCIDACont,0,0
+Desertification (marker),BraID,0,0
+Desertification (marker),BraN,0,0
+Desertification (marker),DiviID,0,0
+Desertification (marker),DiNa,0,0
+Desertification (marker),SeID,0,0
+Desertification (marker),SecN,0,0
+Desertification (marker),RePro,0,0
+Desertification (marker),FCeID,0,0
+Desertification (marker),FuCeN,0,0
+Desertification (marker),UntAmPrBud,0,0
+Desertification (marker),FSTCPer,0,0
+Desertification (marker),IRTCPe,0,0
+Desertification (marker),CFLI,0,0
+Desertification (marker),CIDABuDeliMo,0,0
+Desertification (marker),PrograPro,0,0
+Desertification (marker),BilAMar,0,0
+Desertification (marker),PBAT,0,0
+Desertification (marker),EnvirSustai,0,0
+Desertification (marker),CliChAdap,0,0
+Desertification (marker),ClChMiti,0,0
+Desertification (marker),Desert,0.374636,1
+Desertification (marker),ParticDeveloAGoGov,0,0
+Desertification (marker),TraDev,0,0
+Desertification (marker),Bio,0,0
+Desertification (marker),UrbIs,0,0
+Desertification (marker),ChiIs,0,0
+Desertification (marker),YoIss,0,0
+Desertification (marker),IndigIs,0,0
+Desertification (marker),DisIss,0,0
+Desertification (marker),ICTAAToFDevelo,0,0
+Desertification (marker),KnoFDevelo,0,0
+Desertification (marker),GenEqu,0,0
+Desertification (marker),OrgID,0,0
+Desertification (marker),OrganiNa,0,0
+Desertification (marker),OrganiT,0,0
+Desertification (marker),OrganCl,0,0
+Desertification (marker),OrganSu,0,0
+Desertification (marker),ContiID,0,0
+Desertification (marker),ContNa,0,0
+Desertification (marker),PrBrCoID,0,0
+Desertification (marker),CounRegID,0,0
+Desertification (marker),CouRegNa,0,0
+Desertification (marker),CouRePer,0,0
+Desertification (marker),Sector ID,0,0
+Desertification (marker),SeNa,0,0
+Desertification (marker),SePe,0,0
+Desertification (marker),AmSpe,0,0
+Participatory development and good governance,FiYe,0,0
+Participatory development and good governance,PrNu,0,0
+Participatory development and good governance,St,0,0
+Participatory development and good governance,MaxiCIDACont,0,0
+Participatory development and good governance,BraID,0,0
+Participatory development and good governance,BraN,0,0
+Participatory development and good governance,DiviID,0,0
+Participatory development and good governance,DiNa,0,0
+Participatory development and good governance,SeID,0,0
+Participatory development and good governance,SecN,0,0
+Participatory development and good governance,RePro,0,0
+Participatory development and good governance,FCeID,0,0
+Participatory development and good governance,FuCeN,0,0
+Participatory development and good governance,UntAmPrBud,0,0
+Participatory development and good governance,FSTCPer,0,0
+Participatory development and good governance,IRTCPe,0,0
+Participatory development and good governance,CFLI,0,0
+Participatory development and good governance,CIDABuDeliMo,0,0
+Participatory development and good governance,PrograPro,0,0
+Participatory development and good governance,BilAMar,0,0
+Participatory development and good governance,PBAT,0,0
+Participatory development and good governance,EnvirSustai,0,0
+Participatory development and good governance,CliChAdap,0,0
+Participatory development and good governance,ClChMiti,0,0
+Participatory development and good governance,Desert,0,0
+Participatory development and good governance,ParticDeveloAGoGov,0.3539167,1
+Participatory development and good governance,TraDev,0,0
+Participatory development and good governance,Bio,0,0
+Participatory development and good governance,UrbIs,0,0
+Participatory development and good governance,ChiIs,0,0
+Participatory development and good governance,YoIss,0,0
+Participatory development and good governance,IndigIs,0,0
+Participatory development and good governance,DisIss,0,0
+Participatory development and good governance,ICTAAToFDevelo,0,0
+Participatory development and good governance,KnoFDevelo,0,0
+Participatory development and good governance,GenEqu,0,0
+Participatory development and good governance,OrgID,0,0
+Participatory development and good governance,OrganiNa,0,0
+Participatory development and good governance,OrganiT,0,0
+Participatory development and good governance,OrganCl,0,0
+Participatory development and good governance,OrganSu,0,0
+Participatory development and good governance,ContiID,0,0
+Participatory development and good governance,ContNa,0,0
+Participatory development and good governance,PrBrCoID,0,0
+Participatory development and good governance,CounRegID,0,0
+Participatory development and good governance,CouRegNa,0,0
+Participatory development and good governance,CouRePer,0,0
+Participatory development and good governance,Sector ID,0,0
+Participatory development and good governance,SeNa,0,0
+Participatory development and good governance,SePe,0,0
+Participatory development and good governance,AmSpe,0,0
+Trade development (marker),FiYe,0,0
+Trade development (marker),PrNu,0,0
+Trade development (marker),St,0,0
+Trade development (marker),MaxiCIDACont,0,0
+Trade development (marker),BraID,0,0
+Trade development (marker),BraN,0,0
+Trade development (marker),DiviID,0,0
+Trade development (marker),DiNa,0,0
+Trade development (marker),SeID,0,0
+Trade development (marker),SecN,0,0
+Trade development (marker),RePro,0,0
+Trade development (marker),FCeID,0,0
+Trade development (marker),FuCeN,0,0
+Trade development (marker),UntAmPrBud,0,0
+Trade development (marker),FSTCPer,0,0
+Trade development (marker),IRTCPe,0,0
+Trade development (marker),CFLI,0,0
+Trade development (marker),CIDABuDeliMo,0,0
+Trade development (marker),PrograPro,0,0
+Trade development (marker),BilAMar,0,0
+Trade development (marker),PBAT,0,0
+Trade development (marker),EnvirSustai,0,0
+Trade development (marker),CliChAdap,0,0
+Trade development (marker),ClChMiti,0,0
+Trade development (marker),Desert,0,0
+Trade development (marker),ParticDeveloAGoGov,0,0
+Trade development (marker),TraDev,0.35835642,1
+Trade development (marker),Bio,0,0
+Trade development (marker),UrbIs,0,0
+Trade development (marker),ChiIs,0,0
+Trade development (marker),YoIss,0,0
+Trade development (marker),IndigIs,0,0
+Trade development (marker),DisIss,0,0
+Trade development (marker),ICTAAToFDevelo,0,0
+Trade development (marker),KnoFDevelo,0,0
+Trade development (marker),GenEqu,0,0
+Trade development (marker),OrgID,0,0
+Trade development (marker),OrganiNa,0,0
+Trade development (marker),OrganiT,0,0
+Trade development (marker),OrganCl,0,0
+Trade development (marker),OrganSu,0,0
+Trade development (marker),ContiID,0,0
+Trade development (marker),ContNa,0,0
+Trade development (marker),PrBrCoID,0,0
+Trade development (marker),CounRegID,0,0
+Trade development (marker),CouRegNa,0,0
+Trade development (marker),CouRePer,0,0
+Trade development (marker),Sector ID,0,0
+Trade development (marker),SeNa,0,0
+Trade development (marker),SePe,0,0
+Trade development (marker),AmSpe,0,0
+Biodiversity (marker),FiYe,0,0
+Biodiversity (marker),PrNu,0,0
+Biodiversity (marker),St,0,0
+Biodiversity (marker),MaxiCIDACont,0,0
+Biodiversity (marker),BraID,0,0
+Biodiversity (marker),BraN,0,0
+Biodiversity (marker),DiviID,0,0
+Biodiversity (marker),DiNa,0,0
+Biodiversity (marker),SeID,0,0
+Biodiversity (marker),SecN,0,0
+Biodiversity (marker),RePro,0,0
+Biodiversity (marker),FCeID,0,0
+Biodiversity (marker),FuCeN,0,0
+Biodiversity (marker),UntAmPrBud,0,0
+Biodiversity (marker),FSTCPer,0,0
+Biodiversity (marker),IRTCPe,0,0
+Biodiversity (marker),CFLI,0,0
+Biodiversity (marker),CIDABuDeliMo,0,0
+Biodiversity (marker),PrograPro,0,0
+Biodiversity (marker),BilAMar,0,0
+Biodiversity (marker),PBAT,0,0
+Biodiversity (marker),EnvirSustai,0,0
+Biodiversity (marker),CliChAdap,0,0
+Biodiversity (marker),ClChMiti,0,0
+Biodiversity (marker),Desert,0,0
+Biodiversity (marker),ParticDeveloAGoGov,0,0
+Biodiversity (marker),TraDev,0,0
+Biodiversity (marker),Bio,0.28397247,1
+Biodiversity (marker),UrbIs,0,0
+Biodiversity (marker),ChiIs,0,0
+Biodiversity (marker),YoIss,0,0
+Biodiversity (marker),IndigIs,0,0
+Biodiversity (marker),DisIss,0,0
+Biodiversity (marker),ICTAAToFDevelo,0,0
+Biodiversity (marker),KnoFDevelo,0,0
+Biodiversity (marker),GenEqu,0,0
+Biodiversity (marker),OrgID,0,0
+Biodiversity (marker),OrganiNa,0,0
+Biodiversity (marker),OrganiT,0,0
+Biodiversity (marker),OrganCl,0,0
+Biodiversity (marker),OrganSu,0,0
+Biodiversity (marker),ContiID,0,0
+Biodiversity (marker),ContNa,0,0
+Biodiversity (marker),PrBrCoID,0,0
+Biodiversity (marker),CounRegID,0,0
+Biodiversity (marker),CouRegNa,0,0
+Biodiversity (marker),CouRePer,0,0
+Biodiversity (marker),Sector ID,0,0
+Biodiversity (marker),SeNa,0,0
+Biodiversity (marker),SePe,0,0
+Biodiversity (marker),AmSpe,0,0
+Urban issues (marker),FiYe,0,0
+Urban issues (marker),PrNu,0,0
+Urban issues (marker),St,0,0
+Urban issues (marker),MaxiCIDACont,0,0
+Urban issues (marker),BraID,0,0
+Urban issues (marker),BraN,0,0
+Urban issues (marker),DiviID,0,0
+Urban issues (marker),DiNa,0,0
+Urban issues (marker),SeID,0,0
+Urban issues (marker),SecN,0,0
+Urban issues (marker),RePro,0,0
+Urban issues (marker),FCeID,0,0
+Urban issues (marker),FuCeN,0,0
+Urban issues (marker),UntAmPrBud,0,0
+Urban issues (marker),FSTCPer,0,0
+Urban issues (marker),IRTCPe,0,0
+Urban issues (marker),CFLI,0,0
+Urban issues (marker),CIDABuDeliMo,0,0
+Urban issues (marker),PrograPro,0,0
+Urban issues (marker),BilAMar,0,0
+Urban issues (marker),PBAT,0,0
+Urban issues (marker),EnvirSustai,0,0
+Urban issues (marker),CliChAdap,0,0
+Urban issues (marker),ClChMiti,0,0
+Urban issues (marker),Desert,0,0
+Urban issues (marker),ParticDeveloAGoGov,0,0
+Urban issues (marker),TraDev,0,0
+Urban issues (marker),Bio,0,0
+Urban issues (marker),UrbIs,0.27287704,1
+Urban issues (marker),ChiIs,0,0
+Urban issues (marker),YoIss,0,0
+Urban issues (marker),IndigIs,0,0
+Urban issues (marker),DisIss,0,0
+Urban issues (marker),ICTAAToFDevelo,0,0
+Urban issues (marker),KnoFDevelo,0,0
+Urban issues (marker),GenEqu,0,0
+Urban issues (marker),OrgID,0,0
+Urban issues (marker),OrganiNa,0,0
+Urban issues (marker),OrganiT,0,0
+Urban issues (marker),OrganCl,0,0
+Urban issues (marker),OrganSu,0,0
+Urban issues (marker),ContiID,0,0
+Urban issues (marker),ContNa,0,0
+Urban issues (marker),PrBrCoID,0,0
+Urban issues (marker),CounRegID,0,0
+Urban issues (marker),CouRegNa,0,0
+Urban issues (marker),CouRePer,0,0
+Urban issues (marker),Sector ID,0,0
+Urban issues (marker),SeNa,0,0
+Urban issues (marker),SePe,0,0
+Urban issues (marker),AmSpe,0,0
+Children issues (marker),FiYe,0,0
+Children issues (marker),PrNu,0,0
+Children issues (marker),St,0,0
+Children issues (marker),MaxiCIDACont,0,0
+Children issues (marker),BraID,0,0
+Children issues (marker),BraN,0,0
+Children issues (marker),DiviID,0,0
+Children issues (marker),DiNa,0,0
+Children issues (marker),SeID,0,0
+Children issues (marker),SecN,0,0
+Children issues (marker),RePro,0,0
+Children issues (marker),FCeID,0,0
+Children issues (marker),FuCeN,0,0
+Children issues (marker),UntAmPrBud,0,0
+Children issues (marker),FSTCPer,0,0
+Children issues (marker),IRTCPe,0,0
+Children issues (marker),CFLI,0,0
+Children issues (marker),CIDABuDeliMo,0,0
+Children issues (marker),PrograPro,0,0
+Children issues (marker),BilAMar,0,0
+Children issues (marker),PBAT,0,0
+Children issues (marker),EnvirSustai,0,0
+Children issues (marker),CliChAdap,0,0
+Children issues (marker),ClChMiti,0,0
+Children issues (marker),Desert,0,0
+Children issues (marker),ParticDeveloAGoGov,0,0
+Children issues (marker),TraDev,0,0
+Children issues (marker),Bio,0,0
+Children issues (marker),UrbIs,0,0
+Children issues (marker),ChiIs,0,1
+Children issues (marker),YoIss,0,0
+Children issues (marker),IndigIs,0,0
+Children issues (marker),DisIss,0,0
+Children issues (marker),ICTAAToFDevelo,0,0
+Children issues (marker),KnoFDevelo,0,0
+Children issues (marker),GenEqu,0,0
+Children issues (marker),OrgID,0,0
+Children issues (marker),OrganiNa,0,0
+Children issues (marker),OrganiT,0,0
+Children issues (marker),OrganCl,0,0
+Children issues (marker),OrganSu,0,0
+Children issues (marker),ContiID,0,0
+Children issues (marker),ContNa,0,0
+Children issues (marker),PrBrCoID,0,0
+Children issues (marker),CounRegID,0,0
+Children issues (marker),CouRegNa,0,0
+Children issues (marker),CouRePer,0,0
+Children issues (marker),Sector ID,0,0
+Children issues (marker),SeNa,0,0
+Children issues (marker),SePe,0,0
+Children issues (marker),AmSpe,0,0
+Youth issues (marker),FiYe,0,0
+Youth issues (marker),PrNu,0,0
+Youth issues (marker),St,0,0
+Youth issues (marker),MaxiCIDACont,0,0
+Youth issues (marker),BraID,0,0
+Youth issues (marker),BraN,0,0
+Youth issues (marker),DiviID,0,0
+Youth issues (marker),DiNa,0,0
+Youth issues (marker),SeID,0,0
+Youth issues (marker),SecN,0,0
+Youth issues (marker),RePro,0,0
+Youth issues (marker),FCeID,0,0
+Youth issues (marker),FuCeN,0,0
+Youth issues (marker),UntAmPrBud,0,0
+Youth issues (marker),FSTCPer,0,0
+Youth issues (marker),IRTCPe,0,0
+Youth issues (marker),CFLI,0,0
+Youth issues (marker),CIDABuDeliMo,0,0
+Youth issues (marker),PrograPro,0,0
+Youth issues (marker),BilAMar,0,0
+Youth issues (marker),PBAT,0,0
+Youth issues (marker),EnvirSustai,0,0
+Youth issues (marker),CliChAdap,0,0
+Youth issues (marker),ClChMiti,0,0
+Youth issues (marker),Desert,0,0
+Youth issues (marker),ParticDeveloAGoGov,0,0
+Youth issues (marker),TraDev,0,0
+Youth issues (marker),Bio,0,0
+Youth issues (marker),UrbIs,0,0
+Youth issues (marker),ChiIs,0,0
+Youth issues (marker),YoIss,0.27287704,1
+Youth issues (marker),IndigIs,0,0
+Youth issues (marker),DisIss,0,0
+Youth issues (marker),ICTAAToFDevelo,0,0
+Youth issues (marker),KnoFDevelo,0,0
+Youth issues (marker),GenEqu,0,0
+Youth issues (marker),OrgID,0,0
+Youth issues (marker),OrganiNa,0,0
+Youth issues (marker),OrganiT,0,0
+Youth issues (marker),OrganCl,0,0
+Youth issues (marker),OrganSu,0,0
+Youth issues (marker),ContiID,0,0
+Youth issues (marker),ContNa,0,0
+Youth issues (marker),PrBrCoID,0,0
+Youth issues (marker),CounRegID,0,0
+Youth issues (marker),CouRegNa,0,0
+Youth issues (marker),CouRePer,0,0
+Youth issues (marker),Sector ID,0,0
+Youth issues (marker),SeNa,0,0
+Youth issues (marker),SePe,0,0
+Youth issues (marker),AmSpe,0,0
+Indigenous issues (marker),FiYe,0,0
+Indigenous issues (marker),PrNu,0,0
+Indigenous issues (marker),St,0,0
+Indigenous issues (marker),MaxiCIDACont,0,0
+Indigenous issues (marker),BraID,0,0
+Indigenous issues (marker),BraN,0,0
+Indigenous issues (marker),DiviID,0,0
+Indigenous issues (marker),DiNa,0,0
+Indigenous issues (marker),SeID,0,0
+Indigenous issues (marker),SecN,0,0
+Indigenous issues (marker),RePro,0,0
+Indigenous issues (marker),FCeID,0,0
+Indigenous issues (marker),FuCeN,0,0
+Indigenous issues (marker),UntAmPrBud,0,0
+Indigenous issues (marker),FSTCPer,0,0
+Indigenous issues (marker),IRTCPe,0,0
+Indigenous issues (marker),CFLI,0,0
+Indigenous issues (marker),CIDABuDeliMo,0,0
+Indigenous issues (marker),PrograPro,0,0
+Indigenous issues (marker),BilAMar,0,0
+Indigenous issues (marker),PBAT,0,0
+Indigenous issues (marker),EnvirSustai,0,0
+Indigenous issues (marker),CliChAdap,0,0
+Indigenous issues (marker),ClChMiti,0,0
+Indigenous issues (marker),Desert,0,0
+Indigenous issues (marker),ParticDeveloAGoGov,0,0
+Indigenous issues (marker),TraDev,0,0
+Indigenous issues (marker),Bio,0,0
+Indigenous issues (marker),UrbIs,0,0
+Indigenous issues (marker),ChiIs,0,0
+Indigenous issues (marker),YoIss,0,0
+Indigenous issues (marker),IndigIs,0.31539527,1
+Indigenous issues (marker),DisIss,0,0
+Indigenous issues (marker),ICTAAToFDevelo,0,0
+Indigenous issues (marker),KnoFDevelo,0,0
+Indigenous issues (marker),GenEqu,0,0
+Indigenous issues (marker),OrgID,0,0
+Indigenous issues (marker),OrganiNa,0,0
+Indigenous issues (marker),OrganiT,0,0
+Indigenous issues (marker),OrganCl,0,0
+Indigenous issues (marker),OrganSu,0,0
+Indigenous issues (marker),ContiID,0,0
+Indigenous issues (marker),ContNa,0,0
+Indigenous issues (marker),PrBrCoID,0,0
+Indigenous issues (marker),CounRegID,0,0
+Indigenous issues (marker),CouRegNa,0,0
+Indigenous issues (marker),CouRePer,0,0
+Indigenous issues (marker),Sector ID,0,0
+Indigenous issues (marker),SeNa,0,0
+Indigenous issues (marker),SePe,0,0
+Indigenous issues (marker),AmSpe,0,0
+Disability issues (marker),FiYe,0,0
+Disability issues (marker),PrNu,0,0
+Disability issues (marker),St,0,0
+Disability issues (marker),MaxiCIDACont,0,0
+Disability issues (marker),BraID,0,0
+Disability issues (marker),BraN,0,0
+Disability issues (marker),DiviID,0,0
+Disability issues (marker),DiNa,0,0
+Disability issues (marker),SeID,0,0
+Disability issues (marker),SecN,0,0
+Disability issues (marker),RePro,0,0
+Disability issues (marker),FCeID,0,0
+Disability issues (marker),FuCeN,0,0
+Disability issues (marker),UntAmPrBud,0,0
+Disability issues (marker),FSTCPer,0,0
+Disability issues (marker),IRTCPe,0,0
+Disability issues (marker),CFLI,0,0
+Disability issues (marker),CIDABuDeliMo,0,0
+Disability issues (marker),PrograPro,0,0
+Disability issues (marker),BilAMar,0,0
+Disability issues (marker),PBAT,0,0
+Disability issues (marker),EnvirSustai,0,0
+Disability issues (marker),CliChAdap,0,0
+Disability issues (marker),ClChMiti,0,0
+Disability issues (marker),Desert,0,0
+Disability issues (marker),ParticDeveloAGoGov,0,0
+Disability issues (marker),TraDev,0,0
+Disability issues (marker),Bio,0,0
+Disability issues (marker),UrbIs,0,0
+Disability issues (marker),ChiIs,0,0
+Disability issues (marker),YoIss,0,0
+Disability issues (marker),IndigIs,0,0
+Disability issues (marker),DisIss,0,1
+Disability issues (marker),ICTAAToFDevelo,0,0
+Disability issues (marker),KnoFDevelo,0,0
+Disability issues (marker),GenEqu,0,0
+Disability issues (marker),OrgID,0,0
+Disability issues (marker),OrganiNa,0,0
+Disability issues (marker),OrganiT,0,0
+Disability issues (marker),OrganCl,0,0
+Disability issues (marker),OrganSu,0,0
+Disability issues (marker),ContiID,0,0
+Disability issues (marker),ContNa,0,0
+Disability issues (marker),PrBrCoID,0,0
+Disability issues (marker),CounRegID,0,0
+Disability issues (marker),CouRegNa,0,0
+Disability issues (marker),CouRePer,0,0
+Disability issues (marker),Sector ID,0,0
+Disability issues (marker),SeNa,0,0
+Disability issues (marker),SePe,0,0
+Disability issues (marker),AmSpe,0,0
+ICT as a tool for development (marker),FiYe,0,0
+ICT as a tool for development (marker),PrNu,0,0
+ICT as a tool for development (marker),St,0,0
+ICT as a tool for development (marker),MaxiCIDACont,0,0
+ICT as a tool for development (marker),BraID,0,0
+ICT as a tool for development (marker),BraN,0,0
+ICT as a tool for development (marker),DiviID,0,0
+ICT as a tool for development (marker),DiNa,0,0
+ICT as a tool for development (marker),SeID,0,0
+ICT as a tool for development (marker),SecN,0,0
+ICT as a tool for development (marker),RePro,0,0
+ICT as a tool for development (marker),FCeID,0,0
+ICT as a tool for development (marker),FuCeN,0,0
+ICT as a tool for development (marker),UntAmPrBud,0,0
+ICT as a tool for development (marker),FSTCPer,0,0
+ICT as a tool for development (marker),IRTCPe,0,0
+ICT as a tool for development (marker),CFLI,0,0
+ICT as a tool for development (marker),CIDABuDeliMo,0,0
+ICT as a tool for development (marker),PrograPro,0,0
+ICT as a tool for development (marker),BilAMar,0,0
+ICT as a tool for development (marker),PBAT,0,0
+ICT as a tool for development (marker),EnvirSustai,0,0
+ICT as a tool for development (marker),CliChAdap,0,0
+ICT as a tool for development (marker),ClChMiti,0,0
+ICT as a tool for development (marker),Desert,0,0
+ICT as a tool for development (marker),ParticDeveloAGoGov,0,0
+ICT as a tool for development (marker),TraDev,0,0
+ICT as a tool for development (marker),Bio,0,0
+ICT as a tool for development (marker),UrbIs,0,0
+ICT as a tool for development (marker),ChiIs,0,0
+ICT as a tool for development (marker),YoIss,0,0
+ICT as a tool for development (marker),IndigIs,0,0
+ICT as a tool for development (marker),DisIss,0,0
+ICT as a tool for development (marker),ICTAAToFDevelo,0.29425386,1
+ICT as a tool for development (marker),KnoFDevelo,0,0
+ICT as a tool for development (marker),GenEqu,0,0
+ICT as a tool for development (marker),OrgID,0,0
+ICT as a tool for development (marker),OrganiNa,0,0
+ICT as a tool for development (marker),OrganiT,0,0
+ICT as a tool for development (marker),OrganCl,0,0
+ICT as a tool for development (marker),OrganSu,0,0
+ICT as a tool for development (marker),ContiID,0,0
+ICT as a tool for development (marker),ContNa,0,0
+ICT as a tool for development (marker),PrBrCoID,0,0
+ICT as a tool for development (marker),CounRegID,0,0
+ICT as a tool for development (marker),CouRegNa,0,0
+ICT as a tool for development (marker),CouRePer,0,0
+ICT as a tool for development (marker),Sector ID,0,0
+ICT as a tool for development (marker),SeNa,0,0
+ICT as a tool for development (marker),SePe,0,0
+ICT as a tool for development (marker),AmSpe,0,0
+Knowledge for development (marker),FiYe,0,0
+Knowledge for development (marker),PrNu,0,0
+Knowledge for development (marker),St,0,0
+Knowledge for development (marker),MaxiCIDACont,0,0
+Knowledge for development (marker),BraID,0,0
+Knowledge for development (marker),BraN,0,0
+Knowledge for development (marker),DiviID,0,0
+Knowledge for development (marker),DiNa,0,0
+Knowledge for development (marker),SeID,0,0
+Knowledge for development (marker),SecN,0,0
+Knowledge for development (marker),RePro,0,0
+Knowledge for development (marker),FCeID,0,0
+Knowledge for development (marker),FuCeN,0,0
+Knowledge for development (marker),UntAmPrBud,0,0
+Knowledge for development (marker),FSTCPer,0,0
+Knowledge for development (marker),IRTCPe,0,0
+Knowledge for development (marker),CFLI,0,0
+Knowledge for development (marker),CIDABuDeliMo,0,0
+Knowledge for development (marker),PrograPro,0,0
+Knowledge for development (marker),BilAMar,0,0
+Knowledge for development (marker),PBAT,0,0
+Knowledge for development (marker),EnvirSustai,0,0
+Knowledge for development (marker),CliChAdap,0,0
+Knowledge for development (marker),ClChMiti,0,0
+Knowledge for development (marker),Desert,0,0
+Knowledge for development (marker),ParticDeveloAGoGov,0,0
+Knowledge for development (marker),TraDev,0,0
+Knowledge for development (marker),Bio,0,0
+Knowledge for development (marker),UrbIs,0,0
+Knowledge for development (marker),ChiIs,0,0
+Knowledge for development (marker),YoIss,0,0
+Knowledge for development (marker),IndigIs,0,0
+Knowledge for development (marker),DisIss,0,0
+Knowledge for development (marker),ICTAAToFDevelo,0,0
+Knowledge for development (marker),KnoFDevelo,0.32550383,1
+Knowledge for development (marker),GenEqu,0,0
+Knowledge for development (marker),OrgID,0,0
+Knowledge for development (marker),OrganiNa,0,0
+Knowledge for development (marker),OrganiT,0,0
+Knowledge for development (marker),OrganCl,0,0
+Knowledge for development (marker),OrganSu,0,0
+Knowledge for development (marker),ContiID,0,0
+Knowledge for development (marker),ContNa,0,0
+Knowledge for development (marker),PrBrCoID,0,0
+Knowledge for development (marker),CounRegID,0,0
+Knowledge for development (marker),CouRegNa,0,0
+Knowledge for development (marker),CouRePer,0,0
+Knowledge for development (marker),Sector ID,0,0
+Knowledge for development (marker),SeNa,0,0
+Knowledge for development (marker),SePe,0,0
+Knowledge for development (marker),AmSpe,0,0
+Gender equality (marker),FiYe,0,0
+Gender equality (marker),PrNu,0,0
+Gender equality (marker),St,0,0
+Gender equality (marker),MaxiCIDACont,0,0
+Gender equality (marker),BraID,0,0
+Gender equality (marker),BraN,0,0
+Gender equality (marker),DiviID,0,0
+Gender equality (marker),DiNa,0,0
+Gender equality (marker),SeID,0,0
+Gender equality (marker),SecN,0,0
+Gender equality (marker),RePro,0,0
+Gender equality (marker),FCeID,0,0
+Gender equality (marker),FuCeN,0,0
+Gender equality (marker),UntAmPrBud,0,0
+Gender equality (marker),FSTCPer,0,0
+Gender equality (marker),IRTCPe,0,0
+Gender equality (marker),CFLI,0,0
+Gender equality (marker),CIDABuDeliMo,0,0
+Gender equality (marker),PrograPro,0,0
+Gender equality (marker),BilAMar,0,0
+Gender equality (marker),PBAT,0,0
+Gender equality (marker),EnvirSustai,0,0
+Gender equality (marker),CliChAdap,0,0
+Gender equality (marker),ClChMiti,0,0
+Gender equality (marker),Desert,0,0
+Gender equality (marker),ParticDeveloAGoGov,0,0
+Gender equality (marker),TraDev,0,0
+Gender equality (marker),Bio,0,0
+Gender equality (marker),UrbIs,0,0
+Gender equality (marker),ChiIs,0,0
+Gender equality (marker),YoIss,0,0
+Gender equality (marker),IndigIs,0,0
+Gender equality (marker),DisIss,0,0
+Gender equality (marker),ICTAAToFDevelo,0,0
+Gender equality (marker),KnoFDevelo,0,0
+Gender equality (marker),GenEqu,0.29356757,1
+Gender equality (marker),OrgID,0,0
+Gender equality (marker),OrganiNa,0,0
+Gender equality (marker),OrganiT,0,0
+Gender equality (marker),OrganCl,0,0
+Gender equality (marker),OrganSu,0,0
+Gender equality (marker),ContiID,0,0
+Gender equality (marker),ContNa,0,0
+Gender equality (marker),PrBrCoID,0,0
+Gender equality (marker),CounRegID,0,0
+Gender equality (marker),CouRegNa,0,0
+Gender equality (marker),CouRePer,0,0
+Gender equality (marker),Sector ID,0,0
+Gender equality (marker),SeNa,0,0
+Gender equality (marker),SePe,0,0
+Gender equality (marker),AmSpe,0,0
+Organisation ID,FiYe,0,0
+Organisation ID,PrNu,0,0
+Organisation ID,St,0,0
+Organisation ID,MaxiCIDACont,0,0
+Organisation ID,BraID,0,0
+Organisation ID,BraN,0,0
+Organisation ID,DiviID,0,0
+Organisation ID,DiNa,0,0
+Organisation ID,SeID,0,0
+Organisation ID,SecN,0,0
+Organisation ID,RePro,0,0
+Organisation ID,FCeID,0,0
+Organisation ID,FuCeN,0,0
+Organisation ID,UntAmPrBud,0,0
+Organisation ID,FSTCPer,0,0
+Organisation ID,IRTCPe,0,0
+Organisation ID,CFLI,0,0
+Organisation ID,CIDABuDeliMo,0,0
+Organisation ID,PrograPro,0,0
+Organisation ID,BilAMar,0,0
+Organisation ID,PBAT,0,0
+Organisation ID,EnvirSustai,0,0
+Organisation ID,CliChAdap,0,0
+Organisation ID,ClChMiti,0,0
+Organisation ID,Desert,0,0
+Organisation ID,ParticDeveloAGoGov,0,0
+Organisation ID,TraDev,0,0
+Organisation ID,Bio,0,0
+Organisation ID,UrbIs,0,0
+Organisation ID,ChiIs,0,0
+Organisation ID,YoIss,0,0
+Organisation ID,IndigIs,0,0
+Organisation ID,DisIss,0,0
+Organisation ID,ICTAAToFDevelo,0,0
+Organisation ID,KnoFDevelo,0,0
+Organisation ID,GenEqu,0,0
+Organisation ID,OrgID,0,1
+Organisation ID,OrganiNa,0,0
+Organisation ID,OrganiT,0.4508361,0
+Organisation ID,OrganCl,0,0
+Organisation ID,OrganSu,0,0
+Organisation ID,ContiID,0,0
+Organisation ID,ContNa,0,0
+Organisation ID,PrBrCoID,0,0
+Organisation ID,CounRegID,0,0
+Organisation ID,CouRegNa,0,0
+Organisation ID,CouRePer,0,0
+Organisation ID,Sector ID,0,0
+Organisation ID,SeNa,0,0
+Organisation ID,SePe,0,0
+Organisation ID,AmSpe,0,0
+Organisation name,FiYe,0,0
+Organisation name,PrNu,0,0
+Organisation name,St,0,0
+Organisation name,MaxiCIDACont,0,0
+Organisation name,BraID,0,0
+Organisation name,BraN,0,0
+Organisation name,DiviID,0,0
+Organisation name,DiNa,0,0
+Organisation name,SeID,0,0
+Organisation name,SecN,0,0
+Organisation name,RePro,0,0
+Organisation name,FCeID,0,0
+Organisation name,FuCeN,0,0
+Organisation name,UntAmPrBud,0,0
+Organisation name,FSTCPer,0,0
+Organisation name,IRTCPe,0,0
+Organisation name,CFLI,0,0
+Organisation name,CIDABuDeliMo,0,0
+Organisation name,PrograPro,0,0
+Organisation name,BilAMar,0,0
+Organisation name,PBAT,0,0
+Organisation name,EnvirSustai,0,0
+Organisation name,CliChAdap,0,0
+Organisation name,ClChMiti,0,0
+Organisation name,Desert,0,0
+Organisation name,ParticDeveloAGoGov,0,0
+Organisation name,TraDev,0,0
+Organisation name,Bio,0,0
+Organisation name,UrbIs,0,0
+Organisation name,ChiIs,0,0
+Organisation name,YoIss,0,0
+Organisation name,IndigIs,0,0
+Organisation name,DisIss,0,0
+Organisation name,ICTAAToFDevelo,0,0
+Organisation name,KnoFDevelo,0,0
+Organisation name,GenEqu,0,0
+Organisation name,OrgID,0,0
+Organisation name,OrganiNa,0,1
+Organisation name,OrganiT,0,0
+Organisation name,OrganCl,0,0
+Organisation name,OrganSu,0,0
+Organisation name,ContiID,0,0
+Organisation name,ContNa,0,0
+Organisation name,PrBrCoID,0,0
+Organisation name,CounRegID,0,0
+Organisation name,CouRegNa,0,0
+Organisation name,CouRePer,0,0
+Organisation name,Sector ID,0,0
+Organisation name,SeNa,0,0
+Organisation name,SePe,0,0
+Organisation name,AmSpe,0,0
+Organisation type,FiYe,0,0
+Organisation type,PrNu,0,0
+Organisation type,St,0,0
+Organisation type,MaxiCIDACont,0,0
+Organisation type,BraID,0,0
+Organisation type,BraN,0,0
+Organisation type,DiviID,0,0
+Organisation type,DiNa,0,0
+Organisation type,SeID,0,0
+Organisation type,SecN,0,0
+Organisation type,RePro,0,0
+Organisation type,FCeID,0,0
+Organisation type,FuCeN,0,0
+Organisation type,UntAmPrBud,0,0
+Organisation type,FSTCPer,0,0
+Organisation type,IRTCPe,0,0
+Organisation type,CFLI,0,0
+Organisation type,CIDABuDeliMo,0,0
+Organisation type,PrograPro,0,0
+Organisation type,BilAMar,0,0
+Organisation type,PBAT,0,0
+Organisation type,EnvirSustai,0,0
+Organisation type,CliChAdap,0,0
+Organisation type,ClChMiti,0,0
+Organisation type,Desert,0,0
+Organisation type,ParticDeveloAGoGov,0,0
+Organisation type,TraDev,0,0
+Organisation type,Bio,0,0
+Organisation type,UrbIs,0,0
+Organisation type,ChiIs,0,0
+Organisation type,YoIss,0,0
+Organisation type,IndigIs,0,0
+Organisation type,DisIss,0,0
+Organisation type,ICTAAToFDevelo,0,0
+Organisation type,KnoFDevelo,0,0
+Organisation type,GenEqu,0,0
+Organisation type,OrgID,0,0
+Organisation type,OrganiNa,0,0
+Organisation type,OrganiT,0,1
+Organisation type,OrganCl,0,0
+Organisation type,OrganSu,0,0
+Organisation type,ContiID,0,0
+Organisation type,ContNa,0,0
+Organisation type,PrBrCoID,0,0
+Organisation type,CounRegID,0,0
+Organisation type,CouRegNa,0,0
+Organisation type,CouRePer,0,0
+Organisation type,Sector ID,0,0
+Organisation type,SeNa,0,0
+Organisation type,SePe,0,0
+Organisation type,AmSpe,0,0
+Organisation class,FiYe,0,0
+Organisation class,PrNu,0,0
+Organisation class,St,0,0
+Organisation class,MaxiCIDACont,0,0
+Organisation class,BraID,0,0
+Organisation class,BraN,0,0
+Organisation class,DiviID,0,0
+Organisation class,DiNa,0,0
+Organisation class,SeID,0,0
+Organisation class,SecN,0,0
+Organisation class,RePro,0,0
+Organisation class,FCeID,0,0
+Organisation class,FuCeN,0,0
+Organisation class,UntAmPrBud,0,0
+Organisation class,FSTCPer,0,0
+Organisation class,IRTCPe,0,0
+Organisation class,CFLI,0,0
+Organisation class,CIDABuDeliMo,0,0
+Organisation class,PrograPro,0,0
+Organisation class,BilAMar,0,0
+Organisation class,PBAT,0,0
+Organisation class,EnvirSustai,0,0
+Organisation class,CliChAdap,0,0
+Organisation class,ClChMiti,0,0
+Organisation class,Desert,0,0
+Organisation class,ParticDeveloAGoGov,0,0
+Organisation class,TraDev,0,0
+Organisation class,Bio,0,0
+Organisation class,UrbIs,0,0
+Organisation class,ChiIs,0,0
+Organisation class,YoIss,0,0
+Organisation class,IndigIs,0,0
+Organisation class,DisIss,0,0
+Organisation class,ICTAAToFDevelo,0,0
+Organisation class,KnoFDevelo,0,0
+Organisation class,GenEqu,0,0
+Organisation class,OrgID,0,0
+Organisation class,OrganiNa,0,0
+Organisation class,OrganiT,0,0
+Organisation class,OrganCl,0,1
+Organisation class,OrganSu,0,0
+Organisation class,ContiID,0,0
+Organisation class,ContNa,0,0
+Organisation class,PrBrCoID,0,0
+Organisation class,CounRegID,0,0
+Organisation class,CouRegNa,0,0
+Organisation class,CouRePer,0,0
+Organisation class,Sector ID,0,0
+Organisation class,SeNa,0,0
+Organisation class,SePe,0,0
+Organisation class,AmSpe,0,0
+Organisation sub-class,FiYe,0,0
+Organisation sub-class,PrNu,0,0
+Organisation sub-class,St,0,0
+Organisation sub-class,MaxiCIDACont,0,0
+Organisation sub-class,BraID,0,0
+Organisation sub-class,BraN,0,0
+Organisation sub-class,DiviID,0,0
+Organisation sub-class,DiNa,0,0
+Organisation sub-class,SeID,0,0
+Organisation sub-class,SecN,0,0
+Organisation sub-class,RePro,0,0
+Organisation sub-class,FCeID,0,0
+Organisation sub-class,FuCeN,0,0
+Organisation sub-class,UntAmPrBud,0,0
+Organisation sub-class,FSTCPer,0,0
+Organisation sub-class,IRTCPe,0,0
+Organisation sub-class,CFLI,0,0
+Organisation sub-class,CIDABuDeliMo,0,0
+Organisation sub-class,PrograPro,0,0
+Organisation sub-class,BilAMar,0,0
+Organisation sub-class,PBAT,0,0
+Organisation sub-class,EnvirSustai,0,0
+Organisation sub-class,CliChAdap,0,0
+Organisation sub-class,ClChMiti,0,0
+Organisation sub-class,Desert,0,0
+Organisation sub-class,ParticDeveloAGoGov,0,0
+Organisation sub-class,TraDev,0,0
+Organisation sub-class,Bio,0,0
+Organisation sub-class,UrbIs,0,0
+Organisation sub-class,ChiIs,0,0
+Organisation sub-class,YoIss,0,0
+Organisation sub-class,IndigIs,0,0
+Organisation sub-class,DisIss,0,0
+Organisation sub-class,ICTAAToFDevelo,0,0
+Organisation sub-class,KnoFDevelo,0,0
+Organisation sub-class,GenEqu,0,0
+Organisation sub-class,OrgID,0,0
+Organisation sub-class,OrganiNa,0,0
+Organisation sub-class,OrganiT,0,0
+Organisation sub-class,OrganCl,0,0
+Organisation sub-class,OrganSu,0,1
+Organisation sub-class,ContiID,0,0
+Organisation sub-class,ContNa,0,0
+Organisation sub-class,PrBrCoID,0,0
+Organisation sub-class,CounRegID,0,0
+Organisation sub-class,CouRegNa,0,0
+Organisation sub-class,CouRePer,0,0
+Organisation sub-class,Sector ID,0,0
+Organisation sub-class,SeNa,0,0
+Organisation sub-class,SePe,0,0
+Organisation sub-class,AmSpe,0,0
+Continent ID,FiYe,0,0
+Continent ID,PrNu,0,0
+Continent ID,St,0,0
+Continent ID,MaxiCIDACont,0,0
+Continent ID,BraID,0,0
+Continent ID,BraN,0,0
+Continent ID,DiviID,0,0
+Continent ID,DiNa,0,0
+Continent ID,SeID,0,0
+Continent ID,SecN,0,0
+Continent ID,RePro,0,0
+Continent ID,FCeID,0,0
+Continent ID,FuCeN,0,0
+Continent ID,UntAmPrBud,0,0
+Continent ID,FSTCPer,0,0
+Continent ID,IRTCPe,0,0
+Continent ID,CFLI,0,0
+Continent ID,CIDABuDeliMo,0,0
+Continent ID,PrograPro,0,0
+Continent ID,BilAMar,0,0
+Continent ID,PBAT,0,0
+Continent ID,EnvirSustai,0,0
+Continent ID,CliChAdap,0,0
+Continent ID,ClChMiti,0,0
+Continent ID,Desert,0,0
+Continent ID,ParticDeveloAGoGov,0,0
+Continent ID,TraDev,0,0
+Continent ID,Bio,0,0
+Continent ID,UrbIs,0,0
+Continent ID,ChiIs,0,0
+Continent ID,YoIss,0,0
+Continent ID,IndigIs,0,0
+Continent ID,DisIss,0,0
+Continent ID,ICTAAToFDevelo,0,0
+Continent ID,KnoFDevelo,0,0
+Continent ID,GenEqu,0,0
+Continent ID,OrgID,0,0
+Continent ID,OrganiNa,0,0
+Continent ID,OrganiT,0,0
+Continent ID,OrganCl,0,0
+Continent ID,OrganSu,0,0
+Continent ID,ContiID,0.5441145,1
+Continent ID,ContNa,0,0
+Continent ID,PrBrCoID,0,0
+Continent ID,CounRegID,0,0
+Continent ID,CouRegNa,0,0
+Continent ID,CouRePer,0,0
+Continent ID,Sector ID,0,0
+Continent ID,SeNa,0,0
+Continent ID,SePe,0,0
+Continent ID,AmSpe,0,0
+Continent name,FiYe,0,0
+Continent name,PrNu,0,0
+Continent name,St,0,0
+Continent name,MaxiCIDACont,0,0
+Continent name,BraID,0,0
+Continent name,BraN,0,0
+Continent name,DiviID,0,0
+Continent name,DiNa,0,0
+Continent name,SeID,0,0
+Continent name,SecN,0,0
+Continent name,RePro,0,0
+Continent name,FCeID,0,0
+Continent name,FuCeN,0,0
+Continent name,UntAmPrBud,0,0
+Continent name,FSTCPer,0,0
+Continent name,IRTCPe,0,0
+Continent name,CFLI,0,0
+Continent name,CIDABuDeliMo,0,0
+Continent name,PrograPro,0,0
+Continent name,BilAMar,0,0
+Continent name,PBAT,0,0
+Continent name,EnvirSustai,0,0
+Continent name,CliChAdap,0,0
+Continent name,ClChMiti,0,0
+Continent name,Desert,0,0
+Continent name,ParticDeveloAGoGov,0,0
+Continent name,TraDev,0,0
+Continent name,Bio,0,0
+Continent name,UrbIs,0,0
+Continent name,ChiIs,0,0
+Continent name,YoIss,0,0
+Continent name,IndigIs,0,0
+Continent name,DisIss,0,0
+Continent name,ICTAAToFDevelo,0,0
+Continent name,KnoFDevelo,0,0
+Continent name,GenEqu,0,0
+Continent name,OrgID,0,0
+Continent name,OrganiNa,0,0
+Continent name,OrganiT,0,0
+Continent name,OrganCl,0,0
+Continent name,OrganSu,0,0
+Continent name,ContiID,0,0
+Continent name,ContNa,0,1
+Continent name,PrBrCoID,0,0
+Continent name,CounRegID,0,0
+Continent name,CouRegNa,0,0
+Continent name,CouRePer,0,0
+Continent name,Sector ID,0,0
+Continent name,SeNa,0,0
+Continent name,SePe,0,0
+Continent name,AmSpe,0,0
+Project Browser country ID,FiYe,0,0
+Project Browser country ID,PrNu,0,0
+Project Browser country ID,St,0,0
+Project Browser country ID,MaxiCIDACont,0,0
+Project Browser country ID,BraID,0,0
+Project Browser country ID,BraN,0,0
+Project Browser country ID,DiviID,0,0
+Project Browser country ID,DiNa,0,0
+Project Browser country ID,SeID,0,0
+Project Browser country ID,SecN,0,0
+Project Browser country ID,RePro,0,0
+Project Browser country ID,FCeID,0,0
+Project Browser country ID,FuCeN,0,0
+Project Browser country ID,UntAmPrBud,0,0
+Project Browser country ID,FSTCPer,0,0
+Project Browser country ID,IRTCPe,0,0
+Project Browser country ID,CFLI,0,0
+Project Browser country ID,CIDABuDeliMo,0,0
+Project Browser country ID,PrograPro,0,0
+Project Browser country ID,BilAMar,0,0
+Project Browser country ID,PBAT,0,0
+Project Browser country ID,EnvirSustai,0,0
+Project Browser country ID,CliChAdap,0,0
+Project Browser country ID,ClChMiti,0,0
+Project Browser country ID,Desert,0,0
+Project Browser country ID,ParticDeveloAGoGov,0,0
+Project Browser country ID,TraDev,0,0
+Project Browser country ID,Bio,0,0
+Project Browser country ID,UrbIs,0,0
+Project Browser country ID,ChiIs,0,0
+Project Browser country ID,YoIss,0,0
+Project Browser country ID,IndigIs,0,0
+Project Browser country ID,DisIss,0,0
+Project Browser country ID,ICTAAToFDevelo,0,0
+Project Browser country ID,KnoFDevelo,0,0
+Project Browser country ID,GenEqu,0,0
+Project Browser country ID,OrgID,0,0
+Project Browser country ID,OrganiNa,0,0
+Project Browser country ID,OrganiT,0,0
+Project Browser country ID,OrganCl,0,0
+Project Browser country ID,OrganSu,0,0
+Project Browser country ID,ContiID,0,0
+Project Browser country ID,ContNa,0,0
+Project Browser country ID,PrBrCoID,0,1
+Project Browser country ID,CounRegID,0,0
+Project Browser country ID,CouRegNa,0,0
+Project Browser country ID,CouRePer,0,0
+Project Browser country ID,Sector ID,0,0
+Project Browser country ID,SeNa,0,0
+Project Browser country ID,SePe,0,0
+Project Browser country ID,AmSpe,0,0
+CountryRegion ID,FiYe,0,0
+CountryRegion ID,PrNu,0,0
+CountryRegion ID,St,0,0
+CountryRegion ID,MaxiCIDACont,0,0
+CountryRegion ID,BraID,0,0
+CountryRegion ID,BraN,0,0
+CountryRegion ID,DiviID,0,0
+CountryRegion ID,DiNa,0,0
+CountryRegion ID,SeID,0,0
+CountryRegion ID,SecN,0,0
+CountryRegion ID,RePro,0,0
+CountryRegion ID,FCeID,0,0
+CountryRegion ID,FuCeN,0,0
+CountryRegion ID,UntAmPrBud,0,0
+CountryRegion ID,FSTCPer,0,0
+CountryRegion ID,IRTCPe,0,0
+CountryRegion ID,CFLI,0,0
+CountryRegion ID,CIDABuDeliMo,0,0
+CountryRegion ID,PrograPro,0,0
+CountryRegion ID,BilAMar,0,0
+CountryRegion ID,PBAT,0,0
+CountryRegion ID,EnvirSustai,0,0
+CountryRegion ID,CliChAdap,0,0
+CountryRegion ID,ClChMiti,0,0
+CountryRegion ID,Desert,0,0
+CountryRegion ID,ParticDeveloAGoGov,0,0
+CountryRegion ID,TraDev,0,0
+CountryRegion ID,Bio,0,0
+CountryRegion ID,UrbIs,0,0
+CountryRegion ID,ChiIs,0,0
+CountryRegion ID,YoIss,0,0
+CountryRegion ID,IndigIs,0,0
+CountryRegion ID,DisIss,0,0
+CountryRegion ID,ICTAAToFDevelo,0,0
+CountryRegion ID,KnoFDevelo,0,0
+CountryRegion ID,GenEqu,0,0
+CountryRegion ID,OrgID,0,0
+CountryRegion ID,OrganiNa,0,0
+CountryRegion ID,OrganiT,0,0
+CountryRegion ID,OrganCl,0,0
+CountryRegion ID,OrganSu,0,0
+CountryRegion ID,ContiID,0,0
+CountryRegion ID,ContNa,0,0
+CountryRegion ID,PrBrCoID,0,0
+CountryRegion ID,CounRegID,0.506227,1
+CountryRegion ID,CouRegNa,0,0
+CountryRegion ID,CouRePer,0,0
+CountryRegion ID,Sector ID,0,0
+CountryRegion ID,SeNa,0,0
+CountryRegion ID,SePe,0,0
+CountryRegion ID,AmSpe,0,0
+CountryRegion name,FiYe,0,0
+CountryRegion name,PrNu,0,0
+CountryRegion name,St,0,0
+CountryRegion name,MaxiCIDACont,0,0
+CountryRegion name,BraID,0,0
+CountryRegion name,BraN,0,0
+CountryRegion name,DiviID,0,0
+CountryRegion name,DiNa,0,0
+CountryRegion name,SeID,0,0
+CountryRegion name,SecN,0,0
+CountryRegion name,RePro,0,0
+CountryRegion name,FCeID,0,0
+CountryRegion name,FuCeN,0,0
+CountryRegion name,UntAmPrBud,0,0
+CountryRegion name,FSTCPer,0,0
+CountryRegion name,IRTCPe,0,0
+CountryRegion name,CFLI,0,0
+CountryRegion name,CIDABuDeliMo,0,0
+CountryRegion name,PrograPro,0,0
+CountryRegion name,BilAMar,0,0
+CountryRegion name,PBAT,0,0
+CountryRegion name,EnvirSustai,0,0
+CountryRegion name,CliChAdap,0,0
+CountryRegion name,ClChMiti,0,0
+CountryRegion name,Desert,0,0
+CountryRegion name,ParticDeveloAGoGov,0,0
+CountryRegion name,TraDev,0,0
+CountryRegion name,Bio,0,0
+CountryRegion name,UrbIs,0,0
+CountryRegion name,ChiIs,0,0
+CountryRegion name,YoIss,0,0
+CountryRegion name,IndigIs,0,0
+CountryRegion name,DisIss,0,0
+CountryRegion name,ICTAAToFDevelo,0,0
+CountryRegion name,KnoFDevelo,0,0
+CountryRegion name,GenEqu,0,0
+CountryRegion name,OrgID,0,0
+CountryRegion name,OrganiNa,0,0
+CountryRegion name,OrganiT,0,0
+CountryRegion name,OrganCl,0,0
+CountryRegion name,OrganSu,0,0
+CountryRegion name,ContiID,0,0
+CountryRegion name,ContNa,0,0
+CountryRegion name,PrBrCoID,0,0
+CountryRegion name,CounRegID,0,0
+CountryRegion name,CouRegNa,0,1
+CountryRegion name,CouRePer,0,0
+CountryRegion name,Sector ID,0,0
+CountryRegion name,SeNa,0,0
+CountryRegion name,SePe,0,0
+CountryRegion name,AmSpe,0,0
+CountryRegion percent,FiYe,0,0
+CountryRegion percent,PrNu,0,0
+CountryRegion percent,St,0,0
+CountryRegion percent,MaxiCIDACont,0,0
+CountryRegion percent,BraID,0,0
+CountryRegion percent,BraN,0,0
+CountryRegion percent,DiviID,0,0
+CountryRegion percent,DiNa,0,0
+CountryRegion percent,SeID,0,0
+CountryRegion percent,SecN,0,0
+CountryRegion percent,RePro,0,0
+CountryRegion percent,FCeID,0,0
+CountryRegion percent,FuCeN,0,0
+CountryRegion percent,UntAmPrBud,0,0
+CountryRegion percent,FSTCPer,0,0
+CountryRegion percent,IRTCPe,0,0
+CountryRegion percent,CFLI,0,0
+CountryRegion percent,CIDABuDeliMo,0,0
+CountryRegion percent,PrograPro,0,0
+CountryRegion percent,BilAMar,0,0
+CountryRegion percent,PBAT,0,0
+CountryRegion percent,EnvirSustai,0,0
+CountryRegion percent,CliChAdap,0,0
+CountryRegion percent,ClChMiti,0,0
+CountryRegion percent,Desert,0,0
+CountryRegion percent,ParticDeveloAGoGov,0,0
+CountryRegion percent,TraDev,0,0
+CountryRegion percent,Bio,0,0
+CountryRegion percent,UrbIs,0,0
+CountryRegion percent,ChiIs,0,0
+CountryRegion percent,YoIss,0,0
+CountryRegion percent,IndigIs,0,0
+CountryRegion percent,DisIss,0,0
+CountryRegion percent,ICTAAToFDevelo,0,0
+CountryRegion percent,KnoFDevelo,0,0
+CountryRegion percent,GenEqu,0,0
+CountryRegion percent,OrgID,0,0
+CountryRegion percent,OrganiNa,0,0
+CountryRegion percent,OrganiT,0,0
+CountryRegion percent,OrganCl,0,0
+CountryRegion percent,OrganSu,0,0
+CountryRegion percent,ContiID,0,0
+CountryRegion percent,ContNa,0,0
+CountryRegion percent,PrBrCoID,0,0
+CountryRegion percent,CounRegID,0,0
+CountryRegion percent,CouRegNa,0,0
+CountryRegion percent,CouRePer,0,1
+CountryRegion percent,Sector ID,0,0
+CountryRegion percent,SeNa,0,0
+CountryRegion percent,SePe,0,0
+CountryRegion percent,AmSpe,0,0
+Sector ID,FiYe,0,0
+Sector ID,PrNu,0,0
+Sector ID,St,0,0
+Sector ID,MaxiCIDACont,0,0
+Sector ID,BraID,0,0
+Sector ID,BraN,0,0
+Sector ID,DiviID,0,0
+Sector ID,DiNa,0,0
+Sector ID,SeID,0,0
+Sector ID,SecN,0,0
+Sector ID,RePro,0,0
+Sector ID,FCeID,0,0
+Sector ID,FuCeN,0,0
+Sector ID,UntAmPrBud,0,0
+Sector ID,FSTCPer,0,0
+Sector ID,IRTCPe,0,0
+Sector ID,CFLI,0,0
+Sector ID,CIDABuDeliMo,0,0
+Sector ID,PrograPro,0,0
+Sector ID,BilAMar,0,0
+Sector ID,PBAT,0,0
+Sector ID,EnvirSustai,0,0
+Sector ID,CliChAdap,0,0
+Sector ID,ClChMiti,0,0
+Sector ID,Desert,0,0
+Sector ID,ParticDeveloAGoGov,0,0
+Sector ID,TraDev,0,0
+Sector ID,Bio,0,0
+Sector ID,UrbIs,0,0
+Sector ID,ChiIs,0,0
+Sector ID,YoIss,0,0
+Sector ID,IndigIs,0,0
+Sector ID,DisIss,0,0
+Sector ID,ICTAAToFDevelo,0,0
+Sector ID,KnoFDevelo,0,0
+Sector ID,GenEqu,0,0
+Sector ID,OrgID,0,0
+Sector ID,OrganiNa,0,0
+Sector ID,OrganiT,0,0
+Sector ID,OrganCl,0,0
+Sector ID,OrganSu,0,0
+Sector ID,ContiID,0,0
+Sector ID,ContNa,0,0
+Sector ID,PrBrCoID,0,0
+Sector ID,CounRegID,0,0
+Sector ID,CouRegNa,0,0
+Sector ID,CouRePer,0,0
+Sector ID,Sector ID,0.79644686,1
+Sector ID,SeNa,0,0
+Sector ID,SePe,0,0
+Sector ID,AmSpe,0,0
+Sector name,FiYe,0,0
+Sector name,PrNu,0,0
+Sector name,St,0,0
+Sector name,MaxiCIDACont,0,0
+Sector name,BraID,0,0
+Sector name,BraN,0,0
+Sector name,DiviID,0,0
+Sector name,DiNa,0,0
+Sector name,SeID,0,0
+Sector name,SecN,0,0
+Sector name,RePro,0,0
+Sector name,FCeID,0,0
+Sector name,FuCeN,0,0
+Sector name,UntAmPrBud,0,0
+Sector name,FSTCPer,0,0
+Sector name,IRTCPe,0,0
+Sector name,CFLI,0,0
+Sector name,CIDABuDeliMo,0,0
+Sector name,PrograPro,0,0
+Sector name,BilAMar,0,0
+Sector name,PBAT,0,0
+Sector name,EnvirSustai,0,0
+Sector name,CliChAdap,0,0
+Sector name,ClChMiti,0,0
+Sector name,Desert,0,0
+Sector name,ParticDeveloAGoGov,0,0
+Sector name,TraDev,0,0
+Sector name,Bio,0,0
+Sector name,UrbIs,0,0
+Sector name,ChiIs,0,0
+Sector name,YoIss,0,0
+Sector name,IndigIs,0,0
+Sector name,DisIss,0,0
+Sector name,ICTAAToFDevelo,0,0
+Sector name,KnoFDevelo,0,0
+Sector name,GenEqu,0,0
+Sector name,OrgID,0,0
+Sector name,OrganiNa,0,0
+Sector name,OrganiT,0,0
+Sector name,OrganCl,0,0
+Sector name,OrganSu,0,0
+Sector name,ContiID,0,0
+Sector name,ContNa,0,0
+Sector name,PrBrCoID,0,0
+Sector name,CounRegID,0,0
+Sector name,CouRegNa,0,0
+Sector name,CouRePer,0,0
+Sector name,Sector ID,0,0
+Sector name,SeNa,0,1
+Sector name,SePe,0,0
+Sector name,AmSpe,0,0
+Sector percent,FiYe,0,0
+Sector percent,PrNu,0,0
+Sector percent,St,0,0
+Sector percent,MaxiCIDACont,0,0
+Sector percent,BraID,0,0
+Sector percent,BraN,0,0
+Sector percent,DiviID,0,0
+Sector percent,DiNa,0,0
+Sector percent,SeID,0,0
+Sector percent,SecN,0,0
+Sector percent,RePro,0,0
+Sector percent,FCeID,0,0
+Sector percent,FuCeN,0,0
+Sector percent,UntAmPrBud,0,0
+Sector percent,FSTCPer,0,0
+Sector percent,IRTCPe,0,0
+Sector percent,CFLI,0,0
+Sector percent,CIDABuDeliMo,0,0
+Sector percent,PrograPro,0,0
+Sector percent,BilAMar,0,0
+Sector percent,PBAT,0,0
+Sector percent,EnvirSustai,0,0
+Sector percent,CliChAdap,0,0
+Sector percent,ClChMiti,0,0
+Sector percent,Desert,0,0
+Sector percent,ParticDeveloAGoGov,0,0
+Sector percent,TraDev,0,0
+Sector percent,Bio,0,0
+Sector percent,UrbIs,0,0
+Sector percent,ChiIs,0,0
+Sector percent,YoIss,0,0
+Sector percent,IndigIs,0,0
+Sector percent,DisIss,0,0
+Sector percent,ICTAAToFDevelo,0,0
+Sector percent,KnoFDevelo,0,0
+Sector percent,GenEqu,0,0
+Sector percent,OrgID,0,0
+Sector percent,OrganiNa,0,0
+Sector percent,OrganiT,0,0
+Sector percent,OrganCl,0,0
+Sector percent,OrganSu,0,0
+Sector percent,ContiID,0,0
+Sector percent,ContNa,0,0
+Sector percent,PrBrCoID,0,0
+Sector percent,CounRegID,0,0
+Sector percent,CouRegNa,0,0
+Sector percent,CouRePer,0,0
+Sector percent,Sector ID,0,0
+Sector percent,SeNa,0,0
+Sector percent,SePe,0,1
+Sector percent,AmSpe,0,0
+Amount spent,FiYe,0,0
+Amount spent,PrNu,0,0
+Amount spent,St,0,0
+Amount spent,MaxiCIDACont,0,0
+Amount spent,BraID,0,0
+Amount spent,BraN,0,0
+Amount spent,DiviID,0,0
+Amount spent,DiNa,0,0
+Amount spent,SeID,0,0
+Amount spent,SecN,0,0
+Amount spent,RePro,0,0
+Amount spent,FCeID,0,0
+Amount spent,FuCeN,0,0
+Amount spent,UntAmPrBud,0,0
+Amount spent,FSTCPer,0,0
+Amount spent,IRTCPe,0,0
+Amount spent,CFLI,0,0
+Amount spent,CIDABuDeliMo,0,0
+Amount spent,PrograPro,0,0
+Amount spent,BilAMar,0,0
+Amount spent,PBAT,0,0
+Amount spent,EnvirSustai,0,0
+Amount spent,CliChAdap,0,0
+Amount spent,ClChMiti,0,0
+Amount spent,Desert,0,0
+Amount spent,ParticDeveloAGoGov,0,0
+Amount spent,TraDev,0,0
+Amount spent,Bio,0,0
+Amount spent,UrbIs,0,0
+Amount spent,ChiIs,0,0
+Amount spent,YoIss,0,0
+Amount spent,IndigIs,0,0
+Amount spent,DisIss,0,0
+Amount spent,ICTAAToFDevelo,0,0
+Amount spent,KnoFDevelo,0,0
+Amount spent,GenEqu,0,0
+Amount spent,OrgID,0,0
+Amount spent,OrganiNa,0,0
+Amount spent,OrganiT,0,0
+Amount spent,OrganCl,0,0
+Amount spent,OrganSu,0,0
+Amount spent,ContiID,0,0
+Amount spent,ContNa,0,0
+Amount spent,PrBrCoID,0,0
+Amount spent,CounRegID,0,0
+Amount spent,CouRegNa,0,0
+Amount spent,CouRePer,0,0
+Amount spent,Sector ID,0,0
+Amount spent,SeNa,0,0
+Amount spent,SePe,0,0
+Amount spent,AmSpe,0.33988878,1

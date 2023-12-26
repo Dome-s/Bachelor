@@ -1,0 +1,1445 @@
+sourceName,targName,ComaInstResult,ComaInstAdjusted,ComaOpt,ComaOptAdjusted,CupidResult,CupidAdjusted,DistributionBasedResult,DistributionBasedAdjusted,JaccardLevenMatcherResult,JaccardLevenMatcherAdjusted,SimilarityFloodingResult,SimilarityFloodingAdjusted,groundtruth
+Fiscal year,Fiscal year,0.73926735,1.0,0.9240842,1.0,0.0363636363636363,1.0,0.0,0.0,0.0333333333333333,0.0,0.0588397710164174,0.0,1
+Fiscal year,Trade development (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.1333333333333333,0.0,0.030980464905407,0.0,0
+Fiscal year,Bilateral aid (international marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0666666666666666,0.0,0.032034412170083,0.0,0
+Fiscal year,Organisation sub-class,0.0,0.0,0.0,0.0,0.0363636363636363,1.0,0.0,0.0,0.8,0.0,0.0322269372125997,0.0,0
+Fiscal year,Section ID,0.0,0.0,0.0,0.0,0.0363636363636363,1.0,0.0,0.0,0.8333333333333334,0.0,0.0279292124989397,0.0,0
+Fiscal year,Regional program (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0666666666666666,0.0,0.0333884416420627,0.0,0
+Fiscal year,Children issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.1333333333333333,0.0,0.03375209527168,0.0,0
+Fiscal year,ICT as a tool for development (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.1,0.0,0.0315701734939757,0.0,0
+Fiscal year,Biodiversity (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.1333333333333333,0.0,0.0325929493272746,0.0,0
+Fiscal year,CountryRegion name,0.0,0.0,0.0,0.0,0.0363636363636363,1.0,0.0,0.0,0.2068965517241379,0.0,0.0285562015155214,0.0,0
+Fiscal year,Amount spent,0.0,0.0,0.0,0.0,0.12,1.0,0.0,0.0,0.0059760956175298,0.0,0.0274878183047074,0.0,0
+Fiscal year,Indigenous issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.1333333333333333,0.0,0.0330444449653976,0.0,0
+Fiscal year,CountryRegion percent,0.0,0.0,0.0,0.0,0.12,1.0,0.0,0.0,0.0746268656716417,0.0,0.0303930945848028,0.0,0
+Fiscal year,Organisation type,0.0,0.0,0.0,0.0,0.0363636363636363,1.0,0.0,0.0,0.1333333333333333,0.0,0.0370205532393743,0.0,0
+Fiscal year,Status,0.0,0.0,0.0,0.0,0.0363636363636363,1.0,0.0,0.0,0.1,0.0,0.0251483318018656,0.0,0
+Fiscal year,FSTC percent,0.0,0.0,0.0,0.0,0.12,1.0,0.0,0.0,0.6122448979591837,0.0,0.0341284498020683,0.0,0
+Fiscal year,Urban issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.1333333333333333,0.0,0.0325929493272746,0.0,0
+Fiscal year,Continent ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.1666666666666666,0.0,0.0273011961028151,0.0,0
+Fiscal year,Enviromental sustainability (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.1,0.0,0.032034412170083,0.0,0
+Fiscal year,Branch ID,0.0,0.0,0.0,0.0,0.0363636363636363,1.0,0.0,0.0,0.1666666666666666,0.0,0.0282928661285571,0.0,0
+Fiscal year,CIDA business delivery model (old),0.0,0.0,0.0,0.0,0.0363636363636363,1.0,0.0,0.0,0.1,0.0,0.029141391264331,0.0,0
+Fiscal year,Programming process (new),0.0,0.0,0.0,0.0,0.0363636363636363,1.0,0.0,0.0,0.0333333333333333,0.0,0.029141391264331,0.0,0
+Fiscal year,Youth issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.1333333333333333,0.0,0.0325929493272746,0.0,0
+Fiscal year,Desertification (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.1333333333333333,0.0,0.03375209527168,0.0,0
+Fiscal year,IRTC percent,0.0,0.0,0.0,0.0,0.12,1.0,0.0,0.0,0.1,0.0,0.0308081340533879,0.0,0
+Fiscal year,Participatory development and good governance,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.1333333333333333,0.0,0.0302064723829105,0.0,0
+Fiscal year,Disability issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.1333333333333333,0.0,0.0371724050853787,0.0,0
+Fiscal year,Knowledge for development (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.1333333333333333,0.0,0.0291458159631932,0.0,0
+Fiscal year,Gender equality (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.1333333333333333,0.0,0.0315701734939757,0.0,0
+Fiscal year,Organisation ID,0.0,0.0,0.0,0.0,0.0363636363636363,1.0,0.0,0.0,0.0884955752212389,0.0,0.032404949478846,0.0,0
+Fiscal year,Organisation name,0.0,0.0,0.0,0.0,0.0363636363636363,1.0,0.0,0.0,0.0884955752212389,0.0,0.0342931510172439,0.0,0
+Fiscal year,Organisation class,0.0,0.0,0.0,0.0,0.0363636363636363,1.0,0.0,0.0,0.2,0.0,0.0338229092548077,0.0,0
+Fiscal year,Continent name,0.0,0.0,0.0,0.0,0.0363636363636363,1.0,0.0,0.0,0.1666666666666666,0.0,0.0298202113729501,0.0,0
+Fiscal year,Project Browser country ID,0.0,0.0,0.0,0.0,0.0363636363636363,1.0,0.0,0.0,0.196078431372549,0.0,0.0289120601465543,0.0,0
+Fiscal year,CountryRegion ID,0.0,0.0,0.0,0.0,0.0363636363636363,1.0,0.0,0.0,0.2112676056338028,0.0,0.0263129741450847,0.0,0
+Fiscal year,Sector ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.2439024390243902,0.0,0.0282972908274193,0.0,0
+Fiscal year,Sector name,0.0,0.0,0.0,0.0,0.0363636363636363,1.0,0.0,0.0,0.2439024390243902,0.0,0.0310698574819989,0.0,0
+Fiscal year,Sector percent,0.0,0.0,0.0,0.0,0.12,1.0,0.0,0.0,0.1621621621621621,0.0,0.0330659487624906,0.0,0
+Trade development (marker),Fiscal year,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.25,0.0,0.0310989929789983,0.0,0
+Trade development (marker),Trade development (marker),0.8836238,1.0,0.9379048,1.0,1.0,1.0,0.918401582875312,0.0,1.0,0.0,0.0590542793684654,0.0,1
+Trade development (marker),Bilateral aid (international marker),0.0,0.0,0.0,0.0,0.8171428571428572,1.0,0.6446283177646478,0.0,0.5,0.0,0.0393465987956523,0.0,0
+Trade development (marker),Organisation sub-class,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.1666666666666666,0.0,0.0303250004565019,0.0,0
+Trade development (marker),Section ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.16,0.0,0.0292643440367845,0.0,0
+Trade development (marker),Regional program (marker),0.0,0.0,0.0,0.0,0.8038095238095238,1.0,1.0,0.0,0.5,0.0,0.0403368131381589,0.0,0
+Trade development (marker),Children issues (marker),0.0,0.0,0.0,0.0,0.6389972600498917,1.0,0.9594817626671068,0.0,1.0,0.0,0.0407261364357493,0.0,0
+Trade development (marker),ICT as a tool for development (marker),0.0,0.0,0.0,0.0,0.865546218487395,1.0,0.9800511365232782,0.0,0.75,0.0,0.048315133118827,0.0,0
+Trade development (marker),Biodiversity (marker),0.0,0.0,0.0,0.0,0.7036500754147814,1.0,0.996895931982318,0.0,1.0,0.0,0.0419935080215222,0.0,0
+Trade development (marker),CountryRegion name,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0275862068965517,0.0,0.0329284298503536,0.0,0
+Trade development (marker),Amount spent,0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0007968127490039,0.0,0.0307612422838414,0.0,0
+Trade development (marker),Indigenous issues (marker),0.0,0.0,0.0,0.0,0.6857808857808858,1.0,0.9869002026705764,1.0,1.0,0.0,0.0399624638135527,0.0,0
+Trade development (marker),CountryRegion percent,0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0099502487562189,0.0,0.0320867658722004,0.0,0
+Trade development (marker),Organisation type,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,1.0,0.0,0.0314349897329503,0.0,0
+Trade development (marker),Status,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.75,0.0,0.0255520465677737,0.0,0
+Trade development (marker),FSTC percent,0.0,0.0,0.0,0.0,0.05,1.0,0.6632650130048288,0.0,0.0816326530612244,0.0,0.0327709070790954,0.0,0
+Trade development (marker),Urban issues (marker),0.0,0.0,0.0,0.0,0.6857808857808858,1.0,0.9985140694718672,1.0,1.0,0.0,0.0419935080215222,0.0,0
+Trade development (marker),Continent ID,0.0,0.0,0.0,0.0,0.6658823529411766,1.0,0.6114512252881225,0.0,0.8,0.0,0.0309189722349099,0.0,0
+Trade development (marker),Enviromental sustainability (marker),0.0,0.0,0.0,0.0,0.744137022397892,1.0,0.8708873841475641,1.0,0.75,0.0,0.0393465987956523,0.0,0
+Trade development (marker),Branch ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.8,0.0,0.0295067797898628,0.0,0
+Trade development (marker),CIDA business delivery model (old),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.75,0.0,0.0347797574193148,0.0,0
+Trade development (marker),Programming process (new),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.25,0.0,0.0342556683648663,0.0,0
+Trade development (marker),Youth issues (marker),0.0,0.0,0.0,0.0,0.7507381507381508,1.0,0.9113073777501182,0.0,1.0,0.0,0.0387438372887711,0.0,0
+Trade development (marker),Desertification (marker),0.0,0.0,0.0,0.0,0.7684705882352942,1.0,0.9913305697952574,0.0,1.0,0.0,0.0407261364357493,0.0,0
+Trade development (marker),IRTC percent,0.0,0.0,0.0,0.0,0.05,1.0,1.0,1.0,0.75,0.0,0.0327709070790954,0.0,0
+Trade development (marker),Participatory development and good governance,0.0,0.0,0.0,0.0,0.8333333333333335,1.0,0.7630283113361396,0.0,1.0,0.0,0.0402313626241853,0.0,0
+Trade development (marker),Disability issues (marker),0.0,0.0,0.0,0.0,0.6922162804515746,1.0,0.9931664815922098,1.0,1.0,0.0,0.038493862617021,0.0,0
+Trade development (marker),Knowledge for development (marker),0.0,0.0,0.0,0.0,0.906060606060606,1.0,0.9512689038326064,0.0,1.0,0.0,0.0501447654428395,0.0,0
+Trade development (marker),Gender equality (marker),0.0,0.0,0.0,0.0,0.753846153846154,1.0,0.6775276198335662,0.0,1.0,0.0,0.0437808269245353,0.0,0
+Trade development (marker),Organisation ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0117994100294985,0.0,0.0300921734375395,0.0,0
+Trade development (marker),Organisation name,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0117994100294985,0.0,0.0332109725752678,0.0,0
+Trade development (marker),Organisation class,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.6666666666666666,0.0,0.0311928102544525,0.0,0
+Trade development (marker),Continent name,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.8,0.0,0.0341433635674844,0.0,0
+Trade development (marker),Project Browser country ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0261437908496732,0.0,0.0325279022512995,0.0,0
+Trade development (marker),CountryRegion ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.028169014084507,0.0,0.0298704334194802,0.0,0
+Trade development (marker),Sector ID,0.0,0.0,0.0,0.0,0.720874378459518,1.0,0.0,0.0,0.032520325203252,0.0,0.027416413591753,0.0,0
+Trade development (marker),Sector name,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.032520325203252,0.0,0.0310989929789983,0.0,0
+Trade development (marker),Sector percent,0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0216216216216216,0.0,0.0321680076405192,0.0,0
+Bilateral aid (international marker),Fiscal year,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.5,0.0,0.0321529402436744,0.0,0
+Bilateral aid (international marker),Trade development (marker),0.0,0.0,0.0,0.0,0.8171428571428572,1.0,0.7340277777777778,1.0,0.5,0.0,0.0393465987956523,0.0,0
+Bilateral aid (international marker),Bilateral aid (international marker),0.9074067,1.0,0.9415084,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0590542793684654,0.0,1
+Bilateral aid (international marker),Organisation sub-class,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0833333333333333,0.0,0.0339458620272612,0.0,0
+Bilateral aid (international marker),Section ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.08,0.0,0.0307400399250869,0.0,0
+Bilateral aid (international marker),Regional program (marker),0.0,0.0,0.0,0.0,0.7443609022556392,1.0,1.0,0.0,1.0,0.0,0.0396494832306853,0.0,0
+Bilateral aid (international marker),Children issues (marker),0.0,0.0,0.0,0.0,0.6151536978427734,1.0,0.7186476296433648,0.0,0.5,0.0,0.0386896761098919,0.0,0
+Bilateral aid (international marker),ICT as a tool for development (marker),0.0,0.0,0.0,0.0,0.7375910364145659,1.0,0.6418673978249269,0.0,0.6666666666666666,0.0,0.0373824887385646,0.0,0
+Bilateral aid (international marker),Biodiversity (marker),0.0,0.0,0.0,0.0,0.6573420479302833,1.0,1.0,1.0,0.5,0.0,0.0409672962111797,0.0,0
+Bilateral aid (international marker),CountryRegion name,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0137931034482758,0.0,0.033506969715654,0.0,0
+Bilateral aid (international marker),Amount spent,0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0003984063745019,0.0,0.0286678414554518,0.0,0
+Bilateral aid (international marker),Indigenous issues (marker),0.0,0.0,0.0,0.0,0.6761904761904761,1.0,1.0,1.0,0.5,0.0,0.0368831387240507,0.0,0
+Bilateral aid (international marker),CountryRegion percent,0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0049751243781094,0.0,0.0327709070790954,0.0,0
+Bilateral aid (international marker),Organisation type,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.5,0.0,0.0351880100789796,0.0,0
+Bilateral aid (international marker),Status,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.6666666666666666,0.0,0.0262338971233063,0.0,0
+Bilateral aid (international marker),FSTC percent,0.0,0.0,0.0,0.0,0.05,1.0,0.7658254729301569,0.0,0.0408163265306122,0.0,0.0286678414554518,0.0,0
+Bilateral aid (international marker),Urban issues (marker),0.0,0.0,0.0,0.0,0.6761904761904761,1.0,1.0,1.0,0.5,0.0,0.0382877431508411,0.0,0
+Bilateral aid (international marker),Continent ID,0.0,0.0,0.0,0.0,0.5771428571428572,1.0,0.9427093468249336,0.0,0.4,0.0,0.0320075406656725,0.0,0
+Bilateral aid (international marker),Enviromental sustainability (marker),0.0,0.0,0.0,0.0,0.7143945578231292,1.0,0.6990600637312864,0.0,0.6666666666666666,0.0,0.0410231202332701,0.0,0
+Bilateral aid (international marker),Branch ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.4,0.0,0.0292643440367845,0.0,0
+Bilateral aid (international marker),CIDA business delivery model (old),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.6666666666666666,0.0,0.0327796624564192,0.0,0
+Bilateral aid (international marker),Programming process (new),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.5,0.0,0.0320463936622727,0.0,0
+Bilateral aid (international marker),Youth issues (marker),0.0,0.0,0.0,0.0,0.6489377289377289,1.0,1.0,0.0,0.5,0.0,0.0369479666206718,0.0,0
+Bilateral aid (international marker),Desertification (marker),0.0,0.0,0.0,0.0,0.6173219373219374,1.0,0.6331064524911516,0.0,0.5,0.0,0.0425080392208744,0.0,0
+Bilateral aid (international marker),IRTC percent,0.0,0.0,0.0,0.0,0.05,1.0,1.0,1.0,0.6666666666666666,0.0,0.0286678414554518,0.0,0
+Bilateral aid (international marker),Participatory development and good governance,0.0,0.0,0.0,0.0,0.7433333333333334,1.0,1.0,1.0,0.5,0.0,0.0350127338548717,0.0,0
+Bilateral aid (international marker),Disability issues (marker),0.0,0.0,0.0,0.0,0.600672268907563,1.0,0.6941492537313433,0.0,0.5,0.0,0.0393465987956523,0.0,0
+Bilateral aid (international marker),Knowledge for development (marker),0.0,0.0,0.0,0.0,0.7415841301555588,1.0,1.0,1.0,0.5,0.0,0.0383260224802745,0.0,0
+Bilateral aid (international marker),Gender equality (marker),0.0,0.0,0.0,0.0,0.6864643293214723,1.0,0.9300855931525478,0.0,0.5,0.0,0.0386896761098919,0.0,0
+Bilateral aid (international marker),Organisation ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0058997050147492,0.0,0.0342556683648663,0.0,0
+Bilateral aid (international marker),Organisation name,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0058997050147492,0.0,0.036628901818973,0.0,0
+Bilateral aid (international marker),Organisation class,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.3333333333333333,0.0,0.0349211782752772,0.0,0
+Bilateral aid (international marker),Continent name,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.4,0.0,0.0360525451229757,0.0,0
+Bilateral aid (international marker),Project Browser country ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0130718954248366,0.0,0.0306329329654521,0.0,0
+Bilateral aid (international marker),CountryRegion ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0140845070422535,0.0,0.0310593010547678,0.0,0
+Bilateral aid (international marker),Sector ID,0.0,0.0,0.0,0.0,0.5731829573934837,1.0,0.0,0.0,0.016260162601626,0.0,0.0276588493448312,0.0,0
+Bilateral aid (international marker),Sector name,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.016260162601626,0.0,0.0321529402436744,0.0,0
+Bilateral aid (international marker),Sector percent,0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0108108108108108,0.0,0.0314043350183227,0.0,0
+Organisation sub-class,Fiscal year,0.0,0.0,0.0,0.0,0.650909090909091,1.0,0.0,0.0,0.00015888147442,0.0,0.0324050331737115,0.0,0
+Organisation sub-class,Trade development (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0006355258976803,0.0,0.0303213281703507,0.0,0
+Organisation sub-class,Bilateral aid (international marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0003177629488401,0.0,0.03394218974111,0.0,0
+Organisation sub-class,Organisation sub-class,0.7998979,1.0,0.9354478,1.0,1.0,1.0,0.8922461353868317,1.0,0.0038131553860819,0.0,0.0590178669775292,0.0,1
+Organisation sub-class,Section ID,0.0,0.0,0.0,0.0,0.6976190476190476,1.0,0.0,0.0,0.003972036860502,0.0,0.0327666205895243,0.0,0
+Organisation sub-class,Regional program (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0003177629488401,0.0,0.0305244325911476,0.0,0
+Organisation sub-class,Children issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0006355258976803,0.0,0.032396525513276,0.0,0
+Organisation sub-class,ICT as a tool for development (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0004766444232602,0.0,0.0309577220221811,0.0,0
+Organisation sub-class,Biodiversity (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0006355258976803,0.0,0.0296553346044816,0.0,0
+Organisation sub-class,CountryRegion name,0.0,0.0,0.0,0.0,0.6911355311355312,1.0,0.0,0.0,0.0230378137909119,0.0,0.0341985067561427,0.0,0
+Organisation sub-class,Amount spent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.7975850015888147,0.0,0.0296930139643312,0.0,0
+Organisation sub-class,Indigenous issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0006355258976803,0.0,0.0319123127999268,0.0,0
+Organisation sub-class,CountryRegion percent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0638703527168732,0.0,0.0331405100700063,0.0,0
+Organisation sub-class,Organisation type,0.0,0.0,0.0,0.0,0.7471861471861472,1.0,0.0,0.0,0.0006355258976803,0.0,0.0462899899409207,0.0,0
+Organisation sub-class,Status,0.0,0.0,0.0,0.0,0.5733333333333333,1.0,0.0,0.0,0.0004766444232602,0.0,0.0317438447562254,0.0,0
+Organisation sub-class,FSTC percent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.007785192246584,0.0,0.0274469180166944,0.0,0
+Organisation sub-class,Urban issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0006355258976803,0.0,0.034983283131434,0.0,0
+Organisation sub-class,Continent ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0007944073721004,0.0,0.0320059001310783,0.0,0
+Organisation sub-class,Enviromental sustainability (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0004766444232602,0.0,0.03394218974111,0.0,0
+Organisation sub-class,Branch ID,0.0,0.0,0.0,0.0,0.6533333333333333,1.0,0.0,0.0,0.0007944073721004,0.0,0.0306880761541104,0.0,0
+Organisation sub-class,CIDA business delivery model (old),0.0,0.0,0.0,0.0,0.7035072490534675,1.0,0.0,0.0,0.0004766444232602,0.0,0.029016442534095,0.0,0
+Organisation sub-class,Programming process (new),0.0,0.0,0.0,0.0,0.6942857142857144,1.0,0.0,0.0,0.00015888147442,0.0,0.0354577541650838,0.0,0
+Organisation sub-class,Youth issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0006355258976803,0.0,0.0296553346044816,0.0,0
+Organisation sub-class,Desertification (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0006355258976803,0.0,0.0357168412619565,0.0,0
+Organisation sub-class,IRTC percent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0004766444232602,0.0,0.0274469180166944,0.0,0
+Organisation sub-class,Participatory development and good governance,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0006355258976803,0.0,0.0298938994638974,0.0,0
+Organisation sub-class,Disability issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0006355258976803,0.0,0.0335032974295028,0.0,0
+Organisation sub-class,Knowledge for development (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0006355258976803,0.0,0.0275939259482203,0.0,0
+Organisation sub-class,Gender equality (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0006355258976803,0.0,0.0307363676389358,0.0,0
+Organisation sub-class,Organisation ID,0.0,0.0,0.0,0.0,0.7523809523809524,1.0,0.0,0.0,0.053860819828408,0.0,0.0476659766475811,0.0,0
+Organisation sub-class,Organisation name,0.0,0.0,0.0,0.0,0.7904761904761906,1.0,0.0,0.0,0.053860819828408,0.0,0.0482481248696297,0.0,0
+Organisation sub-class,Organisation class,0.0,0.0,0.0,0.0,0.9028571428571428,1.0,0.0,0.0,0.0009532888465204,0.0,0.0551995038665467,0.0,0
+Organisation sub-class,Continent name,0.0,0.0,0.0,0.0,0.5855311355311354,1.0,0.0,0.0,0.0007944073721004,0.0,0.0335621129043123,0.0,0
+Organisation sub-class,Project Browser country ID,0.0,0.0,0.0,0.0,0.6587545787545788,1.0,0.0,0.0,0.0243088655862726,0.0,0.0287891590155841,0.0,0
+Organisation sub-class,CountryRegion ID,0.0,0.0,0.0,0.0,0.656043956043956,1.0,0.0,0.0,0.0225611693676517,0.0,0.0328922246392276,0.0,0
+Organisation sub-class,Sector ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0195424213536701,0.0,0.0281658006076993,0.0,0
+Organisation sub-class,Sector name,0.0,0.0,0.0,0.0,0.7257142857142858,1.0,0.0,0.0,0.0195424213536701,0.0,0.03009087371251,0.0,0
+Organisation sub-class,Sector percent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0293930727677152,0.0,0.029193881531523,0.0,0
+Section ID,Fiscal year,0.0,0.0,0.0,0.0,0.6315018315018316,1.0,0.0,0.0,0.0009337068160597,0.0,0.0281073084600515,0.0,0
+Section ID,Trade development (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.003734827264239,0.0,0.0292606717506333,0.0,0
+Section ID,Bilateral aid (international marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0018674136321195,0.0,0.0307363676389358,0.0,0
+Section ID,Organisation sub-class,0.0,0.0,0.0,0.0,0.6976190476190476,1.0,0.0,0.0,0.0224089635854341,0.0,0.0327666205895243,0.0,0
+Section ID,Section ID,0.7379686,1.0,0.9224608,1.0,1.0,1.0,0.9083975431560478,1.0,0.0233426704014939,0.0,0.0590178669775292,0.0,1
+Section ID,Regional program (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0018674136321195,0.0,0.0316850292814159,0.0,0
+Section ID,Children issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.003734827264239,0.0,0.0275137082358047,0.0,0
+Section ID,ICT as a tool for development (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0028011204481792,0.0,0.0271393589111986,0.0,0
+Section ID,Biodiversity (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.003734827264239,0.0,0.0281658006076993,0.0,0
+Section ID,CountryRegion name,0.0,0.0,0.0,0.0,0.8331623931623933,1.0,0.0,0.0,0.1353874883286648,0.0,0.0344712469783557,0.0,0
+Section ID,Amount spent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.2133466135458167,0.0,0.031122347749191,0.0,0
+Section ID,Indigenous issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.003734827264239,0.0,0.0271393589111986,0.0,0
+Section ID,CountryRegion percent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.3753501400560224,0.0,0.0330259305317923,0.0,0
+Section ID,Organisation type,0.0,0.0,0.0,0.0,0.8031746031746032,1.0,0.0,0.0,0.003734827264239,0.0,0.0349763214639355,0.0,0
+Section ID,Status,0.0,0.0,0.0,0.0,0.5282051282051283,1.0,0.0,0.0,0.0028011204481792,0.0,0.0303801436451602,0.0,0
+Section ID,FSTC percent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0457516339869281,0.0,0.0345935869409933,0.0,0
+Section ID,Urban issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.003734827264239,0.0,0.0257023405360976,0.0,0
+Section ID,Continent ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0046685340802987,0.0,0.0416028555437082,0.0,0
+Section ID,Enviromental sustainability (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0028011204481792,0.0,0.0290762097645955,0.0,0
+Section ID,Branch ID,0.0,0.0,0.0,0.0,0.9555555555555556,1.0,0.0,0.0,0.0046685340802987,0.0,0.0369115542297356,0.0,0
+Section ID,CIDA business delivery model (old),0.0,0.0,0.0,0.0,0.7474189675870349,1.0,0.0,0.0,0.0028011204481792,0.0,0.0277767142513084,0.0,0
+Section ID,Programming process (new),0.0,0.0,0.0,0.0,0.6466666666666666,1.0,0.0,0.0,0.0009337068160597,0.0,0.0273800012008168,0.0,0
+Section ID,Youth issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.003734827264239,0.0,0.0281658006076993,0.0,0
+Section ID,Desertification (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.003734827264239,0.0,0.0364980920263519,0.0,0
+Section ID,IRTC percent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0028011204481792,0.0,0.031122347749191,0.0,0
+Section ID,Participatory development and good governance,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.003734827264239,0.0,0.027717898776499,0.0,0
+Section ID,Disability issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.003734827264239,0.0,0.0271393589111986,0.0,0
+Section ID,Knowledge for development (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.003734827264239,0.0,0.027717898776499,0.0,0
+Section ID,Gender equality (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.003734827264239,0.0,0.0275137082358047,0.0,0
+Section ID,Organisation ID,0.0,0.0,0.0,0.0,0.9333333333333332,1.0,0.0,0.0,0.3165266106442577,0.0,0.042217069289206,0.0,0
+Section ID,Organisation name,0.0,0.0,0.0,0.0,0.7476190476190476,1.0,0.0,0.0,0.3165266106442577,0.0,0.0349763214639355,0.0,0
+Section ID,Organisation class,0.0,0.0,0.0,0.0,0.8501831501831503,1.0,0.0,0.0,0.0056022408963585,0.0,0.0344712469783557,0.0,0
+Section ID,Continent name,0.0,0.0,0.0,0.0,0.5931818181818183,1.0,0.0,0.0,0.0046685340802987,0.0,0.0335621129043123,0.0,0
+Section ID,Project Browser country ID,0.0,0.0,0.0,0.0,0.8755656108597287,1.0,0.0,0.0,0.1428571428571428,0.0,0.0378047385831818,0.0,0
+Section ID,CountryRegion ID,0.0,0.0,0.0,0.0,0.9487179487179488,1.0,0.0,0.0,0.1325863678804855,0.0,0.0413946526191483,0.0,0
+Section ID,Sector ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.1148459383753501,0.0,0.0529300571169578,0.0,0
+Section ID,Sector name,0.0,0.0,0.0,0.0,0.7058479532163744,1.0,0.0,0.0,0.1148459383753501,0.0,0.0426534536447469,0.0,0
+Section ID,Sector percent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.172735760971055,0.0,0.0398004457286968,0.0,0
+Regional program (marker),Fiscal year,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.5,0.0,0.033506969715654,0.0,0
+Regional program (marker),Trade development (marker),0.0,0.0,0.0,0.0,0.8038095238095238,1.0,1.0,0.0,0.5,0.0,0.0403368131381589,0.0,0
+Regional program (marker),Bilateral aid (international marker),0.0,0.0,0.0,0.0,0.7443609022556392,1.0,1.0,1.0,1.0,0.0,0.0396494832306853,0.0,0
+Regional program (marker),Organisation sub-class,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0833333333333333,0.0,0.0305281048772988,0.0,0
+Regional program (marker),Section ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.08,0.0,0.0316887015675671,0.0,0
+Regional program (marker),Regional program (marker),0.90227336,1.0,0.93734175,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0590542793684654,0.0,1
+Regional program (marker),Children issues (marker),0.0,0.0,0.0,0.0,0.6555555555555556,1.0,1.0,0.0,0.5,0.0,0.039572834924677,0.0,0
+Regional program (marker),ICT as a tool for development (marker),0.0,0.0,0.0,0.0,0.7393866637564117,1.0,1.0,0.0,0.6666666666666666,0.0,0.0390533297395093,0.0,0
+Regional program (marker),Biodiversity (marker),0.0,0.0,0.0,0.0,0.6755555555555556,1.0,1.0,1.0,0.5,0.0,0.0407925427507229,0.0,0
+Regional program (marker),CountryRegion name,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0137931034482758,0.0,0.0385389211022201,0.0,0
+Regional program (marker),Amount spent,0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0003984063745019,0.0,0.0310328186075244,0.0,0
+Regional program (marker),Indigenous issues (marker),0.0,0.0,0.0,0.0,0.6888888888888889,1.0,1.0,1.0,0.5,0.0,0.0388394158397344,0.0,0
+Regional program (marker),CountryRegion percent,0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0049751243781094,0.0,0.0373144970509739,0.0,0
+Regional program (marker),Organisation type,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.5,0.0,0.033506969715654,0.0,0
+Regional program (marker),Status,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.6666666666666666,0.0,0.0232425527506472,0.0,0
+Regional program (marker),FSTC percent,0.0,0.0,0.0,0.0,0.05,1.0,1.0,0.0,0.0408163265306122,0.0,0.0289688385475338,0.0,0
+Regional program (marker),Urban issues (marker),0.0,0.0,0.0,0.0,0.6888888888888889,1.0,1.0,0.0,0.5,0.0,0.0391323848763826,0.0,0
+Regional program (marker),Continent ID,0.0,0.0,0.0,0.0,0.6282352941176472,1.0,1.0,0.0,0.4,0.0,0.0270625884386117,0.0,0
+Regional program (marker),Enviromental sustainability (marker),0.0,0.0,0.0,0.0,0.7418181818181819,1.0,1.0,1.0,0.6666666666666666,0.0,0.040901405562155,0.0,0
+Regional program (marker),Branch ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.4,0.0,0.0275173805219559,0.0,0
+Regional program (marker),CIDA business delivery model (old),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.6666666666666666,0.0,0.0311339756918795,0.0,0
+Regional program (marker),Programming process (new),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.5,0.0,0.0375798903673687,0.0,0
+Regional program (marker),Youth issues (marker),0.0,0.0,0.0,0.0,0.6562962962962964,1.0,1.0,0.0,0.5,0.0,0.0391323848763826,0.0,0
+Regional program (marker),Desertification (marker),0.0,0.0,0.0,0.0,0.6888888888888889,1.0,1.0,0.0,0.5,0.0,0.0411313504801801,0.0,0
+Regional program (marker),IRTC percent,0.0,0.0,0.0,0.0,0.05,1.0,1.0,1.0,0.6666666666666666,0.0,0.0310328186075244,0.0,0
+Regional program (marker),Participatory development and good governance,0.0,0.0,0.0,0.0,0.7333333333333336,1.0,1.0,1.0,0.5,0.0,0.0317802571471616,0.0,0
+Regional program (marker),Disability issues (marker),0.0,0.0,0.0,0.0,0.6185185185185185,1.0,1.0,0.0,0.5,0.0,0.0403368131381589,0.0,0
+Regional program (marker),Knowledge for development (marker),0.0,0.0,0.0,0.0,0.7939393939393942,1.0,1.0,0.0,0.5,0.0,0.0402860539077038,0.0,0
+Regional program (marker),Gender equality (marker),0.0,0.0,0.0,0.0,0.6484330484330485,1.0,1.0,1.0,0.5,0.0,0.0411313504801801,0.0,0
+Regional program (marker),Organisation ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0058997050147492,0.0,0.0303250004565019,0.0,0
+Regional program (marker),Organisation name,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0058997050147492,0.0,0.0353252378637409,0.0,0
+Regional program (marker),Organisation class,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.3333333333333333,0.0,0.0314349897329503,0.0,0
+Regional program (marker),Continent name,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.4,0.0,0.0325279022512995,0.0,0
+Regional program (marker),Project Browser country ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0130718954248366,0.0,0.0312608737680172,0.0,0
+Regional program (marker),CountryRegion ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0140845070422535,0.0,0.0338174057409371,0.0,0
+Regional program (marker),Sector ID,0.0,0.0,0.0,0.0,0.6485036119711043,1.0,0.0,0.0,0.016260162601626,0.0,0.0298550320491872,0.0,0
+Regional program (marker),Sector name,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.016260162601626,0.0,0.033506969715654,0.0,0
+Regional program (marker),Sector percent,0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0108108108108108,0.0,0.0324617278798255,0.0,0
+Children issues (marker),Fiscal year,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.25,0.0,0.0338706233452714,0.0,0
+Children issues (marker),Trade development (marker),0.0,0.0,0.0,0.0,0.6389972600498917,1.0,0.9673849737914968,1.0,1.0,0.0,0.0407261364357493,0.0,0
+Children issues (marker),Bilateral aid (international marker),0.0,0.0,0.0,0.0,0.6151536978427734,1.0,0.6663034719699512,0.0,0.5,0.0,0.0386896761098919,0.0,0
+Children issues (marker),Organisation sub-class,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.1666666666666666,0.0,0.0324001977994272,0.0,0
+Children issues (marker),Section ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.16,0.0,0.0275173805219559,0.0,0
+Children issues (marker),Regional program (marker),0.0,0.0,0.0,0.0,0.6555555555555556,1.0,1.0,0.0,0.5,0.0,0.039572834924677,0.0,0
+Children issues (marker),Children issues (marker),0.9493972,1.0,0.9367465,1.0,1.0,1.0,0.9954623287671232,0.0,1.0,0.0,0.0590542793684654,0.0,1
+Children issues (marker),ICT as a tool for development (marker),0.0,0.0,0.0,0.0,0.6623202047350654,1.0,0.9709935139047408,0.0,0.75,0.0,0.0381148687598515,0.0,0
+Children issues (marker),Biodiversity (marker),0.0,0.0,0.0,0.0,0.6746666666666667,1.0,0.949146960103877,1.0,1.0,0.0,0.0446293520603092,0.0,0
+Children issues (marker),CountryRegion name,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0275862068965517,0.0,0.033506969715654,0.0,0
+Children issues (marker),Amount spent,0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0007968127490039,0.0,0.0291981696653105,0.0,0
+Children issues (marker),Indigenous issues (marker),0.0,0.0,0.0,0.0,0.8518518518518519,1.0,0.9400814888108306,1.0,1.0,0.0,0.0498902079021073,0.0,0
+Children issues (marker),CountryRegion percent,0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0099502487562189,0.0,0.0342893204799539,0.0,0
+Children issues (marker),Organisation type,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,1.0,0.0,0.0319547895892383,0.0,0
+Children issues (marker),Status,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.75,0.0,0.0258702434936889,0.0,0
+Children issues (marker),FSTC percent,0.0,0.0,0.0,0.0,0.05,1.0,0.6861731302413057,0.0,0.0816326530612244,0.0,0.0313194825047453,0.0,0
+Children issues (marker),Urban issues (marker),0.0,0.0,0.0,0.0,0.8153846153846154,1.0,0.950613685902932,1.0,1.0,0.0,0.0514175531465004,0.0,0
+Children issues (marker),Continent ID,0.0,0.0,0.0,0.0,0.5465322128851542,1.0,0.9427093468249336,0.0,0.8,0.0,0.0314772124558138,0.0,0
+Children issues (marker),Enviromental sustainability (marker),0.0,0.0,0.0,0.0,0.6618181818181819,1.0,0.9109208684844392,1.0,0.75,0.0,0.0425080392208744,0.0,0
+Children issues (marker),Branch ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.8,0.0,0.0277215710626501,0.0,0
+Children issues (marker),CIDA business delivery model (old),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.75,0.0,0.0339458620272612,0.0,0
+Children issues (marker),Programming process (new),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.25,0.0,0.0348057326785732,0.0,0
+Children issues (marker),Youth issues (marker),0.0,0.0,0.0,0.0,0.8425396825396825,1.0,0.9552369250829392,0.0,1.0,0.0,0.0497205028749526,0.0,0
+Children issues (marker),Desertification (marker),0.0,0.0,0.0,0.0,0.6495238095238096,1.0,0.9441006161002216,0.0,1.0,0.0,0.0399624638135528,0.0,0
+Children issues (marker),IRTC percent,0.0,0.0,0.0,0.0,0.05,1.0,1.0,1.0,0.75,0.0,0.0313194825047453,0.0,0
+Children issues (marker),Participatory development and good governance,0.0,0.0,0.0,0.0,0.5643476823927952,1.0,0.7935856259150981,0.0,1.0,0.0,0.0297248235884546,0.0,0
+Children issues (marker),Disability issues (marker),0.0,0.0,0.0,0.0,0.8047619047619048,1.0,0.957348703170029,0.0,1.0,0.0,0.0483628626577143,0.0,0
+Children issues (marker),Knowledge for development (marker),0.0,0.0,0.0,0.0,0.6508195072900955,1.0,0.999237007564812,0.0,1.0,0.0,0.039304125346142,0.0,0
+Children issues (marker),Gender equality (marker),0.0,0.0,0.0,0.0,0.6124542124542125,1.0,0.7569782215778558,0.0,1.0,0.0,0.0415534484431288,0.0,0
+Children issues (marker),Organisation ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0117994100294985,0.0,0.0305697673225905,0.0,0
+Children issues (marker),Organisation name,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0117994100294985,0.0,0.0338174057409371,0.0,0
+Children issues (marker),Organisation class,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.6666666666666666,0.0,0.0316887015675671,0.0,0
+Children issues (marker),Continent name,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.8,0.0,0.0348467462458233,0.0,0
+Children issues (marker),Project Browser country ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0261437908496732,0.0,0.0314705093897966,0.0,0
+Children issues (marker),CountryRegion ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.028169014084507,0.0,0.0303250004565019,0.0,0
+Children issues (marker),Sector ID,0.0,0.0,0.0,0.0,0.5880100250626566,1.0,0.0,0.0,0.032520325203252,0.0,0.0254989671810431,0.0,0
+Children issues (marker),Sector name,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.032520325203252,0.0,0.0295067797898628,0.0,0
+Children issues (marker),Sector percent,0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0216216216216216,0.0,0.0307612422838414,0.0,0
+ICT as a tool for development (marker),Fiscal year,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.25,0.0,0.0316887015675671,0.0,0
+ICT as a tool for development (marker),Trade development (marker),0.0,0.0,0.0,0.0,0.865546218487395,1.0,1.0,0.0,1.0,0.0,0.048315133118827,0.0,0
+ICT as a tool for development (marker),Bilateral aid (international marker),0.0,0.0,0.0,0.0,0.7375910364145659,1.0,1.0,1.0,0.5,0.0,0.0373824887385646,0.0,0
+ICT as a tool for development (marker),Organisation sub-class,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.1666666666666666,0.0,0.0309613943083323,0.0,0
+ICT as a tool for development (marker),Section ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.16,0.0,0.0271430311973498,0.0,0
+ICT as a tool for development (marker),Regional program (marker),0.0,0.0,0.0,0.0,0.7393866637564117,1.0,1.0,0.0,0.5,0.0,0.0390533297395093,0.0,0
+ICT as a tool for development (marker),Children issues (marker),0.0,0.0,0.0,0.0,0.6623202047350654,1.0,1.0,0.0,1.0,0.0,0.0381148687598515,0.0,0
+ICT as a tool for development (marker),ICT as a tool for development (marker),0.9540952,1.0,0.94286895,1.0,1.0,1.0,0.9975975975975976,0.0,0.75,0.0,0.0590542793684654,0.0,1
+ICT as a tool for development (marker),Biodiversity (marker),0.0,0.0,0.0,0.0,0.720623428858723,1.0,1.0,1.0,1.0,0.0,0.0389916935310996,0.0,0
+ICT as a tool for development (marker),CountryRegion name,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0275862068965517,0.0,0.0330524026786323,0.0,0
+ICT as a tool for development (marker),Amount spent,0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0007968127490039,0.0,0.0298769897739297,0.0,0
+ICT as a tool for development (marker),Indigenous issues (marker),0.0,0.0,0.0,0.0,0.6588830403956455,1.0,1.0,1.0,1.0,0.0,0.0375759868691887,0.0,0
+ICT as a tool for development (marker),CountryRegion percent,0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0099502487562189,0.0,0.0323621616970098,0.0,0
+ICT as a tool for development (marker),Organisation type,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,1.0,0.0,0.0318870580928129,0.0,0
+ICT as a tool for development (marker),Status,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.75,0.0,0.0242503318708478,0.0,0
+ICT as a tool for development (marker),FSTC percent,0.0,0.0,0.0,0.0,0.05,1.0,1.0,0.0,0.0816326530612244,0.0,0.0298769897739297,0.0,0
+ICT as a tool for development (marker),Urban issues (marker),0.0,0.0,0.0,0.0,0.6588830403956455,1.0,1.0,0.0,1.0,0.0,0.0364029727778911,0.0,0
+ICT as a tool for development (marker),Continent ID,0.0,0.0,0.0,0.0,0.6320448179271709,1.0,1.0,0.0,0.8,0.0,0.0300347197249982,0.0,0
+ICT as a tool for development (marker),Enviromental sustainability (marker),0.0,0.0,0.0,0.0,0.7494385580319085,1.0,1.0,1.0,0.75,0.0,0.0363504987085693,0.0,0
+ICT as a tool for development (marker),Branch ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.8,0.0,0.0256535987781722,0.0,0
+ICT as a tool for development (marker),CIDA business delivery model (old),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.75,0.0,0.0345676261353714,0.0,0
+ICT as a tool for development (marker),Programming process (new),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.25,0.0,0.0316887015675671,0.0,0
+ICT as a tool for development (marker),Youth issues (marker),0.0,0.0,0.0,0.0,0.7231774761186527,1.0,1.0,0.0,1.0,0.0,0.0364029727778911,0.0,0
+ICT as a tool for development (marker),Desertification (marker),0.0,0.0,0.0,0.0,0.7809150326797387,1.0,1.0,0.0,1.0,0.0,0.0381148687598515,0.0,0
+ICT as a tool for development (marker),IRTC percent,0.0,0.0,0.0,0.0,0.05,1.0,1.0,0.0,0.75,0.0,0.0314043350183227,0.0,0
+ICT as a tool for development (marker),Participatory development and good governance,0.0,0.0,0.0,0.0,0.7427513227513229,1.0,1.0,1.0,1.0,0.0,0.0401924856877083,0.0,0
+ICT as a tool for development (marker),Disability issues (marker),0.0,0.0,0.0,0.0,0.7177045177045178,1.0,0.9766074503380788,0.0,1.0,0.0,0.0375759868691887,0.0,0
+ICT as a tool for development (marker),Knowledge for development (marker),0.0,0.0,0.0,0.0,0.8043775085791893,1.0,1.0,0.0,1.0,0.0,0.0495083715910091,0.0,0
+ICT as a tool for development (marker),Gender equality (marker),0.0,0.0,0.0,0.0,0.753886449684769,1.0,1.0,1.0,1.0,0.0,0.0381148687598515,0.0,0
+ICT as a tool for development (marker),Organisation ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0117994100294985,0.0,0.0308653348589994,0.0,0
+ICT as a tool for development (marker),Organisation name,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0117994100294985,0.0,0.0332755537695338,0.0,0
+ICT as a tool for development (marker),Organisation class,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.6666666666666666,0.0,0.0316887015675671,0.0,0
+ICT as a tool for development (marker),Continent name,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.8,0.0,0.0325279022512995,0.0,0
+ICT as a tool for development (marker),Project Browser country ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0261437908496732,0.0,0.0315182389286839,0.0,0
+ICT as a tool for development (marker),CountryRegion ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.028169014084507,0.0,0.0306785525964077,0.0,0
+ICT as a tool for development (marker),Sector ID,0.0,0.0,0.0,0.0,0.7094828574704737,1.0,0.0,0.0,0.032520325203252,0.0,0.0273699897241423,0.0,0
+ICT as a tool for development (marker),Sector name,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.032520325203252,0.0,0.0316887015675671,0.0,0
+ICT as a tool for development (marker),Sector percent,0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0216216216216216,0.0,0.0324617278798255,0.0,0
+Biodiversity (marker),Fiscal year,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.25,0.0,0.032711477400866,0.0,0
+Biodiversity (marker),Trade development (marker),0.0,0.0,0.0,0.0,0.7036500754147814,1.0,0.9332209647644274,1.0,1.0,0.0,0.0419935080215222,0.0,0
+Biodiversity (marker),Bilateral aid (international marker),0.0,0.0,0.0,0.0,0.6573420479302833,1.0,1.0,1.0,0.5,0.0,0.0409672962111797,0.0,0
+Biodiversity (marker),Organisation sub-class,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.1666666666666666,0.0,0.0296590068906328,0.0,0
+Biodiversity (marker),Section ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.16,0.0,0.0281694728938504,0.0,0
+Biodiversity (marker),Regional program (marker),0.0,0.0,0.0,0.0,0.6755555555555556,1.0,1.0,0.0,0.5,0.0,0.0407925427507229,0.0,0
+Biodiversity (marker),Children issues (marker),0.0,0.0,0.0,0.0,0.6746666666666667,1.0,0.9593234323432344,0.0,1.0,0.0,0.0446293520603092,0.0,0
+Biodiversity (marker),ICT as a tool for development (marker),0.0,0.0,0.0,0.0,0.720623428858723,1.0,0.9798308941262396,0.0,0.75,0.0,0.0389916935310996,0.0,0
+Biodiversity (marker),Biodiversity (marker),0.94689006,1.0,0.93473756,1.0,1.0,1.0,0.9965715265278132,1.0,1.0,0.0,0.0590542793684654,0.0,1
+Biodiversity (marker),CountryRegion name,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0275862068965517,0.0,0.0325279022512995,0.0,0
+Biodiversity (marker),Amount spent,0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0007968127490039,0.0,0.0299695561523777,0.0,0
+Biodiversity (marker),Indigenous issues (marker),0.0,0.0,0.0,0.0,0.6622222222222223,1.0,0.9939093454149126,1.0,1.0,0.0,0.0436183433878977,0.0,0
+Biodiversity (marker),CountryRegion percent,0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0099502487562189,0.0,0.0316225271960931,0.0,0
+Biodiversity (marker),Organisation type,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,1.0,0.0,0.0328370814505693,0.0,0
+Biodiversity (marker),Status,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.75,0.0,0.0264359269175382,0.0,0
+Biodiversity (marker),FSTC percent,0.0,0.0,0.0,0.0,0.05,1.0,0.6568616584960012,0.0,0.0816326530612244,0.0,0.0276553966911762,0.0,0
+Biodiversity (marker),Urban issues (marker),0.0,0.0,0.0,0.0,0.6622222222222223,1.0,0.9953771081243044,1.0,1.0,0.0,0.0426898660356831,0.0,0
+Biodiversity (marker),Continent ID,0.0,0.0,0.0,0.0,0.5301587301587302,1.0,0.9427093468249336,0.0,0.8,0.0,0.0324414455646478,0.0,0
+Biodiversity (marker),Enviromental sustainability (marker),0.0,0.0,0.0,0.0,0.7013333333333334,1.0,0.8708792370938753,1.0,0.75,0.0,0.042307072741349,0.0,0
+Biodiversity (marker),Branch ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.8,0.0,0.0284158189010106,0.0,0
+Biodiversity (marker),CIDA business delivery model (old),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.75,0.0,0.0360525451229757,0.0,0
+Biodiversity (marker),Programming process (new),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.25,0.0,0.0340603556737674,0.0,0
+Biodiversity (marker),Youth issues (marker),0.0,0.0,0.0,0.0,0.7186666666666668,1.0,0.9277848707309287,0.0,1.0,0.0,0.04450813418377,0.0,0
+Biodiversity (marker),Desertification (marker),0.0,0.0,0.0,0.0,0.7166666666666666,1.0,0.9990262065015038,0.0,1.0,0.0,0.0429323017887614,0.0,0
+Biodiversity (marker),IRTC percent,0.0,0.0,0.0,0.0,0.05,1.0,1.0,1.0,0.75,0.0,0.0276553966911762,0.0,0
+Biodiversity (marker),Participatory development and good governance,0.0,0.0,0.0,0.0,0.628945868945869,1.0,0.7630220573287883,0.0,1.0,0.0,0.0324414455646478,0.0,0
+Biodiversity (marker),Disability issues (marker),0.0,0.0,0.0,0.0,0.6746666666666667,1.0,0.9933361811191798,1.0,1.0,0.0,0.0436183433878977,0.0,0
+Biodiversity (marker),Knowledge for development (marker),0.0,0.0,0.0,0.0,0.714316742081448,1.0,0.9512591834624092,0.0,1.0,0.0,0.040309587732733,0.0,0
+Biodiversity (marker),Gender equality (marker),0.0,0.0,0.0,0.0,0.7364705882352942,1.0,0.735890435750994,0.0,1.0,0.0,0.046326402331857,0.0,0
+Biodiversity (marker),Organisation ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0117994100294985,0.0,0.0292643440367845,0.0,0
+Biodiversity (marker),Organisation name,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0117994100294985,0.0,0.0328370814505693,0.0,0
+Biodiversity (marker),Organisation class,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.6666666666666666,0.0,0.0305697673225905,0.0,0
+Biodiversity (marker),Continent name,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.8,0.0,0.0360525451229757,0.0,0
+Biodiversity (marker),Project Browser country ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0261437908496732,0.0,0.0321529402436744,0.0,0
+Biodiversity (marker),CountryRegion ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.028169014084507,0.0,0.0290350129190078,0.0,0
+Biodiversity (marker),Sector ID,0.0,0.0,0.0,0.0,0.6089340999557719,1.0,0.0,0.0,0.032520325203252,0.0,0.0285073744806051,0.0,0
+Biodiversity (marker),Sector name,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.032520325203252,0.0,0.032711477400866,0.0,0
+Biodiversity (marker),Sector percent,0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0216216216216216,0.0,0.0316225271960931,0.0,0
+CountryRegion name,Fiscal year,0.0,0.0,0.0,0.0,0.6354632034632035,1.0,0.0,0.0,0.0001644466370662,0.0,0.0287342974766332,0.0,0
+CountryRegion name,Trade development (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.000657786548265,0.0,0.0329247575642024,0.0,0
+CountryRegion name,Bilateral aid (international marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0003288932741325,0.0,0.0335032974295028,0.0,0
+CountryRegion name,Organisation sub-class,0.0,0.0,0.0,0.0,0.6911355311355312,1.0,0.0,0.0,0.0039467192895905,0.0,0.0341985067561427,0.0,0
+CountryRegion name,Section ID,0.0,0.0,0.0,0.0,0.8331623931623933,1.0,0.0,0.0,0.0041111659266568,0.0,0.0344712469783557,0.0,0
+CountryRegion name,Regional program (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0003288932741325,0.0,0.0385352488160689,0.0,0
+CountryRegion name,Children issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.000657786548265,0.0,0.0335032974295028,0.0,0
+CountryRegion name,ICT as a tool for development (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0004933399111988,0.0,0.0330487303924811,0.0,0
+CountryRegion name,Biodiversity (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.000657786548265,0.0,0.0325242299651483,0.0,0
+CountryRegion name,CountryRegion name,0.7491504,1.0,0.93231297,1.0,1.0,1.0,0.9284358354603206,1.0,0.0238447623746094,0.0,0.0590178669775292,0.0,1
+CountryRegion name,Amount spent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.8255221180726854,0.0,0.0359820826177142,0.0,0
+CountryRegion name,Indigenous issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.000657786548265,0.0,0.0311891379683013,0.0,0
+CountryRegion name,CountryRegion percent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0661075481006413,0.0,0.050080654104419,0.0,0
+CountryRegion name,Organisation type,0.0,0.0,0.0,0.0,0.767572778099094,1.0,0.0,0.0,0.000657786548265,0.0,0.036107688311634,0.0,0
+CountryRegion name,Status,0.0,0.0,0.0,0.0,0.6457142857142857,1.0,0.0,0.0,0.0004933399111988,0.0,0.0271981743860081,0.0,0
+CountryRegion name,FSTC percent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0080578852162473,0.0,0.0308909318030708,0.0,0
+CountryRegion name,Urban issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.000657786548265,0.0,0.0305660950364393,0.0,0
+CountryRegion name,Continent ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0008222331853313,0.0,0.0385944482441462,0.0,0
+CountryRegion name,Enviromental sustainability (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0004933399111988,0.0,0.0335032974295028,0.0,0
+CountryRegion name,Branch ID,0.0,0.0,0.0,0.0,0.739607843137255,1.0,0.0,0.0,0.0008222331853313,0.0,0.0293194872254428,0.0,0
+CountryRegion name,CIDA business delivery model (old),0.0,0.0,0.0,0.0,0.6998385670057496,1.0,0.0,0.0,0.0004933399111988,0.0,0.0325830454399578,0.0,0
+CountryRegion name,Programming process (new),0.0,0.0,0.0,0.0,0.6888888888888889,1.0,0.0,0.0,0.0001644466370662,0.0,0.033266115763926,0.0,0
+CountryRegion name,Youth issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.000657786548265,0.0,0.0344823648938573,0.0,0
+CountryRegion name,Desertification (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.000657786548265,0.0,0.0335032974295028,0.0,0
+CountryRegion name,IRTC percent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0004933399111988,0.0,0.0308909318030708,0.0,0
+CountryRegion name,Participatory development and good governance,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.000657786548265,0.0,0.0328972080468072,0.0,0
+CountryRegion name,Disability issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.000657786548265,0.0,0.0311891379683013,0.0,0
+CountryRegion name,Knowledge for development (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.000657786548265,0.0,0.0325242299651483,0.0,0
+CountryRegion name,Gender equality (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.000657786548265,0.0,0.0335032974295028,0.0,0
+CountryRegion name,Organisation ID,0.0,0.0,0.0,0.0,0.8005372405372406,1.0,0.0,0.0,0.0557474099654662,0.0,0.0347191926349131,0.0,0
+CountryRegion name,Organisation name,0.0,0.0,0.0,0.0,0.8646153846153846,1.0,0.0,0.0,0.0557474099654662,0.0,0.0426534536447469,0.0,0
+CountryRegion name,Organisation class,0.0,0.0,0.0,0.0,0.7994432234432236,1.0,0.0,0.0,0.0009866798223976,0.0,0.035683425743747,0.0,0
+CountryRegion name,Continent name,0.0,0.0,0.0,0.0,0.7745454545454546,1.0,0.0,0.0,0.0008222331853313,0.0,0.0470854822557088,0.0,0
+CountryRegion name,Project Browser country ID,0.0,0.0,0.0,0.0,0.8346897546897547,1.0,0.0,0.0,0.0251603354711396,0.0,0.0329835730390119,0.0,0
+CountryRegion name,CountryRegion ID,0.0,0.0,0.0,0.0,0.8997821350762527,1.0,0.0,0.0,0.0233514224634106,0.0,0.0522795791346188,0.0,0
+CountryRegion name,Sector ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0202269363591514,0.0,0.0292606717506333,0.0,0
+CountryRegion name,Sector name,0.0,0.0,0.0,0.0,0.8990769230769231,1.0,0.0,0.0,0.0202269363591514,0.0,0.0392677129552057,0.0,0
+CountryRegion name,Sector percent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0304226278572603,0.0,0.0302545379512404,0.0,0
+Amount spent,Fiscal year,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,8.600670852326481e-05,0.0,0.027358410096796,0.0,0
+Amount spent,Trade development (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.000344026834093,0.0,0.0307693812819113,0.0,0
+Amount spent,Bilateral aid (international marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0001720134170465,0.0,0.0286759804535218,0.0,0
+Amount spent,Organisation sub-class,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0020641610045583,0.0,0.0297021623899822,0.0,0
+Amount spent,Section ID,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0021501677130816,0.0,0.031131496174842,0.0,0
+Amount spent,Regional program (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0001720134170465,0.0,0.0310409576055943,0.0,0
+Amount spent,Children issues (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.000344026834093,0.0,0.0292063086633805,0.0,0
+Amount spent,ICT as a tool for development (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0002580201255697,0.0,0.0298851287719996,0.0,0
+Amount spent,Biodiversity (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.000344026834093,0.0,0.0299776951504477,0.0,0
+Amount spent,CountryRegion name,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0124709727358733,0.0,0.0359912310433652,0.0,0
+Amount spent,Amount spent,0.7404531,1.0,0.9255664,1.0,1.0,1.0,0.0,0.0,0.4317536767867894,0.0,0.0590465078365822,0.0,1
+Amount spent,Indigenous issues (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.000344026834093,0.0,0.0307693812819113,0.0,0
+Amount spent,CountryRegion percent,0.0,0.0,0.0,0.0,0.6285714285714287,1.0,0.0,0.0,0.0345746968263524,0.0,0.0416903118775706,0.0,0
+Amount spent,Organisation type,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.000344026834093,0.0,0.0338845479476507,0.0,0
+Amount spent,Status,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0002580201255697,0.0,0.0292030299571741,0.0,0
+Amount spent,FSTC percent,0.0,0.0,0.0,0.0,0.5492063492063493,1.0,0.0,0.0,0.0042143287176399,0.0,0.0367727230225174,0.0,0
+Amount spent,Urban issues (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.000344026834093,0.0,0.0299776951504477,0.0,0
+Amount spent,Continent ID,0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0004300335426163,0.0,0.0398128728605542,0.0,0
+Amount spent,Enviromental sustainability (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0002580201255697,0.0,0.0318579497126739,0.0,0
+Amount spent,Branch ID,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0004300335426163,0.0,0.0279908511917828,0.0,0
+Amount spent,CIDA business delivery model (old),0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0002580201255697,0.0,0.0290185679711362,0.0,0
+Amount spent,Programming process (new),0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,8.600670852326481e-05,0.0,0.0331016589593784,0.0,0
+Amount spent,Youth issues (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.000344026834093,0.0,0.0346060140728507,0.0,0
+Amount spent,Desertification (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.000344026834093,0.0,0.0292063086633805,0.0,0
+Amount spent,IRTC percent,0.0,0.0,0.0,0.0,0.4603174603174603,1.0,0.0,0.0,0.0002580201255697,0.0,0.0367727230225174,0.0,0
+Amount spent,Participatory development and good governance,0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.000344026834093,0.0,0.0287597164866574,0.0,0
+Amount spent,Disability issues (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.000344026834093,0.0,0.0287597164866574,0.0,0
+Amount spent,Knowledge for development (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.000344026834093,0.0,0.0306820045516829,0.0,0
+Amount spent,Gender equality (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.000344026834093,0.0,0.0292063086633805,0.0,0
+Amount spent,Organisation ID,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0291562741893867,0.0,0.0292030299571741,0.0,0
+Amount spent,Organisation name,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0291562741893867,0.0,0.0312511940780076,0.0,0
+Amount spent,Organisation class,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0005160402511395,0.0,0.0309000802287218,0.0,0
+Amount spent,Continent name,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0004300335426163,0.0,0.038340992957816,0.0,0
+Amount spent,Project Browser country ID,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0131590264040595,0.0,0.0347854321662128,0.0,0
+Amount spent,CountryRegion ID,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0122129526103036,0.0,0.0370821919322174,0.0,0
+Amount spent,Sector ID,0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0105788251483615,0.0,0.0279941298979892,0.0,0
+Amount spent,Sector name,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0105788251483615,0.0,0.0306787258454765,0.0,0
+Amount spent,Sector percent,0.0,0.0,0.0,0.0,0.6157142857142857,1.0,0.0,0.0,0.0159112410768039,0.0,0.0384860910851377,0.0,0
+Indigenous issues (marker),Fiscal year,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.25,0.0,0.0331629730389889,0.0,0
+Indigenous issues (marker),Trade development (marker),0.0,0.0,0.0,0.0,0.6857808857808858,1.0,0.9335206744279406,0.0,1.0,0.0,0.0399624638135528,0.0,0
+Indigenous issues (marker),Bilateral aid (international marker),0.0,0.0,0.0,0.0,0.6761904761904761,1.0,1.0,1.0,0.5,0.0,0.0368831387240507,0.0,0
+Indigenous issues (marker),Organisation sub-class,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.1666666666666666,0.0,0.0319159850860779,0.0,0
+Indigenous issues (marker),Section ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.16,0.0,0.0271430311973498,0.0,0
+Indigenous issues (marker),Regional program (marker),0.0,0.0,0.0,0.0,0.6888888888888889,1.0,1.0,0.0,0.5,0.0,0.0388394158397344,0.0,0
+Indigenous issues (marker),Children issues (marker),0.0,0.0,0.0,0.0,0.8518518518518519,1.0,0.9596401452624628,0.0,1.0,0.0,0.0498902079021073,0.0,0
+Indigenous issues (marker),ICT as a tool for development (marker),0.0,0.0,0.0,0.0,0.6588830403956455,1.0,0.980271477952955,0.0,0.75,0.0,0.0375759868691887,0.0,0
+Indigenous issues (marker),Biodiversity (marker),0.0,0.0,0.0,0.0,0.6622222222222223,1.0,0.9969133156134786,1.0,1.0,0.0,0.0436183433878977,0.0,0
+Indigenous issues (marker),CountryRegion name,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0275862068965517,0.0,0.0311928102544525,0.0,0
+Indigenous issues (marker),Amount spent,0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0007968127490039,0.0,0.0307612422838414,0.0,0
+Indigenous issues (marker),Indigenous issues (marker),0.9499238,1.0,0.9379048,1.0,1.0,1.0,0.9933998333938526,1.0,1.0,0.0,0.0590542793684654,0.0,1
+Indigenous issues (marker),CountryRegion percent,0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0099502487562189,0.0,0.0320867658722004,0.0,0
+Indigenous issues (marker),Organisation type,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,1.0,0.0,0.0314349897329503,0.0,0
+Indigenous issues (marker),Status,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.75,0.0,0.0255520465677737,0.0,0
+Indigenous issues (marker),FSTC percent,0.0,0.0,0.0,0.0,0.05,1.0,0.6655440940672747,0.0,0.0816326530612244,0.0,0.0287515774885874,0.0,0
+Indigenous issues (marker),Urban issues (marker),0.0,0.0,0.0,0.0,0.8666666666666667,1.0,0.9957180782735292,1.0,1.0,0.0,0.0484928494870244,0.0,0
+Indigenous issues (marker),Continent ID,0.0,0.0,0.0,0.0,0.5512380952380953,1.0,0.9427093468249336,0.0,0.8,0.0,0.0309189722349099,0.0,0
+Indigenous issues (marker),Enviromental sustainability (marker),0.0,0.0,0.0,0.0,0.6521212121212121,1.0,0.8710614889670398,1.0,0.75,0.0,0.041810058867254,0.0,0
+Indigenous issues (marker),Branch ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.8,0.0,0.0251429362344542,0.0,0
+Indigenous issues (marker),CIDA business delivery model (old),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.75,0.0,0.0347797574193148,0.0,0
+Indigenous issues (marker),Programming process (new),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.25,0.0,0.0342556683648663,0.0,0
+Indigenous issues (marker),Youth issues (marker),0.0,0.0,0.0,0.0,0.8544444444444446,1.0,0.9280810983397192,0.0,1.0,0.0,0.0501176848533999,0.0,0
+Indigenous issues (marker),Desertification (marker),0.0,0.0,0.0,0.0,0.6393650793650794,1.0,0.998568606681744,0.0,1.0,0.0,0.0391987911913562,0.0,0
+Indigenous issues (marker),IRTC percent,0.0,0.0,0.0,0.0,0.05,1.0,1.0,1.0,0.75,0.0,0.0307612422838414,0.0,0
+Indigenous issues (marker),Participatory development and good governance,0.0,0.0,0.0,0.0,0.6098901098901099,1.0,1.0,1.0,1.0,0.0,0.0294754101988824,0.0,0
+Indigenous issues (marker),Disability issues (marker),0.0,0.0,0.0,0.0,0.8166666666666667,1.0,0.992996840037578,0.0,1.0,0.0,0.0473054697962115,0.0,0
+Indigenous issues (marker),Knowledge for development (marker),0.0,0.0,0.0,0.0,0.6418559218559219,1.0,1.0,0.0,1.0,0.0,0.0412352515172136,0.0,0
+Indigenous issues (marker),Gender equality (marker),0.0,0.0,0.0,0.0,0.603988603988604,1.0,0.7359880268979118,0.0,1.0,0.0,0.0422534816801423,0.0,0
+Indigenous issues (marker),Organisation ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0117994100294985,0.0,0.0300921734375395,0.0,0
+Indigenous issues (marker),Organisation name,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0117994100294985,0.0,0.0332109725752678,0.0,0
+Indigenous issues (marker),Organisation class,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.6666666666666666,0.0,0.0311928102544525,0.0,0
+Indigenous issues (marker),Continent name,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.8,0.0,0.0341433635674844,0.0,0
+Indigenous issues (marker),Project Browser country ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0261437908496732,0.0,0.029590699858236,0.0,0
+Indigenous issues (marker),CountryRegion ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.028169014084507,0.0,0.0280521652713932,0.0,0
+Indigenous issues (marker),Sector ID,0.0,0.0,0.0,0.0,0.5640100250626566,1.0,0.0,0.0,0.032520325203252,0.0,0.027416413591753,0.0,0
+Indigenous issues (marker),Sector name,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.032520325203252,0.0,0.0310989929789983,0.0,0
+Indigenous issues (marker),Sector percent,0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0216216216216216,0.0,0.0321680076405192,0.0,0
+CountryRegion percent,Fiscal year,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,8.600670852326481e-05,0.0,0.0302636863768914,0.0,0
+CountryRegion percent,Trade development (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.000344026834093,0.0,0.0320949048702703,0.0,0
+CountryRegion percent,Bilateral aid (international marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0001720134170465,0.0,0.0327790460771653,0.0,0
+CountryRegion percent,Organisation sub-class,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0020641610045583,0.0,0.0331496584956573,0.0,0
+CountryRegion percent,Section ID,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0021501677130816,0.0,0.0330350789574433,0.0,0
+CountryRegion percent,Regional program (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0001720134170465,0.0,0.0373226360490438,0.0,0
+CountryRegion percent,Children issues (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.000344026834093,0.0,0.0342974594780239,0.0,0
+CountryRegion percent,ICT as a tool for development (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0002580201255697,0.0,0.0323703006950798,0.0,0
+CountryRegion percent,Biodiversity (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.000344026834093,0.0,0.0316306661941631,0.0,0
+CountryRegion percent,CountryRegion name,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0124709727358733,0.0,0.05008980253007,0.0,0
+CountryRegion percent,Amount spent,0.0,0.0,0.0,0.0,0.6285714285714287,1.0,0.0,0.0,0.4317536767867894,0.0,0.0416903118775706,0.0,0
+CountryRegion percent,Indigenous issues (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.000344026834093,0.0,0.0320949048702703,0.0,0
+CountryRegion percent,CountryRegion percent,0.74779004,1.0,0.93473756,1.0,1.0,1.0,0.0,0.0,0.0345746968263524,0.0,0.0590465078365822,0.0,1
+CountryRegion percent,Organisation type,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.000344026834093,0.0,0.0367950969614668,0.0,0
+CountryRegion percent,Status,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0002580201255697,0.0,0.0263746128379277,0.0,0
+CountryRegion percent,FSTC percent,0.0,0.0,0.0,0.0,0.6475524475524475,1.0,0.0,0.0,0.0042143287176399,0.0,0.0416903118775706,0.0,0
+CountryRegion percent,Urban issues (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.000344026834093,0.0,0.0316306661941631,0.0,0
+CountryRegion percent,Continent ID,0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0004300335426163,0.0,0.0415484924564553,0.0,0
+CountryRegion percent,Enviromental sustainability (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0002580201255697,0.0,0.031439269546996,0.0,0
+CountryRegion percent,Branch ID,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0004300335426163,0.0,0.0283545048214001,0.0,0
+CountryRegion percent,CIDA business delivery model (old),0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0002580201255697,0.0,0.0318257440132025,0.0,0
+CountryRegion percent,Programming process (new),0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,8.600670852326481e-05,0.0,0.0373193573428374,0.0,0
+CountryRegion percent,Youth issues (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.000344026834093,0.0,0.03344893434225,0.0,0
+CountryRegion percent,Desertification (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.000344026834093,0.0,0.0326004092064761,0.0,0
+CountryRegion percent,IRTC percent,0.0,0.0,0.0,0.0,0.6766433566433567,1.0,0.0,0.0,0.0002580201255697,0.0,0.0416903118775706,0.0,0
+CountryRegion percent,Participatory development and good governance,0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.000344026834093,0.0,0.03344893434225,0.0,0
+CountryRegion percent,Disability issues (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.000344026834093,0.0,0.0304700695038948,0.0,0
+CountryRegion percent,Knowledge for development (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.000344026834093,0.0,0.0332175183961298,0.0,0
+CountryRegion percent,Gender equality (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.000344026834093,0.0,0.0326004092064761,0.0,0
+CountryRegion percent,Organisation ID,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0291562741893867,0.0,0.0334456556360435,0.0,0
+CountryRegion percent,Organisation name,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0291562741893867,0.0,0.0347854321662128,0.0,0
+CountryRegion percent,Organisation class,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0005160402511395,0.0,0.034424723100398,0.0,0
+CountryRegion percent,Continent name,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0004300335426163,0.0,0.0403550745987738,0.0,0
+CountryRegion percent,Project Browser country ID,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0131590264040595,0.0,0.035341296896815,0.0,0
+CountryRegion percent,CountryRegion ID,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0122129526103036,0.0,0.0496134994393029,0.0,0
+CountryRegion percent,Sector ID,0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0105788251483615,0.0,0.0283577835276066,0.0,0
+CountryRegion percent,Sector name,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0105788251483615,0.0,0.0302636863768914,0.0,0
+CountryRegion percent,Sector percent,0.0,0.0,0.0,0.0,0.8990769230769231,1.0,0.0,0.0,0.0159112410768039,0.0,0.0426820945037999,0.0,0
+Organisation type,Fiscal year,0.0,0.0,0.0,0.0,0.6480519480519482,1.0,0.0,0.0,8.751969193068441e-05,0.0,0.0371986492004861,0.0,0
+Organisation type,Trade development (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0003500787677227,0.0,0.0314313174467991,0.0,0
+Organisation type,Bilateral aid (international marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0001750393838613,0.0,0.0351843377928285,0.0,0
+Organisation type,Organisation sub-class,0.0,0.0,0.0,0.0,0.7471861471861472,1.0,0.0,0.0,0.0021004726063364,0.0,0.0462899899409207,0.0,0
+Organisation type,Section ID,0.0,0.0,0.0,0.0,0.8031746031746032,1.0,0.0,0.0,0.0021879922982671,0.0,0.0349763214639355,0.0,0
+Organisation type,Regional program (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0001750393838613,0.0,0.0335032974295028,0.0,0
+Organisation type,Children issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0003500787677227,0.0,0.0319511173030871,0.0,0
+Organisation type,ICT as a tool for development (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.000262559075792,0.0,0.0318833858066617,0.0,0
+Organisation type,Biodiversity (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0003500787677227,0.0,0.0328334091644181,0.0,0
+Organisation type,CountryRegion name,0.0,0.0,0.0,0.0,0.767572778099094,1.0,0.0,0.0,0.0126903553299492,0.0,0.036107688311634,0.0,0
+Organisation type,Amount spent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.4393488534920357,0.0,0.0338753995219997,0.0,0
+Organisation type,Indigenous issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0003500787677227,0.0,0.0314313174467991,0.0,0
+Organisation type,CountryRegion percent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0351829161561351,0.0,0.0367859485358158,0.0,0
+Organisation type,Organisation type,0.74511147,1.0,0.93138933,1.0,1.0,1.0,0.0,0.0,0.0003500787677227,0.0,0.0590178669775292,0.0,1
+Organisation type,Status,0.0,0.0,0.0,0.0,0.5636363636363637,1.0,0.0,0.0,0.000262559075792,0.0,0.0274748673650648,0.0,0
+Organisation type,FSTC percent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0042884649046035,0.0,0.0286086917827135,0.0,0
+Organisation type,Urban issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0003500787677227,0.0,0.0348430739596721,0.0,0
+Organisation type,Continent ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0004375984596534,0.0,0.03394218974111,0.0,0
+Organisation type,Enviromental sustainability (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.000262559075792,0.0,0.033743446052835,0.0,0
+Organisation type,Branch ID,0.0,0.0,0.0,0.0,0.7333333333333334,1.0,0.0,0.0,0.0004375984596534,0.0,0.0325830454399578,0.0,0
+Organisation type,CIDA business delivery model (old),0.0,0.0,0.0,0.0,0.7708634222919939,1.0,0.0,0.0,0.000262559075792,0.0,0.029818619658251,0.0,0
+Organisation type,Programming process (new),0.0,0.0,0.0,0.0,0.7253333333333334,1.0,0.0,0.0,8.751969193068441e-05,0.0,0.0353803810523992,0.0,0
+Organisation type,Youth issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0003500787677227,0.0,0.0288140795739102,0.0,0
+Organisation type,Desertification (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0003500787677227,0.0,0.0375389657581835,0.0,0
+Organisation type,IRTC percent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.000262559075792,0.0,0.0286086917827135,0.0,0
+Organisation type,Participatory development and good governance,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0003500787677227,0.0,0.0306292606793009,0.0,0
+Organisation type,Disability issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0003500787677227,0.0,0.0332073002891166,0.0,0
+Organisation type,Knowledge for development (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0003500787677227,0.0,0.028262406885017,0.0,0
+Organisation type,Gender equality (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0003500787677227,0.0,0.0319511173030871,0.0,0
+Organisation type,Organisation ID,0.0,0.0,0.0,0.0,0.8233766233766235,1.0,0.0,0.0,0.029669175564502,0.0,0.0518584361444369,0.0,0
+Organisation type,Organisation name,0.0,0.0,0.0,0.0,0.8786967418546368,1.0,0.0,0.0,0.029669175564502,0.0,0.0522795791346188,0.0,0
+Organisation type,Organisation class,0.0,0.0,0.0,0.0,0.9333333333333332,1.0,0.0,0.0,0.0005251181515841,0.0,0.0491992189778598,0.0,0
+Organisation type,Continent name,0.0,0.0,0.0,0.0,0.7233853865432813,1.0,0.0,0.0,0.0004375984596534,0.0,0.0356149962973137,0.0,0
+Organisation type,Project Browser country ID,0.0,0.0,0.0,0.0,0.7651873272925904,1.0,0.0,0.0,0.0133905128653947,0.0,0.0314901329216086,0.0,0
+Organisation type,CountryRegion ID,0.0,0.0,0.0,0.0,0.7301616031027796,1.0,0.0,0.0,0.0124277962541571,0.0,0.0347191926349131,0.0,0
+Organisation type,Sector ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0107649221074741,0.0,0.0295870275720848,0.0,0
+Organisation type,Sector name,0.0,0.0,0.0,0.0,0.8057142857142858,1.0,0.0,0.0,0.0107649221074741,0.0,0.0317438447562254,0.0,0
+Organisation type,Sector percent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0161911430071766,0.0,0.0330259305317923,0.0,0
+Status,Fiscal year,0.0,0.0,0.0,0.0,0.4606060606060606,1.0,0.0,0.0,0.0004098360655737,0.0,0.0253264277629774,0.0,0
+Status,Trade development (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.001639344262295,0.0,0.0255483742816225,0.0,0
+Status,Bilateral aid (international marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0008196721311475,0.0,0.0262302248371551,0.0,0
+Status,Organisation sub-class,0.0,0.0,0.0,0.0,0.5733333333333333,1.0,0.0,0.0,0.0098360655737704,0.0,0.0317438447562254,0.0,0
+Status,Section ID,0.0,0.0,0.0,0.0,0.5282051282051283,1.0,0.0,0.0,0.0102459016393442,0.0,0.0303801436451602,0.0,0
+Status,Regional program (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0008196721311475,0.0,0.023238880464496,0.0,0
+Status,Children issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.001639344262295,0.0,0.0258665712075377,0.0,0
+Status,ICT as a tool for development (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0012295081967213,0.0,0.0242466595846967,0.0,0
+Status,Biodiversity (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.001639344262295,0.0,0.026432254631387,0.0,0
+Status,CountryRegion name,0.0,0.0,0.0,0.0,0.6457142857142857,1.0,0.0,0.0,0.0594262295081967,0.0,0.0271981743860081,0.0,0
+Status,Amount spent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.4860557768924303,0.0,0.029193881531523,0.0,0
+Status,Indigenous issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.001639344262295,0.0,0.0255483742816225,0.0,0
+Status,CountryRegion percent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.1647540983606557,0.0,0.0263654644122767,0.0,0
+Status,Organisation type,0.0,0.0,0.0,0.0,0.5636363636363637,1.0,0.0,0.0,0.001639344262295,0.0,0.0274748673650648,0.0,0
+Status,Status,0.73124593,1.0,0.91405743,1.0,1.0,1.0,0.0,0.0,0.0012295081967213,0.0,0.0590178669775292,0.0,1
+Status,FSTC percent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0200819672131147,0.0,0.029193881531523,0.0,0
+Status,Urban issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.001639344262295,0.0,0.0292606717506333,0.0,0
+Status,Continent ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0020491803278688,0.0,0.0292606717506333,0.0,0
+Status,Enviromental sustainability (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0012295081967213,0.0,0.028048492985242,0.0,0
+Status,Branch ID,0.0,0.0,0.0,0.0,0.5487179487179488,1.0,0.0,0.0,0.0020491803278688,0.0,0.0259253866823472,0.0,0
+Status,CIDA business delivery model (old),0.0,0.0,0.0,0.0,0.5232323232323233,1.0,0.0,0.0,0.0012295081967213,0.0,0.0246525989786864,0.0,0
+Status,Programming process (new),0.0,0.0,0.0,0.0,0.4671428571428572,1.0,0.0,0.0,0.0004098360655737,0.0,0.0257611560109071,0.0,0
+Status,Youth issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.001639344262295,0.0,0.0292606717506333,0.0,0
+Status,Desertification (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.001639344262295,0.0,0.0284121466148594,0.0,0
+Status,IRTC percent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0012295081967213,0.0,0.0249512558526536,0.0,0
+Status,Participatory development and good governance,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.001639344262295,0.0,0.0252676122881679,0.0,0
+Status,Disability issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.001639344262295,0.0,0.0303213281703507,0.0,0
+Status,Knowledge for development (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.001639344262295,0.0,0.0245937835038769,0.0,0
+Status,Gender equality (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.001639344262295,0.0,0.0258665712075377,0.0,0
+Status,Organisation ID,0.0,0.0,0.0,0.0,0.5487179487179488,1.0,0.0,0.0,0.1389344262295082,0.0,0.0281073084600515,0.0,0
+Status,Organisation name,0.0,0.0,0.0,0.0,0.7142857142857144,1.0,0.0,0.0,0.1389344262295082,0.0,0.0274748673650648,0.0,0
+Status,Organisation class,0.0,0.0,0.0,0.0,0.6242424242424243,1.0,0.0,0.0,0.0024590163934426,0.0,0.0303801436451602,0.0,0
+Status,Continent name,0.0,0.0,0.0,0.0,0.6476190476190476,1.0,0.0,0.0,0.0020491803278688,0.0,0.0284709620896689,0.0,0
+Status,Project Browser country ID,0.0,0.0,0.0,0.0,0.4664615384615385,1.0,0.0,0.0,0.0627049180327868,0.0,0.025607189756432,0.0,0
+Status,CountryRegion ID,0.0,0.0,0.0,0.0,0.5015384615384615,1.0,0.0,0.0,0.0581967213114754,0.0,0.0243054750595061,0.0,0
+Status,Sector ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0504098360655737,0.0,0.0309577220221811,0.0,0
+Status,Sector name,0.0,0.0,0.0,0.0,0.7142857142857144,1.0,0.0,0.0,0.0504098360655737,0.0,0.0343108115535246,0.0,0
+Status,Sector percent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0758196721311475,0.0,0.0321637195067317,0.0,0
+FSTC percent,Fiscal year,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,8.600670852326481e-05,0.0,0.0339990415941569,0.0,0
+FSTC percent,Trade development (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.000344026834093,0.0,0.0327790460771653,0.0,0
+FSTC percent,Bilateral aid (international marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0001720134170465,0.0,0.0286759804535218,0.0,0
+FSTC percent,Organisation sub-class,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0020641610045583,0.0,0.0274560664423454,0.0,0
+FSTC percent,Section ID,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0021501677130816,0.0,0.0346027353666443,0.0,0
+FSTC percent,Regional program (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0001720134170465,0.0,0.0289769775456038,0.0,0
+FSTC percent,Children issues (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.000344026834093,0.0,0.0313276215028152,0.0,0
+FSTC percent,ICT as a tool for development (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0002580201255697,0.0,0.0298851287719996,0.0,0
+FSTC percent,Biodiversity (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.000344026834093,0.0,0.0276635356892461,0.0,0
+FSTC percent,CountryRegion name,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0124709727358733,0.0,0.0309000802287218,0.0,0
+FSTC percent,Amount spent,0.0,0.0,0.0,0.0,0.5492063492063493,1.0,0.0,0.0,0.4317536767867894,0.0,0.0367727230225174,0.0,0
+FSTC percent,Indigenous issues (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.000344026834093,0.0,0.0287597164866574,0.0,0
+FSTC percent,CountryRegion percent,0.0,0.0,0.0,0.0,0.6475524475524475,1.0,0.0,0.0,0.0345746968263524,0.0,0.0416903118775706,0.0,0
+FSTC percent,Organisation type,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.000344026834093,0.0,0.0286178402083645,0.0,0
+FSTC percent,Status,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0002580201255697,0.0,0.029203029957174,0.0,0
+FSTC percent,FSTC percent,0.7404531,1.0,0.9255664,1.0,1.0,1.0,0.0,0.0,0.0042143287176399,0.0,0.0590465078365822,0.0,1
+FSTC percent,Urban issues (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.000344026834093,0.0,0.0299776951504477,0.0,0
+FSTC percent,Continent ID,0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0004300335426163,0.0,0.03344893434225,0.0,0
+FSTC percent,Enviromental sustainability (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0002580201255697,0.0,0.0270849958239457,0.0,0
+FSTC percent,Branch ID,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0004300335426163,0.0,0.0279908511917828,0.0,0
+FSTC percent,CIDA business delivery model (old),0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0002580201255697,0.0,0.0290185679711362,0.0,0
+FSTC percent,Programming process (new),0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,8.600670852326481e-05,0.0,0.0331016589593784,0.0,0
+FSTC percent,Youth issues (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.000344026834093,0.0,0.0299776951504477,0.0,0
+FSTC percent,Desertification (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.000344026834093,0.0,0.0292063086633805,0.0,0
+FSTC percent,IRTC percent,0.0,0.0,0.0,0.0,0.8,1.0,0.0,0.0,0.0002580201255697,0.0,0.0526825693182779,0.0,0
+FSTC percent,Participatory development and good governance,0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.000344026834093,0.0,0.0287597164866574,0.0,0
+FSTC percent,Disability issues (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.000344026834093,0.0,0.0287597164866574,0.0,0
+FSTC percent,Knowledge for development (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.000344026834093,0.0,0.0290218466773427,0.0,0
+FSTC percent,Gender equality (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.000344026834093,0.0,0.0292063086633805,0.0,0
+FSTC percent,Organisation ID,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0291562741893867,0.0,0.029203029957174,0.0,0
+FSTC percent,Organisation name,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0291562741893867,0.0,0.0286178402083645,0.0,0
+FSTC percent,Organisation class,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0005160402511395,0.0,0.0283545048214001,0.0,0
+FSTC percent,Continent name,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0004300335426163,0.0,0.032466588171689,0.0,0
+FSTC percent,Project Browser country ID,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0131590264040595,0.0,0.0327757673709589,0.0,0
+FSTC percent,CountryRegion ID,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0122129526103036,0.0,0.0316273874879566,0.0,0
+FSTC percent,Sector ID,0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0105788251483615,0.0,0.0352672024903369,0.0,0
+FSTC percent,Sector name,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0105788251483615,0.0,0.0339990415941569,0.0,0
+FSTC percent,Sector percent,0.0,0.0,0.0,0.0,0.76,1.0,0.0,0.0,0.0159112410768039,0.0,0.0472976982643282,0.0,0
+Urban issues (marker),Fiscal year,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.3333333333333333,0.0,0.032711477400866,0.0,0
+Urban issues (marker),Trade development (marker),0.0,0.0,0.0,0.0,0.6857808857808858,1.0,0.9401253284819082,0.0,0.75,0.0,0.0419935080215222,0.0,0
+Urban issues (marker),Bilateral aid (international marker),0.0,0.0,0.0,0.0,0.6761904761904761,1.0,1.0,1.0,0.6666666666666666,0.0,0.0382877431508411,0.0,0
+Urban issues (marker),Organisation sub-class,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.125,0.0,0.0349869554175852,0.0,0
+Urban issues (marker),Section ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.12,0.0,0.0257060128222488,0.0,0
+Urban issues (marker),Regional program (marker),0.0,0.0,0.0,0.0,0.6888888888888889,1.0,1.0,0.0,0.6666666666666666,0.0,0.0391323848763826,0.0,0
+Urban issues (marker),Children issues (marker),0.0,0.0,0.0,0.0,0.8153846153846154,1.0,0.966620941929584,0.0,0.75,0.0,0.0514175531465004,0.0,0
+Urban issues (marker),ICT as a tool for development (marker),0.0,0.0,0.0,0.0,0.6588830403956455,1.0,0.9900093662191696,0.0,1.0,0.0,0.0364029727778911,0.0,0
+Urban issues (marker),Biodiversity (marker),0.0,0.0,0.0,0.0,0.6622222222222223,1.0,0.9955901870959456,1.0,0.75,0.0,0.0426898660356831,0.0,0
+Urban issues (marker),CountryRegion name,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0206896551724137,0.0,0.0305697673225905,0.0,0
+Urban issues (marker),Amount spent,0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0005976095617529,0.0,0.0299695561523777,0.0,0
+Urban issues (marker),Indigenous issues (marker),0.0,0.0,0.0,0.0,0.8666666666666667,1.0,0.9823835072451524,1.0,0.75,0.0,0.0484928494870244,0.0,0
+Urban issues (marker),CountryRegion percent,0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0074626865671641,0.0,0.0316225271960931,0.0,0
+Urban issues (marker),Organisation type,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.75,0.0,0.0348467462458233,0.0,0
+Urban issues (marker),Status,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,1.0,0.0,0.0292643440367845,0.0,0
+Urban issues (marker),FSTC percent,0.0,0.0,0.0,0.0,0.05,1.0,0.6719864164603351,0.0,0.0612244897959183,0.0,0.0299695561523777,0.0,0
+Urban issues (marker),Urban issues (marker),0.94779,1.0,0.93473756,1.0,1.0,1.0,0.996785117236058,1.0,0.75,0.0,0.0590542793684654,0.0,1
+Urban issues (marker),Continent ID,0.0,0.0,0.0,0.0,0.5512380952380953,1.0,0.9427093468249336,0.0,0.6,0.0,0.0301272861034462,0.0,0
+Urban issues (marker),Enviromental sustainability (marker),0.0,0.0,0.0,0.0,0.6198573975044563,1.0,0.8787473205738822,1.0,1.0,0.0,0.0409672962111797,0.0,0
+Urban issues (marker),Branch ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.6,0.0,0.0309613943083323,0.0,0
+Urban issues (marker),CIDA business delivery model (old),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,1.0,0.0,0.0332755537695338,0.0,0
+Urban issues (marker),Programming process (new),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.3333333333333333,0.0,0.0373806714224479,0.0,0
+Urban issues (marker),Youth issues (marker),0.0,0.0,0.0,0.0,0.8340740740740742,1.0,0.9346087375909328,0.0,0.75,0.0,0.0499629386280308,0.0,0
+Urban issues (marker),Desertification (marker),0.0,0.0,0.0,0.0,0.6393650793650794,1.0,0.98866245287832,0.0,0.75,0.0,0.0412352515172136,0.0,0
+Urban issues (marker),IRTC percent,0.0,0.0,0.0,0.0,0.05,1.0,1.0,1.0,1.0,0.0,0.0299695561523777,0.0,0
+Urban issues (marker),Participatory development and good governance,0.0,0.0,0.0,0.0,0.6098901098901099,1.0,1.0,1.0,0.75,0.0,0.0301272861034462,0.0,0
+Urban issues (marker),Disability issues (marker),0.0,0.0,0.0,0.0,0.7962962962962963,1.0,0.9856313313270886,0.0,0.75,0.0,0.0484928494870244,0.0,0
+Urban issues (marker),Knowledge for development (marker),0.0,0.0,0.0,0.0,0.6418559218559219,1.0,1.0,0.0,0.75,0.0,0.0375325963792911,0.0,0
+Urban issues (marker),Gender equality (marker),0.0,0.0,0.0,0.0,0.603988603988604,1.0,0.7400900168914691,0.0,0.75,0.0,0.0412352515172136,0.0,0
+Urban issues (marker),Organisation ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0088495575221238,0.0,0.033506969715654,0.0,0
+Urban issues (marker),Organisation name,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0088495575221238,0.0,0.0368564110410773,0.0,0
+Urban issues (marker),Organisation class,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.5,0.0,0.0344860371800085,0.0,0
+Urban issues (marker),Continent name,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.6,0.0,0.0338706233452714,0.0,0
+Urban issues (marker),Project Browser country ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0196078431372549,0.0,0.0305281048772988,0.0,0
+Urban issues (marker),CountryRegion ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0211267605633802,0.0,0.0269710328590172,0.0,0
+Urban issues (marker),Sector ID,0.0,0.0,0.0,0.0,0.5640100250626566,1.0,0.0,0.0,0.024390243902439,0.0,0.0259617990732834,0.0,0
+Urban issues (marker),Sector name,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.024390243902439,0.0,0.0303250004565019,0.0,0
+Urban issues (marker),Sector percent,0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0162162162162162,0.0,0.0316225271960931,0.0,0
+Continent ID,Fiscal year,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.2,0.0,0.0274197241764065,0.0,0
+Continent ID,Trade development (marker),0.0,0.0,0.0,0.0,0.6658823529411766,1.0,0.711806299550032,0.0,0.8,0.0,0.0309189722349099,0.0,0
+Continent ID,Bilateral aid (international marker),0.0,0.0,0.0,0.0,0.5771428571428572,1.0,1.0,1.0,0.4,0.0,0.0320075406656725,0.0,0
+Continent ID,Organisation sub-class,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.2083333333333333,0.0,0.0320095724172295,0.0,0
+Continent ID,Section ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.2,0.0,0.0416065278298594,0.0,0
+Continent ID,Regional program (marker),0.0,0.0,0.0,0.0,0.6282352941176472,1.0,1.0,1.0,0.4,0.0,0.0270625884386117,0.0,0
+Continent ID,Children issues (marker),0.0,0.0,0.0,0.0,0.5465322128851542,1.0,0.697334093021861,0.0,0.8,0.0,0.0314772124558138,0.0,0
+Continent ID,ICT as a tool for development (marker),0.0,0.0,0.0,0.0,0.6320448179271709,1.0,0.6193249409634062,0.0,0.6,0.0,0.0300347197249982,0.0,0
+Continent ID,Biodiversity (marker),0.0,0.0,0.0,0.0,0.5301587301587302,1.0,0.6788894403409921,0.0,0.8,0.0,0.0324414455646478,0.0,0
+Continent ID,CountryRegion name,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0344827586206896,0.0,0.0385981205302974,0.0,0
+Continent ID,Amount spent,0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0009960159362549,0.0,0.0398047338624842,0.0,0
+Continent ID,Indigenous issues (marker),0.0,0.0,0.0,0.0,0.5512380952380953,1.0,0.5811320754716981,0.0,0.8,0.0,0.0309189722349099,0.0,0
+Continent ID,CountryRegion percent,0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0124378109452736,0.0,0.0415403534583854,0.0,0
+Continent ID,Organisation type,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.8,0.0,0.0339458620272612,0.0,0
+Continent ID,Status,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.6,0.0,0.0292643440367845,0.0,0
+Continent ID,FSTC percent,0.0,0.0,0.0,0.0,0.05,1.0,0.7220347330777961,0.0,0.1020408163265306,0.0,0.03344079534418,0.0,0
+Continent ID,Urban issues (marker),0.0,0.0,0.0,0.0,0.5512380952380953,1.0,0.9471789106668622,1.0,0.8,0.0,0.0301272861034462,0.0,0
+Continent ID,Continent ID,0.93095315,1.0,0.9255664,1.0,1.0,1.0,0.995019340704481,0.0,1.0,0.0,0.0590542793684654,0.0,1
+Continent ID,Enviromental sustainability (marker),0.0,0.0,0.0,0.0,0.553992673992674,1.0,0.6724048192771085,0.0,0.6,0.0,0.0320075406656725,0.0,0
+Continent ID,Branch ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,1.0,0.0,0.0353252378637409,0.0,0
+Continent ID,CIDA business delivery model (old),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.6,0.0,0.0290798820507467,0.0,0
+Continent ID,Programming process (new),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.2,0.0,0.0310989929789983,0.0,0
+Continent ID,Youth issues (marker),0.0,0.0,0.0,0.0,0.5398095238095239,1.0,0.7150016911109061,1.0,0.8,0.0,0.0324414455646478,0.0,0
+Continent ID,Desertification (marker),0.0,0.0,0.0,0.0,0.5523809523809524,1.0,0.6111646487831374,1.0,0.8,0.0,0.029355899616379,0.0,0
+Continent ID,IRTC percent,0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.6,0.0,0.03344079534418,0.0,0
+Continent ID,Participatory development and good governance,0.0,0.0,0.0,0.0,0.6415686274509804,1.0,0.9471789106668622,0.0,0.8,0.0,0.0289093074396559,0.0,0
+Continent ID,Disability issues (marker),0.0,0.0,0.0,0.0,0.5067936507936508,1.0,0.6742439618429065,0.0,0.8,0.0,0.0289093074396559,0.0,0
+Continent ID,Knowledge for development (marker),0.0,0.0,0.0,0.0,0.6925490196078432,1.0,0.9471789106668622,1.0,0.8,0.0,0.0291714376303412,0.0,0
+Continent ID,Gender equality (marker),0.0,0.0,0.0,0.0,0.516952380952381,1.0,0.8946943172636682,1.0,0.8,0.0,0.029355899616379,0.0,0
+Continent ID,Organisation ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0147492625368731,0.0,0.0405780125137698,0.0,0
+Continent ID,Organisation name,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0147492625368731,0.0,0.0339458620272612,0.0,0
+Continent ID,Organisation class,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.8333333333333334,0.0,0.033506969715654,0.0,0
+Continent ID,Continent name,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,1.0,0.0,0.0501511166096804,0.0,0
+Continent ID,Project Browser country ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0326797385620915,0.0,0.0368564110410773,0.0,0
+Continent ID,CountryRegion ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0352112676056338,0.0,0.045325712678219,0.0,0
+Continent ID,Sector ID,0.0,0.0,0.0,0.0,0.7968253968253969,1.0,0.0,0.0,0.040650406504065,0.0,0.0390533297395093,0.0,0
+Continent ID,Sector name,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.040650406504065,0.0,0.0307400399250869,0.0,0
+Continent ID,Sector percent,0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.027027027027027,0.0,0.0324617278798255,0.0,0
+Enviromental sustainability (marker),Fiscal year,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.3333333333333333,0.0,0.0321529402436744,0.0,0
+Enviromental sustainability (marker),Trade development (marker),0.0,0.0,0.0,0.0,0.744137022397892,1.0,0.9751331404369522,1.0,0.75,0.0,0.0393465987956523,0.0,0
+Enviromental sustainability (marker),Bilateral aid (international marker),0.0,0.0,0.0,0.0,0.7143945578231292,1.0,0.6782557969957708,0.0,0.6666666666666666,0.0,0.0410231202332701,0.0,0
+Enviromental sustainability (marker),Organisation sub-class,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.125,0.0,0.0339458620272612,0.0,0
+Enviromental sustainability (marker),Section ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.12,0.0,0.0290798820507467,0.0,0
+Enviromental sustainability (marker),Regional program (marker),0.0,0.0,0.0,0.0,0.7418181818181819,1.0,1.0,0.0,0.6666666666666666,0.0,0.040901405562155,0.0,0
+Enviromental sustainability (marker),Children issues (marker),0.0,0.0,0.0,0.0,0.6618181818181819,1.0,0.9481753312945974,0.0,0.75,0.0,0.0425080392208744,0.0,0
+Enviromental sustainability (marker),ICT as a tool for development (marker),0.0,0.0,0.0,0.0,0.7494385580319085,1.0,0.901853814928769,0.0,1.0,0.0,0.0363504987085693,0.0,0
+Enviromental sustainability (marker),Biodiversity (marker),0.0,0.0,0.0,0.0,0.7013333333333334,1.0,0.8700761677606509,1.0,0.75,0.0,0.042307072741349,0.0,0
+Enviromental sustainability (marker),CountryRegion name,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0206896551724137,0.0,0.033506969715654,0.0,0
+Enviromental sustainability (marker),Amount spent,0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0005976095617529,0.0,0.031849810714604,0.0,0
+Enviromental sustainability (marker),Indigenous issues (marker),0.0,0.0,0.0,0.0,0.6521212121212121,1.0,0.861508535744439,1.0,0.75,0.0,0.041810058867254,0.0,0
+Enviromental sustainability (marker),CountryRegion percent,0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0074626865671641,0.0,0.0314311305489261,0.0,0
+Enviromental sustainability (marker),Organisation type,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.75,0.0,0.0337471183389862,0.0,0
+Enviromental sustainability (marker),Status,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,1.0,0.0,0.0280521652713932,0.0,0
+Enviromental sustainability (marker),FSTC percent,0.0,0.0,0.0,0.0,0.05,1.0,0.7494475026803957,0.0,0.0612244897959183,0.0,0.0270768568258758,0.0,0
+Enviromental sustainability (marker),Urban issues (marker),0.0,0.0,0.0,0.0,0.6198573975044563,1.0,0.8714628280230209,1.0,0.75,0.0,0.0409672962111797,0.0,0
+Enviromental sustainability (marker),Continent ID,0.0,0.0,0.0,0.0,0.553992673992674,1.0,0.6373228821223997,0.0,0.6,0.0,0.0320075406656725,0.0,0
+Enviromental sustainability (marker),Enviromental sustainability (marker),0.95347404,1.0,0.9422176,1.0,1.0,1.0,0.9794663353200092,1.0,1.0,0.0,0.0590542793684654,0.0,1
+Enviromental sustainability (marker),Branch ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.6,0.0,0.0275672937652367,0.0,0
+Enviromental sustainability (marker),CIDA business delivery model (old),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,1.0,0.0,0.0338706233452714,0.0,0
+Enviromental sustainability (marker),Programming process (new),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.3333333333333333,0.0,0.0345502383252121,0.0,0
+Enviromental sustainability (marker),Youth issues (marker),0.0,0.0,0.0,0.0,0.7158169934640524,1.0,0.9649421607593508,0.0,0.75,0.0,0.0409672962111797,0.0,0
+Enviromental sustainability (marker),Desertification (marker),0.0,0.0,0.0,0.0,0.6789225589225589,1.0,0.8653063171192156,0.0,0.75,0.0,0.0399624638135528,0.0,0
+Enviromental sustainability (marker),IRTC percent,0.0,0.0,0.0,0.0,0.05,1.0,1.0,1.0,1.0,0.0,0.0270768568258758,0.0,0
+Enviromental sustainability (marker),Participatory development and good governance,0.0,0.0,0.0,0.0,0.668307923960098,1.0,0.8308638912198465,0.0,0.75,0.0,0.0331271224420408,0.0,0
+Enviromental sustainability (marker),Disability issues (marker),0.0,0.0,0.0,0.0,0.6496969696969697,1.0,0.90598823391904,0.0,0.75,0.0,0.0430417889030548,0.0,0
+Enviromental sustainability (marker),Knowledge for development (marker),0.0,0.0,0.0,0.0,0.7549114331723028,1.0,0.9189564792219173,0.0,0.75,0.0,0.0383260224802745,0.0,0
+Enviromental sustainability (marker),Gender equality (marker),0.0,0.0,0.0,0.0,0.7616161616161616,1.0,0.7925968846927298,0.0,0.75,0.0,0.0437808269245353,0.0,0
+Enviromental sustainability (marker),Organisation ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0088495575221238,0.0,0.0312608737680172,0.0,0
+Enviromental sustainability (marker),Organisation name,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0088495575221238,0.0,0.0337471183389862,0.0,0
+Enviromental sustainability (marker),Organisation class,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.5,0.0,0.0320927611560308,0.0,0
+Enviromental sustainability (marker),Continent name,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.6,0.0,0.0360525451229757,0.0,0
+Enviromental sustainability (marker),Project Browser country ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0196078431372549,0.0,0.0343281230728545,0.0,0
+Enviromental sustainability (marker),CountryRegion ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0211267605633802,0.0,0.029590699858236,0.0,0
+Enviromental sustainability (marker),Sector ID,0.0,0.0,0.0,0.0,0.5862322472848789,1.0,0.0,0.0,0.024390243902439,0.0,0.0259617990732834,0.0,0
+Enviromental sustainability (marker),Sector name,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.024390243902439,0.0,0.0321529402436744,0.0,0
+Enviromental sustainability (marker),Sector percent,0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0162162162162162,0.0,0.0283496445295366,0.0,0
+Branch ID,Fiscal year,0.0,0.0,0.0,0.0,0.5371428571428571,1.0,0.0,0.0,0.0088495575221238,0.0,0.0284709620896689,0.0,0
+Branch ID,Trade development (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0353982300884955,0.0,0.0295031075037116,0.0,0
+Branch ID,Bilateral aid (international marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0176991150442477,0.0,0.0292606717506333,0.0,0
+Branch ID,Organisation sub-class,0.0,0.0,0.0,0.0,0.6533333333333333,1.0,0.0,0.0,0.2123893805309734,0.0,0.0306880761541104,0.0,0
+Branch ID,Section ID,0.0,0.0,0.0,0.0,0.9555555555555556,1.0,0.0,0.0,0.2212389380530973,0.0,0.0369115542297356,0.0,0
+Branch ID,Regional program (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0176991150442477,0.0,0.0275137082358047,0.0,0
+Branch ID,Children issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0353982300884955,0.0,0.027717898776499,0.0,0
+Branch ID,ICT as a tool for development (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0265486725663716,0.0,0.025649926492021,0.0,0
+Branch ID,Biodiversity (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0353982300884955,0.0,0.0284121466148594,0.0,0
+Branch ID,CountryRegion name,0.0,0.0,0.0,0.0,0.739607843137255,1.0,0.0,0.0,0.7793103448275862,0.0,0.0293194872254428,0.0,0
+Branch ID,Amount spent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0225099601593625,0.0,0.0279817027661318,0.0,0
+Branch ID,Indigenous issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0353982300884955,0.0,0.025139263948303,0.0,0
+Branch ID,CountryRegion percent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.2810945273631841,0.0,0.0283453563957491,0.0,0
+Branch ID,Organisation type,0.0,0.0,0.0,0.0,0.7333333333333334,1.0,0.0,0.0,0.0353982300884955,0.0,0.0325830454399578,0.0,0
+Branch ID,Status,0.0,0.0,0.0,0.0,0.5487179487179488,1.0,0.0,0.0,0.0265486725663716,0.0,0.0259253866823472,0.0,0
+Branch ID,FSTC percent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.4336283185840708,0.0,0.0279817027661318,0.0,0
+Branch ID,Urban issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0353982300884955,0.0,0.0309577220221811,0.0,0
+Branch ID,Continent ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0442477876106194,0.0,0.0353215655775897,0.0,0
+Branch ID,Enviromental sustainability (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0265486725663716,0.0,0.0275636214790855,0.0,0
+Branch ID,Branch ID,0.83754003,1.0,0.92067504,1.0,1.0,1.0,0.0,0.0,0.0442477876106194,0.0,0.0590178669775292,0.0,1
+Branch ID,CIDA business delivery model (old),0.0,0.0,0.0,0.0,0.6721611721611722,1.0,0.0,0.0,0.0265486725663716,0.0,0.0243862015523388,0.0,0
+Branch ID,Programming process (new),0.0,0.0,0.0,0.0,0.6231372549019608,1.0,0.0,0.0,0.0088495575221238,0.0,0.0320647156058878,0.0,0
+Branch ID,Youth issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0353982300884955,0.0,0.0258665712075377,0.0,0
+Branch ID,Desertification (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0353982300884955,0.0,0.0300320582377005,0.0,0
+Branch ID,IRTC percent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0265486725663716,0.0,0.0279817027661318,0.0,0
+Branch ID,Participatory development and good governance,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0353982300884955,0.0,0.026432254631387,0.0,0
+Branch ID,Disability issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0353982300884955,0.0,0.025139263948303,0.0,0
+Branch ID,Knowledge for development (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0353982300884955,0.0,0.0261033689198467,0.0,0
+Branch ID,Gender equality (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0353982300884955,0.0,0.027717898776499,0.0,0
+Branch ID,Organisation ID,0.0,0.0,0.0,0.0,0.8857142857142859,1.0,0.0,0.0,0.3333333333333333,0.0,0.0399260514226165,0.0,0
+Branch ID,Organisation name,0.0,0.0,0.0,0.0,0.6888888888888889,1.0,0.0,0.0,0.3333333333333333,0.0,0.0325830454399578,0.0,0
+Branch ID,Organisation class,0.0,0.0,0.0,0.0,0.7176470588235293,1.0,0.0,0.0,0.0530973451327433,0.0,0.0321479043446891,0.0,0
+Branch ID,Continent name,0.0,0.0,0.0,0.0,0.5384920634920636,1.0,0.0,0.0,0.0442477876106194,0.0,0.0274748673650648,0.0,0
+Branch ID,Project Browser country ID,0.0,0.0,0.0,0.0,0.7904139433551198,1.0,0.0,0.0,0.738562091503268,0.0,0.0339257665339297,0.0,0
+Branch ID,CountryRegion ID,0.0,0.0,0.0,0.0,0.8640522875816994,1.0,0.0,0.0,0.795774647887324,0.0,0.036107688311634,0.0,0
+Branch ID,Sector ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.91869918699187,0.0,0.0377459231083723,0.0,0
+Branch ID,Sector name,0.0,0.0,0.0,0.0,0.6857142857142857,1.0,0.0,0.0,0.91869918699187,0.0,0.0284709620896689,0.0,0
+Branch ID,Sector percent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.6108108108108108,0.0,0.027349261671145,0.0,0
+CIDA business delivery model (old),Fiscal year,0.0,0.0,0.0,0.0,0.6110822510822511,1.0,0.0,0.0,0.0003033060357901,0.0,0.0293194872254428,0.0,0
+CIDA business delivery model (old),Trade development (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0012132241431604,0.0,0.0347760851331637,0.0,0
+CIDA business delivery model (old),Bilateral aid (international marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0006066120715802,0.0,0.032775990170268,0.0,0
+CIDA business delivery model (old),Organisation sub-class,0.0,0.0,0.0,0.0,0.7035072490534675,1.0,0.0,0.0,0.0072793448589626,0.0,0.029016442534095,0.0,0
+CIDA business delivery model (old),Section ID,0.0,0.0,0.0,0.0,0.7474189675870349,1.0,0.0,0.0,0.0075826508947528,0.0,0.0277767142513084,0.0,0
+CIDA business delivery model (old),Regional program (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0006066120715802,0.0,0.0311303034057284,0.0,0
+CIDA business delivery model (old),Children issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0012132241431604,0.0,0.03394218974111,0.0,0
+CIDA business delivery model (old),ICT as a tool for development (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0009099181073703,0.0,0.0345639538492202,0.0,0
+CIDA business delivery model (old),Biodiversity (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0012132241431604,0.0,0.0360488728368245,0.0,0
+CIDA business delivery model (old),CountryRegion name,0.0,0.0,0.0,0.0,0.6998385670057496,1.0,0.0,0.0,0.0439793751895662,0.0,0.0325830454399578,0.0,0
+CIDA business delivery model (old),Amount spent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.6567729083665339,0.0,0.0290094195454852,0.0,0
+CIDA business delivery model (old),Indigenous issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0012132241431604,0.0,0.0347760851331637,0.0,0
+CIDA business delivery model (old),CountryRegion percent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.1219290263876251,0.0,0.0318165955875515,0.0,0
+CIDA business delivery model (old),Organisation type,0.0,0.0,0.0,0.0,0.7708634222919939,1.0,0.0,0.0,0.0012132241431604,0.0,0.029818619658251,0.0,0
+CIDA business delivery model (old),Status,0.0,0.0,0.0,0.0,0.5232323232323233,1.0,0.0,0.0,0.0009099181073703,0.0,0.0246525989786864,0.0,0
+CIDA business delivery model (old),FSTC percent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0148619957537154,0.0,0.0290094195454852,0.0,0
+CIDA business delivery model (old),Urban issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0012132241431604,0.0,0.0332718814833827,0.0,0
+CIDA business delivery model (old),Continent ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0015165301789505,0.0,0.0290762097645955,0.0,0
+CIDA business delivery model (old),Enviromental sustainability (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0009099181073703,0.0,0.0338669510591202,0.0,0
+CIDA business delivery model (old),Branch ID,0.0,0.0,0.0,0.0,0.6721611721611722,1.0,0.0,0.0,0.0015165301789505,0.0,0.0243862015523388,0.0,0
+CIDA business delivery model (old),CIDA business delivery model (old),0.7529037,1.0,0.9411296,1.0,1.0,1.0,0.0,0.0,0.0009099181073703,0.0,0.0590178669775292,0.0,1
+CIDA business delivery model (old),Programming process (new),0.0,0.0,0.0,0.0,0.7215334665334667,1.0,0.0,0.0,0.0003033060357901,0.0,0.0324834792571421,0.0,0
+CIDA business delivery model (old),Youth issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0012132241431604,0.0,0.0332718814833827,0.0,0
+CIDA business delivery model (old),Desertification (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0012132241431604,0.0,0.0326255128062884,0.0,0
+CIDA business delivery model (old),IRTC percent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0009099181073703,0.0,0.0290094195454852,0.0,0
+CIDA business delivery model (old),Participatory development and good governance,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0012132241431604,0.0,0.0314088366513267,0.0,0
+CIDA business delivery model (old),Disability issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0012132241431604,0.0,0.0347760851331637,0.0,0
+CIDA business delivery model (old),Knowledge for development (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0012132241431604,0.0,0.0342519960787151,0.0,0
+CIDA business delivery model (old),Gender equality (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0012132241431604,0.0,0.0352588666759316,0.0,0
+CIDA business delivery model (old),Organisation ID,0.0,0.0,0.0,0.0,0.7803872318158034,1.0,0.0,0.0,0.102820746132848,0.0,0.0286268136452192,0.0,0
+CIDA business delivery model (old),Organisation name,0.0,0.0,0.0,0.0,0.7331537635297034,1.0,0.0,0.0,0.102820746132848,0.0,0.029818619658251,0.0,0
+CIDA business delivery model (old),Organisation class,0.0,0.0,0.0,0.0,0.7746241060526775,1.0,0.0,0.0,0.0018198362147406,0.0,0.0296458430468943,0.0,0
+CIDA business delivery model (old),Continent name,0.0,0.0,0.0,0.0,0.6245304059545547,1.0,0.0,0.0,0.0015165301789505,0.0,0.0319711282747362,0.0,0
+CIDA business delivery model (old),Project Browser country ID,0.0,0.0,0.0,0.0,0.7700807574491786,1.0,0.0,0.0,0.0464058234758871,0.0,0.0297437497933297,0.0,0
+CIDA business delivery model (old),CountryRegion ID,0.0,0.0,0.0,0.0,0.7187079587079588,1.0,0.0,0.0,0.0430694570821959,0.0,0.0315256525784549,0.0,0
+CIDA business delivery model (old),Sector ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0373066424021838,0.0,0.0261033689198467,0.0,0
+CIDA business delivery model (old),Sector name,0.0,0.0,0.0,0.0,0.7129138353906155,1.0,0.0,0.0,0.0373066424021838,0.0,0.0293194872254428,0.0,0
+CIDA business delivery model (old),Sector percent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0561116166211707,0.0,0.0286635533216644,0.0,0
+Programming process (new),Fiscal year,0.0,0.0,0.0,0.0,0.5296969696969698,1.0,0.0,0.0,0.0003380662609871,0.0,0.0293194872254428,0.0,0
+Programming process (new),Trade development (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0013522650439486,0.0,0.0342519960787151,0.0,0
+Programming process (new),Bilateral aid (international marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0006761325219743,0.0,0.0320427213761215,0.0,0
+Programming process (new),Organisation sub-class,0.0,0.0,0.0,0.0,0.6942857142857144,1.0,0.0,0.0,0.0081135902636916,0.0,0.0354577541650838,0.0,0
+Programming process (new),Section ID,0.0,0.0,0.0,0.0,0.6466666666666666,1.0,0.0,0.0,0.0084516565246788,0.0,0.0273800012008168,0.0,0
+Programming process (new),Regional program (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0006761325219743,0.0,0.0375762180812175,0.0,0
+Programming process (new),Children issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0013522650439486,0.0,0.034802060392422,0.0,0
+Programming process (new),ICT as a tool for development (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0010141987829614,0.0,0.0316850292814159,0.0,0
+Programming process (new),Biodiversity (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0013522650439486,0.0,0.0340566833876162,0.0,0
+Programming process (new),CountryRegion name,0.0,0.0,0.0,0.0,0.6888888888888889,1.0,0.0,0.0,0.0490196078431372,0.0,0.033266115763926,0.0,0
+Programming process (new),Amount spent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.5892430278884462,0.0,0.0330925105337274,0.0,0
+Programming process (new),Indigenous issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0013522650439486,0.0,0.0342519960787151,0.0,0
+Programming process (new),CountryRegion percent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.1359026369168357,0.0,0.0373102089171864,0.0,0
+Programming process (new),Organisation type,0.0,0.0,0.0,0.0,0.7253333333333334,1.0,0.0,0.0,0.0013522650439486,0.0,0.0353803810523992,0.0,0
+Programming process (new),Status,0.0,0.0,0.0,0.0,0.4671428571428572,1.0,0.0,0.0,0.0010141987829614,0.0,0.0257611560109071,0.0,0
+Programming process (new),FSTC percent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0165652467883705,0.0,0.0330925105337274,0.0,0
+Programming process (new),Urban issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0013522650439486,0.0,0.0373769991362967,0.0,0
+Programming process (new),Continent ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0016903313049357,0.0,0.0310953206928472,0.0,0
+Programming process (new),Enviromental sustainability (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0010141987829614,0.0,0.0345465660390609,0.0,0
+Programming process (new),Branch ID,0.0,0.0,0.0,0.0,0.6231372549019608,1.0,0.0,0.0,0.0016903313049357,0.0,0.0320647156058878,0.0,0
+Programming process (new),CIDA business delivery model (old),0.0,0.0,0.0,0.0,0.7215334665334667,1.0,0.0,0.0,0.0010141987829614,0.0,0.0324834792571421,0.0,0
+Programming process (new),Programming process (new),0.74889296,1.0,0.9361162,1.0,1.0,1.0,0.0,0.0,0.0003380662609871,0.0,0.0590178669775292,0.0,1
+Programming process (new),Youth issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0013522650439486,0.0,0.0340566833876162,0.0,0
+Programming process (new),Desertification (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0013522650439486,0.0,0.033243544836919,0.0,0
+Programming process (new),IRTC percent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0010141987829614,0.0,0.0330925105337274,0.0,0
+Programming process (new),Participatory development and good governance,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0013522650439486,0.0,0.0338669510591202,0.0,0
+Programming process (new),Disability issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0013522650439486,0.0,0.0342519960787151,0.0,0
+Programming process (new),Knowledge for development (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0013522650439486,0.0,0.0337190241589369,0.0,0
+Programming process (new),Gender equality (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0013522650439486,0.0,0.0316850292814159,0.0,0
+Programming process (new),Organisation ID,0.0,0.0,0.0,0.0,0.7342857142857144,1.0,0.0,0.0,0.114604462474645,0.0,0.0322893252006514,0.0,0
+Programming process (new),Organisation name,0.0,0.0,0.0,0.0,0.7631746031746032,1.0,0.0,0.0,0.114604462474645,0.0,0.0353803810523992,0.0,0
+Programming process (new),Organisation class,0.0,0.0,0.0,0.0,0.768,1.0,0.0,0.0,0.0020283975659229,0.0,0.036818081448561,0.0,0
+Programming process (new),Continent name,0.0,0.0,0.0,0.0,0.6177777777777778,1.0,0.0,0.0,0.0016903313049357,0.0,0.0345411803686668,0.0,0
+Programming process (new),Project Browser country ID,0.0,0.0,0.0,0.0,0.688608776844071,1.0,0.0,0.0,0.0517241379310344,0.0,0.0343108115535246,0.0,0
+Programming process (new),CountryRegion ID,0.0,0.0,0.0,0.0,0.6481481481481481,1.0,0.0,0.0,0.0480054090601757,0.0,0.0301473166261978,0.0,0
+Programming process (new),Sector ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0415821501014198,0.0,0.0275137082358047,0.0,0
+Programming process (new),Sector name,0.0,0.0,0.0,0.0,0.6177777777777778,1.0,0.0,0.0,0.0415821501014198,0.0,0.0314408000648775,0.0,0
+Programming process (new),Sector percent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0625422582826234,0.0,0.036373709603456,0.0,0
+Youth issues (marker),Fiscal year,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.25,0.0,0.032711477400866,0.0,0
+Youth issues (marker),Trade development (marker),0.0,0.0,0.0,0.0,0.7507381507381508,1.0,0.9632974316487158,0.0,1.0,0.0,0.0387438372887711,0.0,0
+Youth issues (marker),Bilateral aid (international marker),0.0,0.0,0.0,0.0,0.6489377289377289,1.0,1.0,1.0,0.5,0.0,0.0369479666206718,0.0,0
+Youth issues (marker),Organisation sub-class,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.1666666666666666,0.0,0.0296590068906328,0.0,0
+Youth issues (marker),Section ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.16,0.0,0.0281694728938504,0.0,0
+Youth issues (marker),Regional program (marker),0.0,0.0,0.0,0.0,0.6562962962962964,1.0,1.0,0.0,0.5,0.0,0.0391323848763826,0.0,0
+Youth issues (marker),Children issues (marker),0.0,0.0,0.0,0.0,0.8425396825396825,1.0,0.9911346006308072,0.0,1.0,0.0,0.0497205028749526,0.0,0
+Youth issues (marker),ICT as a tool for development (marker),0.0,0.0,0.0,0.0,0.7231774761186527,1.0,0.9765390968392172,0.0,0.75,0.0,0.0364029727778911,0.0,0
+Youth issues (marker),Biodiversity (marker),0.0,0.0,0.0,0.0,0.7186666666666668,1.0,0.9708583834335336,1.0,1.0,0.0,0.04450813418377,0.0,0
+Youth issues (marker),CountryRegion name,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0275862068965517,0.0,0.0344860371800085,0.0,0
+Youth issues (marker),Amount spent,0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0007968127490039,0.0,0.0345978750747808,0.0,0
+Youth issues (marker),Indigenous issues (marker),0.0,0.0,0.0,0.0,0.8544444444444446,1.0,0.946689193315285,1.0,1.0,0.0,0.0501176848533999,0.0,0
+Youth issues (marker),CountryRegion percent,0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0099502487562189,0.0,0.03344079534418,0.0,0
+Youth issues (marker),Organisation type,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,1.0,0.0,0.0288177518600614,0.0,0
+Youth issues (marker),Status,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.75,0.0,0.0292643440367845,0.0,0
+Youth issues (marker),FSTC percent,0.0,0.0,0.0,0.0,0.05,1.0,0.687086916831548,0.0,0.0816326530612244,0.0,0.0299695561523777,0.0,0
+Youth issues (marker),Urban issues (marker),0.0,0.0,0.0,0.0,0.8340740740740742,1.0,0.9559301255214432,1.0,1.0,0.0,0.0499629386280308,0.0,0
+Youth issues (marker),Continent ID,0.0,0.0,0.0,0.0,0.5398095238095239,1.0,0.9427093468249336,0.0,0.8,0.0,0.0324414455646478,0.0,0
+Youth issues (marker),Enviromental sustainability (marker),0.0,0.0,0.0,0.0,0.7158169934640524,1.0,0.9060920194102872,1.0,0.75,0.0,0.0409672962111797,0.0,0
+Youth issues (marker),Branch ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.8,0.0,0.0258702434936889,0.0,0
+Youth issues (marker),CIDA business delivery model (old),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.75,0.0,0.0332755537695338,0.0,0
+Youth issues (marker),Programming process (new),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.25,0.0,0.0340603556737674,0.0,0
+Youth issues (marker),Youth issues (marker),0.94659007,1.0,0.93473756,1.0,1.0,1.0,0.9575063822778556,0.0,1.0,0.0,0.0590542793684654,0.0,1
+Youth issues (marker),Desertification (marker),0.0,0.0,0.0,0.0,0.6891428571428572,1.0,0.9564037180225384,0.0,1.0,0.0,0.0395382012456658,0.0,0
+Youth issues (marker),IRTC percent,0.0,0.0,0.0,0.0,0.05,1.0,1.0,1.0,0.75,0.0,0.0299695561523777,0.0,0
+Youth issues (marker),Participatory development and good governance,0.0,0.0,0.0,0.0,0.6279609279609281,1.0,0.7899181559669537,0.0,1.0,0.0,0.0289702063728455,0.0,0
+Youth issues (marker),Disability issues (marker),0.0,0.0,0.0,0.0,0.8711111111111112,1.0,0.9613858111460228,0.0,1.0,0.0,0.0484928494870244,0.0,0
+Youth issues (marker),Knowledge for development (marker),0.0,0.0,0.0,0.0,0.7063247863247863,1.0,0.9934294142080666,0.0,1.0,0.0,0.0375325963792911,0.0,0
+Youth issues (marker),Gender equality (marker),0.0,0.0,0.0,0.0,0.7428571428571429,1.0,0.7544722358926498,0.0,1.0,0.0,0.0395382012456658,0.0,0
+Youth issues (marker),Organisation ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0117994100294985,0.0,0.0271430311973498,0.0,0
+Youth issues (marker),Organisation name,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0117994100294985,0.0,0.0308274166553154,0.0,0
+Youth issues (marker),Organisation class,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.6666666666666666,0.0,0.0286116323938815,0.0,0
+Youth issues (marker),Continent name,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.8,0.0,0.0360525451229757,0.0,0
+Youth issues (marker),Project Browser country ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0261437908496732,0.0,0.0321529402436744,0.0,0
+Youth issues (marker),CountryRegion ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.028169014084507,0.0,0.0310989929789983,0.0,0
+Youth issues (marker),Sector ID,0.0,0.0,0.0,0.0,0.6112827523353839,1.0,0.0,0.0,0.032520325203252,0.0,0.0259617990732834,0.0,0
+Youth issues (marker),Sector name,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.032520325203252,0.0,0.0303250004565019,0.0,0
+Youth issues (marker),Sector percent,0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0216216216216216,0.0,0.0316225271960931,0.0,0
+Desertification (marker),Fiscal year,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.25,0.0,0.0338706233452714,0.0,0
+Desertification (marker),Trade development (marker),0.0,0.0,0.0,0.0,0.7684705882352942,1.0,0.9331389361113536,1.0,1.0,0.0,0.0407261364357493,0.0,0
+Desertification (marker),Bilateral aid (international marker),0.0,0.0,0.0,0.0,0.6173219373219374,1.0,0.6518543602880765,0.0,0.5,0.0,0.0425080392208744,0.0,0
+Desertification (marker),Organisation sub-class,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.1666666666666666,0.0,0.0357205135481076,0.0,0
+Desertification (marker),Section ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.16,0.0,0.036501764312503,0.0,0
+Desertification (marker),Regional program (marker),0.0,0.0,0.0,0.0,0.6888888888888889,1.0,1.0,0.0,0.5,0.0,0.0411313504801801,0.0,0
+Desertification (marker),Children issues (marker),0.0,0.0,0.0,0.0,0.6495238095238096,1.0,0.9687207414780256,0.0,1.0,0.0,0.0399624638135528,0.0,0
+Desertification (marker),ICT as a tool for development (marker),0.0,0.0,0.0,0.0,0.7809150326797387,1.0,0.9959044473999782,0.0,0.75,0.0,0.0381148687598515,0.0,0
+Desertification (marker),Biodiversity (marker),0.0,0.0,0.0,0.0,0.7166666666666666,1.0,0.9800940422024742,1.0,1.0,0.0,0.0429323017887614,0.0,0
+Desertification (marker),CountryRegion name,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0275862068965517,0.0,0.033506969715654,0.0,0
+Desertification (marker),Amount spent,0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0007968127490039,0.0,0.0291981696653105,0.0,0
+Desertification (marker),Indigenous issues (marker),0.0,0.0,0.0,0.0,0.6393650793650794,1.0,0.97043078059112,1.0,1.0,0.0,0.0391987911913562,0.0,0
+Desertification (marker),CountryRegion percent,0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0099502487562189,0.0,0.0325922702084061,0.0,0
+Desertification (marker),Organisation type,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,1.0,0.0,0.0375426380443347,0.0,0
+Desertification (marker),Status,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.75,0.0,0.0284158189010106,0.0,0
+Desertification (marker),FSTC percent,0.0,0.0,0.0,0.0,0.05,1.0,0.6724642024635341,0.0,0.0816326530612244,0.0,0.0291981696653105,0.0,0
+Desertification (marker),Urban issues (marker),0.0,0.0,0.0,0.0,0.6393650793650794,1.0,0.98165805171352,1.0,1.0,0.0,0.0412352515172136,0.0,0
+Desertification (marker),Continent ID,0.0,0.0,0.0,0.0,0.5523809523809524,1.0,0.6179488542718911,0.0,0.8,0.0,0.029355899616379,0.0,0
+Desertification (marker),Enviromental sustainability (marker),0.0,0.0,0.0,0.0,0.6789225589225589,1.0,0.884128294560274,1.0,0.75,0.0,0.0399624638135528,0.0,0
+Desertification (marker),Branch ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.8,0.0,0.0300357305238517,0.0,0
+Desertification (marker),CIDA business delivery model (old),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.75,0.0,0.0326291850924396,0.0,0
+Desertification (marker),Programming process (new),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.25,0.0,0.0332472171230701,0.0,0
+Desertification (marker),Youth issues (marker),0.0,0.0,0.0,0.0,0.6891428571428572,1.0,0.925816134169863,0.0,1.0,0.0,0.0395382012456658,0.0,0
+Desertification (marker),Desertification (marker),0.94909716,1.0,0.9367465,1.0,1.0,1.0,0.97471419242073,0.0,1.0,0.0,0.0590542793684654,0.0,1
+Desertification (marker),IRTC percent,0.0,0.0,0.0,0.0,0.05,1.0,0.9547131624675906,1.0,0.75,0.0,0.0291981696653105,0.0,0
+Desertification (marker),Participatory development and good governance,0.0,0.0,0.0,0.0,0.6562962962962963,1.0,0.7731734536860722,0.0,1.0,0.0,0.0341519112533619,0.0,0
+Desertification (marker),Disability issues (marker),0.0,0.0,0.0,0.0,0.6438095238095238,1.0,0.9671070766233848,0.0,1.0,0.0,0.0437808269245353,0.0,0
+Desertification (marker),Knowledge for development (marker),0.0,0.0,0.0,0.0,0.776,1.0,0.9670890438108728,0.0,1.0,0.0,0.039304125346142,0.0,0
+Desertification (marker),Gender equality (marker),0.0,0.0,0.0,0.0,0.6758974358974359,1.0,0.685514630989076,0.0,1.0,0.0,0.0431444330727049,0.0,0
+Desertification (marker),Organisation ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0117994100294985,0.0,0.0364441721087175,0.0,0
+Desertification (marker),Organisation name,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0117994100294985,0.0,0.0394052541960335,0.0,0
+Desertification (marker),Organisation class,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.6666666666666666,0.0,0.0371435060118278,0.0,0
+Desertification (marker),Continent name,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.8,0.0,0.0328370814505693,0.0,0
+Desertification (marker),Project Browser country ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0261437908496732,0.0,0.0329978546341896,0.0,0
+Desertification (marker),CountryRegion ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.028169014084507,0.0,0.0303250004565019,0.0,0
+Desertification (marker),Sector ID,0.0,0.0,0.0,0.0,0.5954887218045113,1.0,0.0,0.0,0.032520325203252,0.0,0.0324414455646478,0.0,0
+Desertification (marker),Sector name,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.032520325203252,0.0,0.0360525451229757,0.0,0
+Desertification (marker),Sector percent,0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0216216216216216,0.0,0.0347805718743493,0.0,0
+IRTC percent,Fiscal year,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,8.600670852326481e-05,0.0,0.0306787258454765,0.0,0
+IRTC percent,Trade development (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.000344026834093,0.0,0.0327790460771653,0.0,0
+IRTC percent,Bilateral aid (international marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0001720134170465,0.0,0.0286759804535218,0.0,0
+IRTC percent,Organisation sub-class,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0020641610045583,0.0,0.0274560664423454,0.0,0
+IRTC percent,Section ID,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0021501677130816,0.0,0.031131496174842,0.0,0
+IRTC percent,Regional program (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0001720134170465,0.0,0.0310409576055943,0.0,0
+IRTC percent,Children issues (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.000344026834093,0.0,0.0313276215028152,0.0,0
+IRTC percent,ICT as a tool for development (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0002580201255697,0.0,0.0314124740163926,0.0,0
+IRTC percent,Biodiversity (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.000344026834093,0.0,0.0276635356892461,0.0,0
+IRTC percent,CountryRegion name,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0124709727358733,0.0,0.0309000802287218,0.0,0
+IRTC percent,Amount spent,0.0,0.0,0.0,0.0,0.4603174603174603,1.0,0.0,0.0,0.4317536767867894,0.0,0.0367727230225174,0.0,0
+IRTC percent,Indigenous issues (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.000344026834093,0.0,0.0307693812819113,0.0,0
+IRTC percent,CountryRegion percent,0.0,0.0,0.0,0.0,0.6766433566433567,1.0,0.0,0.0,0.0345746968263524,0.0,0.0416903118775706,0.0,0
+IRTC percent,Organisation type,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.000344026834093,0.0,0.0286178402083645,0.0,0
+IRTC percent,Status,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0002580201255697,0.0,0.0249604042783046,0.0,0
+IRTC percent,FSTC percent,0.0,0.0,0.0,0.0,0.8,1.0,0.0,0.0,0.0042143287176399,0.0,0.0526825693182779,0.0,0
+IRTC percent,Urban issues (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.000344026834093,0.0,0.0299776951504477,0.0,0
+IRTC percent,Continent ID,0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0004300335426163,0.0,0.03344893434225,0.0,0
+IRTC percent,Enviromental sustainability (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0002580201255697,0.0,0.0270849958239457,0.0,0
+IRTC percent,Branch ID,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0004300335426163,0.0,0.0279908511917828,0.0,0
+IRTC percent,CIDA business delivery model (old),0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0002580201255697,0.0,0.0290185679711362,0.0,0
+IRTC percent,Programming process (new),0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,8.600670852326481e-05,0.0,0.0331016589593784,0.0,0
+IRTC percent,Youth issues (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.000344026834093,0.0,0.0299776951504477,0.0,0
+IRTC percent,Desertification (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.000344026834093,0.0,0.0292063086633805,0.0,0
+IRTC percent,IRTC percent,0.7404531,1.0,0.9255664,1.0,1.0,1.0,0.0,0.0,0.0002580201255697,0.0,0.0590465078365822,0.0,1
+IRTC percent,Participatory development and good governance,0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.000344026834093,0.0,0.0287597164866574,0.0,0
+IRTC percent,Disability issues (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.000344026834093,0.0,0.0287597164866574,0.0,0
+IRTC percent,Knowledge for development (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.000344026834093,0.0,0.0290218466773427,0.0,0
+IRTC percent,Gender equality (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.000344026834093,0.0,0.0292063086633805,0.0,0
+IRTC percent,Organisation ID,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0291562741893867,0.0,0.029203029957174,0.0,0
+IRTC percent,Organisation name,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0291562741893867,0.0,0.0286178402083645,0.0,0
+IRTC percent,Organisation class,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0005160402511395,0.0,0.0283545048214001,0.0,0
+IRTC percent,Continent name,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0004300335426163,0.0,0.032466588171689,0.0,0
+IRTC percent,Project Browser country ID,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0131590264040595,0.0,0.0327757673709589,0.0,0
+IRTC percent,CountryRegion ID,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0122129526103036,0.0,0.0316273874879566,0.0,0
+IRTC percent,Sector ID,0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0105788251483615,0.0,0.0316306661941631,0.0,0
+IRTC percent,Sector name,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0105788251483615,0.0,0.0306787258454765,0.0,0
+IRTC percent,Sector percent,0.0,0.0,0.0,0.0,0.7342657342657344,1.0,0.0,0.0,0.0159112410768039,0.0,0.0443604958712647,0.0,0
+Project number,Fiscal year,0.0,0.0,0.0,0.0,0.6857142857142857,1.0,0.0,0.0,0.000733137829912,0.0,0.0330529978228479,0.0,0
+Project number,Trade development (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.002932551319648,0.0,0.0360488728368245,0.0,0
+Project number,Bilateral aid (international marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.001466275659824,0.0,0.0314668371036455,0.0,0
+Project number,Organisation sub-class,0.0,0.0,0.0,0.0,0.6964102564102564,1.0,0.0,0.0,0.0175953079178885,0.0,0.0314408000648775,0.0,0
+Project number,Section ID,0.0,0.0,0.0,0.0,0.8500000000000001,1.0,0.0,0.0,0.0183284457478005,0.0,0.0335621129043123,0.0,0
+Project number,Regional program (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.001466275659824,0.0,0.0325242299651483,0.0,0
+Project number,Children issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.002932551319648,0.0,0.0348430739596721,0.0,0
+Project number,ICT as a tool for development (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.002199413489736,0.0,0.0325242299651483,0.0,0
+Project number,Biodiversity (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.002932551319648,0.0,0.0360488728368245,0.0,0
+Project number,CountryRegion name,0.0,0.0,0.0,0.0,0.7676190476190476,1.0,0.0,0.0,0.1063049853372434,0.0,0.0351530975338883,0.0,0
+Project number,Amount spent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.2717131474103585,0.0,0.032457439746038,0.0,0
+Project number,Indigenous issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.002932551319648,0.0,0.032230509725842,0.0,0
+Project number,CountryRegion percent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.2947214076246334,0.0,0.0316182390623056,0.0,0
+Project number,Organisation type,0.0,0.0,0.0,0.0,0.8533333333333333,1.0,0.0,0.0,0.002932551319648,0.0,0.0306880761541104,0.0,0
+Project number,Status,0.0,0.0,0.0,0.0,0.5729603729603729,1.0,0.0,0.0,0.002199413489736,0.0,0.0284709620896689,0.0,0
+Project number,FSTC percent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0359237536656891,0.0,0.0295202373529745,0.0,0
+Project number,Urban issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.002932551319648,0.0,0.0338669510591202,0.0,0
+Project number,Continent ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0036656891495601,0.0,0.0325242299651483,0.0,0
+Project number,Enviromental sustainability (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.002199413489736,0.0,0.0345215275924315,0.0,0
+Project number,Branch ID,0.0,0.0,0.0,0.0,0.7750000000000001,1.0,0.0,0.0,0.0036656891495601,0.0,0.0307951831137452,0.0,0
+Project number,CIDA business delivery model (old),0.0,0.0,0.0,0.0,0.7099306708329265,1.0,0.0,0.0,0.002199413489736,0.0,0.0271981743860081,0.0,0
+Project number,Programming process (new),0.0,0.0,0.0,0.0,0.7342745098039216,1.0,0.0,0.0,0.000733137829912,0.0,0.0345411803686668,0.0,0
+Project number,Youth issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.002932551319648,0.0,0.0360488728368245,0.0,0
+Project number,Desertification (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.002932551319648,0.0,0.0348430739596721,0.0,0
+Project number,IRTC percent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.002199413489736,0.0,0.0295202373529745,0.0,0
+Project number,Participatory development and good governance,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.002932551319648,0.0,0.0324246637823326,0.0,0
+Project number,Disability issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.002932551319648,0.0,0.032230509725842,0.0,0
+Project number,Knowledge for development (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.002932551319648,0.0,0.0335032974295028,0.0,0
+Project number,Gender equality (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.002932551319648,0.0,0.0348430739596721,0.0,0
+Project number,Organisation ID,0.0,0.0,0.0,0.0,0.8700000000000001,1.0,0.0,0.0,0.2485337243401759,0.0,0.0287342974766332,0.0,0
+Project number,Organisation name,0.0,0.0,0.0,0.0,0.8628571428571428,1.0,0.0,0.0,0.2485337243401759,0.0,0.0356149962973137,0.0,0
+Project number,Organisation class,0.0,0.0,0.0,0.0,0.8755555555555556,1.0,0.0,0.0,0.0043988269794721,0.0,0.0279936667007961,0.0,0
+Project number,Continent name,0.0,0.0,0.0,0.0,0.7481203007518797,1.0,0.0,0.0,0.0036656891495601,0.0,0.0399260514226165,0.0,0
+Project number,Project Browser country ID,0.4023172,0.0,0.5028965,0.0,0.825925925925926,1.0,0.0,0.0,0.1121700879765395,0.0,0.0399260514226165,0.0,0
+Project number,CountryRegion ID,0.0,0.0,0.0,0.0,0.7733333333333332,1.0,0.0,0.0,0.1041055718475073,0.0,0.0284709620896689,0.0,0
+Project number,Sector ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0901759530791788,0.0,0.0340566833876162,0.0,0
+Project number,Sector name,0.0,0.0,0.0,0.0,0.8025062656641604,1.0,0.0,0.0,0.0901759530791788,0.0,0.042217069289206,0.0,0
+Project number,Sector percent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.1356304985337243,0.0,0.0370730435065664,0.0,0
+Maximum CIDA contribution (project-level),Fiscal year,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0009132420091324,0.0,0.0265921833855621,0.0,0
+Maximum CIDA contribution (project-level),Trade development (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0036529680365296,0.0,0.0321191561443953,0.0,0
+Maximum CIDA contribution (project-level),Bilateral aid (international marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0018264840182648,0.0,0.0346060140728507,0.0,0
+Maximum CIDA contribution (project-level),Organisation sub-class,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.021917808219178,0.0,0.0328395662533479,0.0,0
+Maximum CIDA contribution (project-level),Section ID,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0228310502283105,0.0,0.0297021623899822,0.0,0
+Maximum CIDA contribution (project-level),Regional program (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0018264840182648,0.0,0.0322918546116492,0.0,0
+Maximum CIDA contribution (project-level),Children issues (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0036529680365296,0.0,0.0312949859206701,0.0,0
+Maximum CIDA contribution (project-level),ICT as a tool for development (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0027397260273972,0.0,0.0323211477693859,0.0,0
+Maximum CIDA contribution (project-level),Biodiversity (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0036529680365296,0.0,0.0330383576636497,0.0,0
+Maximum CIDA contribution (project-level),CountryRegion name,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.1324200913242009,0.0,0.0336613823654776,0.0,0
+Maximum CIDA contribution (project-level),Amount spent,0.0,0.0,0.0,0.0,0.6791697191697192,1.0,0.0,0.0,0.2181274900398406,0.0,0.0323900106467041,0.0,0
+Maximum CIDA contribution (project-level),Indigenous issues (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0036529680365296,0.0,0.0321191561443953,0.0,0
+Maximum CIDA contribution (project-level),CountryRegion percent,0.0,0.0,0.0,0.0,0.6011302982731555,1.0,0.0,0.0,0.3671232876712328,0.0,0.0368753671921674,0.0,0
+Maximum CIDA contribution (project-level),Organisation type,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0036529680365296,0.0,0.0338845479476507,0.0,0
+Maximum CIDA contribution (project-level),Status,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0027397260273972,0.0,0.0255922846985617,0.0,0
+Maximum CIDA contribution (project-level),FSTC percent,0.0,0.0,0.0,0.0,0.4647619047619047,1.0,0.0,0.0,0.0447488584474885,0.0,0.0295082271667173,0.0,0
+Maximum CIDA contribution (project-level),Urban issues (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0036529680365296,0.0,0.0318066276278489,0.0,0
+Maximum CIDA contribution (project-level),Continent ID,0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0045662100456621,0.0,0.0322481912255888,0.0,0
+Maximum CIDA contribution (project-level),Enviromental sustainability (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0027397260273972,0.0,0.0336142314466215,0.0,0
+Maximum CIDA contribution (project-level),Branch ID,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0045662100456621,0.0,0.0268271595770071,0.0,0
+Maximum CIDA contribution (project-level),CIDA business delivery model (old),0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0027397260273972,0.0,0.0370094612062939,0.0,0
+Maximum CIDA contribution (project-level),Programming process (new),0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0009132420091324,0.0,0.0357598150972451,0.0,0
+Maximum CIDA contribution (project-level),Youth issues (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0036529680365296,0.0,0.0318066276278489,0.0,0
+Maximum CIDA contribution (project-level),Desertification (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0036529680365296,0.0,0.0348196287923463,0.0,0
+Maximum CIDA contribution (project-level),IRTC percent,0.0,0.0,0.0,0.0,0.4647619047619047,1.0,0.0,0.0,0.0027397260273972,0.0,0.0295082271667173,0.0,0
+Maximum CIDA contribution (project-level),Participatory development and good governance,0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0036529680365296,0.0,0.0313769543595463,0.0,0
+Maximum CIDA contribution (project-level),Disability issues (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0036529680365296,0.0,0.0321191561443953,0.0,0
+Maximum CIDA contribution (project-level),Knowledge for development (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0036529680365296,0.0,0.0309033589349283,0.0,0
+Maximum CIDA contribution (project-level),Gender equality (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0036529680365296,0.0,0.0312949859206701,0.0,0
+Maximum CIDA contribution (project-level),Organisation ID,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.3095890410958904,0.0,0.0316273874879566,0.0,0
+Maximum CIDA contribution (project-level),Organisation name,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.3095890410958904,0.0,0.0325678710128292,0.0,0
+Maximum CIDA contribution (project-level),Organisation class,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0054794520547945,0.0,0.0336613823654776,0.0,0
+Maximum CIDA contribution (project-level),Continent name,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0045662100456621,0.0,0.0332142396899234,0.0,0
+Maximum CIDA contribution (project-level),Project Browser country ID,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.1397260273972602,0.0,0.0298362576704382,0.0,0
+Maximum CIDA contribution (project-level),CountryRegion ID,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.1296803652968036,0.0,0.0327757673709589,0.0,0
+Maximum CIDA contribution (project-level),Sector ID,0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.1123287671232876,0.0,0.0268304382832136,0.0,0
+Maximum CIDA contribution (project-level),Sector name,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.1123287671232876,0.0,0.0280607845820938,0.0,0
+Maximum CIDA contribution (project-level),Sector percent,0.0,0.0,0.0,0.0,0.52,1.0,0.0,0.0,0.1689497716894977,0.0,0.0319708421405242,0.0,0
+Branch name,Fiscal year,0.0,0.0,0.0,0.0,0.6199999999999999,1.0,0.0,0.0,0.1428571428571428,0.0,0.0312479534431107,0.0,0
+Branch name,Trade development (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.5714285714285714,0.0,0.0331593007528377,0.0,0
+Branch name,Bilateral aid (international marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.2857142857142857,0.0,0.0337741033238987,0.0,0
+Branch name,Organisation sub-class,0.0,0.0,0.0,0.0,0.700952380952381,1.0,0.0,0.0,0.2916666666666667,0.0,0.0324050331737115,0.0,0
+Branch name,Section ID,0.0,0.0,0.0,0.0,0.7305555555555556,1.0,0.0,0.0,0.28,0.0,0.0281073084600515,0.0,0
+Branch name,Regional program (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.2857142857142857,0.0,0.0313819845900681,0.0,0
+Branch name,Children issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.5714285714285714,0.0,0.0316850292814159,0.0,0
+Branch name,ICT as a tool for development (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.4285714285714285,0.0,0.0285679981704097,0.0,0
+Branch name,Biodiversity (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.5714285714285714,0.0,0.0327078051147148,0.0,0
+Branch name,CountryRegion name,0.0,0.0,0.0,0.0,0.8258823529411765,1.0,0.0,0.0,0.0482758620689655,0.0,0.0392677129552057,0.0,0
+Branch name,Amount spent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0013944223107569,0.0,0.0306695774198255,0.0,0
+Branch name,Indigenous issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.5714285714285714,0.0,0.0290313406328566,0.0,0
+Branch name,CountryRegion percent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.017412935323383,0.0,0.0302545379512404,0.0,0
+Branch name,Organisation type,0.0,0.0,0.0,0.0,0.7809523809523811,1.0,0.0,0.0,0.5714285714285714,0.0,0.0344712469783557,0.0,0
+Branch name,Status,0.0,0.0,0.0,0.0,0.7142857142857144,1.0,0.0,0.0,0.4285714285714285,0.0,0.0253264277629774,0.0,0
+Branch name,FSTC percent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.1428571428571428,0.0,0.0306695774198255,0.0,0
+Branch name,Urban issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.5714285714285714,0.0,0.0350942820590789,0.0,0
+Branch name,Continent ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.7142857142857143,0.0,0.0307363676389358,0.0,0
+Branch name,Enviromental sustainability (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.4285714285714285,0.0,0.0321492679575232,0.0,0
+Branch name,Branch ID,0.0,0.0,0.0,0.0,0.7638888888888891,1.0,0.0,0.0,0.7142857142857143,0.0,0.0475627776445816,0.0,0
+Branch name,CIDA business delivery model (old),0.0,0.0,0.0,0.0,0.6401592215833702,1.0,0.0,0.0,0.4285714285714285,0.0,0.027622436953895,0.0,0
+Branch name,Programming process (new),0.0,0.0,0.0,0.0,0.6622222222222223,1.0,0.0,0.0,0.1428571428571428,0.0,0.035683425743747,0.0,0
+Branch name,Youth issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.5714285714285714,0.0,0.0303213281703507,0.0,0
+Branch name,Desertification (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.5714285714285714,0.0,0.0338669510591202,0.0,0
+Branch name,IRTC percent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.4285714285714285,0.0,0.0306695774198255,0.0,0
+Branch name,Participatory development and good governance,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.5714285714285714,0.0,0.0303213281703507,0.0,0
+Branch name,Disability issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.5714285714285714,0.0,0.0290313406328566,0.0,0
+Branch name,Knowledge for development (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.5714285714285714,0.0,0.0292606717506333,0.0,0
+Branch name,Gender equality (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.5714285714285714,0.0,0.0316850292814159,0.0,0
+Branch name,Organisation ID,0.0,0.0,0.0,0.0,0.7226190476190477,1.0,0.0,0.0,0.0206489675516224,0.0,0.0325830454399578,0.0,0
+Branch name,Organisation name,0.0,0.0,0.0,0.0,0.8952380952380954,1.0,0.0,0.0,0.0206489675516224,0.0,0.0426534536447469,0.0,0
+Branch name,Organisation class,0.0,0.0,0.0,0.0,0.7652661064425772,1.0,0.0,0.0,0.8571428571428571,0.0,0.0340010052159195,0.0,0
+Branch name,Continent name,0.0,0.0,0.0,0.0,0.788888888888889,1.0,0.0,0.0,0.7142857142857143,0.0,0.03916237880042,0.0,0
+Branch name,Project Browser country ID,0.0,0.0,0.0,0.0,0.6684107327141384,1.0,0.0,0.0,0.0457516339869281,0.0,0.0290901561076661,0.0,0
+Branch name,CountryRegion ID,0.0,0.0,0.0,0.0,0.6411764705882353,1.0,0.0,0.0,0.0492957746478873,0.0,0.0293194872254428,0.0,0
+Branch name,Sector ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.056910569105691,0.0,0.0284121466148594,0.0,0
+Branch name,Sector name,0.0,0.0,0.0,0.0,0.8857142857142859,1.0,0.0,0.0,0.056910569105691,0.0,0.0416616710185177,0.0,0
+Branch name,Sector percent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0378378378378378,0.0,0.0298727016401422,0.0,0
+Division ID,Fiscal year,0.0,0.0,0.0,0.0,0.5357142857142857,1.0,0.0,0.0,0.0588235294117647,0.0,0.0312479534431107,0.0,0
+Division ID,Trade development (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.2352941176470588,0.0,0.0290313406328566,0.0,0
+Division ID,Bilateral aid (international marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.1176470588235294,0.0,0.0305244325911476,0.0,0
+Division ID,Organisation sub-class,0.0,0.0,0.0,0.0,0.6455074337427279,1.0,0.0,0.0,0.7083333333333334,0.0,0.0347191926349131,0.0,0
+Division ID,Section ID,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.68,0.0,0.0426534536447469,0.0,0
+Division ID,Regional program (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.1176470588235294,0.0,0.0292606717506333,0.0,0
+Division ID,Children issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.2352941176470588,0.0,0.0295031075037116,0.0,0
+Division ID,ICT as a tool for development (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.1764705882352941,0.0,0.0270094826149067,0.0,0
+Division ID,Biodiversity (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.2352941176470588,0.0,0.0327078051147148,0.0,0
+Division ID,CountryRegion name,0.0,0.0,0.0,0.0,0.7555555555555555,1.0,0.0,0.0,0.1172413793103448,0.0,0.0313676513462763,0.0,0
+Division ID,Amount spent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0033864541832669,0.0,0.0306695774198255,0.0,0
+Division ID,Indigenous issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.2352941176470588,0.0,0.0290313406328566,0.0,0
+Division ID,CountryRegion percent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0422885572139303,0.0,0.0302545379512404,0.0,0
+Division ID,Organisation type,0.0,0.0,0.0,0.0,0.7792429792429794,1.0,0.0,0.0,0.2352941176470588,0.0,0.0371986492004861,0.0,0
+Division ID,Status,0.0,0.0,0.0,0.0,0.4953846153846154,1.0,0.0,0.0,0.1764705882352941,0.0,0.0253264277629774,0.0,0
+Division ID,FSTC percent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.3469387755102041,0.0,0.0240289459224645,0.0,0
+Division ID,Urban issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.2352941176470588,0.0,0.0279348512259866,0.0,0
+Division ID,Continent ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.2941176470588235,0.0,0.0373769991362967,0.0,0
+Division ID,Enviromental sustainability (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.1764705882352941,0.0,0.0305244325911476,0.0,0
+Division ID,Branch ID,0.0,0.0,0.0,0.0,0.9764705882352942,1.0,0.0,0.0,0.2941176470588235,0.0,0.036107688311634,0.0,0
+Division ID,CIDA business delivery model (old),0.0,0.0,0.0,0.0,0.7383651642475173,1.0,0.0,0.0,0.1764705882352941,0.0,0.0310165374969906,0.0,0
+Division ID,Programming process (new),0.0,0.0,0.0,0.0,0.6848888888888889,1.0,0.0,0.0,0.0588235294117647,0.0,0.0271981743860081,0.0,0
+Division ID,Youth issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.2352941176470588,0.0,0.0279348512259866,0.0,0
+Division ID,Desertification (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.2352941176470588,0.0,0.0360488728368245,0.0,0
+Division ID,IRTC percent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.1764705882352941,0.0,0.0240289459224645,0.0,0
+Division ID,Participatory development and good governance,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.2352941176470588,0.0,0.0275939259482203,0.0,0
+Division ID,Disability issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.2352941176470588,0.0,0.0310953206928472,0.0,0
+Division ID,Knowledge for development (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.2352941176470588,0.0,0.0275636214790855,0.0,0
+Division ID,Gender equality (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.2352941176470588,0.0,0.025139263948303,0.0,0
+Division ID,Organisation ID,0.0,0.0,0.0,0.0,0.9076923076923078,1.0,0.0,0.0,0.0501474926253687,0.0,0.0443318550122117,0.0,0
+Division ID,Organisation name,0.0,0.0,0.0,0.0,0.7219780219780221,1.0,0.0,0.0,0.0501474926253687,0.0,0.0371986492004861,0.0,0
+Division ID,Organisation class,0.0,0.0,0.0,0.0,0.8681318681318682,1.0,0.0,0.0,0.3529411764705882,0.0,0.0366343590855626,0.0,0
+Division ID,Continent name,0.0,0.0,0.0,0.0,0.55,1.0,0.0,0.0,0.2941176470588235,0.0,0.0299983073340619,0.0,0
+Division ID,Project Browser country ID,0.0,0.0,0.0,0.0,0.8124756335282652,1.0,0.0,0.0,0.1111111111111111,0.0,0.0332181162276472,0.0,0
+Division ID,CountryRegion ID,0.0,0.0,0.0,0.0,0.8711111111111112,1.0,0.0,0.0,0.1197183098591549,0.0,0.0378047385831818,0.0,0
+Division ID,Sector ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.1382113821138211,0.0,0.0360488728368245,0.0,0
+Division ID,Sector name,0.0,0.0,0.0,0.0,0.7058479532163744,1.0,0.0,0.0,0.1382113821138211,0.0,0.0277767142513084,0.0,0
+Division ID,Sector percent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0918918918918919,0.0,0.0268180111513561,0.0,0
+Division name,Fiscal year,0.0,0.0,0.0,0.0,0.6352380952380954,1.0,0.0,0.0,0.0588235294117647,0.0,0.0335621129043123,0.0,0
+Division name,Trade development (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.2352941176470588,0.0,0.0325242299651483,0.0,0
+Division name,Bilateral aid (international marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.1176470588235294,0.0,0.033243544836919,0.0,0
+Division name,Organisation sub-class,0.0,0.0,0.0,0.0,0.6908424908424908,1.0,0.0,0.0,0.7083333333333334,0.0,0.036107688311634,0.0,0
+Division name,Section ID,0.0,0.0,0.0,0.0,0.8,1.0,0.0,0.0,0.68,0.0,0.0341154988624257,0.0,0
+Division name,Regional program (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.1176470588235294,0.0,0.0348430739596721,0.0,0
+Division name,Children issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.2352941176470588,0.0,0.0331593007528377,0.0,0
+Division name,ICT as a tool for development (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.1764705882352941,0.0,0.0297598041834415,0.0,0
+Division name,Biodiversity (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.2352941176470588,0.0,0.0364980920263519,0.0,0
+Division name,CountryRegion name,0.0,0.0,0.0,0.0,0.8666666666666667,1.0,0.0,0.0,0.1172413793103448,0.0,0.0405419164405169,0.0,0
+Division name,Amount spent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0033864541832669,0.0,0.0329273921289282,0.0,0
+Division name,Indigenous issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.2352941176470588,0.0,0.0325242299651483,0.0,0
+Division name,CountryRegion percent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0422885572139303,0.0,0.031939109911968,0.0,0
+Division name,Organisation type,0.0,0.0,0.0,0.0,0.8173382173382173,1.0,0.0,0.0,0.2352941176470588,0.0,0.0386532637189557,0.0,0
+Division name,Status,0.0,0.0,0.0,0.0,0.6876190476190477,1.0,0.0,0.0,0.1764705882352941,0.0,0.0248535654582118,0.0,0
+Division name,FSTC percent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.3469387755102041,0.0,0.0268180111513561,0.0,0
+Division name,Urban issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.2352941176470588,0.0,0.0320059001310783,0.0,0
+Division name,Continent ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.2941176470588235,0.0,0.0329941823480385,0.0,0
+Division name,Enviromental sustainability (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.1764705882352941,0.0,0.034802060392422,0.0,0
+Division name,Branch ID,0.0,0.0,0.0,0.0,0.765359477124183,1.0,0.0,0.0,0.2941176470588235,0.0,0.0277767142513084,0.0,0
+Division name,CIDA business delivery model (old),0.0,0.0,0.0,0.0,0.7023205071502285,1.0,0.0,0.0,0.1764705882352941,0.0,0.0322080834323327,0.0,0
+Division name,Programming process (new),0.0,0.0,0.0,0.0,0.7137777777777778,1.0,0.0,0.0,0.0588235294117647,0.0,0.0308825598439737,0.0,0
+Division name,Youth issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.2352941176470588,0.0,0.0320059001310783,0.0,0
+Division name,Desertification (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.2352941176470588,0.0,0.0393512409328094,0.0,0
+Division name,IRTC percent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.1764705882352941,0.0,0.0268180111513561,0.0,0
+Division name,Participatory development and good governance,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.2352941176470588,0.0,0.0313088358714669,0.0,0
+Division name,Disability issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.2352941176470588,0.0,0.0344823648938573,0.0,0
+Division name,Knowledge for development (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.2352941176470588,0.0,0.0305244325911476,0.0,0
+Division name,Gender equality (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.2352941176470588,0.0,0.0310953206928472,0.0,0
+Division name,Organisation ID,0.0,0.0,0.0,0.0,0.76007326007326,1.0,0.0,0.0,0.0501474926253687,0.0,0.0371986492004861,0.0,0
+Division name,Organisation name,0.0,0.0,0.0,0.0,0.9076923076923078,1.0,0.0,0.0,0.0501474926253687,0.0,0.0462899899409207,0.0,0
+Division name,Organisation class,0.0,0.0,0.0,0.0,0.9062271062271064,1.0,0.0,0.0,0.3529411764705882,0.0,0.0380784563689153,0.0,0
+Division name,Continent name,0.0,0.0,0.0,0.0,0.8,1.0,0.0,0.0,0.2941176470588235,0.0,0.0406331557024281,0.0,0
+Division name,Project Browser country ID,0.0,0.0,0.0,0.0,0.7266666666666668,1.0,0.0,0.0,0.1111111111111111,0.0,0.0286667755825398,0.0,0
+Division name,CountryRegion ID,0.0,0.0,0.0,0.0,0.7019607843137254,1.0,0.0,0.0,0.1197183098591549,0.0,0.0313676513462763,0.0,0
+Division name,Sector ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.1382113821138211,0.0,0.027717898776499,0.0,0
+Division name,Sector name,0.0,0.0,0.0,0.0,0.8947368421052633,1.0,0.0,0.0,0.1382113821138211,0.0,0.0399260514226165,0.0,0
+Division name,Sector percent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0918918918918919,0.0,0.029193881531523,0.0,0
+Section name,Fiscal year,0.0,0.0,0.0,0.0,0.7143589743589744,1.0,0.0,0.0,0.0196078431372549,0.0,0.0307951831137452,0.0,0
+Section name,Trade development (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0784313725490196,0.0,0.0328334091644181,0.0,0
+Section name,Bilateral aid (international marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0392156862745098,0.0,0.0335032974295028,0.0,0
+Section name,Organisation sub-class,0.0,0.0,0.0,0.0,0.7357142857142858,1.0,0.0,0.0,0.4705882352941176,0.0,0.0343108115535246,0.0,0
+Section name,Section ID,0.0,0.0,0.0,0.0,0.8176470588235294,1.0,0.0,0.0,0.4901960784313725,0.0,0.0486041494021223,0.0,0
+Section name,Regional program (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0392156862745098,0.0,0.0372872608728188,0.0,0
+Section name,Children issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0784313725490196,0.0,0.0313819845900681,0.0,0
+Section name,ICT as a tool for development (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0588235294117647,0.0,0.0299394918592524,0.0,0
+Section name,Biodiversity (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0784313725490196,0.0,0.032346217698902,0.0,0
+Section name,CountryRegion name,0.0,0.0,0.0,0.0,0.9487179487179488,1.0,0.0,0.0,0.3517241379310344,0.0,0.0437444145335991,0.0,0
+Section name,Amount spent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0101593625498007,0.0,0.0334365072103925,0.0,0
+Section name,Indigenous issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0784313725490196,0.0,0.0308237443691642,0.0,0
+Section name,CountryRegion percent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.126865671641791,0.0,0.0345935869409933,0.0,0
+Section name,Organisation type,0.0,0.0,0.0,0.0,0.8412698412698414,1.0,0.0,0.0,0.0784313725490196,0.0,0.0366343590855626,0.0,0
+Section name,Status,0.0,0.0,0.0,0.0,0.704029304029304,1.0,0.0,0.0,0.0588235294117647,0.0,0.0335621129043123,0.0,0
+Section name,FSTC percent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.9607843137254902,0.0,0.0334365072103925,0.0,0
+Section name,Urban issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0784313725490196,0.0,0.0300320582377005,0.0,0
+Section name,Continent ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0980392156862745,0.0,0.0335032974295028,0.0,0
+Section name,Enviromental sustainability (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0588235294117647,0.0,0.0335032974295028,0.0,0
+Section name,Branch ID,0.0,0.0,0.0,0.0,0.7620915032679738,1.0,0.0,0.0,0.0980392156862745,0.0,0.0281073084600515,0.0,0
+Section name,CIDA business delivery model (old),0.0,0.0,0.0,0.0,0.7169401731984659,1.0,0.0,0.0,0.0588235294117647,0.0,0.029135025239405,0.0,0
+Section name,Programming process (new),0.0,0.0,0.0,0.0,0.6622222222222223,1.0,0.0,0.0,0.0196078431372549,0.0,0.0311541361676566,0.0,0
+Section name,Youth issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0784313725490196,0.0,0.032346217698902,0.0,0
+Section name,Desertification (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0784313725490196,0.0,0.039867235947807,0.0,0
+Section name,IRTC percent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0588235294117647,0.0,0.0302545379512404,0.0,0
+Section name,Participatory development and good governance,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0784313725490196,0.0,0.0314936326342488,0.0,0
+Section name,Disability issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0784313725490196,0.0,0.0308237443691642,0.0,0
+Section name,Knowledge for development (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0784313725490196,0.0,0.0307363676389358,0.0,0
+Section name,Gender equality (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0784313725490196,0.0,0.0335032974295028,0.0,0
+Section name,Organisation ID,0.0,0.0,0.0,0.0,0.8033613445378152,1.0,0.0,0.0,0.1504424778761062,0.0,0.0349763214639355,0.0,0
+Section name,Organisation name,0.0,0.0,0.0,0.0,0.9333333333333332,1.0,0.0,0.0,0.1504424778761062,0.0,0.044534420694492,0.0,0
+Section name,Organisation class,0.0,0.0,0.0,0.0,0.8882783882783885,1.0,0.0,0.0,0.1176470588235294,0.0,0.036107688311634,0.0,0
+Section name,Continent name,0.0,0.0,0.0,0.0,0.8181818181818181,1.0,0.0,0.0,0.0980392156862745,0.0,0.0443318550122117,0.0,0
+Section name,Project Browser country ID,0.0,0.0,0.0,0.0,0.7845852187028657,1.0,0.0,0.0,0.3333333333333333,0.0,0.0328922246392276,0.0,0
+Section name,CountryRegion ID,0.0,0.0,0.0,0.0,0.7981297134238312,1.0,0.0,0.0,0.3591549295774648,0.0,0.0344712469783557,0.0,0
+Section name,Sector ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.4146341463414634,0.0,0.0425946381699374,0.0,0
+Section name,Sector name,0.56654006,0.0,0.70817506,1.0,0.8947368421052633,1.0,0.0,0.0,0.4146341463414634,0.0,0.0540373933545085,0.0,0
+Section name,Sector percent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.2756756756756757,0.0,0.0412690469252285,0.0,0
+Fund centre ID,Fiscal year,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0061728395061728,0.0,0.0329978546341896,0.0,0
+Fund centre ID,Trade development (marker),0.0,0.0,0.0,0.0,0.6947037276449042,1.0,0.0,0.0,0.0246913580246913,0.0,0.0342349191470789,0.0,0
+Fund centre ID,Bilateral aid (international marker),0.0,0.0,0.0,0.0,0.6021350078492935,1.0,0.0,0.0,0.0123456790123456,0.0,0.0315620649693912,0.0,0
+Fund centre ID,Organisation sub-class,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.1481481481481481,0.0,0.0271430311973498,0.0,0
+Fund centre ID,Section ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.1543209876543209,0.0,0.0366889389748061,0.0,0
+Fund centre ID,Regional program (marker),0.0,0.0,0.0,0.0,0.6702262443438914,1.0,0.0,0.0,0.0123456790123456,0.0,0.028703187973476,0.0,0
+Fund centre ID,Children issues (marker),0.0,0.0,0.0,0.0,0.5761904761904761,1.0,0.0,0.0,0.0246913580246913,0.0,0.0309189722349099,0.0,0
+Fund centre ID,ICT as a tool for development (marker),0.0,0.0,0.0,0.0,0.7477924503134588,1.0,0.0,0.0,0.0185185185185185,0.0,0.0296822554378305,0.0,0
+Fund centre ID,Biodiversity (marker),0.0,0.0,0.0,0.0,0.5828571428571429,1.0,0.0,0.0,0.0246913580246913,0.0,0.0317802571471616,0.0,0
+Fund centre ID,CountryRegion name,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.8950617283950617,0.0,0.03509795434523,0.0,0
+Fund centre ID,Amount spent,0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0322709163346613,0.0,0.0383361326659525,0.0,0
+Fund centre ID,Indigenous issues (marker),0.0,0.0,0.0,0.0,0.5723809523809524,1.0,0.0,0.0,0.0246913580246913,0.0,0.0323257375915877,0.0,0
+Fund centre ID,CountryRegion percent,0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.4029850746268656,0.0,0.0359863707515017,0.0,0
+Fund centre ID,Organisation type,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0246913580246913,0.0,0.0306329329654521,0.0,0
+Fund centre ID,Status,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0185185185185185,0.0,0.0245974557900281,0.0,0
+Fund centre ID,FSTC percent,0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.3024691358024691,0.0,0.0383361326659525,0.0,0
+Fund centre ID,Urban issues (marker),0.0,0.0,0.0,0.0,0.5723809523809524,1.0,0.0,0.0,0.0246913580246913,0.0,0.0317802571471616,0.0,0
+Fund centre ID,Continent ID,0.0,0.0,0.0,0.0,0.7398319327731093,1.0,0.0,0.0,0.0308641975308641,0.0,0.0414310650100845,0.0,0
+Fund centre ID,Enviromental sustainability (marker),0.0,0.0,0.0,0.0,0.5963887963887964,1.0,0.0,0.0,0.0185185185185185,0.0,0.0300347197249982,0.0,0
+Fund centre ID,Branch ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0308641975308641,0.0,0.0373806714224479,0.0,0
+Fund centre ID,CIDA business delivery model (old),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0185185185185185,0.0,0.0319159850860779,0.0,0
+Fund centre ID,Programming process (new),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0061728395061728,0.0,0.0325279022512995,0.0,0
+Fund centre ID,Youth issues (marker),0.0,0.0,0.0,0.0,0.6008403361344539,1.0,0.0,0.0,0.0246913580246913,0.0,0.0317802571471616,0.0,0
+Fund centre ID,Desertification (marker),0.0,0.0,0.0,0.0,0.5961904761904762,1.0,0.0,0.0,0.0246913580246913,0.0,0.0289093074396559,0.0,0
+Fund centre ID,IRTC percent,0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0185185185185185,0.0,0.035398930272889,0.0,0
+Fund centre ID,Participatory development and good governance,0.0,0.0,0.0,0.0,0.6931892757102842,1.0,0.0,0.0,0.0246913580246913,0.0,0.0286368105182656,0.0,0
+Fund centre ID,Disability issues (marker),0.0,0.0,0.0,0.0,0.5523809523809524,1.0,0.0,0.0,0.0246913580246913,0.0,0.0285073744806051,0.0,0
+Fund centre ID,Knowledge for development (marker),0.0,0.0,0.0,0.0,0.7423716153127917,1.0,0.0,0.0,0.0246913580246913,0.0,0.0335985252952485,0.0,0
+Fund centre ID,Gender equality (marker),0.0,0.0,0.0,0.0,0.5920634920634922,1.0,0.0,0.0,0.0246913580246913,0.0,0.0349383018254178,0.0,0
+Fund centre ID,Organisation ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.4778761061946903,0.0,0.0339458620272612,0.0,0
+Fund centre ID,Organisation name,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.4778761061946903,0.0,0.0306329329654521,0.0,0
+Fund centre ID,Organisation class,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.037037037037037,0.0,0.0279385235121378,0.0,0
+Fund centre ID,Continent name,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0308641975308641,0.0,0.0344161037896975,0.0,0
+Fund centre ID,Project Browser country ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.9444444444444444,0.0,0.0360525451229757,0.0,0
+Fund centre ID,CountryRegion ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.8765432098765432,0.0,0.0411436959376191,0.0,0
+Fund centre ID,Sector ID,0.0,0.0,0.0,0.0,0.8514285714285714,1.0,0.0,0.0,0.7592592592592593,0.0,0.0407925427507229,0.0,0
+Fund centre ID,Sector name,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.7592592592592593,0.0,0.0329978546341896,0.0,0
+Fund centre ID,Sector percent,0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.8756756756756757,0.0,0.0343499294182235,0.0,0
+Fund centre name,Fiscal year,0.0,0.0,0.0,0.0,0.6000000000000001,1.0,0.0,0.0,0.0061728395061728,0.0,0.0321479043446891,0.0,0
+Fund centre name,Trade development (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0246913580246913,0.0,0.0353215655775897,0.0,0
+Fund centre name,Bilateral aid (international marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0123456790123456,0.0,0.0339928311616801,0.0,0
+Fund centre name,Organisation sub-class,0.0,0.0,0.0,0.0,0.6893772893772894,1.0,0.0,0.0,0.1481481481481481,0.0,0.0288728950487197,0.0,0
+Fund centre name,Section ID,0.0,0.0,0.0,0.0,0.7484033613445378,1.0,0.0,0.0,0.1543209876543209,0.0,0.0296458430468943,0.0,0
+Fund centre name,Regional program (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0123456790123456,0.0,0.0319511173030871,0.0,0
+Fund centre name,Children issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0246913580246913,0.0,0.0341396912813332,0.0,0
+Fund centre name,ICT as a tool for development (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0185185185185185,0.0,0.0306748803102565,0.0,0
+Fund centre name,Biodiversity (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0246913580246913,0.0,0.0331593007528377,0.0,0
+Fund centre name,CountryRegion name,0.0,0.0,0.0,0.0,0.9023629964806436,1.0,0.9729034150334248,1.0,0.8950617283950617,0.0,0.0432951953440717,0.0,0
+Fund centre name,Amount spent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0322709163346613,0.0,0.0370730435065664,0.0,0
+Fund centre name,Indigenous issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0246913580246913,0.0,0.0353215655775897,0.0,0
+Fund centre name,CountryRegion percent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.4029850746268656,0.0,0.035156490593718,0.0,0
+Fund centre name,Organisation type,0.0,0.0,0.0,0.0,0.7714285714285714,1.0,0.0,0.0,0.0246913580246913,0.0,0.03009087371251,0.0,0
+Fund centre name,Status,0.0,0.0,0.0,0.0,0.6199800199800201,1.0,0.0,0.0,0.0185185185185185,0.0,0.0277767142513084,0.0,0
+Fund centre name,FSTC percent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.3024691358024691,0.0,0.0370730435065664,0.0,0
+Fund centre name,Urban issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0246913580246913,0.0,0.0331593007528377,0.0,0
+Fund centre name,Continent ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0308641975308641,0.0,0.0344124315035463,0.0,0
+Fund centre name,Enviromental sustainability (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0185185185185185,0.0,0.0339928311616801,0.0,0
+Fund centre name,Branch ID,0.0,0.0,0.0,0.0,0.6941176470588235,1.0,0.0,0.0,0.0308641975308641,0.0,0.0299983073340619,0.0,0
+Fund centre name,CIDA business delivery model (old),0.0,0.0,0.0,0.0,0.6847561494233322,1.0,0.0,0.0,0.0185185185185185,0.0,0.0330529978228479,0.0,0
+Fund centre name,Programming process (new),0.0,0.0,0.0,0.0,0.6423724423724424,1.0,0.0,0.0,0.0061728395061728,0.0,0.0338725489295954,0.0,0
+Fund centre name,Youth issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0246913580246913,0.0,0.0331593007528377,0.0,0
+Fund centre name,Desertification (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0246913580246913,0.0,0.0303213281703507,0.0,0
+Fund centre name,IRTC percent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0185185185185185,0.0,0.034345641284436,0.0,0
+Fund centre name,Participatory development and good governance,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0246913580246913,0.0,0.0307907990446518,0.0,0
+Fund centre name,Disability issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0246913580246913,0.0,0.029866761133329,0.0,0
+Fund centre name,Knowledge for development (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0246913580246913,0.0,0.0345215275924315,0.0,0
+Fund centre name,Gender equality (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0246913580246913,0.0,0.0360488728368245,0.0,0
+Fund centre name,Organisation ID,0.0,0.0,0.0,0.0,0.7588795518207283,1.0,0.0,0.0,0.4778761061946903,0.0,0.0282246160825087,0.0,0
+Fund centre name,Organisation name,0.0,0.0,0.0,0.0,0.8628571428571428,1.0,0.0,0.0,0.4778761061946903,0.0,0.0370333520961146,0.0,0
+Fund centre name,Organisation class,0.0,0.0,0.0,0.0,0.7588795518207283,1.0,0.0,0.0,0.037037037037037,0.0,0.029818619658251,0.0,0
+Fund centre name,Continent name,0.0,0.0,0.0,0.0,0.7511111111111111,1.0,0.0,0.0,0.0308641975308641,0.0,0.0437444145335991,0.0,0
+Fund centre name,Project Browser country ID,0.0,0.0,0.0,0.0,0.7642183027056977,1.0,0.0,0.0,0.9444444444444444,0.0,0.0317438447562254,0.0,0
+Fund centre name,CountryRegion ID,0.0,0.0,0.0,0.0,0.7768728004022123,1.0,0.0,0.0,0.8765432098765432,0.0,0.0351530975338883,0.0,0
+Fund centre name,Sector ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.7592592592592593,0.0,0.0329941823480385,0.0,0
+Fund centre name,Sector name,0.0,0.0,0.0,0.0,0.8514285714285714,1.0,0.0,0.0,0.7592592592592593,0.0,0.0434615728216744,0.0,0
+Fund centre name,Sector percent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.8756756756756757,0.0,0.0334365072103925,0.0,0
+Untied amount(Project-level budget),Fiscal year,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0011641443538998,0.0,0.0290185679711362,0.0,0
+Untied amount(Project-level budget),Trade development (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0046565774155995,0.0,0.0319883582888687,0.0,0
+Untied amount(Project-level budget),Bilateral aid (international marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0023282887077997,0.0,0.033628200216005,0.0,0
+Untied amount(Project-level budget),Organisation sub-class,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0279394644935972,0.0,0.0300962143106203,0.0,0
+Untied amount(Project-level budget),Section ID,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.029103608847497,0.0,0.029203029957174,0.0,0
+Untied amount(Project-level budget),Regional program (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0023282887077997,0.0,0.0309033589349283,0.0,0
+Untied amount(Project-level budget),Children issues (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0046565774155995,0.0,0.0310759403184755,0.0,0
+Untied amount(Project-level budget),ICT as a tool for development (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0034924330616996,0.0,0.0332745798622964,0.0,0
+Untied amount(Project-level budget),Biodiversity (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0046565774155995,0.0,0.0302669650830979,0.0,0
+Untied amount(Project-level budget),CountryRegion name,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.1688009313154831,0.0,0.0322449125193824,0.0,0
+Untied amount(Project-level budget),Amount spent,0.0,0.0,0.0,0.0,0.738562091503268,1.0,0.0,0.0,0.1711155378486056,0.0,0.0338615596577612,0.0,0
+Untied amount(Project-level budget),Indigenous issues (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0046565774155995,0.0,0.0319883582888687,0.0,0
+Untied amount(Project-level budget),CountryRegion percent,0.0,0.0,0.0,0.0,0.6280272108843539,1.0,0.0,0.0,0.4679860302677532,0.0,0.0344998878374087,0.0,0
+Untied amount(Project-level budget),Organisation type,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0046565774155995,0.0,0.0309979869751573,0.0,0
+Untied amount(Project-level budget),Status,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0034924330616996,0.0,0.0281682432062303,0.0,0
+Untied amount(Project-level budget),FSTC percent,0.0,0.0,0.0,0.0,0.4542857142857143,1.0,0.0,0.0,0.0570430733410943,0.0,0.0289870535586345,0.0,0
+Untied amount(Project-level budget),Urban issues (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0046565774155995,0.0,0.0329943673052282,0.0,0
+Untied amount(Project-level budget),Continent ID,0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0058207217694994,0.0,0.0320949048702703,0.0,0
+Untied amount(Project-level budget),Enviromental sustainability (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0034924330616996,0.0,0.0325526049734747,0.0,0
+Untied amount(Project-level budget),Branch ID,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0058207217694994,0.0,0.0276602569830397,0.0,0
+Untied amount(Project-level budget),CIDA business delivery model (old),0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0034924330616996,0.0,0.0328922696779301,0.0,0
+Untied amount(Project-level budget),Programming process (new),0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0011641443538998,0.0,0.0334456556360435,0.0,0
+Untied amount(Project-level budget),Youth issues (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0046565774155995,0.0,0.0316306661941631,0.0,0
+Untied amount(Project-level budget),Desertification (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0046565774155995,0.0,0.0323703006950798,0.0,0
+Untied amount(Project-level budget),IRTC percent,0.0,0.0,0.0,0.0,0.4589915966386555,1.0,0.0,0.0,0.0034924330616996,0.0,0.0289870535586345,0.0,0
+Untied amount(Project-level budget),Participatory development and good governance,0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0046565774155995,0.0,0.0331307374163348,0.0,0
+Untied amount(Project-level budget),Disability issues (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0046565774155995,0.0,0.030736435957399,0.0,0
+Untied amount(Project-level budget),Knowledge for development (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0046565774155995,0.0,0.0351090922165902,0.0,0
+Untied amount(Project-level budget),Gender equality (marker),0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0046565774155995,0.0,0.0323703006950798,0.0,0
+Untied amount(Project-level budget),Organisation ID,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.3946449359720605,0.0,0.0298818500657932,0.0,0
+Untied amount(Project-level budget),Organisation name,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.3946449359720605,0.0,0.0309979869751573,0.0,0
+Untied amount(Project-level budget),Organisation class,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0069848661233993,0.0,0.030804020779389,0.0,0
+Untied amount(Project-level budget),Continent name,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0058207217694994,0.0,0.0331859030434597,0.0,0
+Untied amount(Project-level budget),Project Browser country ID,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.1781140861466822,0.0,0.0344889242456016,0.0,0
+Untied amount(Project-level budget),CountryRegion ID,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.1653084982537834,0.0,0.0311995596884068,0.0,0
+Untied amount(Project-level budget),Sector ID,0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.1431897555296856,0.0,0.0276635356892461,0.0,0
+Untied amount(Project-level budget),Sector name,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.1431897555296856,0.0,0.0290185679711362,0.0,0
+Untied amount(Project-level budget),Sector percent,0.0,0.0,0.0,0.0,0.6146867167919801,1.0,0.0,0.0,0.2153667054714784,0.0,0.0317724856152783,0.0,0
+CFLI (marker),Fiscal year,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.5,0.0,0.033506969715654,0.0,0
+CFLI (marker),Trade development (marker),0.0,0.0,0.0,0.0,0.6685128205128206,1.0,1.0,0.0,0.5,0.0,0.038493862617021,0.0,0
+CFLI (marker),Bilateral aid (international marker),0.0,0.0,0.0,0.0,0.6109727309727309,1.0,1.0,1.0,1.0,0.0,0.0348972882581677,0.0,0
+CFLI (marker),Organisation sub-class,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0833333333333333,0.0,0.0251429362344542,0.0,0
+CFLI (marker),Section ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.08,0.0,0.024099408427726,0.0,0
+CFLI (marker),Regional program (marker),0.0,0.0,0.0,0.0,0.6622222222222223,1.0,1.0,0.0,1.0,0.0,0.0389576314159258,0.0,0
+CFLI (marker),Children issues (marker),0.0,0.0,0.0,0.0,0.6586666666666667,1.0,1.0,0.0,0.5,0.0,0.0415104488585457,0.0,0
+CFLI (marker),ICT as a tool for development (marker),0.0,0.0,0.0,0.0,0.714199525964232,1.0,1.0,0.0,0.6666666666666666,0.0,0.0358446212428853,0.0,0
+CFLI (marker),Biodiversity (marker),0.0,0.0,0.0,0.0,0.675,1.0,1.0,1.0,0.5,0.0,0.0410855117873711,0.0,0
+CFLI (marker),CountryRegion name,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0137931034482758,0.0,0.0306329329654521,0.0,0
+CFLI (marker),Amount spent,0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0003984063745019,0.0,0.0268222992851436,0.0,0
+CFLI (marker),Indigenous issues (marker),0.0,0.0,0.0,0.0,0.6195555555555555,1.0,1.0,1.0,0.5,0.0,0.04045199754573,0.0,0
+CFLI (marker),CountryRegion percent,0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0049751243781094,0.0,0.0296973020981187,0.0,0
+CFLI (marker),Organisation type,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.5,0.0,0.0258702434936889,0.0,0
+CFLI (marker),Status,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.6666666666666666,0.0,0.0247984222695535,0.0,0
+CFLI (marker),FSTC percent,0.0,0.0,0.0,0.0,0.05,1.0,1.0,0.0,0.0408163265306122,0.0,0.0329316802627157,0.0,0
+CFLI (marker),Urban issues (marker),0.0,0.0,0.0,0.0,0.6195555555555555,1.0,1.0,0.0,0.5,0.0,0.0410855117873711,0.0,0
+CFLI (marker),Continent ID,0.0,0.0,0.0,0.0,0.5523809523809524,1.0,1.0,0.0,0.4,0.0,0.0269800292362121,0.0,0
+CFLI (marker),Enviromental sustainability (marker),0.0,0.0,0.0,0.0,0.6492929292929293,1.0,1.0,1.0,0.6666666666666666,0.0,0.0348972882581677,0.0,0
+CFLI (marker),Branch ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.4,0.0,0.0242503318708478,0.0,0
+CFLI (marker),CIDA business delivery model (old),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.6666666666666666,0.0,0.0305281048772988,0.0,0
+CFLI (marker),Programming process (new),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.5,0.0,0.0288177518600614,0.0,0
+CFLI (marker),Youth issues (marker),0.0,0.0,0.0,0.0,0.6693333333333333,1.0,1.0,0.0,0.5,0.0,0.0410855117873711,0.0,0
+CFLI (marker),Desertification (marker),0.0,0.0,0.0,0.0,0.7087719298245614,1.0,1.0,0.0,0.5,0.0,0.0394464687985551,0.0,0
+CFLI (marker),IRTC percent,0.0,0.0,0.0,0.0,0.05,1.0,1.0,0.0,0.6666666666666666,0.0,0.0329316802627157,0.0,0
+CFLI (marker),Participatory development and good governance,0.0,0.0,0.0,0.0,0.590950226244344,1.0,1.0,1.0,0.5,0.0,0.0274540329327479,0.0,0
+CFLI (marker),Disability issues (marker),0.0,0.0,0.0,0.0,0.6434285714285715,1.0,1.0,0.0,0.5,0.0,0.038493862617021,0.0,0
+CFLI (marker),Knowledge for development (marker),0.0,0.0,0.0,0.0,0.6824615384615385,1.0,1.0,0.0,0.5,0.0,0.03549416655602,0.0,0
+CFLI (marker),Gender equality (marker),0.0,0.0,0.0,0.0,0.6758974358974359,1.0,1.0,1.0,0.5,0.0,0.0394464687985551,0.0,0
+CFLI (marker),Organisation ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0058997050147492,0.0,0.0235064949011759,0.0,0
+CFLI (marker),Organisation name,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0058997050147492,0.0,0.0284158189010106,0.0,0
+CFLI (marker),Organisation class,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.3333333333333333,0.0,0.0257060128222488,0.0,0
+CFLI (marker),Continent name,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.4,0.0,0.0320927611560308,0.0,0
+CFLI (marker),Project Browser country ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0130718954248366,0.0,0.0286116323938815,0.0,0
+CFLI (marker),CountryRegion ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0140845070422535,0.0,0.0286791542879749,0.0,0
+CFLI (marker),Sector ID,0.0,0.0,0.0,0.0,0.6050125313283208,1.0,0.0,0.0,0.016260162601626,0.0,0.0278131266422447,0.0,0
+CFLI (marker),Sector name,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.016260162601626,0.0,0.0303250004565019,0.0,0
+CFLI (marker),Sector percent,0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0108108108108108,0.0,0.0291981696653105,0.0,0
+PBA type,Fiscal year,0.0,0.0,0.0,0.0,0.5142857142857142,1.0,0.0,0.0,0.2,0.0,0.0328922246392276,0.0,0
+PBA type,Trade development (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.8,0.0,0.0275137082358047,0.0,0
+PBA type,Bilateral aid (international marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.4,0.0,0.027717898776499,0.0,0
+PBA type,Organisation sub-class,0.0,0.0,0.0,0.0,0.5515151515151515,1.0,0.0,0.0,0.2083333333333333,0.0,0.0233798112750255,0.0,0
+PBA type,Section ID,0.0,0.0,0.0,0.0,0.6000000000000001,1.0,0.0,0.0,0.2,0.0,0.0250768615465733,0.0,0
+PBA type,Regional program (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.4,0.0,0.027717898776499,0.0,0
+PBA type,Children issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.8,0.0,0.0255483742816225,0.0,0
+PBA type,ICT as a tool for development (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.6,0.0,0.0274160518902553,0.0,0
+PBA type,Biodiversity (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.8,0.0,0.0313088358714669,0.0,0
+PBA type,CountryRegion name,0.0,0.0,0.0,0.0,0.6292099232037313,1.0,0.0,0.0,0.0344827586206896,0.0,0.0296458430468943,0.0,0
+PBA type,Amount spent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0009960159362549,0.0,0.0359820826177142,0.0,0
+PBA type,Indigenous issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.8,0.0,0.0252676122881679,0.0,0
+PBA type,CountryRegion percent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.0124378109452736,0.0,0.0312420456523566,0.0,0
+PBA type,Organisation type,0.0,0.0,0.0,0.0,0.7662337662337662,1.0,0.0,0.0,0.8,0.0,0.036107688311634,0.0,0
+PBA type,Status,0.0,0.0,0.0,0.0,0.4531986531986532,1.0,0.0,0.0,0.6,0.0,0.0262890403119646,0.0,0
+PBA type,FSTC percent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.1020408163265306,0.0,0.0321637195067317,0.0,0
+PBA type,Urban issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.8,0.0,0.0260421281321806,0.0,0
+PBA type,Continent ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,1.0,0.0,0.0284121466148594,0.0,0
+PBA type,Enviromental sustainability (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.6,0.0,0.027717898776499,0.0,0
+PBA type,Branch ID,0.0,0.0,0.0,0.0,0.6444444444444445,1.0,0.0,0.0,1.0,0.0,0.029818619658251,0.0,0
+PBA type,CIDA business delivery model (old),0.0,0.0,0.0,0.0,0.6349453720882293,1.0,0.0,0.0,0.6,0.0,0.0281073084600515,0.0,0
+PBA type,Programming process (new),0.0,0.0,0.0,0.0,0.5126215538847118,1.0,0.0,0.0,0.2,0.0,0.03009087371251,0.0,0
+PBA type,Youth issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.8,0.0,0.0260421281321806,0.0,0
+PBA type,Desertification (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.8,0.0,0.0255483742816225,0.0,0
+PBA type,IRTC percent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.6,0.0,0.0321637195067317,0.0,0
+PBA type,Participatory development and good governance,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.8,0.0,0.0279798790928614,0.0,0
+PBA type,Disability issues (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.8,0.0,0.0275137082358047,0.0,0
+PBA type,Knowledge for development (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.8,0.0,0.0262302248371551,0.0,0
+PBA type,Gender equality (marker),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.8,0.0,0.0303213281703507,0.0,0
+PBA type,Organisation ID,0.0,0.0,0.0,0.0,0.5337373737373737,1.0,0.0,0.0,0.0147492625368731,0.0,0.0241545516163843,0.0,0
+PBA type,Organisation name,0.0,0.0,0.0,0.0,0.6188653451811346,1.0,0.0,0.0,0.0147492625368731,0.0,0.0269436168452759,0.0,0
+PBA type,Organisation class,0.0,0.0,0.0,0.0,0.6924242424242425,1.0,0.0,0.0,0.8333333333333334,0.0,0.0237714382607673,0.0,0
+PBA type,Continent name,0.0,0.0,0.0,0.0,0.6020821283979179,1.0,0.0,0.0,1.0,0.0,0.0277767142513084,0.0,0
+PBA type,Project Browser country ID,0.0,0.0,0.0,0.0,0.620641502746766,1.0,0.0,0.0,0.0326797385620915,0.0,0.0320647156058878,0.0,0
+PBA type,CountryRegion ID,0.0,0.0,0.0,0.0,0.5466191325014855,1.0,0.0,0.0,0.0352112676056338,0.0,0.0303801436451602,0.0,0
+PBA type,Sector ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.040650406504065,0.0,0.0252676122881679,0.0,0
+PBA type,Sector name,0.0,0.0,0.0,0.0,0.650125313283208,1.0,0.0,0.0,0.040650406504065,0.0,0.0288728950487197,0.0,0
+PBA type,Sector percent,0.0,0.0,0.0,0.0,0.0333333333333333,1.0,0.0,0.0,0.027027027027027,0.0,0.031122347749191,0.0,0
+Climate change adaptation (marker),Fiscal year,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.3333333333333333,0.0,0.0309613943083323,0.0,0
+Climate change adaptation (marker),Trade development (marker),0.0,0.0,0.0,0.0,0.9103296703296704,1.0,0.9271223371785272,1.0,0.75,0.0,0.0399624638135528,0.0,0
+Climate change adaptation (marker),Bilateral aid (international marker),0.0,0.0,0.0,0.0,0.751510989010989,1.0,0.6489126188305769,0.0,0.6666666666666666,0.0,0.0448717878133874,0.0,0
+Climate change adaptation (marker),Organisation sub-class,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.125,0.0,0.0330524026786323,0.0,0
+Climate change adaptation (marker),Section ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.12,0.0,0.0329284298503536,0.0,0
+Climate change adaptation (marker),Regional program (marker),0.0,0.0,0.0,0.0,0.7812663526949242,1.0,1.0,0.0,0.6666666666666666,0.0,0.0389916935310996,0.0,0
+Climate change adaptation (marker),Children issues (marker),0.0,0.0,0.0,0.0,0.6972056514913658,1.0,0.9662996052358196,0.0,0.75,0.0,0.0406208022809635,0.0,0
+Climate change adaptation (marker),ICT as a tool for development (marker),0.0,0.0,0.0,0.0,0.8638914027149323,1.0,0.9895599875173764,0.0,1.0,0.0,0.0389018073938354,0.0,0
+Climate change adaptation (marker),Biodiversity (marker),0.0,0.0,0.0,0.0,0.7619047619047621,1.0,0.9868203003436872,1.0,0.75,0.0,0.0375325963792911,0.0,0
+Climate change adaptation (marker),CountryRegion name,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0206896551724137,0.0,0.035465104644363,0.0,0
+Climate change adaptation (marker),Amount spent,0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0005976095617529,0.0,0.0290137076792727,0.0,0
+Climate change adaptation (marker),Indigenous issues (marker),0.0,0.0,0.0,0.0,0.6977498691784405,1.0,0.9770246110050614,1.0,0.75,0.0,0.0386896761098919,0.0,0
+Climate change adaptation (marker),CountryRegion percent,0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0074626865671641,0.0,0.0345978750747808,0.0,0
+Climate change adaptation (marker),Organisation type,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.75,0.0,0.0342556683648663,0.0,0
+Climate change adaptation (marker),Status,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,1.0,0.0,0.0265066373455193,0.0,0
+Climate change adaptation (marker),FSTC percent,0.0,0.0,0.0,0.0,0.05,1.0,0.6693339473835703,0.0,0.0612244897959183,0.0,0.0290137076792727,0.0,0
+Climate change adaptation (marker),Urban issues (marker),0.0,0.0,0.0,0.0,0.6977498691784405,1.0,0.988405868070852,1.0,0.75,0.0,0.0389210920560121,0.0,0
+Climate change adaptation (marker),Continent ID,0.0,0.0,0.0,0.0,0.5523809523809524,1.0,0.6153045564395209,0.0,0.6,0.0,0.0308315955046815,0.0,0
+Climate change adaptation (marker),Enviromental sustainability (marker),0.0,0.0,0.0,0.0,0.7281124890147448,1.0,0.8787252802619977,1.0,1.0,0.0,0.0405079442579788,0.0,0
+Climate change adaptation (marker),Branch ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.6,0.0,0.0278830240483154,0.0,0
+Climate change adaptation (marker),CIDA business delivery model (old),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,1.0,0.0,0.0331326203910479,0.0,0
+Climate change adaptation (marker),Programming process (new),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.3333333333333333,0.0,0.033722696445088,0.0,0
+Climate change adaptation (marker),Youth issues (marker),0.0,0.0,0.0,0.0,0.7548927263212979,1.0,0.9198932954751315,0.0,0.75,0.0,0.0389210920560121,0.0,0
+Climate change adaptation (marker),Desertification (marker),0.0,0.0,0.0,0.0,0.7518037518037519,1.0,0.9813665602039036,0.0,0.75,0.0,0.0432541561506067,0.0,0
+Climate change adaptation (marker),IRTC percent,0.0,0.0,0.0,0.0,0.05,1.0,1.0,1.0,1.0,0.0,0.0290137076792727,0.0,0
+Climate change adaptation (marker),Participatory development and good governance,0.0,0.0,0.0,0.0,0.824871794871795,1.0,0.769038290953994,0.0,0.75,0.0,0.0334374129276965,0.0,0
+Climate change adaptation (marker),Disability issues (marker),0.0,0.0,0.0,0.0,0.7453689167974882,1.0,0.9859656561373756,0.0,0.75,0.0,0.0386896761098919,0.0,0
+Climate change adaptation (marker),Knowledge for development (marker),0.0,0.0,0.0,0.0,0.8874725274725275,1.0,0.960628196172398,0.0,0.75,0.0,0.0399624638135528,0.0,0
+Climate change adaptation (marker),Gender equality (marker),0.0,0.0,0.0,0.0,0.7724751439037154,1.0,0.6822619938687101,0.0,0.75,0.0,0.0406208022809635,0.0,0
+Climate change adaptation (marker),Organisation ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0088495575221238,0.0,0.0332472171230701,0.0,0
+Climate change adaptation (marker),Organisation name,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0088495575221238,0.0,0.0357530656632908,0.0,0
+Climate change adaptation (marker),Organisation class,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.5,0.0,0.0339965034478312,0.0,0
+Climate change adaptation (marker),Continent name,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.6,0.0,0.033506969715654,0.0,0
+Climate change adaptation (marker),Project Browser country ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0196078431372549,0.0,0.0296886066046715,0.0,0
+Climate change adaptation (marker),CountryRegion ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0211267605633802,0.0,0.0329978546341896,0.0,0
+Climate change adaptation (marker),Sector ID,0.0,0.0,0.0,0.0,0.6183193025298288,1.0,0.0,0.0,0.024390243902439,0.0,0.0297505624702274,0.0,0
+Climate change adaptation (marker),Sector name,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.024390243902439,0.0,0.0326584445798801,0.0,0
+Climate change adaptation (marker),Sector percent,0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0162162162162162,0.0,0.031849810714604,0.0,0
+Climate change mitigation (marker),Fiscal year,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.25,0.0,0.0309613943083323,0.0,0
+Climate change mitigation (marker),Trade development (marker),0.0,0.0,0.0,0.0,0.898901098901099,1.0,0.9412288512911844,0.0,1.0,0.0,0.0399624638135528,0.0,0
+Climate change mitigation (marker),Bilateral aid (international marker),0.0,0.0,0.0,0.0,0.7478345184227537,1.0,1.0,1.0,0.5,0.0,0.0448717878133874,0.0,0
+Climate change mitigation (marker),Organisation sub-class,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.1666666666666666,0.0,0.0344161037896975,0.0,0
+Climate change mitigation (marker),Section ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.16,0.0,0.0329284298503536,0.0,0
+Climate change mitigation (marker),Regional program (marker),0.0,0.0,0.0,0.0,0.7429987379567211,1.0,1.0,0.0,0.5,0.0,0.0389916935310996,0.0,0
+Climate change mitigation (marker),Children issues (marker),0.0,0.0,0.0,0.0,0.6829199372056516,1.0,0.9677875811553188,0.0,1.0,0.0,0.0406208022809635,0.0,0
+Climate change mitigation (marker),ICT as a tool for development (marker),0.0,0.0,0.0,0.0,0.8538914027149322,1.0,0.9916417910447762,0.0,0.75,0.0,0.0389018073938354,0.0,0
+Climate change mitigation (marker),Biodiversity (marker),0.0,0.0,0.0,0.0,0.7452380952380953,1.0,0.9943555973659454,1.0,1.0,0.0,0.0389210920560121,0.0,0
+Climate change mitigation (marker),CountryRegion name,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0275862068965517,0.0,0.035465104644363,0.0,0
+Climate change mitigation (marker),Amount spent,0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0007968127490039,0.0,0.0290137076792727,0.0,0
+Climate change mitigation (marker),Indigenous issues (marker),0.0,0.0,0.0,0.0,0.6834641548927263,1.0,0.9805815007695714,1.0,1.0,0.0,0.0386896761098919,0.0,0
+Climate change mitigation (marker),CountryRegion percent,0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0099502487562189,0.0,0.0345978750747808,0.0,0
+Climate change mitigation (marker),Organisation type,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,1.0,0.0,0.0357530656632908,0.0,0
+Climate change mitigation (marker),Status,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.75,0.0,0.0265066373455193,0.0,0
+Climate change mitigation (marker),FSTC percent,0.0,0.0,0.0,0.0,0.05,1.0,0.6645777589963243,0.0,0.0816326530612244,0.0,0.0290137076792727,0.0,0
+Climate change mitigation (marker),Urban issues (marker),0.0,0.0,0.0,0.0,0.6834641548927263,1.0,0.9955475640037676,1.0,1.0,0.0,0.0389210920560121,0.0,0
+Climate change mitigation (marker),Continent ID,0.0,0.0,0.0,0.0,0.5396825396825398,1.0,0.9427093468249336,0.0,0.8,0.0,0.0308315955046815,0.0,0
+Climate change mitigation (marker),Enviromental sustainability (marker),0.0,0.0,0.0,0.0,0.7138267747290306,1.0,0.8802003081103768,1.0,0.75,0.0,0.0405079442579788,0.0,0
+Climate change mitigation (marker),Branch ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.8,0.0,0.0278830240483154,0.0,0
+Climate change mitigation (marker),CIDA business delivery model (old),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.75,0.0,0.0331326203910479,0.0,0
+Climate change mitigation (marker),Programming process (new),0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.25,0.0,0.0324283360684838,0.0,0
+Climate change mitigation (marker),Youth issues (marker),0.0,0.0,0.0,0.0,0.7406070120355837,1.0,0.9356993400933526,0.0,1.0,0.0,0.0389210920560121,0.0,0
+Climate change mitigation (marker),Desertification (marker),0.0,0.0,0.0,0.0,0.7230158730158731,1.0,0.9870398143693936,0.0,1.0,0.0,0.0445708330854282,0.0,0
+Climate change mitigation (marker),IRTC percent,0.0,0.0,0.0,0.0,0.05,1.0,1.0,1.0,0.75,0.0,0.0290137076792727,0.0,0
+Climate change mitigation (marker),Participatory development and good governance,0.0,0.0,0.0,0.0,0.814871794871795,1.0,0.7701678239382164,0.0,1.0,0.0,0.0344040871330086,0.0,0
+Climate change mitigation (marker),Disability issues (marker),0.0,0.0,0.0,0.0,0.7310832025117739,1.0,0.9844213021759376,0.0,1.0,0.0,0.0399624638135528,0.0,0
+Climate change mitigation (marker),Knowledge for development (marker),0.0,0.0,0.0,0.0,0.8760439560439561,1.0,0.966580763155707,0.0,1.0,0.0,0.0388394158397344,0.0,0
+Climate change mitigation (marker),Gender equality (marker),0.0,0.0,0.0,0.0,0.7581894296180012,1.0,0.7408625192115448,0.0,1.0,0.0,0.0406208022809635,0.0,0
+Climate change mitigation (marker),Organisation ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0117994100294985,0.0,0.0348057326785732,0.0,0
+Climate change mitigation (marker),Organisation name,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0117994100294985,0.0,0.0372504629617153,0.0,0
+Climate change mitigation (marker),Organisation class,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.6666666666666666,0.0,0.035465104644363,0.0,0
+Climate change mitigation (marker),Continent name,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.8,0.0,0.033506969715654,0.0,0
+Climate change mitigation (marker),Project Browser country ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0261437908496732,0.0,0.0296886066046715,0.0,0
+Climate change mitigation (marker),CountryRegion ID,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.028169014084507,0.0,0.0329978546341896,0.0,0
+Climate change mitigation (marker),Sector ID,0.0,0.0,0.0,0.0,0.6056208898314162,1.0,0.0,0.0,0.032520325203252,0.0,0.0297505624702274,0.0,0
+Climate change mitigation (marker),Sector name,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.032520325203252,0.0,0.0326584445798801,0.0,0
+Climate change mitigation (marker),Sector percent,0.0,0.0,0.0,0.0,0.05,1.0,0.0,0.0,0.0216216216216216,0.0,0.031849810714604,0.0,0

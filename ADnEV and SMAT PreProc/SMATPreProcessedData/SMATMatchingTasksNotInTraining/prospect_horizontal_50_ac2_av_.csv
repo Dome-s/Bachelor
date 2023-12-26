@@ -1,0 +1,485 @@
+source,target,des1,des2,label
+AgencyID,AgID,A unique identifier for each individual or record in the dataset.,A distinct identification code assigned to each record within the dataset facilitating unique reference and differentiation,1
+AgencyID,LN,A unique identifier for each individual or record in the dataset.,The family name associated with an individual typically indicating generational lineage.,0
+AgencyID,FirNa,A unique identifier for each individual or record in the dataset.,The initial forename assigned to an individual at birth or registration.,0
+AgencyID,MiIni,A unique identifier for each individual or record in the dataset.,The single-letter abbreviation representing the middle name or initial of an individual.,0
+AgencyID,Gen,A unique identifier for each individual or record in the dataset.,Denotes the biological or societal classification of an individual as male female or another gender category.,0
+AgencyID,AddLi1,A unique identifier for each individual or record in the dataset.,The principal residence or mailing address of an individual serving as the primary contact location.,0
+AgencyID,AddrLi2,A unique identifier for each individual or record in the dataset.,Additional details regarding the residence such as apartment number or suite if applicable.,0
+AgencyID,PosCo,A unique identifier for each individual or record in the dataset.,A series of letters numbers or both appended to a postal address to assist in sorting and delivering mail.,0
+AgencyID,C,A unique identifier for each individual or record in the dataset.,The urban or town area in which the individual resides.,0
+AgencyID,Sta,A unique identifier for each individual or record in the dataset.,The current state or phase of the project.,0
+AgencyID,Cou,A unique identifier for each individual or record in the dataset.,The sovereign nation in which the individual maintains their primary residence.,0
+AgencyID,Ph,A unique identifier for each individual or record in the dataset.,The designated telephone number through which the individual can be reached.,0
+AgencyID,In,A unique identifier for each individual or record in the dataset.,The total financial remuneration received by the individual typically on an annual basis.,0
+AgencyID,NuCa,A unique identifier for each individual or record in the dataset.,The quantity of automobiles owned by the individual.,0
+AgencyID,NumChi,A unique identifier for each individual or record in the dataset.,The total number of biological or adopted children associated with the individual.,0
+AgencyID,MariSta,A unique identifier for each individual or record in the dataset.,The current legal or social relationship status of the individual,0
+AgencyID,A,A unique identifier for each individual or record in the dataset.,The chronological age of the individual measured in years.,0
+AgencyID,CrRat,A unique identifier for each individual or record in the dataset.,A numerical representation of the individual's creditworthiness indicating their ability to manage financial obligations.,0
+AgencyID,OwORF,A unique identifier for each individual or record in the dataset.,A binary indicator specifying whether the individual owns or rents their primary residence.,0
+AgencyID,Em,A unique identifier for each individual or record in the dataset.,The organizational entity by which the individual is employed.,0
+AgencyID,NumCreCar,A unique identifier for each individual or record in the dataset.,The total count of credit cards associated with the individual.,0
+AgencyID,NeWor,A unique identifier for each individual or record in the dataset.,The financial value representing the individual's net worth calculated by subtracting liabilities from total assets.,0
+LastName,AgID,The last name of the individual indicating their family name.,A distinct identification code assigned to each record within the dataset facilitating unique reference and differentiation,0
+LastName,LN,The last name of the individual indicating their family name.,The family name associated with an individual typically indicating generational lineage.,1
+LastName,FirNa,The last name of the individual indicating their family name.,The initial forename assigned to an individual at birth or registration.,0
+LastName,MiIni,The last name of the individual indicating their family name.,The single-letter abbreviation representing the middle name or initial of an individual.,0
+LastName,Gen,The last name of the individual indicating their family name.,Denotes the biological or societal classification of an individual as male female or another gender category.,0
+LastName,AddLi1,The last name of the individual indicating their family name.,The principal residence or mailing address of an individual serving as the primary contact location.,0
+LastName,AddrLi2,The last name of the individual indicating their family name.,Additional details regarding the residence such as apartment number or suite if applicable.,0
+LastName,PosCo,The last name of the individual indicating their family name.,A series of letters numbers or both appended to a postal address to assist in sorting and delivering mail.,0
+LastName,C,The last name of the individual indicating their family name.,The urban or town area in which the individual resides.,0
+LastName,Sta,The last name of the individual indicating their family name.,The current state or phase of the project.,0
+LastName,Cou,The last name of the individual indicating their family name.,The sovereign nation in which the individual maintains their primary residence.,0
+LastName,Ph,The last name of the individual indicating their family name.,The designated telephone number through which the individual can be reached.,0
+LastName,In,The last name of the individual indicating their family name.,The total financial remuneration received by the individual typically on an annual basis.,0
+LastName,NuCa,The last name of the individual indicating their family name.,The quantity of automobiles owned by the individual.,0
+LastName,NumChi,The last name of the individual indicating their family name.,The total number of biological or adopted children associated with the individual.,0
+LastName,MariSta,The last name of the individual indicating their family name.,The current legal or social relationship status of the individual,0
+LastName,A,The last name of the individual indicating their family name.,The chronological age of the individual measured in years.,0
+LastName,CrRat,The last name of the individual indicating their family name.,A numerical representation of the individual's creditworthiness indicating their ability to manage financial obligations.,0
+LastName,OwORF,The last name of the individual indicating their family name.,A binary indicator specifying whether the individual owns or rents their primary residence.,0
+LastName,Em,The last name of the individual indicating their family name.,The organizational entity by which the individual is employed.,0
+LastName,NumCreCar,The last name of the individual indicating their family name.,The total count of credit cards associated with the individual.,0
+LastName,NeWor,The last name of the individual indicating their family name.,The financial value representing the individual's net worth calculated by subtracting liabilities from total assets.,0
+FirstName,AgID,The first name of the individual.,A distinct identification code assigned to each record within the dataset facilitating unique reference and differentiation,0
+FirstName,LN,The first name of the individual.,The family name associated with an individual typically indicating generational lineage.,0
+FirstName,FirNa,The first name of the individual.,The initial forename assigned to an individual at birth or registration.,1
+FirstName,MiIni,The first name of the individual.,The single-letter abbreviation representing the middle name or initial of an individual.,0
+FirstName,Gen,The first name of the individual.,Denotes the biological or societal classification of an individual as male female or another gender category.,0
+FirstName,AddLi1,The first name of the individual.,The principal residence or mailing address of an individual serving as the primary contact location.,0
+FirstName,AddrLi2,The first name of the individual.,Additional details regarding the residence such as apartment number or suite if applicable.,0
+FirstName,PosCo,The first name of the individual.,A series of letters numbers or both appended to a postal address to assist in sorting and delivering mail.,0
+FirstName,C,The first name of the individual.,The urban or town area in which the individual resides.,0
+FirstName,Sta,The first name of the individual.,The current state or phase of the project.,0
+FirstName,Cou,The first name of the individual.,The sovereign nation in which the individual maintains their primary residence.,0
+FirstName,Ph,The first name of the individual.,The designated telephone number through which the individual can be reached.,0
+FirstName,In,The first name of the individual.,The total financial remuneration received by the individual typically on an annual basis.,0
+FirstName,NuCa,The first name of the individual.,The quantity of automobiles owned by the individual.,0
+FirstName,NumChi,The first name of the individual.,The total number of biological or adopted children associated with the individual.,0
+FirstName,MariSta,The first name of the individual.,The current legal or social relationship status of the individual,0
+FirstName,A,The first name of the individual.,The chronological age of the individual measured in years.,0
+FirstName,CrRat,The first name of the individual.,A numerical representation of the individual's creditworthiness indicating their ability to manage financial obligations.,0
+FirstName,OwORF,The first name of the individual.,A binary indicator specifying whether the individual owns or rents their primary residence.,0
+FirstName,Em,The first name of the individual.,The organizational entity by which the individual is employed.,0
+FirstName,NumCreCar,The first name of the individual.,The total count of credit cards associated with the individual.,0
+FirstName,NeWor,The first name of the individual.,The financial value representing the individual's net worth calculated by subtracting liabilities from total assets.,0
+MiddleInitial,AgID,The middle initial of the individual.,A distinct identification code assigned to each record within the dataset facilitating unique reference and differentiation,0
+MiddleInitial,LN,The middle initial of the individual.,The family name associated with an individual typically indicating generational lineage.,0
+MiddleInitial,FirNa,The middle initial of the individual.,The initial forename assigned to an individual at birth or registration.,0
+MiddleInitial,MiIni,The middle initial of the individual.,The single-letter abbreviation representing the middle name or initial of an individual.,1
+MiddleInitial,Gen,The middle initial of the individual.,Denotes the biological or societal classification of an individual as male female or another gender category.,0
+MiddleInitial,AddLi1,The middle initial of the individual.,The principal residence or mailing address of an individual serving as the primary contact location.,0
+MiddleInitial,AddrLi2,The middle initial of the individual.,Additional details regarding the residence such as apartment number or suite if applicable.,0
+MiddleInitial,PosCo,The middle initial of the individual.,A series of letters numbers or both appended to a postal address to assist in sorting and delivering mail.,0
+MiddleInitial,C,The middle initial of the individual.,The urban or town area in which the individual resides.,0
+MiddleInitial,Sta,The middle initial of the individual.,The current state or phase of the project.,0
+MiddleInitial,Cou,The middle initial of the individual.,The sovereign nation in which the individual maintains their primary residence.,0
+MiddleInitial,Ph,The middle initial of the individual.,The designated telephone number through which the individual can be reached.,0
+MiddleInitial,In,The middle initial of the individual.,The total financial remuneration received by the individual typically on an annual basis.,0
+MiddleInitial,NuCa,The middle initial of the individual.,The quantity of automobiles owned by the individual.,0
+MiddleInitial,NumChi,The middle initial of the individual.,The total number of biological or adopted children associated with the individual.,0
+MiddleInitial,MariSta,The middle initial of the individual.,The current legal or social relationship status of the individual,0
+MiddleInitial,A,The middle initial of the individual.,The chronological age of the individual measured in years.,0
+MiddleInitial,CrRat,The middle initial of the individual.,A numerical representation of the individual's creditworthiness indicating their ability to manage financial obligations.,0
+MiddleInitial,OwORF,The middle initial of the individual.,A binary indicator specifying whether the individual owns or rents their primary residence.,0
+MiddleInitial,Em,The middle initial of the individual.,The organizational entity by which the individual is employed.,0
+MiddleInitial,NumCreCar,The middle initial of the individual.,The total count of credit cards associated with the individual.,0
+MiddleInitial,NeWor,The middle initial of the individual.,The financial value representing the individual's net worth calculated by subtracting liabilities from total assets.,0
+Gender,AgID,Indicates the gender of the individual.,A distinct identification code assigned to each record within the dataset facilitating unique reference and differentiation,0
+Gender,LN,Indicates the gender of the individual.,The family name associated with an individual typically indicating generational lineage.,0
+Gender,FirNa,Indicates the gender of the individual.,The initial forename assigned to an individual at birth or registration.,0
+Gender,MiIni,Indicates the gender of the individual.,The single-letter abbreviation representing the middle name or initial of an individual.,0
+Gender,Gen,Indicates the gender of the individual.,Denotes the biological or societal classification of an individual as male female or another gender category.,1
+Gender,AddLi1,Indicates the gender of the individual.,The principal residence or mailing address of an individual serving as the primary contact location.,0
+Gender,AddrLi2,Indicates the gender of the individual.,Additional details regarding the residence such as apartment number or suite if applicable.,0
+Gender,PosCo,Indicates the gender of the individual.,A series of letters numbers or both appended to a postal address to assist in sorting and delivering mail.,0
+Gender,C,Indicates the gender of the individual.,The urban or town area in which the individual resides.,0
+Gender,Sta,Indicates the gender of the individual.,The current state or phase of the project.,0
+Gender,Cou,Indicates the gender of the individual.,The sovereign nation in which the individual maintains their primary residence.,0
+Gender,Ph,Indicates the gender of the individual.,The designated telephone number through which the individual can be reached.,0
+Gender,In,Indicates the gender of the individual.,The total financial remuneration received by the individual typically on an annual basis.,0
+Gender,NuCa,Indicates the gender of the individual.,The quantity of automobiles owned by the individual.,0
+Gender,NumChi,Indicates the gender of the individual.,The total number of biological or adopted children associated with the individual.,0
+Gender,MariSta,Indicates the gender of the individual.,The current legal or social relationship status of the individual,0
+Gender,A,Indicates the gender of the individual.,The chronological age of the individual measured in years.,0
+Gender,CrRat,Indicates the gender of the individual.,A numerical representation of the individual's creditworthiness indicating their ability to manage financial obligations.,0
+Gender,OwORF,Indicates the gender of the individual.,A binary indicator specifying whether the individual owns or rents their primary residence.,0
+Gender,Em,Indicates the gender of the individual.,The organizational entity by which the individual is employed.,0
+Gender,NumCreCar,Indicates the gender of the individual.,The total count of credit cards associated with the individual.,0
+Gender,NeWor,Indicates the gender of the individual.,The financial value representing the individual's net worth calculated by subtracting liabilities from total assets.,0
+AddressLine1,AgID,The primary address of the individual.,A distinct identification code assigned to each record within the dataset facilitating unique reference and differentiation,0
+AddressLine1,LN,The primary address of the individual.,The family name associated with an individual typically indicating generational lineage.,0
+AddressLine1,FirNa,The primary address of the individual.,The initial forename assigned to an individual at birth or registration.,0
+AddressLine1,MiIni,The primary address of the individual.,The single-letter abbreviation representing the middle name or initial of an individual.,0
+AddressLine1,Gen,The primary address of the individual.,Denotes the biological or societal classification of an individual as male female or another gender category.,0
+AddressLine1,AddLi1,The primary address of the individual.,The principal residence or mailing address of an individual serving as the primary contact location.,1
+AddressLine1,AddrLi2,The primary address of the individual.,Additional details regarding the residence such as apartment number or suite if applicable.,0
+AddressLine1,PosCo,The primary address of the individual.,A series of letters numbers or both appended to a postal address to assist in sorting and delivering mail.,0
+AddressLine1,C,The primary address of the individual.,The urban or town area in which the individual resides.,0
+AddressLine1,Sta,The primary address of the individual.,The current state or phase of the project.,0
+AddressLine1,Cou,The primary address of the individual.,The sovereign nation in which the individual maintains their primary residence.,0
+AddressLine1,Ph,The primary address of the individual.,The designated telephone number through which the individual can be reached.,0
+AddressLine1,In,The primary address of the individual.,The total financial remuneration received by the individual typically on an annual basis.,0
+AddressLine1,NuCa,The primary address of the individual.,The quantity of automobiles owned by the individual.,0
+AddressLine1,NumChi,The primary address of the individual.,The total number of biological or adopted children associated with the individual.,0
+AddressLine1,MariSta,The primary address of the individual.,The current legal or social relationship status of the individual,0
+AddressLine1,A,The primary address of the individual.,The chronological age of the individual measured in years.,0
+AddressLine1,CrRat,The primary address of the individual.,A numerical representation of the individual's creditworthiness indicating their ability to manage financial obligations.,0
+AddressLine1,OwORF,The primary address of the individual.,A binary indicator specifying whether the individual owns or rents their primary residence.,0
+AddressLine1,Em,The primary address of the individual.,The organizational entity by which the individual is employed.,0
+AddressLine1,NumCreCar,The primary address of the individual.,The total count of credit cards associated with the individual.,0
+AddressLine1,NeWor,The primary address of the individual.,The financial value representing the individual's net worth calculated by subtracting liabilities from total assets.,0
+AddressLine2,AgID,Additional address information such as apartment number or suite.,A distinct identification code assigned to each record within the dataset facilitating unique reference and differentiation,0
+AddressLine2,LN,Additional address information such as apartment number or suite.,The family name associated with an individual typically indicating generational lineage.,0
+AddressLine2,FirNa,Additional address information such as apartment number or suite.,The initial forename assigned to an individual at birth or registration.,0
+AddressLine2,MiIni,Additional address information such as apartment number or suite.,The single-letter abbreviation representing the middle name or initial of an individual.,0
+AddressLine2,Gen,Additional address information such as apartment number or suite.,Denotes the biological or societal classification of an individual as male female or another gender category.,0
+AddressLine2,AddLi1,Additional address information such as apartment number or suite.,The principal residence or mailing address of an individual serving as the primary contact location.,0
+AddressLine2,AddrLi2,Additional address information such as apartment number or suite.,Additional details regarding the residence such as apartment number or suite if applicable.,1
+AddressLine2,PosCo,Additional address information such as apartment number or suite.,A series of letters numbers or both appended to a postal address to assist in sorting and delivering mail.,0
+AddressLine2,C,Additional address information such as apartment number or suite.,The urban or town area in which the individual resides.,0
+AddressLine2,Sta,Additional address information such as apartment number or suite.,The current state or phase of the project.,0
+AddressLine2,Cou,Additional address information such as apartment number or suite.,The sovereign nation in which the individual maintains their primary residence.,0
+AddressLine2,Ph,Additional address information such as apartment number or suite.,The designated telephone number through which the individual can be reached.,0
+AddressLine2,In,Additional address information such as apartment number or suite.,The total financial remuneration received by the individual typically on an annual basis.,0
+AddressLine2,NuCa,Additional address information such as apartment number or suite.,The quantity of automobiles owned by the individual.,0
+AddressLine2,NumChi,Additional address information such as apartment number or suite.,The total number of biological or adopted children associated with the individual.,0
+AddressLine2,MariSta,Additional address information such as apartment number or suite.,The current legal or social relationship status of the individual,0
+AddressLine2,A,Additional address information such as apartment number or suite.,The chronological age of the individual measured in years.,0
+AddressLine2,CrRat,Additional address information such as apartment number or suite.,A numerical representation of the individual's creditworthiness indicating their ability to manage financial obligations.,0
+AddressLine2,OwORF,Additional address information such as apartment number or suite.,A binary indicator specifying whether the individual owns or rents their primary residence.,0
+AddressLine2,Em,Additional address information such as apartment number or suite.,The organizational entity by which the individual is employed.,0
+AddressLine2,NumCreCar,Additional address information such as apartment number or suite.,The total count of credit cards associated with the individual.,0
+AddressLine2,NeWor,Additional address information such as apartment number or suite.,The financial value representing the individual's net worth calculated by subtracting liabilities from total assets.,0
+PostalCode,AgID,The postal code of the individual's address.,A distinct identification code assigned to each record within the dataset facilitating unique reference and differentiation,0
+PostalCode,LN,The postal code of the individual's address.,The family name associated with an individual typically indicating generational lineage.,0
+PostalCode,FirNa,The postal code of the individual's address.,The initial forename assigned to an individual at birth or registration.,0
+PostalCode,MiIni,The postal code of the individual's address.,The single-letter abbreviation representing the middle name or initial of an individual.,0
+PostalCode,Gen,The postal code of the individual's address.,Denotes the biological or societal classification of an individual as male female or another gender category.,0
+PostalCode,AddLi1,The postal code of the individual's address.,The principal residence or mailing address of an individual serving as the primary contact location.,0
+PostalCode,AddrLi2,The postal code of the individual's address.,Additional details regarding the residence such as apartment number or suite if applicable.,0
+PostalCode,PosCo,The postal code of the individual's address.,A series of letters numbers or both appended to a postal address to assist in sorting and delivering mail.,1
+PostalCode,C,The postal code of the individual's address.,The urban or town area in which the individual resides.,0
+PostalCode,Sta,The postal code of the individual's address.,The current state or phase of the project.,0
+PostalCode,Cou,The postal code of the individual's address.,The sovereign nation in which the individual maintains their primary residence.,0
+PostalCode,Ph,The postal code of the individual's address.,The designated telephone number through which the individual can be reached.,0
+PostalCode,In,The postal code of the individual's address.,The total financial remuneration received by the individual typically on an annual basis.,0
+PostalCode,NuCa,The postal code of the individual's address.,The quantity of automobiles owned by the individual.,0
+PostalCode,NumChi,The postal code of the individual's address.,The total number of biological or adopted children associated with the individual.,0
+PostalCode,MariSta,The postal code of the individual's address.,The current legal or social relationship status of the individual,0
+PostalCode,A,The postal code of the individual's address.,The chronological age of the individual measured in years.,0
+PostalCode,CrRat,The postal code of the individual's address.,A numerical representation of the individual's creditworthiness indicating their ability to manage financial obligations.,0
+PostalCode,OwORF,The postal code of the individual's address.,A binary indicator specifying whether the individual owns or rents their primary residence.,0
+PostalCode,Em,The postal code of the individual's address.,The organizational entity by which the individual is employed.,0
+PostalCode,NumCreCar,The postal code of the individual's address.,The total count of credit cards associated with the individual.,0
+PostalCode,NeWor,The postal code of the individual's address.,The financial value representing the individual's net worth calculated by subtracting liabilities from total assets.,0
+City,AgID,The city in which the individual resides.,A distinct identification code assigned to each record within the dataset facilitating unique reference and differentiation,0
+City,LN,The city in which the individual resides.,The family name associated with an individual typically indicating generational lineage.,0
+City,FirNa,The city in which the individual resides.,The initial forename assigned to an individual at birth or registration.,0
+City,MiIni,The city in which the individual resides.,The single-letter abbreviation representing the middle name or initial of an individual.,0
+City,Gen,The city in which the individual resides.,Denotes the biological or societal classification of an individual as male female or another gender category.,0
+City,AddLi1,The city in which the individual resides.,The principal residence or mailing address of an individual serving as the primary contact location.,0
+City,AddrLi2,The city in which the individual resides.,Additional details regarding the residence such as apartment number or suite if applicable.,0
+City,PosCo,The city in which the individual resides.,A series of letters numbers or both appended to a postal address to assist in sorting and delivering mail.,0
+City,C,The city in which the individual resides.,The urban or town area in which the individual resides.,1
+City,Sta,The city in which the individual resides.,The current state or phase of the project.,0
+City,Cou,The city in which the individual resides.,The sovereign nation in which the individual maintains their primary residence.,0
+City,Ph,The city in which the individual resides.,The designated telephone number through which the individual can be reached.,0
+City,In,The city in which the individual resides.,The total financial remuneration received by the individual typically on an annual basis.,0
+City,NuCa,The city in which the individual resides.,The quantity of automobiles owned by the individual.,0
+City,NumChi,The city in which the individual resides.,The total number of biological or adopted children associated with the individual.,0
+City,MariSta,The city in which the individual resides.,The current legal or social relationship status of the individual,0
+City,A,The city in which the individual resides.,The chronological age of the individual measured in years.,0
+City,CrRat,The city in which the individual resides.,A numerical representation of the individual's creditworthiness indicating their ability to manage financial obligations.,0
+City,OwORF,The city in which the individual resides.,A binary indicator specifying whether the individual owns or rents their primary residence.,0
+City,Em,The city in which the individual resides.,The organizational entity by which the individual is employed.,0
+City,NumCreCar,The city in which the individual resides.,The total count of credit cards associated with the individual.,0
+City,NeWor,The city in which the individual resides.,The financial value representing the individual's net worth calculated by subtracting liabilities from total assets.,0
+State,AgID,The state or province of the individual's address.,A distinct identification code assigned to each record within the dataset facilitating unique reference and differentiation,0
+State,LN,The state or province of the individual's address.,The family name associated with an individual typically indicating generational lineage.,0
+State,FirNa,The state or province of the individual's address.,The initial forename assigned to an individual at birth or registration.,0
+State,MiIni,The state or province of the individual's address.,The single-letter abbreviation representing the middle name or initial of an individual.,0
+State,Gen,The state or province of the individual's address.,Denotes the biological or societal classification of an individual as male female or another gender category.,0
+State,AddLi1,The state or province of the individual's address.,The principal residence or mailing address of an individual serving as the primary contact location.,0
+State,AddrLi2,The state or province of the individual's address.,Additional details regarding the residence such as apartment number or suite if applicable.,0
+State,PosCo,The state or province of the individual's address.,A series of letters numbers or both appended to a postal address to assist in sorting and delivering mail.,0
+State,C,The state or province of the individual's address.,The urban or town area in which the individual resides.,0
+State,Sta,The state or province of the individual's address.,The administrative region or territory within a country where the individual's residence is situated.,1
+State,Cou,The state or province of the individual's address.,The sovereign nation in which the individual maintains their primary residence.,0
+State,Ph,The state or province of the individual's address.,The designated telephone number through which the individual can be reached.,0
+State,In,The state or province of the individual's address.,The total financial remuneration received by the individual typically on an annual basis.,0
+State,NuCa,The state or province of the individual's address.,The quantity of automobiles owned by the individual.,0
+State,NumChi,The state or province of the individual's address.,The total number of biological or adopted children associated with the individual.,0
+State,MariSta,The state or province of the individual's address.,The current legal or social relationship status of the individual,0
+State,A,The state or province of the individual's address.,The chronological age of the individual measured in years.,0
+State,CrRat,The state or province of the individual's address.,A numerical representation of the individual's creditworthiness indicating their ability to manage financial obligations.,0
+State,OwORF,The state or province of the individual's address.,A binary indicator specifying whether the individual owns or rents their primary residence.,0
+State,Em,The state or province of the individual's address.,The organizational entity by which the individual is employed.,0
+State,NumCreCar,The state or province of the individual's address.,The total count of credit cards associated with the individual.,0
+State,NeWor,The state or province of the individual's address.,The financial value representing the individual's net worth calculated by subtracting liabilities from total assets.,0
+Country,AgID,The country in which the individual resides.,A distinct identification code assigned to each record within the dataset facilitating unique reference and differentiation,0
+Country,LN,The country in which the individual resides.,The family name associated with an individual typically indicating generational lineage.,0
+Country,FirNa,The country in which the individual resides.,The initial forename assigned to an individual at birth or registration.,0
+Country,MiIni,The country in which the individual resides.,The single-letter abbreviation representing the middle name or initial of an individual.,0
+Country,Gen,The country in which the individual resides.,Denotes the biological or societal classification of an individual as male female or another gender category.,0
+Country,AddLi1,The country in which the individual resides.,The principal residence or mailing address of an individual serving as the primary contact location.,0
+Country,AddrLi2,The country in which the individual resides.,Additional details regarding the residence such as apartment number or suite if applicable.,0
+Country,PosCo,The country in which the individual resides.,A series of letters numbers or both appended to a postal address to assist in sorting and delivering mail.,0
+Country,C,The country in which the individual resides.,The urban or town area in which the individual resides.,0
+Country,Sta,The country in which the individual resides.,The administrative region or territory within a country where the individual's residence is situated.,0
+Country,Cou,The country in which the individual resides.,The sovereign nation in which the individual maintains their primary residence.,1
+Country,Ph,The country in which the individual resides.,The designated telephone number through which the individual can be reached.,0
+Country,In,The country in which the individual resides.,The total financial remuneration received by the individual typically on an annual basis.,0
+Country,NuCa,The country in which the individual resides.,The quantity of automobiles owned by the individual.,0
+Country,NumChi,The country in which the individual resides.,The total number of biological or adopted children associated with the individual.,0
+Country,MariSta,The country in which the individual resides.,The current legal or social relationship status of the individual,0
+Country,A,The country in which the individual resides.,The chronological age of the individual measured in years.,0
+Country,CrRat,The country in which the individual resides.,A numerical representation of the individual's creditworthiness indicating their ability to manage financial obligations.,0
+Country,OwORF,The country in which the individual resides.,A binary indicator specifying whether the individual owns or rents their primary residence.,0
+Country,Em,The country in which the individual resides.,The organizational entity by which the individual is employed.,0
+Country,NumCreCar,The country in which the individual resides.,The total count of credit cards associated with the individual.,0
+Country,NeWor,The country in which the individual resides.,The financial value representing the individual's net worth calculated by subtracting liabilities from total assets.,0
+Phone,AgID,The contact phone number for the individual.,A distinct identification code assigned to each record within the dataset facilitating unique reference and differentiation,0
+Phone,LN,The contact phone number for the individual.,The family name associated with an individual typically indicating generational lineage.,0
+Phone,FirNa,The contact phone number for the individual.,The initial forename assigned to an individual at birth or registration.,0
+Phone,MiIni,The contact phone number for the individual.,The single-letter abbreviation representing the middle name or initial of an individual.,0
+Phone,Gen,The contact phone number for the individual.,Denotes the biological or societal classification of an individual as male female or another gender category.,0
+Phone,AddLi1,The contact phone number for the individual.,The principal residence or mailing address of an individual serving as the primary contact location.,0
+Phone,AddrLi2,The contact phone number for the individual.,Additional details regarding the residence such as apartment number or suite if applicable.,0
+Phone,PosCo,The contact phone number for the individual.,A series of letters numbers or both appended to a postal address to assist in sorting and delivering mail.,0
+Phone,C,The contact phone number for the individual.,The urban or town area in which the individual resides.,0
+Phone,Sta,The contact phone number for the individual.,The administrative region or territory within a country where the individual's residence is situated.,0
+Phone,Cou,The contact phone number for the individual.,The sovereign nation in which the individual maintains their primary residence.,0
+Phone,Ph,The contact phone number for the individual.,The designated telephone number through which the individual can be reached.,1
+Phone,In,The contact phone number for the individual.,The total financial remuneration received by the individual typically on an annual basis.,0
+Phone,NuCa,The contact phone number for the individual.,The quantity of automobiles owned by the individual.,0
+Phone,NumChi,The contact phone number for the individual.,The total number of biological or adopted children associated with the individual.,0
+Phone,MariSta,The contact phone number for the individual.,The current legal or social relationship status of the individual,0
+Phone,A,The contact phone number for the individual.,The chronological age of the individual measured in years.,0
+Phone,CrRat,The contact phone number for the individual.,A numerical representation of the individual's creditworthiness indicating their ability to manage financial obligations.,0
+Phone,OwORF,The contact phone number for the individual.,A binary indicator specifying whether the individual owns or rents their primary residence.,0
+Phone,Em,The contact phone number for the individual.,The organizational entity by which the individual is employed.,0
+Phone,NumCreCar,The contact phone number for the individual.,The total count of credit cards associated with the individual.,0
+Phone,NeWor,The contact phone number for the individual.,The financial value representing the individual's net worth calculated by subtracting liabilities from total assets.,0
+Income,AgID,The income of the individual.,A distinct identification code assigned to each record within the dataset facilitating unique reference and differentiation,0
+Income,LN,The income of the individual.,The family name associated with an individual typically indicating generational lineage.,0
+Income,FirNa,The income of the individual.,The initial forename assigned to an individual at birth or registration.,0
+Income,MiIni,The income of the individual.,The single-letter abbreviation representing the middle name or initial of an individual.,0
+Income,Gen,The income of the individual.,Denotes the biological or societal classification of an individual as male female or another gender category.,0
+Income,AddLi1,The income of the individual.,The principal residence or mailing address of an individual serving as the primary contact location.,0
+Income,AddrLi2,The income of the individual.,Additional details regarding the residence such as apartment number or suite if applicable.,0
+Income,PosCo,The income of the individual.,A series of letters numbers or both appended to a postal address to assist in sorting and delivering mail.,0
+Income,C,The income of the individual.,The urban or town area in which the individual resides.,0
+Income,Sta,The income of the individual.,The administrative region or territory within a country where the individual's residence is situated.,0
+Income,Cou,The income of the individual.,The sovereign nation in which the individual maintains their primary residence.,0
+Income,Ph,The income of the individual.,The designated telephone number through which the individual can be reached.,0
+Income,In,The income of the individual.,The total financial remuneration received by the individual typically on an annual basis.,1
+Income,NuCa,The income of the individual.,The quantity of automobiles owned by the individual.,0
+Income,NumChi,The income of the individual.,The total number of biological or adopted children associated with the individual.,0
+Income,MariSta,The income of the individual.,The current legal or social relationship status of the individual,0
+Income,A,The income of the individual.,The chronological age of the individual measured in years.,0
+Income,CrRat,The income of the individual.,A numerical representation of the individual's creditworthiness indicating their ability to manage financial obligations.,0
+Income,OwORF,The income of the individual.,A binary indicator specifying whether the individual owns or rents their primary residence.,0
+Income,Em,The income of the individual.,The organizational entity by which the individual is employed.,0
+Income,NumCreCar,The income of the individual.,The total count of credit cards associated with the individual.,0
+Income,NeWor,The income of the individual.,The financial value representing the individual's net worth calculated by subtracting liabilities from total assets.,0
+NumberCars,AgID,The number of cars owned by the individual.,A distinct identification code assigned to each record within the dataset facilitating unique reference and differentiation,0
+NumberCars,LN,The number of cars owned by the individual.,The family name associated with an individual typically indicating generational lineage.,0
+NumberCars,FirNa,The number of cars owned by the individual.,The initial forename assigned to an individual at birth or registration.,0
+NumberCars,MiIni,The number of cars owned by the individual.,The single-letter abbreviation representing the middle name or initial of an individual.,0
+NumberCars,Gen,The number of cars owned by the individual.,Denotes the biological or societal classification of an individual as male female or another gender category.,0
+NumberCars,AddLi1,The number of cars owned by the individual.,The principal residence or mailing address of an individual serving as the primary contact location.,0
+NumberCars,AddrLi2,The number of cars owned by the individual.,Additional details regarding the residence such as apartment number or suite if applicable.,0
+NumberCars,PosCo,The number of cars owned by the individual.,A series of letters numbers or both appended to a postal address to assist in sorting and delivering mail.,0
+NumberCars,C,The number of cars owned by the individual.,The urban or town area in which the individual resides.,0
+NumberCars,Sta,The number of cars owned by the individual.,The administrative region or territory within a country where the individual's residence is situated.,0
+NumberCars,Cou,The number of cars owned by the individual.,The sovereign nation in which the individual maintains their primary residence.,0
+NumberCars,Ph,The number of cars owned by the individual.,The designated telephone number through which the individual can be reached.,0
+NumberCars,In,The number of cars owned by the individual.,The total financial remuneration received by the individual typically on an annual basis.,0
+NumberCars,NuCa,The number of cars owned by the individual.,The quantity of automobiles owned by the individual.,1
+NumberCars,NumChi,The number of cars owned by the individual.,The total number of biological or adopted children associated with the individual.,0
+NumberCars,MariSta,The number of cars owned by the individual.,The current legal or social relationship status of the individual,0
+NumberCars,A,The number of cars owned by the individual.,The chronological age of the individual measured in years.,0
+NumberCars,CrRat,The number of cars owned by the individual.,A numerical representation of the individual's creditworthiness indicating their ability to manage financial obligations.,0
+NumberCars,OwORF,The number of cars owned by the individual.,A binary indicator specifying whether the individual owns or rents their primary residence.,0
+NumberCars,Em,The number of cars owned by the individual.,The organizational entity by which the individual is employed.,0
+NumberCars,NumCreCar,The number of cars owned by the individual.,The total count of credit cards associated with the individual.,0
+NumberCars,NeWor,The number of cars owned by the individual.,The financial value representing the individual's net worth calculated by subtracting liabilities from total assets.,0
+NumberChildren,AgID,The number of children the individual has.,A distinct identification code assigned to each record within the dataset facilitating unique reference and differentiation,0
+NumberChildren,LN,The number of children the individual has.,The family name associated with an individual typically indicating generational lineage.,0
+NumberChildren,FirNa,The number of children the individual has.,The initial forename assigned to an individual at birth or registration.,0
+NumberChildren,MiIni,The number of children the individual has.,The single-letter abbreviation representing the middle name or initial of an individual.,0
+NumberChildren,Gen,The number of children the individual has.,Denotes the biological or societal classification of an individual as male female or another gender category.,0
+NumberChildren,AddLi1,The number of children the individual has.,The principal residence or mailing address of an individual serving as the primary contact location.,0
+NumberChildren,AddrLi2,The number of children the individual has.,Additional details regarding the residence such as apartment number or suite if applicable.,0
+NumberChildren,PosCo,The number of children the individual has.,A series of letters numbers or both appended to a postal address to assist in sorting and delivering mail.,0
+NumberChildren,C,The number of children the individual has.,The urban or town area in which the individual resides.,0
+NumberChildren,Sta,The number of children the individual has.,The administrative region or territory within a country where the individual's residence is situated.,0
+NumberChildren,Cou,The number of children the individual has.,The sovereign nation in which the individual maintains their primary residence.,0
+NumberChildren,Ph,The number of children the individual has.,The designated telephone number through which the individual can be reached.,0
+NumberChildren,In,The number of children the individual has.,The total financial remuneration received by the individual typically on an annual basis.,0
+NumberChildren,NuCa,The number of children the individual has.,The quantity of automobiles owned by the individual.,0
+NumberChildren,NumChi,The number of children the individual has.,The total number of biological or adopted children associated with the individual.,1
+NumberChildren,MariSta,The number of children the individual has.,The current legal or social relationship status of the individual,0
+NumberChildren,A,The number of children the individual has.,The chronological age of the individual measured in years.,0
+NumberChildren,CrRat,The number of children the individual has.,A numerical representation of the individual's creditworthiness indicating their ability to manage financial obligations.,0
+NumberChildren,OwORF,The number of children the individual has.,A binary indicator specifying whether the individual owns or rents their primary residence.,0
+NumberChildren,Em,The number of children the individual has.,The organizational entity by which the individual is employed.,0
+NumberChildren,NumCreCar,The number of children the individual has.,The total count of credit cards associated with the individual.,0
+NumberChildren,NeWor,The number of children the individual has.,The financial value representing the individual's net worth calculated by subtracting liabilities from total assets.,0
+MaritalStatus,AgID,Indicates the marital status of the individual,A distinct identification code assigned to each record within the dataset facilitating unique reference and differentiation,0
+MaritalStatus,LN,Indicates the marital status of the individual,The family name associated with an individual typically indicating generational lineage.,0
+MaritalStatus,FirNa,Indicates the marital status of the individual,The initial forename assigned to an individual at birth or registration.,0
+MaritalStatus,MiIni,Indicates the marital status of the individual,The single-letter abbreviation representing the middle name or initial of an individual.,0
+MaritalStatus,Gen,Indicates the marital status of the individual,Denotes the biological or societal classification of an individual as male female or another gender category.,0
+MaritalStatus,AddLi1,Indicates the marital status of the individual,The principal residence or mailing address of an individual serving as the primary contact location.,0
+MaritalStatus,AddrLi2,Indicates the marital status of the individual,Additional details regarding the residence such as apartment number or suite if applicable.,0
+MaritalStatus,PosCo,Indicates the marital status of the individual,A series of letters numbers or both appended to a postal address to assist in sorting and delivering mail.,0
+MaritalStatus,C,Indicates the marital status of the individual,The urban or town area in which the individual resides.,0
+MaritalStatus,Sta,Indicates the marital status of the individual,The administrative region or territory within a country where the individual's residence is situated.,0
+MaritalStatus,Cou,Indicates the marital status of the individual,The sovereign nation in which the individual maintains their primary residence.,0
+MaritalStatus,Ph,Indicates the marital status of the individual,The designated telephone number through which the individual can be reached.,0
+MaritalStatus,In,Indicates the marital status of the individual,The total financial remuneration received by the individual typically on an annual basis.,0
+MaritalStatus,NuCa,Indicates the marital status of the individual,The quantity of automobiles owned by the individual.,0
+MaritalStatus,NumChi,Indicates the marital status of the individual,The total number of biological or adopted children associated with the individual.,0
+MaritalStatus,MariSta,Indicates the marital status of the individual,The current legal or social relationship status of the individual,1
+MaritalStatus,A,Indicates the marital status of the individual,The chronological age of the individual measured in years.,0
+MaritalStatus,CrRat,Indicates the marital status of the individual,A numerical representation of the individual's creditworthiness indicating their ability to manage financial obligations.,0
+MaritalStatus,OwORF,Indicates the marital status of the individual,A binary indicator specifying whether the individual owns or rents their primary residence.,0
+MaritalStatus,Em,Indicates the marital status of the individual,The organizational entity by which the individual is employed.,0
+MaritalStatus,NumCreCar,Indicates the marital status of the individual,The total count of credit cards associated with the individual.,0
+MaritalStatus,NeWor,Indicates the marital status of the individual,The financial value representing the individual's net worth calculated by subtracting liabilities from total assets.,0
+Age,AgID,The age of the individual.,A distinct identification code assigned to each record within the dataset facilitating unique reference and differentiation,0
+Age,LN,The age of the individual.,The family name associated with an individual typically indicating generational lineage.,0
+Age,FirNa,The age of the individual.,The initial forename assigned to an individual at birth or registration.,0
+Age,MiIni,The age of the individual.,The single-letter abbreviation representing the middle name or initial of an individual.,0
+Age,Gen,The age of the individual.,Denotes the biological or societal classification of an individual as male female or another gender category.,0
+Age,AddLi1,The age of the individual.,The principal residence or mailing address of an individual serving as the primary contact location.,0
+Age,AddrLi2,The age of the individual.,Additional details regarding the residence such as apartment number or suite if applicable.,0
+Age,PosCo,The age of the individual.,A series of letters numbers or both appended to a postal address to assist in sorting and delivering mail.,0
+Age,C,The age of the individual.,The urban or town area in which the individual resides.,0
+Age,Sta,The age of the individual.,The administrative region or territory within a country where the individual's residence is situated.,0
+Age,Cou,The age of the individual.,The sovereign nation in which the individual maintains their primary residence.,0
+Age,Ph,The age of the individual.,The designated telephone number through which the individual can be reached.,0
+Age,In,The age of the individual.,The total financial remuneration received by the individual typically on an annual basis.,0
+Age,NuCa,The age of the individual.,The quantity of automobiles owned by the individual.,0
+Age,NumChi,The age of the individual.,The total number of biological or adopted children associated with the individual.,0
+Age,MariSta,The age of the individual.,The current legal or social relationship status of the individual,0
+Age,A,The age of the individual.,The chronological age of the individual measured in years.,1
+Age,CrRat,The age of the individual.,A numerical representation of the individual's creditworthiness indicating their ability to manage financial obligations.,0
+Age,OwORF,The age of the individual.,A binary indicator specifying whether the individual owns or rents their primary residence.,0
+Age,Em,The age of the individual.,The organizational entity by which the individual is employed.,0
+Age,NumCreCar,The age of the individual.,The total count of credit cards associated with the individual.,0
+Age,NeWor,The age of the individual.,The financial value representing the individual's net worth calculated by subtracting liabilities from total assets.,0
+CreditRating,AgID,The credit rating of the individual.,A distinct identification code assigned to each record within the dataset facilitating unique reference and differentiation,0
+CreditRating,LN,The credit rating of the individual.,The family name associated with an individual typically indicating generational lineage.,0
+CreditRating,FirNa,The credit rating of the individual.,The initial forename assigned to an individual at birth or registration.,0
+CreditRating,MiIni,The credit rating of the individual.,The single-letter abbreviation representing the middle name or initial of an individual.,0
+CreditRating,Gen,The credit rating of the individual.,Denotes the biological or societal classification of an individual as male female or another gender category.,0
+CreditRating,AddLi1,The credit rating of the individual.,The principal residence or mailing address of an individual serving as the primary contact location.,0
+CreditRating,AddrLi2,The credit rating of the individual.,Additional details regarding the residence such as apartment number or suite if applicable.,0
+CreditRating,PosCo,The credit rating of the individual.,A series of letters numbers or both appended to a postal address to assist in sorting and delivering mail.,0
+CreditRating,C,The credit rating of the individual.,The urban or town area in which the individual resides.,0
+CreditRating,Sta,The credit rating of the individual.,The administrative region or territory within a country where the individual's residence is situated.,0
+CreditRating,Cou,The credit rating of the individual.,The sovereign nation in which the individual maintains their primary residence.,0
+CreditRating,Ph,The credit rating of the individual.,The designated telephone number through which the individual can be reached.,0
+CreditRating,In,The credit rating of the individual.,The total financial remuneration received by the individual typically on an annual basis.,0
+CreditRating,NuCa,The credit rating of the individual.,The quantity of automobiles owned by the individual.,0
+CreditRating,NumChi,The credit rating of the individual.,The total number of biological or adopted children associated with the individual.,0
+CreditRating,MariSta,The credit rating of the individual.,The current legal or social relationship status of the individual,0
+CreditRating,A,The credit rating of the individual.,The chronological age of the individual measured in years.,0
+CreditRating,CrRat,The credit rating of the individual.,A numerical representation of the individual's creditworthiness indicating their ability to manage financial obligations.,1
+CreditRating,OwORF,The credit rating of the individual.,A binary indicator specifying whether the individual owns or rents their primary residence.,0
+CreditRating,Em,The credit rating of the individual.,The organizational entity by which the individual is employed.,0
+CreditRating,NumCreCar,The credit rating of the individual.,The total count of credit cards associated with the individual.,0
+CreditRating,NeWor,The credit rating of the individual.,The financial value representing the individual's net worth calculated by subtracting liabilities from total assets.,0
+OwnOrRentFlag,AgID,Indicates whether the individual owns or rents their residence,A distinct identification code assigned to each record within the dataset facilitating unique reference and differentiation,0
+OwnOrRentFlag,LN,Indicates whether the individual owns or rents their residence,The family name associated with an individual typically indicating generational lineage.,0
+OwnOrRentFlag,FirNa,Indicates whether the individual owns or rents their residence,The initial forename assigned to an individual at birth or registration.,0
+OwnOrRentFlag,MiIni,Indicates whether the individual owns or rents their residence,The single-letter abbreviation representing the middle name or initial of an individual.,0
+OwnOrRentFlag,Gen,Indicates whether the individual owns or rents their residence,Denotes the biological or societal classification of an individual as male female or another gender category.,0
+OwnOrRentFlag,AddLi1,Indicates whether the individual owns or rents their residence,The principal residence or mailing address of an individual serving as the primary contact location.,0
+OwnOrRentFlag,AddrLi2,Indicates whether the individual owns or rents their residence,Additional details regarding the residence such as apartment number or suite if applicable.,0
+OwnOrRentFlag,PosCo,Indicates whether the individual owns or rents their residence,A series of letters numbers or both appended to a postal address to assist in sorting and delivering mail.,0
+OwnOrRentFlag,C,Indicates whether the individual owns or rents their residence,The urban or town area in which the individual resides.,0
+OwnOrRentFlag,Sta,Indicates whether the individual owns or rents their residence,The administrative region or territory within a country where the individual's residence is situated.,0
+OwnOrRentFlag,Cou,Indicates whether the individual owns or rents their residence,The sovereign nation in which the individual maintains their primary residence.,0
+OwnOrRentFlag,Ph,Indicates whether the individual owns or rents their residence,The designated telephone number through which the individual can be reached.,0
+OwnOrRentFlag,In,Indicates whether the individual owns or rents their residence,The total financial remuneration received by the individual typically on an annual basis.,0
+OwnOrRentFlag,NuCa,Indicates whether the individual owns or rents their residence,The quantity of automobiles owned by the individual.,0
+OwnOrRentFlag,NumChi,Indicates whether the individual owns or rents their residence,The total number of biological or adopted children associated with the individual.,0
+OwnOrRentFlag,MariSta,Indicates whether the individual owns or rents their residence,The current legal or social relationship status of the individual,0
+OwnOrRentFlag,A,Indicates whether the individual owns or rents their residence,The chronological age of the individual measured in years.,0
+OwnOrRentFlag,CrRat,Indicates whether the individual owns or rents their residence,A numerical representation of the individual's creditworthiness indicating their ability to manage financial obligations.,0
+OwnOrRentFlag,OwORF,Indicates whether the individual owns or rents their residence,A binary indicator specifying whether the individual owns or rents their primary residence.,1
+OwnOrRentFlag,Em,Indicates whether the individual owns or rents their residence,The organizational entity by which the individual is employed.,0
+OwnOrRentFlag,NumCreCar,Indicates whether the individual owns or rents their residence,The total count of credit cards associated with the individual.,0
+OwnOrRentFlag,NeWor,Indicates whether the individual owns or rents their residence,The financial value representing the individual's net worth calculated by subtracting liabilities from total assets.,0
+Employer,AgID,The name of the employer of the individual.,A distinct identification code assigned to each record within the dataset facilitating unique reference and differentiation,0
+Employer,LN,The name of the employer of the individual.,The family name associated with an individual typically indicating generational lineage.,0
+Employer,FirNa,The name of the employer of the individual.,The initial forename assigned to an individual at birth or registration.,0
+Employer,MiIni,The name of the employer of the individual.,The single-letter abbreviation representing the middle name or initial of an individual.,0
+Employer,Gen,The name of the employer of the individual.,Denotes the biological or societal classification of an individual as male female or another gender category.,0
+Employer,AddLi1,The name of the employer of the individual.,The principal residence or mailing address of an individual serving as the primary contact location.,0
+Employer,AddrLi2,The name of the employer of the individual.,Additional details regarding the residence such as apartment number or suite if applicable.,0
+Employer,PosCo,The name of the employer of the individual.,A series of letters numbers or both appended to a postal address to assist in sorting and delivering mail.,0
+Employer,C,The name of the employer of the individual.,The urban or town area in which the individual resides.,0
+Employer,Sta,The name of the employer of the individual.,The administrative region or territory within a country where the individual's residence is situated.,0
+Employer,Cou,The name of the employer of the individual.,The sovereign nation in which the individual maintains their primary residence.,0
+Employer,Ph,The name of the employer of the individual.,The designated telephone number through which the individual can be reached.,0
+Employer,In,The name of the employer of the individual.,The total financial remuneration received by the individual typically on an annual basis.,0
+Employer,NuCa,The name of the employer of the individual.,The quantity of automobiles owned by the individual.,0
+Employer,NumChi,The name of the employer of the individual.,The total number of biological or adopted children associated with the individual.,0
+Employer,MariSta,The name of the employer of the individual.,The current legal or social relationship status of the individual,0
+Employer,A,The name of the employer of the individual.,The chronological age of the individual measured in years.,0
+Employer,CrRat,The name of the employer of the individual.,A numerical representation of the individual's creditworthiness indicating their ability to manage financial obligations.,0
+Employer,OwORF,The name of the employer of the individual.,A binary indicator specifying whether the individual owns or rents their primary residence.,0
+Employer,Em,The name of the employer of the individual.,The organizational entity by which the individual is employed.,1
+Employer,NumCreCar,The name of the employer of the individual.,The total count of credit cards associated with the individual.,0
+Employer,NeWor,The name of the employer of the individual.,The financial value representing the individual's net worth calculated by subtracting liabilities from total assets.,0
+NumberCreditCards,AgID,The number of credit cards held by the individual.,A distinct identification code assigned to each record within the dataset facilitating unique reference and differentiation,0
+NumberCreditCards,LN,The number of credit cards held by the individual.,The family name associated with an individual typically indicating generational lineage.,0
+NumberCreditCards,FirNa,The number of credit cards held by the individual.,The initial forename assigned to an individual at birth or registration.,0
+NumberCreditCards,MiIni,The number of credit cards held by the individual.,The single-letter abbreviation representing the middle name or initial of an individual.,0
+NumberCreditCards,Gen,The number of credit cards held by the individual.,Denotes the biological or societal classification of an individual as male female or another gender category.,0
+NumberCreditCards,AddLi1,The number of credit cards held by the individual.,The principal residence or mailing address of an individual serving as the primary contact location.,0
+NumberCreditCards,AddrLi2,The number of credit cards held by the individual.,Additional details regarding the residence such as apartment number or suite if applicable.,0
+NumberCreditCards,PosCo,The number of credit cards held by the individual.,A series of letters numbers or both appended to a postal address to assist in sorting and delivering mail.,0
+NumberCreditCards,C,The number of credit cards held by the individual.,The urban or town area in which the individual resides.,0
+NumberCreditCards,Sta,The number of credit cards held by the individual.,The administrative region or territory within a country where the individual's residence is situated.,0
+NumberCreditCards,Cou,The number of credit cards held by the individual.,The sovereign nation in which the individual maintains their primary residence.,0
+NumberCreditCards,Ph,The number of credit cards held by the individual.,The designated telephone number through which the individual can be reached.,0
+NumberCreditCards,In,The number of credit cards held by the individual.,The total financial remuneration received by the individual typically on an annual basis.,0
+NumberCreditCards,NuCa,The number of credit cards held by the individual.,The quantity of automobiles owned by the individual.,0
+NumberCreditCards,NumChi,The number of credit cards held by the individual.,The total number of biological or adopted children associated with the individual.,0
+NumberCreditCards,MariSta,The number of credit cards held by the individual.,The current legal or social relationship status of the individual,0
+NumberCreditCards,A,The number of credit cards held by the individual.,The chronological age of the individual measured in years.,0
+NumberCreditCards,CrRat,The number of credit cards held by the individual.,A numerical representation of the individual's creditworthiness indicating their ability to manage financial obligations.,0
+NumberCreditCards,OwORF,The number of credit cards held by the individual.,A binary indicator specifying whether the individual owns or rents their primary residence.,0
+NumberCreditCards,Em,The number of credit cards held by the individual.,The organizational entity by which the individual is employed.,0
+NumberCreditCards,NumCreCar,The number of credit cards held by the individual.,The total count of credit cards associated with the individual.,1
+NumberCreditCards,NeWor,The number of credit cards held by the individual.,The financial value representing the individual's net worth calculated by subtracting liabilities from total assets.,0
+NetWorth,AgID,The net worth of the individual indicating their total assets minus liabilities.,A distinct identification code assigned to each record within the dataset facilitating unique reference and differentiation,0
+NetWorth,LN,The net worth of the individual indicating their total assets minus liabilities.,The family name associated with an individual typically indicating generational lineage.,0
+NetWorth,FirNa,The net worth of the individual indicating their total assets minus liabilities.,The initial forename assigned to an individual at birth or registration.,0
+NetWorth,MiIni,The net worth of the individual indicating their total assets minus liabilities.,The single-letter abbreviation representing the middle name or initial of an individual.,0
+NetWorth,Gen,The net worth of the individual indicating their total assets minus liabilities.,Denotes the biological or societal classification of an individual as male female or another gender category.,0
+NetWorth,AddLi1,The net worth of the individual indicating their total assets minus liabilities.,The principal residence or mailing address of an individual serving as the primary contact location.,0
+NetWorth,AddrLi2,The net worth of the individual indicating their total assets minus liabilities.,Additional details regarding the residence such as apartment number or suite if applicable.,0
+NetWorth,PosCo,The net worth of the individual indicating their total assets minus liabilities.,A series of letters numbers or both appended to a postal address to assist in sorting and delivering mail.,0
+NetWorth,C,The net worth of the individual indicating their total assets minus liabilities.,The urban or town area in which the individual resides.,0
+NetWorth,Sta,The net worth of the individual indicating their total assets minus liabilities.,The administrative region or territory within a country where the individual's residence is situated.,0
+NetWorth,Cou,The net worth of the individual indicating their total assets minus liabilities.,The sovereign nation in which the individual maintains their primary residence.,0
+NetWorth,Ph,The net worth of the individual indicating their total assets minus liabilities.,The designated telephone number through which the individual can be reached.,0
+NetWorth,In,The net worth of the individual indicating their total assets minus liabilities.,The total financial remuneration received by the individual typically on an annual basis.,0
+NetWorth,NuCa,The net worth of the individual indicating their total assets minus liabilities.,The quantity of automobiles owned by the individual.,0
+NetWorth,NumChi,The net worth of the individual indicating their total assets minus liabilities.,The total number of biological or adopted children associated with the individual.,0
+NetWorth,MariSta,The net worth of the individual indicating their total assets minus liabilities.,The current legal or social relationship status of the individual,0
+NetWorth,A,The net worth of the individual indicating their total assets minus liabilities.,The chronological age of the individual measured in years.,0
+NetWorth,CrRat,The net worth of the individual indicating their total assets minus liabilities.,A numerical representation of the individual's creditworthiness indicating their ability to manage financial obligations.,0
+NetWorth,OwORF,The net worth of the individual indicating their total assets minus liabilities.,A binary indicator specifying whether the individual owns or rents their primary residence.,0
+NetWorth,Em,The net worth of the individual indicating their total assets minus liabilities.,The organizational entity by which the individual is employed.,0
+NetWorth,NumCreCar,The net worth of the individual indicating their total assets minus liabilities.,The total count of credit cards associated with the individual.,0
+NetWorth,NeWor,The net worth of the individual indicating their total assets minus liabilities.,The financial value representing the individual's net worth calculated by subtracting liabilities from total assets.,1

@@ -1,0 +1,5 @@
+So wie es aussieht gibt es kein PreTrained SMAT Modell
+dieses müsste also erstmal mittels der neuen Datensätze Trainiert werden
+
+input vermutlich so wie der Existierende OMAP Datensatz im repo 
+für crossdomain usability kann man potentiell nur den evaluationsDatensatz austauschen
