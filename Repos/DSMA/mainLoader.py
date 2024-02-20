@@ -64,7 +64,7 @@ print(K.tensorflow_backend._get_available_gpus())
 
 E = conf.E
 dataset = conf.dataset
-x = "C:/Users/dominic/Desktop/Bachelor/ADnEV and SMAT PreProc/ADnEVMatchingTasksNotInTraining"
+x = "C:/Users/dominic/Desktop/Bachelor/ADnEV and SMAT PreProc/ADnEVMatchingTasksNotInTrainingSelectedMatcher"
 
 for subdir, dirs, files in os.walk(x):
     for file in files:
@@ -77,7 +77,7 @@ for subdir, dirs, files in os.walk(x):
         dh.build_eval(False)
         dh.build_feat_dataset()
         # print(dh.conf_dict)
-        kfold = KFold(5,False)
+        kfold = KFold(4,False)
         keys = np.array(list(dh.conf_dict.keys()))[:]
         # keys = np.array(random.sample(range(len(list(dh.conf_dict.keys()))), 100))
         res_adapt = pd.DataFrame(columns=['instance', 'type', 'k', 'old_p', 'old_r', 'old_f', 'new_p', 'new_r', 'new_f'])
@@ -99,7 +99,7 @@ for subdir, dirs, files in os.walk(x):
             K.clear_session()
             crnn_model_adapt = DH.data_loader("./models/11_11_2018_08_42/crnn_adapt_no_attention_model_fold_" + str(i))
             crnn_model_eval = DH.data_loader("./models/11_11_2018_08_42/crnn_eval_model_fold_" + str(i))
-            multi_model = DH.data_loader("./models/14_11_2023_Valentine_Data_Multi/multi_model_fold_" + str(i))
+            multi_model = DH.data_loader("./models/06_01_2024_23_34_selected_multi_model/multi_model_fold_" + str(i))
 
             ir = BA.build_ir()
             svd = BA.build_svdpp()
@@ -142,7 +142,7 @@ for subdir, dirs, files in os.walk(x):
 
                 # CRNN_CRNN
                 
-                #res_adapt_eval, count_adapt_eval = AnE.deep_adapt_and_evaluate(np.array(dh.inv_trans[epoch]),
+                #res_adapt_eval, count_adapt_eval = AnE.deep_adapt_and_evaluate(dataset,np.array(dh.inv_trans[epoch]),
                 #                                                               'CRNN_CRNN', crnn_model_adapt,
                 #                                                               False, crnn_model_eval, False, X_seq,
                 #                                                               X_mat, y_seq, y_single, res_adapt_eval,

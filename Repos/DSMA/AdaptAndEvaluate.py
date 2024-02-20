@@ -10,7 +10,7 @@ import csv
 import os
 
 
-def deep_adapt_and_evaluate(instance, _type, adaptor, is_adaptor_mat, evaluator, is_evaluator_mat, X_seq, X_mat, y,
+def deep_adapt_and_evaluate(dataset,instance, _type, adaptor, is_adaptor_mat, evaluator, is_evaluator_mat, X_seq, X_mat, y,
                             y_single,
                             res_adapt_eval, count_adapt_eval):
     if is_adaptor_mat:
@@ -60,6 +60,16 @@ def deep_adapt_and_evaluate(instance, _type, adaptor, is_adaptor_mat, evaluator,
         else:
             yhat_new = evaluator.predict(X_seq, verbose=2)
     print(yhat_full) #prints result matrix per matcher (in results file there are results per training step probably to be able to visualize progress)
+    folder = './resultsCRNN/'+ dataset
+    if not os.path.exists(folder):
+        os.makedirs(folder)
+    with open(folder+"/"+str(instance), 'w',newline='') as f:
+        w = csv.writer(f)
+        w.writerow(["instance","matches"])
+        for item in yhat_full:
+            for element in item:
+                w.writerow([instance,element])
+    
     return res_adapt_eval, count_adapt_eval
 
 
@@ -101,7 +111,7 @@ def deep_adapt_and_evaluate_multi(dataset,instance, _type, multi, X_seq, y, y_si
         k_adapt += 1
         yhat_new = predicted[1]
     #print(yhat_full)
-    folder = './results/'+ dataset
+    folder = './resultsSelectedMatcher/'+ dataset
     if not os.path.exists(folder):
         os.makedirs(folder)
     with open(folder+"/"+str(instance), 'w',newline='') as f:
